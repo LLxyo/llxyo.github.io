@@ -2,21 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on LLxyo-Blog</title>
-    <link>https://llxyo.github.io/blog/post/</link>
+    <link>https://llxyo.github.io/post/</link>
     <description>Recent content in Posts on LLxyo-Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 11 Mar 2020 16:35:04 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2020 01:57:30 +0900</lastBuildDate>
     
-	<atom:link href="https://llxyo.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://llxyo.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>HelloWorld</title>
+      <link>https://llxyo.github.io/helloworld/</link>
+      <pubDate>Thu, 12 Mar 2020 01:57:30 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/helloworld/</guid>
+      <description>Hugo + githubpagesでこのBlogを作った
+実は5日くらい前からこれを作ろうとして途中でよくわからなくなって諦めて、またチャレンジして&amp;hellip;を3回くらいやってやっと成功した
+正直何が悪かったかあまり分かってない（）</description>
+    </item>
+    
+    <item>
       <title>Test</title>
-      <link>https://llxyo.github.io/blog/test/</link>
+      <link>https://llxyo.github.io/test/</link>
       <pubDate>Wed, 11 Mar 2020 16:35:04 +0900</pubDate>
       
-      <guid>https://llxyo.github.io/blog/test/</guid>
+      <guid>https://llxyo.github.io/test/</guid>
       <description></description>
     </item>
     
