@@ -12,23 +12,23 @@
     
     
     <item>
-      <title>HelloWorld</title>
-      <link>https://llxyo.github.io/helloworld/</link>
-      <pubDate>Thu, 12 Mar 2020 01:57:30 +0900</pubDate>
+      <title>Tsts</title>
+      <link>https://llxyo.github.io/post/tsts/</link>
+      <pubDate>Thu, 12 Mar 2020 02:27:06 +0900</pubDate>
       
-      <guid>https://llxyo.github.io/helloworld/</guid>
-      <description>Hugo + githubpagesでこのBlogを作った
-実は5日くらい前からこれを作ろうとして途中でよくわからなくなって諦めて、またチャレンジして&amp;hellip;を3回くらいやってやっと成功した
-正直何が悪かったかあまり分かってない（）</description>
+      <guid>https://llxyo.github.io/post/tsts/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Test</title>
-      <link>https://llxyo.github.io/test/</link>
-      <pubDate>Wed, 11 Mar 2020 16:35:04 +0900</pubDate>
+      <title>HelloWorld</title>
+      <link>https://llxyo.github.io/post/helloworld/</link>
+      <pubDate>Thu, 12 Mar 2020 01:57:30 +0900</pubDate>
       
-      <guid>https://llxyo.github.io/test/</guid>
-      <description></description>
+      <guid>https://llxyo.github.io/post/helloworld/</guid>
+      <description>Hugo + githubpagesでこのBlogを作った
+実は5日くらい前からこれを作ろうとして途中でよくわからなくなって諦めて、またチャレンジして&amp;hellip;を3回くらいやってやっと成功した
+正直何が悪かったかあまり分かってない（）</description>
     </item>
     
   </channel>
