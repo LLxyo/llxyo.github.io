@@ -2,22 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on LLxyo-Blog</title>
-    <link>https://llxyo.github.io/blog/</link>
+    <link>https://llxyo.github.io/</link>
     <description>Recent content in Home on LLxyo-Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Mon, 26 Jun 2017 18:27:58 +0100</lastBuildDate>
     
-	<atom:link href="https://llxyo.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://llxyo.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Test</title>
-      <link>https://llxyo.github.io/blog/test/</link>
-      <pubDate>Wed, 11 Mar 2020 16:35:04 +0900</pubDate>
+      <title>劇場版SHIROBAKO感想</title>
+      <link>https://llxyo.github.io/post/%E5%8A%87%E5%A0%B4%E7%89%88shirobako/</link>
+      <pubDate>Thu, 12 Mar 2020 14:28:16 +0900</pubDate>
       
-      <guid>https://llxyo.github.io/blog/test/</guid>
-      <description></description>
+      <guid>https://llxyo.github.io/post/%E5%8A%87%E5%A0%B4%E7%89%88shirobako/</guid>
+      <description>まず作品内で４年を経て各キャラクターの成長を感じられたのはただ数字上４年経っただけでないということを示していてよかった。また他方で満足いく成長を遂げられず行き詰まっているキャラクターや逆に凋落してしまったキャラクターや武蔵野アニメーションはリアリティあるものでそこもまたよいものであった。成長という面では安藤つばきがしっかり度合いにおいて一番成長をしたように感じられた。
+空中強襲揚陸艦SIVAのラストのヘドウィグたちが仲間のために犠牲になって敵兵に群がられる描写は敗北エンドでありつつも彼らの覚悟が活きたもので、劇中でも言及されていた通り（厳密には納得いかない段階のエンドについての肯定的な感想ではあるが）敗北ではあるがどこかすっきりいき満足できるSIVAのエンドであった。
+SIVAが俺たちの戦いはこれからだエンドで終わらせてその後の武蔵野アニメーションも第三少女飛行隊続編制作決定というSHIROBAKOの世界観にとっての最高の俺たちの戦いはこれからだエンド（おれたたエンド）であった。
+ただ、TV放送では可能だった１話毎に１人のキャラクターに焦点を当てて挫折から再起の流れを描くことが難しく、劇場版では制作陣皆が単一の問題にぶつかった時にそれぞれが個々に自分の課題を乗り越えて全員で課題を乗り越えてやったー！という描写でそういえばお前も挫折あったな..と感じざるを得ない部分はあった。
+また、宮森あおいが夜道を歩いている場面から急に歌い、踊りだすシーンには突拍子のなさを否めなかった。その後の杉江さんのアニメ教室での同様のシーンは制作したアニメの没入への入りが自然でよかったが、後のSIVAの以前の制作会社へ殴り込みに行く場面で時代劇風のシーンも殴り込みのイメージとしてはよかったのだが現実に帰った後も宮森たちが着物姿でいたのはやはり違和感ある印象を感じざるを得なかった。
+総評としてはシナリオ的に解せない部分はあったものの、最後まで危機が幾度となく立ちはだかり武蔵野アニメーションはSIVAを納得いき、かつちゃんと完成したものにできるのかとハラハラしながら楽しめた。
+ちなみに、一番好きだったシーンは小笠原さんがジャージでジョギングしていた所を宮森に見られて恥ずかしがる普段のゴスロリ姿とのギャップを感じさせるシーンです。</description>
     </item>
     
   </channel>

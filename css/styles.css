@@ -490,6 +490,12 @@ caption {
     font-size: 0.85rem;
 }
 
+/*share button*/
+.share {
+    margin-top: 0;
+    font-size: 0.85rem;
+}
+
 /* Notes and warnings */
 .note {
     border-left: 0.5rem solid;
