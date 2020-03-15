@@ -1,7 +1,7 @@
 /* Fonts */
 @font-face {
     font-family: 'Miriam Libre';
-    src: url('https://llxyo.github.io/blog/css/fonts/miriamlibre-bold.woff2') format('woff2'), url('https://llxyo.github.io/blog/css/fonts/miriamlibre-bold.woff') format('woff');
+    src: url('https://llxyo.github.io/css/fonts/miriamlibre-bold.woff2') format('woff2'), url('https://llxyo.github.io/css/fonts/miriamlibre-bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
 }
@@ -317,7 +317,7 @@ caption {
 }
 .intro-and-nav {
     font-size: 0.8rem;
-    width: 15rem;
+    width: 15.35rem;
     height: 100vh;
     position: fixed;
     top: 0;
@@ -332,7 +332,7 @@ caption {
 }
 .intro {
   flex: 0 0 auto;
-  width: 11.4rem;
+  width: 10.74rem;
 }
 .patterns {
   flex: 1 1 auto;
@@ -345,6 +345,7 @@ caption {
     max-width: 12rem;
 }
 .library-desc {
+    width: 10rem;
     margin-top: 0.5rem;
     margin-left: auto;
     margin-right: auto;
@@ -395,6 +396,7 @@ caption {
     align-items: baseline;
     font-weight: bold;
     padding: 0 1rem;
+    width: 10rem;
 }
 .pattern a:focus {
     outline: none;
@@ -516,7 +518,7 @@ caption {
 }
 .note.warning {
     border-left: 0;
-    background-image: url(https://llxyo.github.io/blog/css/images/stripe.svg);
+    background-image: url(https://llxyo.github.io/css/images/stripe.svg);
     background-size: 0.5rem auto;
     background-repeat: repeat-y;
 }
@@ -535,7 +537,7 @@ caption {
     width: 1rem;
     height: 1rem;
     margin-right: 0.25rem;
-    background-image: url(https://llxyo.github.io/blog/css/images/icon-tick.svg);
+    background-image: url(https://llxyo.github.io/css/images/icon-tick.svg);
     background-size: 100% auto;
     position: absolute;
     left: -1.25rem;
