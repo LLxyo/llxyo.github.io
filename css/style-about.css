@@ -7,10 +7,9 @@
   margin-left: 7%;
 }
 .biotitle{
-  font-size: 2.3vmax;
+  text-align: center;
 }
 .biotext{/*bio本文*/
-  font-size: 2.3vmax;
   margin-bottom: 5%;}
 .xx{
   margin-top: 0;
@@ -24,7 +23,6 @@
   text-align: center;
 }
 .anime,.reading{
-   font-size: 2.3vmax;
    padding-bottom: 50px;
  }
 
@@ -36,6 +34,7 @@
   padding-top: 35px;
   padding-bottom: 35px;
   text-align: center;
+  text-decoration: none;
  }
  .icon{
    padding-left: 25px;
@@ -71,17 +70,4 @@
 
   .icon-hatenablog:before {
     content: "\e915";
-  }
-  /*
-  @media only screen and (max-width: 480px) {
-    .contents {
-      background-color: #444b5d;
-      margin-top: 35px;
-      padding-top: 30px;
-      margin-bottom: 30px;
-      margin-left: 50px;
-      padding-left: 30px; 
-      margin-right: 50px;
-      padding-right: 15px;
-    }
   }
