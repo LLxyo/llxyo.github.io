@@ -1,0 +1,111 @@
+body {
+background-image: url("");
+background-color: #2c2d33;
+}
+
+.contents{
+background-color: rgba(255, 255, 255, 0.9);
+background-image: url("StarandCrescent/1200px-Star_and_Crescent_rotated.svg.png");
+background-repeat: no-repeat;
+background-position: center;
+background-size: 40%;
+margin-top: 35px;
+margin-bottom: 30px;
+margin-left: 8%;
+margin-right: 8%;
+  }
+.text{
+padding-top: 30px;
+padding-left: 3%; 
+padding-right: 3%;
+}
+
+/*Profil*/
+.clear{
+  clear: both;
+}
+.bio{
+  margin-top: 5%;
+  margin-left: 7%;
+  color: rgba(0, 0, 0, 0.8);
+}
+.biotitle{
+  font-size: 2.3vmax;
+  color: rgba(0, 0, 0, 0.8);
+}
+.biotext{/*bio本文*/
+  font-size: 2.3vmax;
+  margin-bottom: 5%;
+  color: rgba(0, 0, 0, 0.8);}
+.xx{
+  margin-top: 0;
+}
+.im{
+  margin-top: 10px;
+}
+
+.account2{
+  width: 80%;
+}
+.anime,.reading{
+   font-size: 2.3vmax;
+   padding-bottom: 50px;
+ }
+
+/*均等に配置させる*/
+.icons{
+  float: left;
+  width: 100%;
+  justify-content: space-around;
+  padding-top: 35px;
+  padding-bottom: 35px;
+  text-align: center;
+ }
+ .icon{
+   padding-left: 25px;
+   padding-right: 25px;
+ }
+
+  /*アイコンフォント*/
+  @font-face {
+    font-family: 'LLxyo';
+    src:  url('css/fonts/LLxyo.eot?slzfdx');
+    src:  url('css/fonts/LLxyo.eot?slzfdx#iefix') format('embedded-opentype'),
+      url('css/fonts/LLxyo.ttf?slzfdx') format('truetype'),
+      url('css/fonts/LLxyo.woff?slzfdx') format('woff'),
+      url('css/fonts/LLxyo.svg?slzfdx#LLxyo') format('svg');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  [class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'LLxyo' !important;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    font-size:70px;
+  
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  .icon-hatenablog:before {
+    content: "\e915";
+  }
+  /*
+  @media only screen and (max-width: 480px) {
+    .contents {
+      background-color: #444b5d;
+      margin-top: 35px;
+      padding-top: 30px;
+      margin-bottom: 30px;
+      margin-left: 50px;
+      padding-left: 30px; 
+      margin-right: 50px;
+      padding-right: 15px;
+    }
+  }
