@@ -2,9 +2,6 @@
 .clear{
   clear: both;
 }
-.biotitle{
-  
-}
 .biotext{/*bio本文*/
   margin-bottom: 5%;}
 .xx{
@@ -13,27 +10,20 @@
 .im{
   margin-top: 10px;
 }
-a{border-bottom: 0px;}
-.account2{
-  width: 80%;
-  
-}
-.anime,.reading{
-   padding-bottom: 50px;
- }
+a{border-bottom: 0px;  text-decoration: none;}
 
 /*均等に配置させる*/
 .icons{
   float: left;
   width: 100%;
   justify-content: space-around;
-  padding-top: 35px;
+  margin-top: 0px;
   padding-bottom: 35px;
-  text-decoration: none;
  }
  .icon{
    padding-left: 25px;
    padding-right: 25px;
+   text-decoration: none;
  }
 
   /*アイコンフォント*/
