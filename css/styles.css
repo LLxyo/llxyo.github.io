@@ -317,7 +317,7 @@ caption {
 }
 .intro-and-nav {
     font-size: 0.8rem;
-    width: 15.35rem;
+    width: 15rem;
     height: 100vh;
     position: fixed;
     top: 0;
@@ -332,7 +332,7 @@ caption {
 }
 .intro {
   flex: 0 0 auto;
-  width: 10.74rem;
+  width: 11.4rem;
 }
 .patterns {
   flex: 1 1 auto;
@@ -345,7 +345,6 @@ caption {
     max-width: 12rem;
 }
 .library-desc {
-    width: 10rem;
     margin-top: 0.5rem;
     margin-left: auto;
     margin-right: auto;
@@ -396,7 +395,6 @@ caption {
     align-items: baseline;
     font-weight: bold;
     padding: 0 1rem;
-    width: 10rem;
 }
 .pattern a:focus {
     outline: none;
@@ -518,7 +516,7 @@ caption {
 }
 .note.warning {
     border-left: 0;
-    background-image: url(https://llxyo.github.io/css/images/stripe.svg);
+    background-image: url(https://llxyo.github.io/blog/css/images/stripe.svg);
     background-size: 0.5rem auto;
     background-repeat: repeat-y;
 }
@@ -537,7 +535,7 @@ caption {
     width: 1rem;
     height: 1rem;
     margin-right: 0.25rem;
-    background-image: url(https://llxyo.github.io/css/images/icon-tick.svg);
+    background-image: url(https://llxyo.github.io/blog/css/images/icon-tick.svg);
     background-size: 100% auto;
     position: absolute;
     left: -1.25rem;
