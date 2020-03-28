@@ -396,7 +396,7 @@ caption {
     align-items: baseline;
     font-weight: bold;
     padding: 0 1rem;
-    width: 100%;
+    width: 10rem;
 }
 .pattern a:focus {
     outline: none;
