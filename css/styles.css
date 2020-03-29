@@ -168,7 +168,8 @@ code {
     font-weight: bold;
     padding-right: 0.25em;
 }
-
+/*404*/
+.pagenotfound{text-align: center;}
 /* Lists */
 main ul,
 main ol {
