@@ -6,10 +6,28 @@
     <description>Recent content in Tags on LLxyo-Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 14 Apr 2020 17:00:05 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2020 01:12:45 +0900</lastBuildDate>
     
 	<atom:link href="https://llxyo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>anime</title>
+      <link>https://llxyo.github.io/tags/anime/</link>
+      <pubDate>Wed, 29 Apr 2020 01:12:45 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/tags/anime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>クオリディアコード</title>
+      <link>https://llxyo.github.io/tags/%E3%82%AF%E3%82%AA%E3%83%AA%E3%83%87%E3%82%A3%E3%82%A2%E3%82%B3%E3%83%BC%E3%83%89/</link>
+      <pubDate>Wed, 29 Apr 2020 01:12:45 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/tags/%E3%82%AF%E3%82%AA%E3%83%AA%E3%83%87%E3%82%A3%E3%82%A2%E3%82%B3%E3%83%BC%E3%83%89/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>comic</title>
@@ -26,15 +44,6 @@
       <pubDate>Tue, 14 Apr 2020 17:00:05 +0900</pubDate>
       
       <guid>https://llxyo.github.io/tags/%E7%86%B1%E5%B8%AF%E9%AD%9A%E3%81%AF%E9%9B%AA%E3%81%AB%E7%84%A6%E3%81%8C%E3%82%8C%E3%82%8B/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>anime</title>
-      <link>https://llxyo.github.io/tags/anime/</link>
-      <pubDate>Thu, 09 Apr 2020 17:22:35 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/tags/anime/</guid>
       <description></description>
     </item>
     
