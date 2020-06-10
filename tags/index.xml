@@ -6,7 +6,7 @@
     <description>Recent content in Tags on LLxyo-Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 13 May 2020 19:42:54 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2020 09:19:44 +0900</lastBuildDate>
     
 	<atom:link href="https://llxyo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,27 @@
     <item>
       <title>anime</title>
       <link>https://llxyo.github.io/tags/anime/</link>
-      <pubDate>Wed, 13 May 2020 19:42:54 +0900</pubDate>
+      <pubDate>Thu, 04 Jun 2020 09:19:44 +0900</pubDate>
       
       <guid>https://llxyo.github.io/tags/anime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>movie</title>
+      <link>https://llxyo.github.io/tags/movie/</link>
+      <pubDate>Thu, 04 Jun 2020 09:19:44 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/tags/movie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ヴァイオレット・エヴァーガーデン</title>
+      <link>https://llxyo.github.io/tags/%E3%83%B4%E3%82%A1%E3%82%A4%E3%82%AA%E3%83%AC%E3%83%83%E3%83%88%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3/</link>
+      <pubDate>Thu, 04 Jun 2020 09:19:44 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/tags/%E3%83%B4%E3%82%A1%E3%82%A4%E3%82%AA%E3%83%AC%E3%83%83%E3%83%88%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3/</guid>
       <description></description>
     </item>
     
@@ -152,15 +170,6 @@
       <pubDate>Sun, 15 Mar 2020 10:54:09 +0900</pubDate>
       
       <guid>https://llxyo.github.io/tags/%E3%82%A2%E3%82%B5%E3%82%B7%E3%83%B3%E3%82%BA%E3%83%97%E3%83%A9%E3%82%A4%E3%83%89/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>movie</title>
-      <link>https://llxyo.github.io/tags/movie/</link>
-      <pubDate>Thu, 12 Mar 2020 14:28:16 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/tags/movie/</guid>
       <description></description>
     </item>
     
