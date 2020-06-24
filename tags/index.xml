@@ -6,10 +6,28 @@
     <description>Recent content in Tags on LLxyo-Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 04 Jun 2020 09:19:44 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2020 22:30:42 +0900</lastBuildDate>
     
 	<atom:link href="https://llxyo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>movie</title>
+      <link>https://llxyo.github.io/tags/movie/</link>
+      <pubDate>Sat, 20 Jun 2020 22:30:42 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/tags/movie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>天気の子</title>
+      <link>https://llxyo.github.io/tags/%E5%A4%A9%E6%B0%97%E3%81%AE%E5%AD%90/</link>
+      <pubDate>Sat, 20 Jun 2020 22:30:42 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/tags/%E5%A4%A9%E6%B0%97%E3%81%AE%E5%AD%90/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>anime</title>
@@ -17,15 +35,6 @@
       <pubDate>Thu, 04 Jun 2020 09:19:44 +0900</pubDate>
       
       <guid>https://llxyo.github.io/tags/anime/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>movie</title>
-      <link>https://llxyo.github.io/tags/movie/</link>
-      <pubDate>Thu, 04 Jun 2020 09:19:44 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/tags/movie/</guid>
       <description></description>
     </item>
     
