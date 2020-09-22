@@ -198,7 +198,10 @@ dd ul {
 dd li + li {
   margin: 0;
 }
-
+.related{
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+    }
 /* Blockquotes */
 blockquote {
   border-left: 0.5rem solid;
