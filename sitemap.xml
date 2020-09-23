@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://llxyo.github.io/tags/anime/</loc>
+    <loc>https://llxyo.github.io/categories/anime/</loc>
     <lastmod>2020-09-20T02:11:28+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://llxyo.github.io/tags/movie/</loc>
+    <loc>https://llxyo.github.io/categories/</loc>
+    <lastmod>2020-09-20T02:11:28+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://llxyo.github.io/categories/movie/</loc>
     <lastmod>2020-09-20T02:11:28+09:00</lastmod>
   </url>
   
@@ -48,7 +53,7 @@
   </url>
   
   <url>
-    <loc>https://llxyo.github.io/tags/comics/</loc>
+    <loc>https://llxyo.github.io/categories/comics/</loc>
     <lastmod>2020-09-14T20:05:53+09:00</lastmod>
   </url>
   
@@ -193,7 +198,7 @@
   </url>
   
   <url>
-    <loc>https://llxyo.github.io/tags/novel/</loc>
+    <loc>https://llxyo.github.io/categories/novel/</loc>
     <lastmod>2020-05-04T16:58:06+09:00</lastmod>
   </url>
   

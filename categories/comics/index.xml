@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>comic on LLxyo-Blog</title>
-    <link>https://llxyo.github.io/tags/comic/</link>
-    <description>Recent content in comic on LLxyo-Blog</description>
+    <title>comics on LLxyo-Blog</title>
+    <link>https://llxyo.github.io/categories/comics/</link>
+    <description>Recent content in comics on LLxyo-Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Mon, 14 Sep 2020 20:05:53 +0900</lastBuildDate>
     
-	<atom:link href="https://llxyo.github.io/tags/comic/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://llxyo.github.io/categories/comics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
