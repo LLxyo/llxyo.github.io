@@ -6,10 +6,19 @@
     <description>Recent content in Categories on LLxyo-Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 20 Sep 2020 02:11:28 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2020 20:17:44 +0900</lastBuildDate>
     
 	<atom:link href="https://llxyo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>comics</title>
+      <link>https://llxyo.github.io/categories/comics/</link>
+      <pubDate>Mon, 28 Sep 2020 20:17:44 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/categories/comics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>anime</title>
@@ -26,15 +35,6 @@
       <pubDate>Sun, 20 Sep 2020 02:11:28 +0900</pubDate>
       
       <guid>https://llxyo.github.io/categories/movie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>comics</title>
-      <link>https://llxyo.github.io/categories/comics/</link>
-      <pubDate>Mon, 14 Sep 2020 20:05:53 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/categories/comics/</guid>
       <description></description>
     </item>
     
