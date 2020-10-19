@@ -3,22 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://llxyo.github.io/categories/</loc>
-    <lastmod>2020-09-28T20:17:44+09:00</lastmod>
+    <loc>https://llxyo.github.io/categories/anime/</loc>
+    <lastmod>2020-10-19T17:49:07+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://llxyo.github.io/categories/comics/</loc>
-    <lastmod>2020-09-28T20:17:44+09:00</lastmod>
+    <loc>https://llxyo.github.io/categories/</loc>
+    <lastmod>2020-10-19T17:49:07+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://llxyo.github.io/categories/movie/</loc>
+    <lastmod>2020-10-19T17:49:07+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://llxyo.github.io/post/</loc>
-    <lastmod>2020-09-28T20:17:44+09:00</lastmod>
+    <lastmod>2020-10-19T17:49:07+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://llxyo.github.io/tags/</loc>
+    <lastmod>2020-10-19T17:49:07+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://llxyo.github.io/tags/%E3%83%80%E3%83%BC%E3%82%AF%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC/</loc>
+    <lastmod>2020-10-19T17:49:07+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://llxyo.github.io/post/kimetsunoyaiba/</loc>
+    <lastmod>2020-10-19T17:49:07+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://llxyo.github.io/tags/%E9%AC%BC%E6%BB%85%E3%81%AE%E5%88%83/</loc>
+    <lastmod>2020-10-19T17:49:07+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://llxyo.github.io/categories/comics/</loc>
     <lastmod>2020-09-28T20:17:44+09:00</lastmod>
   </url>
   
@@ -45,16 +70,6 @@
   <url>
     <loc>https://llxyo.github.io/tags/%E9%9D%92%E6%98%A5/</loc>
     <lastmod>2020-09-28T20:17:44+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://llxyo.github.io/categories/anime/</loc>
-    <lastmod>2020-09-20T02:11:28+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://llxyo.github.io/categories/movie/</loc>
-    <lastmod>2020-09-20T02:11:28+09:00</lastmod>
   </url>
   
   <url>
@@ -114,11 +129,6 @@
   
   <url>
     <loc>https://llxyo.github.io/tags/ufotable/</loc>
-    <lastmod>2020-08-26T16:33:32+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://llxyo.github.io/tags/%E3%83%80%E3%83%BC%E3%82%AF%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC/</loc>
     <lastmod>2020-08-26T16:33:32+09:00</lastmod>
   </url>
   
