@@ -1,7 +1,6 @@
 # Notes for me  
- cssはblog/statics/css/styles.css  
+ cssはassetes/css/template-styles.cssがpublic/css/styles.cssとして出力される 
  public以下に反映されないこともあってよくわからんないがその場合はhtmlタグ内にstyle="xx: xx;"で対応  
- Updateしたら$hugoでpublicdirectoryもUpdateさせる  
  fontはcss/fonts/..
  
  ## Farsinized
