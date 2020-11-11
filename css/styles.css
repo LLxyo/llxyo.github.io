@@ -471,13 +471,17 @@ caption {
 .patterns-list li + li {
     margin-top: 1rem;
     padding-top: 1rem;
-    border-top: 2px solid;
+    border-top: 0px solid; /*タグの各項目の上線、邪魔なので消してある*/
 }
 .patterns-list a {
     border: 0;
 }
 
 /* Tags */
+.tag-inline{
+    display: inline-block;
+    margin-right: 1rem;
+}
 .tags {
     margin-top: 0;
     font-size: 0.85rem;
