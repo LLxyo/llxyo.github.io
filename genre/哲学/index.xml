@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>哲学 on LLxyo&#39;s Daydreams</title>
+    <link>https://llxyo.github.io/genre/%E5%93%B2%E5%AD%A6/</link>
+    <description>Recent content in 哲学 on LLxyo&#39;s Daydreams</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 29 Apr 2020 01:12:45 +0900</lastBuildDate>
+    
+	<atom:link href="https://llxyo.github.io/genre/%E5%93%B2%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>クオリディアコードと世界の意味</title>
+      <link>https://llxyo.github.io/post/%E3%82%AF%E3%82%AA%E3%83%AA%E3%83%87%E3%82%A3%E3%82%A2%E3%82%B3%E3%83%BC%E3%83%89%E6%84%9F%E6%83%B3/</link>
+      <pubDate>Wed, 29 Apr 2020 01:12:45 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/post/%E3%82%AF%E3%82%AA%E3%83%AA%E3%83%87%E3%82%A3%E3%82%A2%E3%82%B3%E3%83%BC%E3%83%89%E6%84%9F%E6%83%B3/</guid>
+      <description>クオリディアコードとは、2016年夏クールにオンエアされたアニメであり放送から4年も経っていることに個人的には驚くのだが</description>
+    </item>
+    
+  </channel>
+</rss>

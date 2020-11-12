@@ -47,8 +47,8 @@ p + p {
   margin-top: 0;
 }
 a {
-    text-decoration: none;
-    border-bottom: 1px solid;
+    text-decoration: none;/*アカウントなどのリンクに必要なので残す*/
+    border-bottom: 1px solid;/*別の場所で邪魔な場合はhtmlタグやclassを指定して消す*/
 }
 abbr {
     text-decoration: none;
@@ -460,6 +460,15 @@ caption {
     list-style: none;
     margin-left: 0;
 }
+.patterns-list-taxes {/*taxnomiesのレイアウト*/
+    column-count:1;/*2で縦列を2行化できる*/
+    list-style: none;
+    margin-left: 0;
+    border-bottom: 3px solid;
+}
+.patterns-list-taxes a{/*taxnomiesのレイアウト、リンクの下線を消す*/
+    border-bottom: 0px;
+}
 .indent{
     padding-left: 3em;
     text-indent: -3.5em;
@@ -468,7 +477,31 @@ caption {
     font-size: 1.25rem;
     line-height: 1.6;
 }
+/*デフォルトは、最初のliには線が引かれない
 .patterns-list li + li {
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 3px solid;
+}*/
+.patterns-list li {/*categories、縦並び、下の記事用と同じ*/
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-bottom: 3px solid;
+}
+.patterns-list li.article {/*記事用、横には並べないが全てに下線*/
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-bottom: 3px solid;
+    border-top: 0px;
+}
+.patterns-list li.tag-inline {/*横並びinline-block用、全てに線を下線として引く*/
+    margin-top: 1rem;
+    padding-top: 0rem;
+    border-top: 0px;
+    margin-top: 0px;
+    border-bottom: 3px solid;
+}
+.patterns-list-customterm li + li {
     margin-top: 1rem;
     padding-top: 1rem;
     border-top: 0px solid; /*タグの各項目の上線、邪魔なので消してある*/
@@ -815,8 +848,8 @@ h1 svg {
 
 /* Inline demos */
 .demo-inner {
-  border-top: 1px solid;
-  border-bottom: 1px solid;
+  -top: 1px solid;
+  -bottom: 1px solid;
   padding: 1.5rem 0;
   position: relative;
 }
@@ -836,7 +869,7 @@ h1 svg {
     top: 0;
     line-height: 1;
     left: -1em;
-    border: 0;
+    border-bottom: 0;
 }
 
 /* Single page layout */
@@ -845,7 +878,7 @@ h1 svg {
 }
 .wrapper.print-version .intro-and-nav {
     position: static;
-    border: 0;
+    : 0;
     width: auto;
     text-align: center;
     display: flex;
@@ -880,7 +913,7 @@ h1 svg {
 }
 .pattern-section:not(:last-child) {
     padding-bottom: 2.25rem;
-    border-bottom: 2px solid;
+    -bottom: 2px solid;
 }
 .pattern-section h1 {
     padding: 0 !important;
@@ -925,7 +958,7 @@ h1 svg {
         text-align: center;
     }
     .intro-and-nav {
-        border-right: none;
+        -right: none;
     }
     .intro-and-nav > div {
         padding: 1.5rem;
