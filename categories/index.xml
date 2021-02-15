@@ -6,7 +6,7 @@
     <description>Recent content in Categories on LLxyo&#39;s Daydreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 11 Feb 2021 08:39:50 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 15 Feb 2021 17:35:18 +0900</lastBuildDate>
     
 	<atom:link href="https://llxyo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>anime</title>
       <link>https://llxyo.github.io/categories/anime/</link>
-      <pubDate>Thu, 11 Feb 2021 08:39:50 +0900</pubDate>
+      <pubDate>Mon, 15 Feb 2021 17:35:18 +0900</pubDate>
       
       <guid>https://llxyo.github.io/categories/anime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>movie</title>
+      <link>https://llxyo.github.io/categories/movie/</link>
+      <pubDate>Mon, 15 Feb 2021 17:35:18 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/categories/movie/</guid>
       <description></description>
     </item>
     
@@ -26,15 +35,6 @@
       <pubDate>Thu, 24 Dec 2020 00:45:41 +0900</pubDate>
       
       <guid>https://llxyo.github.io/categories/advent-calendar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>movie</title>
-      <link>https://llxyo.github.io/categories/movie/</link>
-      <pubDate>Thu, 24 Dec 2020 00:45:41 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/categories/movie/</guid>
       <description></description>
     </item>
     
