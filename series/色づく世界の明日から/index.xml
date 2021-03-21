@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>P.A.WORKS on LLxyo&#39;s Daydreams</title>
-    <link>https://llxyo.github.io/brand/p.a.works/</link>
-    <description>Recent content in P.A.WORKS on LLxyo&#39;s Daydreams</description>
+    <title>色づく世界の明日から on LLxyo&#39;s Daydreams</title>
+    <link>https://llxyo.github.io/series/%E8%89%B2%E3%81%A5%E3%81%8F%E4%B8%96%E7%95%8C%E3%81%AE%E6%98%8E%E6%97%A5%E3%81%8B%E3%82%89/</link>
+    <description>Recent content in 色づく世界の明日から on LLxyo&#39;s Daydreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Mon, 22 Mar 2021 01:03:29 +0900</lastBuildDate>
     
-	<atom:link href="https://llxyo.github.io/brand/p.a.works/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://llxyo.github.io/series/%E8%89%B2%E3%81%A5%E3%81%8F%E4%B8%96%E7%95%8C%E3%81%AE%E6%98%8E%E6%97%A5%E3%81%8B%E3%82%89/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://llxyo.github.io/post/so_many_colors_in_the_future_what_a_wonderful_world/</guid>
       <description>色鮮やかで現実が嫉妬する程に美しく描かれた世界に、見ていてどこか羨ましさすら込み上げてくる感覚すらあった。 そして、その世</description>
-    </item>
-    
-    <item>
-      <title>劇場版SHIROBAKO感想</title>
-      <link>https://llxyo.github.io/post/%E5%8A%87%E5%A0%B4%E7%89%88shirobako%E6%84%9F%E6%83%B3/</link>
-      <pubDate>Thu, 12 Mar 2020 14:28:16 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/post/%E5%8A%87%E5%A0%B4%E7%89%88shirobako%E6%84%9F%E6%83%B3/</guid>
-      <description>まず作品内で４年を経て各キャラクターの成長を感じられたのはただ数字上４年経っただけでないということを示していてよかった。</description>
     </item>
     
   </channel>
