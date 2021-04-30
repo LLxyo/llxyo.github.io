@@ -6,7 +6,7 @@
     <description>Recent content in Categories on LLxyo&#39;s Daydreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 29 Apr 2021 10:27:03 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 30 Apr 2021 04:52:23 +0900</lastBuildDate>
     
 	<atom:link href="https://llxyo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>anime</title>
       <link>https://llxyo.github.io/categories/anime/</link>
-      <pubDate>Thu, 29 Apr 2021 10:27:03 +0900</pubDate>
+      <pubDate>Fri, 30 Apr 2021 04:52:23 +0900</pubDate>
       
       <guid>https://llxyo.github.io/categories/anime/</guid>
       <description></description>
@@ -23,9 +23,18 @@
     <item>
       <title>movie</title>
       <link>https://llxyo.github.io/categories/movie/</link>
-      <pubDate>Thu, 29 Apr 2021 10:27:03 +0900</pubDate>
+      <pubDate>Fri, 30 Apr 2021 04:52:23 +0900</pubDate>
       
       <guid>https://llxyo.github.io/categories/movie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>documentary</title>
+      <link>https://llxyo.github.io/categories/documentary/</link>
+      <pubDate>Thu, 29 Apr 2021 17:02:01 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/categories/documentary/</guid>
       <description></description>
     </item>
     
