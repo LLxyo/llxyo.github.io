@@ -6,33 +6,15 @@
     <description>Recent content in Genre on LLxyo&#39;s Daydreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 03 Jul 2021 10:36:55 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jul 2021 18:36:05 +0900</lastBuildDate>
     
 	<atom:link href="https://llxyo.github.io/genre/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>出会いと別れ</title>
-      <link>https://llxyo.github.io/genre/%E5%87%BA%E4%BC%9A%E3%81%84%E3%81%A8%E5%88%A5%E3%82%8C/</link>
-      <pubDate>Sat, 03 Jul 2021 10:36:55 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E5%87%BA%E4%BC%9A%E3%81%84%E3%81%A8%E5%88%A5%E3%82%8C/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>青春</title>
-      <link>https://llxyo.github.io/genre/%E9%9D%92%E6%98%A5/</link>
-      <pubDate>Sat, 03 Jul 2021 10:36:55 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E9%9D%92%E6%98%A5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>アクション</title>
       <link>https://llxyo.github.io/genre/%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/</link>
-      <pubDate>Thu, 10 Jun 2021 14:15:47 +0900</pubDate>
+      <pubDate>Mon, 05 Jul 2021 18:36:05 +0900</pubDate>
       
       <guid>https://llxyo.github.io/genre/%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/</guid>
       <description></description>
@@ -41,9 +23,27 @@
     <item>
       <title>ワイドスクリーン・バロック</title>
       <link>https://llxyo.github.io/genre/%E3%83%AF%E3%82%A4%E3%83%89%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%90%E3%83%AD%E3%83%83%E3%82%AF/</link>
-      <pubDate>Thu, 10 Jun 2021 14:15:47 +0900</pubDate>
+      <pubDate>Mon, 05 Jul 2021 18:36:05 +0900</pubDate>
       
       <guid>https://llxyo.github.io/genre/%E3%83%AF%E3%82%A4%E3%83%89%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%90%E3%83%AD%E3%83%83%E3%82%AF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>青春</title>
+      <link>https://llxyo.github.io/genre/%E9%9D%92%E6%98%A5/</link>
+      <pubDate>Mon, 05 Jul 2021 18:36:05 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E9%9D%92%E6%98%A5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>出会いと別れ</title>
+      <link>https://llxyo.github.io/genre/%E5%87%BA%E4%BC%9A%E3%81%84%E3%81%A8%E5%88%A5%E3%82%8C/</link>
+      <pubDate>Sat, 03 Jul 2021 10:36:55 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E5%87%BA%E4%BC%9A%E3%81%84%E3%81%A8%E5%88%A5%E3%82%8C/</guid>
       <description></description>
     </item>
     
