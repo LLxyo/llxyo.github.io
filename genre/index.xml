@@ -6,10 +6,19 @@
     <description>Recent content in Genre on LLxyo&#39;s Daydreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 05 Jul 2021 18:36:05 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jul 2021 14:20:16 +0900</lastBuildDate>
     
 	<atom:link href="https://llxyo.github.io/genre/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ロボット</title>
+      <link>https://llxyo.github.io/genre/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</link>
+      <pubDate>Sun, 11 Jul 2021 14:20:16 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>アクション</title>
@@ -233,15 +242,6 @@
       <pubDate>Sat, 20 Jun 2020 22:30:42 +0900</pubDate>
       
       <guid>https://llxyo.github.io/genre/%E8%87%AA%E7%84%B6/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ロボット</title>
-      <link>https://llxyo.github.io/genre/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</link>
-      <pubDate>Wed, 13 May 2020 19:42:54 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</guid>
       <description></description>
     </item>
     
