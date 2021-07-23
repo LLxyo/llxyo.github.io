@@ -6,7 +6,7 @@
     <description>Recent content in Genre on LLxyo&#39;s Daydreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 21 Jul 2021 06:28:53 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jul 2021 21:20:00 +0900</lastBuildDate>
     
 	<atom:link href="https://llxyo.github.io/genre/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>セカイ系</title>
       <link>https://llxyo.github.io/genre/%E3%82%BB%E3%82%AB%E3%82%A4%E7%B3%BB/</link>
-      <pubDate>Wed, 21 Jul 2021 06:28:53 +0900</pubDate>
+      <pubDate>Fri, 23 Jul 2021 21:20:00 +0900</pubDate>
       
       <guid>https://llxyo.github.io/genre/%E3%82%BB%E3%82%AB%E3%82%A4%E7%B3%BB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>怪獣</title>
+      <link>https://llxyo.github.io/genre/%E6%80%AA%E7%8D%A3/</link>
+      <pubDate>Fri, 23 Jul 2021 21:20:00 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E6%80%AA%E7%8D%A3/</guid>
       <description></description>
     </item>
     
