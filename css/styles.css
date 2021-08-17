@@ -111,10 +111,6 @@ div:not([tabindex]):focus {
 }
 
 /* Text styles */
-main#main{
-    text-align: center;
-}
-
 h1,
 h2,
 h3,
@@ -356,7 +352,7 @@ caption {
     max-width: 12rem;
 }
 .library-desc {
-    width: 10rem;
+    /*width: 10rem;*/
     margin-top: 0.5rem;
     margin-left: auto;
     margin-right: auto;
@@ -504,6 +500,7 @@ caption {
     border-bottom: 3px solid;
     border-top: 0px;
 }
+
 .patterns-list li.tag-inline {/*横並びinline-block用、全てに線を下線として引く*/
     margin-top: 1rem;
     padding-top: 0rem;
