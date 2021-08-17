@@ -111,6 +111,10 @@ div:not([tabindex]):focus {
 }
 
 /* Text styles */
+main#main{
+    text-align: center;
+}
+
 h1,
 h2,
 h3,
@@ -339,7 +343,7 @@ caption {
 }
 .intro {
   flex: 0 0 auto;
-  width: 10.74rem;
+  /*width: 10.74rem;*/
 }
 .patterns {
   flex: 1 1 auto;
