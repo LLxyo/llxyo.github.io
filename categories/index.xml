@@ -6,7 +6,7 @@
     <description>Recent content in Categories on LLxyo&#39;s Daydreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 23 Aug 2021 17:44:33 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 03 Sep 2021 16:40:12 +0900</lastBuildDate>
     
 	<atom:link href="https://llxyo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>anime</title>
       <link>https://llxyo.github.io/categories/anime/</link>
-      <pubDate>Mon, 23 Aug 2021 17:44:33 +0900</pubDate>
+      <pubDate>Fri, 03 Sep 2021 16:40:12 +0900</pubDate>
       
       <guid>https://llxyo.github.io/categories/anime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>comics</title>
+      <link>https://llxyo.github.io/categories/comics/</link>
+      <pubDate>Fri, 03 Sep 2021 16:36:43 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/categories/comics/</guid>
       <description></description>
     </item>
     
@@ -62,15 +71,6 @@
       <pubDate>Thu, 24 Dec 2020 00:45:41 +0900</pubDate>
       
       <guid>https://llxyo.github.io/categories/advent-calendar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>comics</title>
-      <link>https://llxyo.github.io/categories/comics/</link>
-      <pubDate>Mon, 28 Sep 2020 20:17:44 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/categories/comics/</guid>
       <description></description>
     </item>
     

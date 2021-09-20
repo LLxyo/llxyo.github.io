@@ -6,10 +6,55 @@
     <description>Recent content in Genre on LLxyo&#39;s Daydreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 23 Aug 2021 17:44:33 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 03 Sep 2021 16:40:12 +0900</lastBuildDate>
     
 	<atom:link href="https://llxyo.github.io/genre/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>哲学</title>
+      <link>https://llxyo.github.io/genre/%E5%93%B2%E5%AD%A6/</link>
+      <pubDate>Fri, 03 Sep 2021 16:40:12 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E5%93%B2%E5%AD%A6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>訓話</title>
+      <link>https://llxyo.github.io/genre/%E8%A8%93%E8%A9%B1/</link>
+      <pubDate>Fri, 03 Sep 2021 16:40:12 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E8%A8%93%E8%A9%B1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>青春</title>
+      <link>https://llxyo.github.io/genre/%E9%9D%92%E6%98%A5/</link>
+      <pubDate>Fri, 03 Sep 2021 16:40:12 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E9%9D%92%E6%98%A5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>百合</title>
+      <link>https://llxyo.github.io/genre/%E7%99%BE%E5%90%88/</link>
+      <pubDate>Fri, 03 Sep 2021 16:36:43 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E7%99%BE%E5%90%88/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>音楽</title>
+      <link>https://llxyo.github.io/genre/%E9%9F%B3%E6%A5%BD/</link>
+      <pubDate>Fri, 03 Sep 2021 16:29:30 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E9%9F%B3%E6%A5%BD/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>学園</title>
@@ -39,38 +84,11 @@
     </item>
     
     <item>
-      <title>百合</title>
-      <link>https://llxyo.github.io/genre/%E7%99%BE%E5%90%88/</link>
-      <pubDate>Mon, 23 Aug 2021 17:43:55 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E7%99%BE%E5%90%88/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>青春</title>
-      <link>https://llxyo.github.io/genre/%E9%9D%92%E6%98%A5/</link>
-      <pubDate>Mon, 23 Aug 2021 17:43:55 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E9%9D%92%E6%98%A5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ファンタジー</title>
       <link>https://llxyo.github.io/genre/%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC/</link>
       <pubDate>Mon, 23 Aug 2021 17:42:50 +0900</pubDate>
       
       <guid>https://llxyo.github.io/genre/%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>訓話</title>
-      <link>https://llxyo.github.io/genre/%E8%A8%93%E8%A9%B1/</link>
-      <pubDate>Mon, 23 Aug 2021 17:42:50 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E8%A8%93%E8%A9%B1/</guid>
       <description></description>
     </item>
     
@@ -210,15 +228,6 @@
     </item>
     
     <item>
-      <title>音楽</title>
-      <link>https://llxyo.github.io/genre/%E9%9F%B3%E6%A5%BD/</link>
-      <pubDate>Mon, 07 Jun 2021 17:53:56 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E9%9F%B3%E6%A5%BD/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>中国アニメ</title>
       <link>https://llxyo.github.io/genre/%E4%B8%AD%E5%9B%BD%E3%82%A2%E3%83%8B%E3%83%A1/</link>
       <pubDate>Fri, 30 Apr 2021 04:52:23 +0900</pubDate>
@@ -296,15 +305,6 @@
       <pubDate>Wed, 26 Aug 2020 16:33:32 +0900</pubDate>
       
       <guid>https://llxyo.github.io/genre/%E6%AD%B4%E5%8F%B2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>哲学</title>
-      <link>https://llxyo.github.io/genre/%E5%93%B2%E5%AD%A6/</link>
-      <pubDate>Wed, 29 Apr 2020 01:12:45 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E5%93%B2%E5%AD%A6/</guid>
       <description></description>
     </item>
     

@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cloverworks on LLxyo&#39;s Daydreams</title>
+    <title>CloverWorks on LLxyo&#39;s Daydreams</title>
     <link>https://llxyo.github.io/brand/cloverworks/</link>
-    <description>Recent content in Cloverworks on LLxyo&#39;s Daydreams</description>
+    <description>Recent content in CloverWorks on LLxyo&#39;s Daydreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 30 Mar 2021 16:07:12 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 03 Sep 2021 16:40:12 +0900</lastBuildDate>
     
 	<atom:link href="https://llxyo.github.io/brand/cloverworks/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>-大人になりゆく14歳という視界- ワンダーエッグ・プライオリティ 感想及び考察</title>
+      <link>https://llxyo.github.io/post/wep_special/</link>
+      <pubDate>Fri, 03 Sep 2021 16:40:12 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/post/wep_special/</guid>
+      <description>本編12話まで見た時点ではどこか裏切られたような感覚に陥ったが、最終回となる特別編に待っていたのは再び裏切られつつも納得</description>
+    </item>
     
     <item>
       <title>ワンダーエッグ・プライオリティ 7~11話 感想と考察と洞察のまとめと整理</title>
