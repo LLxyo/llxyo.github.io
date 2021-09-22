@@ -6,10 +6,28 @@
     <description>Recent content in Categories on LLxyo&#39;s Daydreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 22 Sep 2021 09:27:55 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 22 Sep 2021 10:20:25 +0900</lastBuildDate>
     
 	<atom:link href="https://llxyo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>anime</title>
+      <link>https://llxyo.github.io/categories/anime/</link>
+      <pubDate>Wed, 22 Sep 2021 10:20:25 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/categories/anime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>movie</title>
+      <link>https://llxyo.github.io/categories/movie/</link>
+      <pubDate>Wed, 22 Sep 2021 10:20:25 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/categories/movie/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>novel</title>
@@ -21,29 +39,11 @@
     </item>
     
     <item>
-      <title>anime</title>
-      <link>https://llxyo.github.io/categories/anime/</link>
-      <pubDate>Wed, 22 Sep 2021 08:39:22 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/categories/anime/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>comics</title>
       <link>https://llxyo.github.io/categories/comics/</link>
       <pubDate>Fri, 03 Sep 2021 16:36:43 +0900</pubDate>
       
       <guid>https://llxyo.github.io/categories/comics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>movie</title>
-      <link>https://llxyo.github.io/categories/movie/</link>
-      <pubDate>Mon, 23 Aug 2021 17:44:33 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/categories/movie/</guid>
       <description></description>
     </item>
     

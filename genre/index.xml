@@ -6,10 +6,28 @@
     <description>Recent content in Genre on LLxyo&#39;s Daydreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 22 Sep 2021 09:27:55 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 22 Sep 2021 10:20:25 +0900</lastBuildDate>
     
 	<atom:link href="https://llxyo.github.io/genre/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SF</title>
+      <link>https://llxyo.github.io/genre/sf/</link>
+      <pubDate>Wed, 22 Sep 2021 10:20:25 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/sf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>社会派</title>
+      <link>https://llxyo.github.io/genre/%E7%A4%BE%E4%BC%9A%E6%B4%BE/</link>
+      <pubDate>Wed, 22 Sep 2021 10:20:25 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E7%A4%BE%E4%BC%9A%E6%B4%BE/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ヒューマンドラマ</title>
@@ -138,29 +156,11 @@
     </item>
     
     <item>
-      <title>SF</title>
-      <link>https://llxyo.github.io/genre/sf/</link>
-      <pubDate>Sun, 15 Aug 2021 10:18:13 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/sf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ロボット</title>
       <link>https://llxyo.github.io/genre/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</link>
       <pubDate>Sun, 15 Aug 2021 10:18:13 +0900</pubDate>
       
       <guid>https://llxyo.github.io/genre/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>社会派</title>
-      <link>https://llxyo.github.io/genre/%E7%A4%BE%E4%BC%9A%E6%B4%BE/</link>
-      <pubDate>Sun, 15 Aug 2021 10:18:13 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E7%A4%BE%E4%BC%9A%E6%B4%BE/</guid>
       <description></description>
     </item>
     
