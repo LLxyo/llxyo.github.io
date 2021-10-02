@@ -6,10 +6,46 @@
     <description>Recent content in Genre on LLxyo&#39;s Daydreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 27 Sep 2021 19:05:23 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 02 Oct 2021 14:05:09 +0900</lastBuildDate>
     
 	<atom:link href="https://llxyo.github.io/genre/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>日常</title>
+      <link>https://llxyo.github.io/genre/%E6%97%A5%E5%B8%B8/</link>
+      <pubDate>Sat, 02 Oct 2021 14:05:09 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E6%97%A5%E5%B8%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>社会派</title>
+      <link>https://llxyo.github.io/genre/%E7%A4%BE%E4%BC%9A%E6%B4%BE/</link>
+      <pubDate>Sat, 02 Oct 2021 14:05:09 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E7%A4%BE%E4%BC%9A%E6%B4%BE/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>震災</title>
+      <link>https://llxyo.github.io/genre/%E9%9C%87%E7%81%BD/</link>
+      <pubDate>Sat, 02 Oct 2021 14:05:09 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E9%9C%87%E7%81%BD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>セカイ系</title>
+      <link>https://llxyo.github.io/genre/%E3%82%BB%E3%82%AB%E3%82%A4%E7%B3%BB/</link>
+      <pubDate>Mon, 27 Sep 2021 19:05:23 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E3%82%BB%E3%82%AB%E3%82%A4%E7%B3%BB/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ダークファンタジー</title>
@@ -48,29 +84,11 @@
     </item>
     
     <item>
-      <title>セカイ系</title>
-      <link>https://llxyo.github.io/genre/%E3%82%BB%E3%82%AB%E3%82%A4%E7%B3%BB/</link>
-      <pubDate>Fri, 24 Sep 2021 14:12:21 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E3%82%BB%E3%82%AB%E3%82%A4%E7%B3%BB/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>SF</title>
       <link>https://llxyo.github.io/genre/sf/</link>
       <pubDate>Wed, 22 Sep 2021 10:20:25 +0900</pubDate>
       
       <guid>https://llxyo.github.io/genre/sf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>社会派</title>
-      <link>https://llxyo.github.io/genre/%E7%A4%BE%E4%BC%9A%E6%B4%BE/</link>
-      <pubDate>Wed, 22 Sep 2021 10:20:25 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E7%A4%BE%E4%BC%9A%E6%B4%BE/</guid>
       <description></description>
     </item>
     
@@ -152,15 +170,6 @@
       <pubDate>Mon, 23 Aug 2021 17:44:33 +0900</pubDate>
       
       <guid>https://llxyo.github.io/genre/%E5%AD%A6%E5%9C%92/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>日常</title>
-      <link>https://llxyo.github.io/genre/%E6%97%A5%E5%B8%B8/</link>
-      <pubDate>Mon, 23 Aug 2021 17:44:33 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E6%97%A5%E5%B8%B8/</guid>
       <description></description>
     </item>
     
