@@ -25,7 +25,7 @@ html {
 template {
   display: none !important;
 }
-* + * {
++ * {
     margin-top: 2.25rem;
 }
 br,
@@ -48,7 +48,7 @@ p + p {
 }
 a {
     text-decoration: none;/*アカウントなどのリンクに必要なので残す*/
-    border-bottom: 1px solid;/*別の場所で邪魔な場合はhtmlタグやclassを指定して消す*/
+    border-bottom: 0px solid;/*別の場所で邪魔な場合はhtmlタグやclassを指定して消す*/
 }
 abbr {
     text-decoration: none;
@@ -171,7 +171,9 @@ code {
 
 /* Lists */
 .eyecatch{
-    padding-left: 1rem;
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
 }
 main ul,
 main ol {
@@ -458,6 +460,34 @@ caption {
 }
 
 /* Pattern lists */
+.description{
+    font-size: 16px;
+    padding-top: 10px;
+}
+.article{
+    display: flex;
+    flex-flow: row wrap;
+}
+.article_link{
+    text-decoration: none !important;
+}
+.eyes{
+    text-align : center;
+}
+li {
+    list-style: none;
+  }
+.post{
+    width: 40%;
+    margin-top: 2rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
+    box-sizing: content-box;
+    border: 2px solid;
+    border-color: #ddd;
+    border-radius: 10px;
+    padding: 12px;
+}
 .patterns-list {
     column-count:1;/*2で縦列を2行化できる*/
     list-style: none;
