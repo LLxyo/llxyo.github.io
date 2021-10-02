@@ -365,7 +365,7 @@ caption {
 .main-and-footer > div {
     max-width: 50rem;
     margin: 0 auto;
-    padding: 1.25rem;
+    padding: 3rem;
 }
 [role="contentinfo"] {
     font-size: 0.85rem;
