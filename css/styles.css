@@ -25,7 +25,7 @@ html {
 template {
   display: none !important;
 }
-+ * {
+* + * {
     margin-top: 2.25rem;
 }
 br,
@@ -48,7 +48,7 @@ p + p {
 }
 a {
     text-decoration: none;/*アカウントなどのリンクに必要なので残す*/
-    border-bottom: 0px solid;/*別の場所で邪魔な場合はhtmlタグやclassを指定して消す*/
+    border-bottom: 1px solid;/*別の場所で邪魔な場合はhtmlタグやclassを指定して消す*/
 }
 abbr {
     text-decoration: none;
@@ -464,21 +464,21 @@ caption {
     font-size: 16px;
     padding-top: 10px;
 }
-.article{
+.article{/*タイル並び*/
     display: flex;
     flex-flow: row wrap;
 }
-.article_link{
+a .article_link{/*各記事サムネイルのurl下部線消去*/
     text-decoration: none !important;
 }
-.eyes{
+.eyes{/*サムネイル画像*/
     text-align : center;
 }
-li {
+li {/*リストの点を削除*/
     list-style: none;
   }
-.post{
-    width: 40%;
+.post{/*タイル*/
+    width: 40%;/*タイル並び*/
     margin-top: 2rem;
     margin-right: 1rem;
     margin-left: 1rem;
@@ -487,6 +487,9 @@ li {
     border-color: #ddd;
     border-radius: 10px;
     padding: 12px;
+}
+p.description,h3.post_title,div.article {/*[* + *]の不要部分のmargin解除*/
+    margin-top: 0;
 }
 .patterns-list {
     column-count:1;/*2で縦列を2行化できる*/
