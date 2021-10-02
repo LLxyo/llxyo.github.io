@@ -477,8 +477,9 @@ a .article_link{/*各記事サムネイルのurl下部線消去*/
 li {/*リストの点を削除*/
     list-style: none;
   }
-.post{/*タイル*/
-    width: 40%;/*タイル並び*/
+@media screen and (min-width: 768px){
+  .post{/*タイル*/
+    width: 30%;/*タイル並び*/
     margin-top: 2rem;
     margin-right: 1rem;
     margin-left: 1rem;
@@ -487,6 +488,19 @@ li {/*リストの点を削除*/
     border-color: #ddd;
     border-radius: 10px;
     padding: 12px;
+  }
+}
+@media screen and (max-width: 767px){
+  .post{/*タイル*/
+    margin-top: 2rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
+    box-sizing: content-box;
+    border: 2px solid;
+    border-color: #ddd;
+    border-radius: 10px;
+    padding: 12px;
+  }
 }
 p.description,h3.post_title,div.article,div .eyes {/*[* + *]の不要部分のmargin解除*/
     margin-top: 0;
