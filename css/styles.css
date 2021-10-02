@@ -488,7 +488,7 @@ li {/*リストの点を削除*/
     border-radius: 10px;
     padding: 12px;
 }
-p.description,h3.post_title,div.article {/*[* + *]の不要部分のmargin解除*/
+p.description,h3.post_title,div.article,div .eyes {/*[* + *]の不要部分のmargin解除*/
     margin-top: 0;
 }
 .patterns-list {
