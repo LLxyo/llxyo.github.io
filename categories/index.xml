@@ -6,10 +6,19 @@
     <description>Recent content in Categories on LLxyo&#39;s Daydreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 02 Nov 2021 17:35:19 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 18 Nov 2021 17:34:48 +0900</lastBuildDate>
     
 	<atom:link href="https://llxyo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tokusatsu</title>
+      <link>https://llxyo.github.io/categories/tokusatsu/</link>
+      <pubDate>Thu, 18 Nov 2021 17:34:48 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/categories/tokusatsu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>anime</title>
@@ -44,15 +53,6 @@
       <pubDate>Fri, 03 Sep 2021 16:36:43 +0900</pubDate>
       
       <guid>https://llxyo.github.io/categories/comics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tokusatsu</title>
-      <link>https://llxyo.github.io/categories/tokusatsu/</link>
-      <pubDate>Sat, 24 Jul 2021 00:18:32 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/categories/tokusatsu/</guid>
       <description></description>
     </item>
     
