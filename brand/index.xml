@@ -6,10 +6,19 @@
     <description>Recent content in Brand on LLxyo&#39;s Daydreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 28 Nov 2021 14:33:45 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 03 Dec 2021 01:45:11 +0900</lastBuildDate>
     
 	<atom:link href="https://llxyo.github.io/brand/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>P.A.WORKS</title>
+      <link>https://llxyo.github.io/brand/p.a.works/</link>
+      <pubDate>Fri, 03 Dec 2021 01:45:11 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/brand/p.a.works/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>京アニ</title>
@@ -89,15 +98,6 @@
       <pubDate>Fri, 03 Sep 2021 16:36:43 +0900</pubDate>
       
       <guid>https://llxyo.github.io/brand/%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E7%99%BE%E5%90%88%E5%A7%AB/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>P.A.WORKS</title>
-      <link>https://llxyo.github.io/brand/p.a.works/</link>
-      <pubDate>Fri, 03 Sep 2021 16:29:30 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/brand/p.a.works/</guid>
       <description></description>
     </item>
     
