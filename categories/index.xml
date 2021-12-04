@@ -6,24 +6,15 @@
     <description>Recent content in Categories on LLxyo&#39;s Daydreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 03 Dec 2021 01:45:11 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 04 Dec 2021 16:03:08 +0900</lastBuildDate>
     
 	<atom:link href="https://llxyo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Advent Calendar</title>
-      <link>https://llxyo.github.io/categories/advent-calendar/</link>
-      <pubDate>Fri, 03 Dec 2021 01:45:11 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/categories/advent-calendar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>anime</title>
       <link>https://llxyo.github.io/categories/anime/</link>
-      <pubDate>Fri, 03 Dec 2021 01:45:11 +0900</pubDate>
+      <pubDate>Sat, 04 Dec 2021 16:03:08 +0900</pubDate>
       
       <guid>https://llxyo.github.io/categories/anime/</guid>
       <description></description>
@@ -32,9 +23,18 @@
     <item>
       <title>movie</title>
       <link>https://llxyo.github.io/categories/movie/</link>
-      <pubDate>Thu, 02 Dec 2021 00:40:02 +0900</pubDate>
+      <pubDate>Sat, 04 Dec 2021 16:03:08 +0900</pubDate>
       
       <guid>https://llxyo.github.io/categories/movie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advent Calendar</title>
+      <link>https://llxyo.github.io/categories/advent-calendar/</link>
+      <pubDate>Fri, 03 Dec 2021 01:45:11 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/categories/advent-calendar/</guid>
       <description></description>
     </item>
     
