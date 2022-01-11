@@ -6,10 +6,28 @@
     <description>Recent content in Series on LLxyo&#39;s Daydreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 08 Jan 2022 11:56:54 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jan 2022 21:25:43 +0900</lastBuildDate>
     
 	<atom:link href="https://llxyo.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fate</title>
+      <link>https://llxyo.github.io/series/fate/</link>
+      <pubDate>Tue, 11 Jan 2022 21:25:43 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/series/fate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ロード・エルメロイII世の事件簿</title>
+      <link>https://llxyo.github.io/series/%E3%83%AD%E3%83%BC%E3%83%89%E3%82%A8%E3%83%AB%E3%83%A1%E3%83%AD%E3%82%A4ii%E4%B8%96%E3%81%AE%E4%BA%8B%E4%BB%B6%E7%B0%BF/</link>
+      <pubDate>Tue, 11 Jan 2022 21:25:43 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/series/%E3%83%AD%E3%83%BC%E3%83%89%E3%82%A8%E3%83%AB%E3%83%A1%E3%83%AD%E3%82%A4ii%E4%B8%96%E3%81%AE%E4%BA%8B%E4%BB%B6%E7%B0%BF/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>マクロス</title>
@@ -503,15 +521,6 @@
       <pubDate>Mon, 14 Sep 2020 20:05:53 +0900</pubDate>
       
       <guid>https://llxyo.github.io/series/%E3%81%95%E3%81%95%E3%81%93%E3%81%84/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fate</title>
-      <link>https://llxyo.github.io/series/fate/</link>
-      <pubDate>Wed, 26 Aug 2020 16:33:32 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/series/fate/</guid>
       <description></description>
     </item>
     
