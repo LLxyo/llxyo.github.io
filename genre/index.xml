@@ -6,7 +6,7 @@
     <description>Recent content in Genre on LLxyo&#39;s Daydreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 20 Jul 2022 17:01:44 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 24 Jul 2022 22:34:47 +0900</lastBuildDate>
     
 	<atom:link href="https://llxyo.github.io/genre/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>ヒューマンドラマ</title>
       <link>https://llxyo.github.io/genre/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%89%E3%83%A9%E3%83%9E/</link>
-      <pubDate>Wed, 20 Jul 2022 17:01:44 +0900</pubDate>
+      <pubDate>Sun, 24 Jul 2022 22:34:47 +0900</pubDate>
       
       <guid>https://llxyo.github.io/genre/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%89%E3%83%A9%E3%83%9E/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>社会派</title>
+      <link>https://llxyo.github.io/genre/%E7%A4%BE%E4%BC%9A%E6%B4%BE/</link>
+      <pubDate>Sun, 24 Jul 2022 22:34:47 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E7%A4%BE%E4%BC%9A%E6%B4%BE/</guid>
       <description></description>
     </item>
     
@@ -80,15 +89,6 @@
       <pubDate>Sat, 02 Apr 2022 16:23:34 +0900</pubDate>
       
       <guid>https://llxyo.github.io/genre/%E4%B8%AD%E5%9B%BD%E3%82%A2%E3%83%8B%E3%83%A1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>社会派</title>
-      <link>https://llxyo.github.io/genre/%E7%A4%BE%E4%BC%9A%E6%B4%BE/</link>
-      <pubDate>Sat, 02 Apr 2022 16:23:34 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E7%A4%BE%E4%BC%9A%E6%B4%BE/</guid>
       <description></description>
     </item>
     
