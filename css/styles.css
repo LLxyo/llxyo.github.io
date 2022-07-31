@@ -610,7 +610,7 @@ p.description,h3.post_title,div.article,div .eyes {/*[* + *]の不要部分のma
 .share a i{
     margin-top: 0;
     display: inline-block;
-    border-radius: 50%;
+    border-radius: 40%;
     width: 5rem; /*円の大きさ*/
     height: 5rem; /*円の大きさ*/
     position: fixed !important; /*位置固定*/
