@@ -6,10 +6,37 @@
     <description>Recent content in Genre on LLxyo&#39;s Daydreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 30 Jul 2022 18:36:56 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 31 Jul 2022 14:23:23 +0900</lastBuildDate>
     
 	<atom:link href="https://llxyo.github.io/genre/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>アイドル</title>
+      <link>https://llxyo.github.io/genre/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB/</link>
+      <pubDate>Sun, 31 Jul 2022 14:23:23 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>青春</title>
+      <link>https://llxyo.github.io/genre/%E9%9D%92%E6%98%A5/</link>
+      <pubDate>Sun, 31 Jul 2022 14:23:23 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E9%9D%92%E6%98%A5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>音楽</title>
+      <link>https://llxyo.github.io/genre/%E9%9F%B3%E6%A5%BD/</link>
+      <pubDate>Sun, 31 Jul 2022 14:23:23 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E9%9F%B3%E6%A5%BD/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ヒューマンドラマ</title>
@@ -165,15 +192,6 @@
     </item>
     
     <item>
-      <title>青春</title>
-      <link>https://llxyo.github.io/genre/%E9%9D%92%E6%98%A5/</link>
-      <pubDate>Tue, 11 Jan 2022 21:44:09 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E9%9D%92%E6%98%A5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>内省</title>
       <link>https://llxyo.github.io/genre/%E5%86%85%E7%9C%81/</link>
       <pubDate>Tue, 11 Jan 2022 21:25:43 +0900</pubDate>
@@ -197,15 +215,6 @@
       <pubDate>Sat, 08 Jan 2022 11:56:54 +0900</pubDate>
       
       <guid>https://llxyo.github.io/genre/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>音楽</title>
-      <link>https://llxyo.github.io/genre/%E9%9F%B3%E6%A5%BD/</link>
-      <pubDate>Wed, 05 Jan 2022 18:39:53 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E9%9F%B3%E6%A5%BD/</guid>
       <description></description>
     </item>
     
@@ -426,11 +435,11 @@
     </item>
     
     <item>
-      <title>アイドル</title>
-      <link>https://llxyo.github.io/genre/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB/</link>
-      <pubDate>Mon, 07 Jun 2021 17:53:56 +0900</pubDate>
+      <title>聖地巡礼</title>
+      <link>https://llxyo.github.io/genre/%E8%81%96%E5%9C%B0%E5%B7%A1%E7%A4%BC/</link>
+      <pubDate>Sun, 21 Mar 2021 14:27:22 +0900</pubDate>
       
-      <guid>https://llxyo.github.io/genre/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB/</guid>
+      <guid>https://llxyo.github.io/genre/%E8%81%96%E5%9C%B0%E5%B7%A1%E7%A4%BC/</guid>
       <description></description>
     </item>
     
