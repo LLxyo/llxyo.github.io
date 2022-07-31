@@ -607,24 +607,24 @@ p.description,h3.post_title,div.article,div .eyes {/*[* + *]の不要部分のma
 }
 
 /*share*/
-.share {
+.share a i{
     margin-top: 0;
     display: inline-block;
     border-radius: 50%;
-    width: 5.1rem; /*円の大きさ*/
-    height: 5.1rem; /*円の大きさ*/
+    width: 5rem; /*円の大きさ*/
+    height: 5rem; /*円の大きさ*/
     position: fixed !important; /*位置固定*/
     bottom: 4rem; /*位置固定*/
     right: 7%; /*位置固定*/
     text-align: center; /*アイコンの中央寄せ*/
-    line-height: 5.25rem; /*アイコンの中央寄せ*/
+    line-height: 5rem; /*アイコンの中央寄せ*/
     background-color: #000;
     /*ダークテーマにすると位置固定が効かなくなる*/
     /*position: fixed;が効いてない*/
 }
 
 .share a{
-    border: none; /*リンクの下線消す*/
+    border: none; /*リンクの下線消すけど、なくても良い？*/
 }
 
 /* Notes and warnings */
