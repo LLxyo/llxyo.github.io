@@ -12,38 +12,38 @@
     
     
     <item>
-      <title>anime</title>
-      <link>https://llxyo.github.io/categories/anime/</link>
+      <title>アニメ</title>
+      <link>https://llxyo.github.io/categories/%E3%82%A2%E3%83%8B%E3%83%A1/</link>
       <pubDate>Sun, 11 Sep 2022 14:19:44 +0900</pubDate>
       
-      <guid>https://llxyo.github.io/categories/anime/</guid>
+      <guid>https://llxyo.github.io/categories/%E3%82%A2%E3%83%8B%E3%83%A1/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>movie</title>
-      <link>https://llxyo.github.io/categories/movie/</link>
+      <title>映画</title>
+      <link>https://llxyo.github.io/categories/%E6%98%A0%E7%94%BB/</link>
       <pubDate>Sun, 11 Sep 2022 14:19:44 +0900</pubDate>
       
-      <guid>https://llxyo.github.io/categories/movie/</guid>
+      <guid>https://llxyo.github.io/categories/%E6%98%A0%E7%94%BB/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>novel</title>
-      <link>https://llxyo.github.io/categories/novel/</link>
+      <title>ライトノベル</title>
+      <link>https://llxyo.github.io/categories/%E3%83%A9%E3%82%A4%E3%83%88%E3%83%8E%E3%83%99%E3%83%AB/</link>
       <pubDate>Tue, 15 Mar 2022 12:54:16 +0900</pubDate>
       
-      <guid>https://llxyo.github.io/categories/novel/</guid>
+      <guid>https://llxyo.github.io/categories/%E3%83%A9%E3%82%A4%E3%83%88%E3%83%8E%E3%83%99%E3%83%AB/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Tokusatsu</title>
-      <link>https://llxyo.github.io/categories/tokusatsu/</link>
+      <title>特撮</title>
+      <link>https://llxyo.github.io/categories/%E7%89%B9%E6%92%AE/</link>
       <pubDate>Thu, 06 Jan 2022 18:43:08 +0900</pubDate>
       
-      <guid>https://llxyo.github.io/categories/tokusatsu/</guid>
+      <guid>https://llxyo.github.io/categories/%E7%89%B9%E6%92%AE/</guid>
       <description></description>
     </item>
     
@@ -57,11 +57,20 @@
     </item>
     
     <item>
-      <title>comics</title>
-      <link>https://llxyo.github.io/categories/comics/</link>
+      <title>漫画</title>
+      <link>https://llxyo.github.io/categories/%E6%BC%AB%E7%94%BB/</link>
       <pubDate>Fri, 03 Sep 2021 16:36:43 +0900</pubDate>
       
-      <guid>https://llxyo.github.io/categories/comics/</guid>
+      <guid>https://llxyo.github.io/categories/%E6%BC%AB%E7%94%BB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tokusatsu</title>
+      <link>https://llxyo.github.io/categories/tokusatsu/</link>
+      <pubDate>Fri, 23 Jul 2021 21:20:00 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/categories/tokusatsu/</guid>
       <description></description>
     </item>
     
