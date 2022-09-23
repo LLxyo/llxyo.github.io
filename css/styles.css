@@ -460,11 +460,17 @@ caption {
 }
 
 /************Custmoizedカスタマイズド****/
-.afi{
-    width:50% !important;
-    float: left;
-    padding-right: 5%;
+@media screen and (min-width: 768px){
+    .afi{
+        width:50% !important;
+        float: left;
+        padding-right: 5%;
+    }
 }
+@media screen and (max-width: 767px){
+    
+}
+
 
 /*Youtube埋め込み*/
 .video{
