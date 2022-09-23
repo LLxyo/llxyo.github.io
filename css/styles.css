@@ -460,7 +460,9 @@ caption {
 }
 
 /************Custmoizedカスタマイズド****/
-
+.afi{
+    width:45% !important;
+}
 /*Youtube埋め込み*/
 .video{
     width:100%;              /*横幅いっぱいにwidthを指定*/
