@@ -460,6 +460,14 @@ caption {
 }
 
 /************Custmoizedカスタマイズド****/
+/*冒頭の諸情報欄*/
+.informations{
+    box-sizing: content-box;
+    border: #000 solid 2px;
+    padding: 5px;
+    width: 100%;
+}
+/* アフィリエイトリンクボタン */
 @media screen and (min-width: 768px){
     .afi{
         width:50% !important;
@@ -467,10 +475,8 @@ caption {
         padding-right: 5%;
     }
 }
-@media screen and (max-width: 767px){
-    
+@media screen and (max-width: 767px){   
 }
-/* アフィリエイトリンクボタン */
 .afiimage{
     border-bottom: 0px;
 }
@@ -673,6 +679,11 @@ p.description,h3.post_title,div.article,div .eyes {/*[* + *]の不要部分のma
     width: 5rem; /*円の大きさ*/
     height: 5rem; /*円の大きさ*/
     position: fixed !important; /*位置固定*/
+    position: -webkit-fixed;
+    transform: translate3d(0, 0, 0);
+    display: flex;
+    display: block;
+    z-index: 1;
     bottom: 4rem; /*位置固定*/
     right: 7%; /*位置固定*/
     text-align: center; /*アイコンの中央寄せ*/
