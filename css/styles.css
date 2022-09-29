@@ -596,9 +596,10 @@ p.description,h3.post_title,div.article,div .eyes {/*[* + *]の不要部分のma
     list-style: none;
     margin-left: 0;
     border-bottom: 3px solid;
+    padding-bottom: 3px;
 }
 .patterns-list-taxes a{/*taxnomiesのレイアウト、リンクの下線を消す*/
-    border-bottom: 0px;
+    border-bottom: 0;
 }
 .indent{
     padding-left: 3em;
