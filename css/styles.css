@@ -468,6 +468,9 @@ caption {
     width: 100%;
 }
 /* アフィリエイトリンクボタン */
+.afiimage{
+    border-bottom: 0px;
+}
 @media screen and (min-width: 768px){
     .afi{
         width:50% !important;
@@ -476,11 +479,6 @@ caption {
     }
 }
 @media screen and (max-width: 767px){   
-}
-.afiimage{
-    border-bottom: 0px;
-}
-@media screen and (min-width: 768px){
     .aficard{
         width:50% !important;
         float: left;
@@ -488,7 +486,31 @@ caption {
         margin-bottom: 5%;
     }
 }
-@media screen and (max-width: 767px){
+
+@media screen and (min-width: 450px){
+    .aficard{
+        width:30% !important;
+        float: left;
+        padding-right: 5%;
+        margin-bottom: 5%;
+    }
+    .clear{
+        clear: both;
+    }
+}
+@media screen and (min-width: 300px) and (max-width: 450px){
+    .aficard{
+        width:50% !important;
+        float: left;
+        padding-right: 5%;
+        margin-bottom: 5%;
+    }
+    .clear{
+        clear: both;
+    }
+}
+@media screen and (max-width: 300px){
+    
 }
 .clear{
     clear: both;
