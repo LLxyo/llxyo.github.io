@@ -325,7 +325,7 @@ caption {
 }
 .intro-and-nav {
     font-size: 0.8rem;
-    width: 15.35rem;
+    width: 13rem;
     height: 100vh;
     position: fixed;
     top: 0;
@@ -333,7 +333,7 @@ caption {
     border-right: 2px solid;
 }
 .intro-and-nav > div {
-    padding: 2.25rem;
+    padding: 1rem;
     display: flex;
     flex-direction: column;
     height: 100%;
@@ -360,12 +360,12 @@ caption {
     max-width: 25rem;
 }
 .main-and-footer {
-    margin-left: 15rem;
+    margin-left: 13rem;
 }
 .main-and-footer > div {
-    max-width: 50rem;
-    margin: 0 auto;
-    padding: 3rem;
+        max-width: 50rem;
+        margin: 0 auto;
+        padding: 3rem;
 }
 [role="contentinfo"] {
     font-size: 0.85rem;
@@ -510,7 +510,7 @@ caption {
     }
 }
 @media screen and (max-width: 300px){
-    
+
 }
 .clear{
     clear: both;
@@ -580,9 +580,11 @@ a .article_link{/*各記事サムネイルのurl下部線消去*/
 li {/*リストの点を削除*/
     list-style: none;
   }
-@media screen and (min-width: 768px){
+  
+  @media screen and (min-width: 61.5rem){/*984px ~ */
+
   .post{/*タイル*/
-    width: 25%;/*タイル並び*/
+    width: 24.5%;/*タイル並び*/
     margin-top: 2rem;
     margin-right: 1rem;
     margin-left: 1rem;
@@ -593,7 +595,20 @@ li {/*リストの点を削除*/
     padding: 12px;
   }
 }
-@media screen and (max-width: 767px){
+@media screen and (min-width: 45.05rem) and (max-width: 61.5rem){/*848px ~ 984px*/
+  .post{/*タイル*/
+    width: 36.5%;/*タイル並び*/
+    margin-top: 2rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
+    box-sizing: content-box;
+    border: 2px solid;
+    border-color: #ddd;
+    border-radius: 10px;
+    padding: 12px;
+  }
+}
+@media screen and (max-width: 45rem){/*720px ~ 848px*/
   .post{/*タイル*/
     margin-top: 2rem;
     margin-right: 1rem;
