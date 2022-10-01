@@ -170,15 +170,25 @@ code {
 }
 
 /* Lists */
-.eyecatch{
-    width: 300px;
-    height: 200px;
-    object-fit: cover;
-}
+@media screen and (min-width: 28rem){/*448px ~ */
+    .eyecatch{
+        width: 300px;
+        height: 200px;
+        object-fit: cover;
+    }
+  }
+  @media screen and (max-width: 28rem){/* ~ 448px*/
+    .eyecatch{
+        width: 300px;
+        height: 150px;
+        object-fit: cover;
+    }
+  }
+/*
 main ul,
 main ol {
     margin-left: 2.25rem;
-}
+}*/
 main li + li {
     margin-top: 0.5rem;
 }
@@ -645,7 +655,7 @@ main .informations{
 }
 /* Pattern lists */
 .description{
-    font-size: 16px;
+    font-size: 13px;
     padding-top: 10px;
 }
 .article{/*タイル並び*/
@@ -689,7 +699,7 @@ li {/*リストの点を削除*/
     padding: 12px;
   }
 }
-@media screen and (max-width: 50rem){/* ~ 799px*/
+@media screen and (min-width: 28rem) and (max-width: 50rem){/* 448px ~ 799px*/
   .post{/*タイル*/
     margin-top: 2rem;
     margin-right: 1rem;
@@ -701,6 +711,19 @@ li {/*リストの点を削除*/
     padding: 12px;
   }
 }
+@media screen and (max-width: 28rem){/* ~ 448px*/
+    .post{/*タイル*/
+      margin-top: 2rem;
+      margin-right: 1rem;
+      margin-left: -3rem;
+      margin-right: -3rem;
+      box-sizing: content-box;
+      border: 2px solid;
+      border-color: #ddd;
+      border-radius: 10px;
+      padding: 12px;
+    }
+  }
 p.description,.post_title,div.article,div .eyes {/*[* + *]の不要部分のmargin解除*/
     margin-top: 0;
 }
