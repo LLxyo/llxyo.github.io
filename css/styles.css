@@ -1151,7 +1151,7 @@ h1 svg {
 }
 .wrapper.print-version .intro-and-nav {
     position: static;
-    : 0;
+    border: 0;
     width: auto;
     text-align: center;
     display: flex;
