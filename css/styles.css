@@ -203,10 +203,34 @@ dd ul {
 dd li + li {
   margin: 0;
 }
+@media screen and (min-width: 69rem){/*1105px ~*/
+    .related{
+        width: 21%;
+    }
+}
+@media screen and (min-width: 53rem) and (max-width: 69rem){/*848px ~ 1105px*/
+    .related{
+        width:25%;
+    }
+}
+@media screen and (min-width: 31rem) and (max-width: 53rem){/*496px ~ 848px*/
+    .related{
+        width:45%;
+    }
+}
+@media screen and  (min-width: 24rem) and (max-width: 31rem{/*384px ~ 496px*/
+    .related{
+        width:45%;
+    }
+}
+@media screen and  (max-width: 24rem){/* ~ 384px*/
+    .related{
+        width:100%;
+    }
+}
 .related{
     padding-top: 0.25rem;
     padding-bottom: 0.25rem;
-    width: 21%;
     margin-right: 0.5%;
     margin-left: 0.5%;
     margin-top: 1%;
@@ -215,11 +239,27 @@ dd li + li {
     border-color: #ddd;
     border-radius: 10px;
     padding: 1%;
+}
+@media screen and (min-width: 31rem){/* ~ 496px*/
+    .eyecatch_related{
+        width: 300px;
+        height: 150px;
+        object-fit: cover;
     }
-.eyecatch_related{
-    width: 300px;
-    height: 150px;
-    object-fit: cover;
+}
+@media screen and (min-width: 24rem) and (max-width: 31rem){/*384px ~ 496px*/
+    .eyecatch_related{
+        width: 300px;
+        height: 100px;
+        object-fit: cover;
+    }
+}
+@media screen and (max-width: 24rem) and (max-width: 31rem){/*384px ~ */
+    .eyecatch_related{
+        width: 300px;
+        height: 80px;
+        object-fit: cover;
+    }
 }
 /* Blockquotes */
 blockquote {
