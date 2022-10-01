@@ -622,13 +622,13 @@ li {/*リストの点を削除*/
     list-style: none;
   }
   
-  @media screen and (min-width: 70rem){/*1120px ~ */
+  @media screen and (min-width: 69rem){/*1105px ~ */
 
   .post{/*タイル*/
-    width: 25%;/*タイル並び*/
+    width: 28%;/*タイル並び*/
     margin-top: 2rem;
-    margin-right: 1rem;
-    margin-left: 1rem;
+    margin-right: 0.25rem;
+    margin-left: 0.25rem;
     box-sizing: content-box;
     border: 2px solid;
     border-color: #ddd;
@@ -636,12 +636,12 @@ li {/*リストの点を削除*/
     padding: 12px;
   }
 }
-@media screen and (min-width: 50rem) and (max-width: 70rem/*61.5rem*/){/*799px ~ 1120px*/
+@media screen and (min-width: 50rem) and (max-width: 69rem/*61.5rem*/){/*799px ~ 1105px*/
   .post{/*タイル*/
     width: 36.5%;/*タイル並び*/
     margin-top: 2rem;
-    margin-right: 1rem;
-    margin-left: 1rem;
+    margin-right: 0.25rem;
+    margin-left: 0.25rem;
     box-sizing: content-box;
     border: 2px solid;
     border-color: #ddd;
