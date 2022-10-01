@@ -206,6 +206,15 @@ dd li + li {
 .related{
     padding-top: 0.25rem;
     padding-bottom: 0.25rem;
+    width: 29%;
+    float: left;
+    margin-right: 1%;
+    margin-bottom: 1%;
+    box-sizing: content-box;
+    border: 2px solid;
+    border-color: #ddd;
+    border-radius: 10px;
+    padding: 1%;
     }
 /* Blockquotes */
 blockquote {
@@ -647,7 +656,7 @@ li {/*リストの点を削除*/
     padding: 12px;
   }
 }
-p.description,h3.post_title,div.article,div .eyes {/*[* + *]の不要部分のmargin解除*/
+p.description,.post_title,div.article,div .eyes {/*[* + *]の不要部分のmargin解除*/
     margin-top: 0;
 }
 .patterns-list {
