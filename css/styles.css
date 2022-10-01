@@ -218,7 +218,7 @@ dd li + li {
         width:45%;
     }
 }
-@media screen and  (min-width: 24rem) and (max-width: 31rem{/*384px ~ 496px*/
+@media screen and  (min-width: 24rem) and (max-width: 31rem){/*384px ~ 496px*/
     .related{
         width:45%;
     }
