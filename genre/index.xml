@@ -6,10 +6,28 @@
     <description>Recent content in Genre on LLxyo&#39;s Daydreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 27 Sep 2022 15:51:02 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 10 Oct 2022 17:16:16 +0900</lastBuildDate>
     
 	<atom:link href="https://llxyo.github.io/genre/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SF</title>
+      <link>https://llxyo.github.io/genre/sf/</link>
+      <pubDate>Mon, 10 Oct 2022 17:16:16 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/sf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>恋愛</title>
+      <link>https://llxyo.github.io/genre/%E6%81%8B%E6%84%9B/</link>
+      <pubDate>Mon, 10 Oct 2022 17:16:16 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E6%81%8B%E6%84%9B/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ファンタジー</title>
@@ -26,15 +44,6 @@
       <pubDate>Tue, 27 Sep 2022 15:51:02 +0900</pubDate>
       
       <guid>https://llxyo.github.io/genre/%E5%A4%8F/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>恋愛</title>
-      <link>https://llxyo.github.io/genre/%E6%81%8B%E6%84%9B/</link>
-      <pubDate>Tue, 27 Sep 2022 15:51:02 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E6%81%8B%E6%84%9B/</guid>
       <description></description>
     </item>
     
@@ -143,15 +152,6 @@
       <pubDate>Wed, 20 Jul 2022 17:01:44 +0900</pubDate>
       
       <guid>https://llxyo.github.io/genre/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SF</title>
-      <link>https://llxyo.github.io/genre/sf/</link>
-      <pubDate>Mon, 06 Jun 2022 13:51:51 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/sf/</guid>
       <description></description>
     </item>
     
