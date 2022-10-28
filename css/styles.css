@@ -1,6 +1,6 @@
 /* Fonts */
 @font-face {
-    font-family: '明朝体','serif';
+    font-family: 'Noto Serif JP', serif;
     src: url('https://llxyo.github.io/css/fonts/miriamlibre-bold.woff2') format('woff2'), url('https://llxyo.github.io/css/fonts/miriamlibre-bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
@@ -111,18 +111,11 @@ div:not([tabindex]):focus {
 }
 
 /* Text styles */
-body.ua-android {
-    font-family: 'Noto Serif JP', serif;
-  }
-body.ua-android .u-fYumin {
-    font-family: 'Noto Serif JP', serif;
-  }
-
 h1,
 h2,
 h3,
 h4 {
-    font-family: "Sawarabi Mincho";
+    font-family: 'Noto Serif JP', serif;
     line-height: 1.125;
 }
 h1 {
