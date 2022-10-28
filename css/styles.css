@@ -114,13 +114,10 @@ div:not([tabindex]):focus {
 h1,
 h2,
 h3,
-h4,
-.h25 {
+h4 {
     font-family: Miriam Libre, serif;
     line-height: 1.125;
-}
-.h25{
-    font-size: 1.4rem;
+    font-weight: bold;
 }
 h1 {
     font-size: 2rem;
