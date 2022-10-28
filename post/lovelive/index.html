@@ -75,6 +75,52 @@
 <meta name="twitter:description" content="今更ラブライブ!シリーズのアニメを全部見た。 もちろん今までラブライブ! を知らないなんてことはなかった"/>
 
   <meta name="google-site-verification" content="qKN8ZSNx5Ba24oDQGqPtqccA7-moywKnyl1WoPTqkHo" />
+
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/UAParser.js/1.0.2/ua-parser.min.js" integrity="sha512-M/6+/Ib+r5t/hijvSPLPO76abBzT8vlMVRSJ16JDA+NV9CGCkAjq8UD4kHN6KpHncDTRRIb0oUU01yhW+yfqng==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script>
+        (() => {
+          
+          
+          const setupAndroid = () => {
+            const e = document.createElement("link");
+            e.rel = "preconnect", e.href = "https://fonts.googleapis.com", document.head.appendChild(e);
+            const t = document.createElement("link");
+            t.rel = "preconnect", t.href = "https://fonts.gstatic.com", t.crossOrigin = "anonymous", document.head.appendChild(t);
+            const n = document.createElement("link");
+            n.rel = "stylesheet", n.href = "https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@400&display=swap", document.head.appendChild(n);
+            
+            window.addEventListener('DOMContentLoaded', () => {
+              document.body.classList.add('ua-android');
+            });
+          }
+    
+          
+          const userAgentData = navigator.userAgentData;
+          console.log(userAgentData);
+    
+          
+          if (userAgentData) {
+            const deviceInfo = userAgentData.platform;
+    
+            
+            if (deviceInfo === 'Android') {
+              setupAndroid();
+            }
+          }
+    
+          
+          else {
+            const parser = UAParser();
+            const osInfo = parser.os.name; 
+    
+            
+            if (osInfo === 'Android') {
+              setupAndroid();
+            }
+          }
+        })();
+      </script>
 </head>
 
 

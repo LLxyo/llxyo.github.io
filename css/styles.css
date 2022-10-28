@@ -111,6 +111,13 @@ div:not([tabindex]):focus {
 }
 
 /* Text styles */
+body.ua-android {
+    font-family: 'Noto Serif JP', serif;
+  }
+  body.ua-android .u-fYumin {
+    font-family: 'Noto Serif JP', serif;
+  }
+
 h1,
 h2,
 h3,
