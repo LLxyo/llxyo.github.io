@@ -1,6 +1,6 @@
 /* Fonts */
 @font-face {
-    font-family: 'Miriam Libre';
+    font-family: 'serif';
     src: url('https://llxyo.github.io/css/fonts/miriamlibre-bold.woff2') format('woff2'), url('https://llxyo.github.io/css/fonts/miriamlibre-bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
@@ -115,9 +115,8 @@ h1,
 h2,
 h3,
 h4 {
-    font-family: Miriam Libre, serif;
+    font-family: serif;
     line-height: 1.125;
-    font-weight: bold;
 }
 h1 {
     font-size: 2rem;
