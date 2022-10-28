@@ -2,7 +2,6 @@
 @font-face {
     font-family: 'Noto Serif JP', serif;
     src: url('https://llxyo.github.io/css/fonts/miriamlibre-bold.woff2') format('woff2'), url('https://llxyo.github.io/css/fonts/miriamlibre-bold.woff') format('woff');
-    font-weight: bold;
     font-style: normal;
 }
 *,
