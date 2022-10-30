@@ -558,6 +558,30 @@ main .informations{
 .fa{
     font-family: 'Noto Nastaliq Urdu', serif;
 }
+
+h2.slidein1{
+    animation: anim 1s forwards;
+}
+@keyframes anim {
+    0% {
+        transform: translateX(-1000px);
+    }
+    100% {
+        transform: translateX(0px);
+    }
+}
+h2.slidein2{
+    animation: anim 1s forwards;
+}
+@keyframes anim {
+    0% {
+        transform: translateX(500px);
+    }
+    100% {
+        transform: translateX(0px);
+    }
+}
+ 
 /*冒頭の諸情報欄*/
 .informations{
     box-sizing: content-box;
