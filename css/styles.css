@@ -555,6 +555,9 @@ main .informations{
 }
 
 /************Custmoizedカスタマイズド****/
+.fa{
+    font-family: 'Noto Nastaliq Urdu', serif;
+}
 /*冒頭の諸情報欄*/
 .informations{
     box-sizing: content-box;
