@@ -558,30 +558,129 @@ main .informations{
 .fa{
     font-family: 'Noto Nastaliq Urdu', serif;
 }
-
-h2.slidein1{
-    animation: anim 1s forwards;
-}
-@keyframes anim {
-    0% {
-        transform: translateX(-1000px);
+/*装飾文字のスライドイン 画面幅ごとにスライド位置や速さを調整済み*/
+/*トップページ*/
+@media screen and (min-width: 69rem){/*1105px ~ */
+    h2.slidein1{/*トップページ上部*/
+        background-color: rgb(255,255,255,0);
+        animation: anim1 2s forwards;
     }
-    100% {
-        transform: translateX(0px);
+    @keyframes anim1 {
+        0% {
+            transform: translate(35%, 45.5vh);
+        }
+        100% {
+            transform: translate(0%, 0%);
+        }
+    }
+    h2.slidein2{/*トップページ下部*/
+      background-color: rgb(255,255,255,0);
+      animation: anim2 2s forwards;
+    }
+    @keyframes anim2 {
+        0% {
+            transform: translate(-35%, -45.5vh);
+        }
+        100% {
+            transform: translate(0%, 0%);
+        }
     }
 }
-h2.slidein2{
-    animation: anim 1s forwards;
-}
-@keyframes anim {
-    0% {
-        transform: translateX(500px);
+@media screen and (min-width: 45rem) and (max-width: 69rem){/*720px ~ 1105px*/
+    h2.slidein1{
+        background-color: rgb(255,255,255,0);
+        animation: anim1 2.5s forwards;
     }
-    100% {
-        transform: translateX(0px);
+    @keyframes anim1 {
+        0% {
+            transform: translate(135%);
+        }
+        100% {
+            transform: translate(0%);
+        }
+    }
+    h2.slidein2{
+      background-color: rgb(255,255,255,0);
+      animation: anim2 2.5s forwards;
+    }
+    @keyframes anim2 {
+        0% {
+            transform: translate(-175%);
+        }
+        100% {
+            transform: translate(0%);
+        }
+    }
+} 
+@media screen and (max-width: 45rem){/*720px*/
+    h2.slidein1{
+        background-color: rgb(255,255,255,0);
+        animation: anim1 2s forwards;
+    }
+    @keyframes anim1 {
+        0% {
+            transform: translate(135%);
+        }
+        100% {
+            transform: translate(0%);
+        }
+    }
+    h2.slidein2{
+      background-color: rgb(255,255,255,0);
+      animation: anim2 2s forwards;
+    }
+    @keyframes anim2 {
+        0% {
+            transform: translate(-135%);
+        }
+        100% {
+            transform: translate(0%);
+        }
+    }
+} 
+/*記事一覧の装飾文字のスライドイン*/
+@media screen and (min-width: 69rem){/*1105px ~ */
+    h2.slidein3{
+        background-color: rgb(255,255,255,0);
+        animation: anim3 2.5s forwards;
+    }
+    @keyframes anim3 {
+        0% {
+            transform: translate(135%);
+        }
+        100% {
+            transform: translate(0%);
+        }
     }
 }
- 
+@media screen and (min-width: 45rem) and (max-width: 69rem){/*720px ~ 1105px*/
+    h2.slidein3{
+        background-color: rgb(255,255,255,0);
+        animation: anim3 2.5s forwards;
+    }
+    @keyframes anim3 {
+        0% {
+            transform: translate(135%);
+        }
+        100% {
+            transform: translate(0%);
+        }
+    }
+}
+@media screen and (max-width: 45rem){/*720px*/
+    h2.slidein3{
+        background-color: rgb(255,255,255,0);
+        animation: anim3 2s forwards;
+    }
+    @keyframes anim3 {
+        0% {
+            transform: translate(135%);
+        }
+        100% {
+            transform: translate(0%);
+        }
+    }
+} 
 /*冒頭の諸情報欄*/
 .informations{
     box-sizing: content-box;
