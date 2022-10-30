@@ -558,6 +558,15 @@ main .informations{
 .fa{
     font-family: 'Noto Nastaliq Urdu', serif;
 }
+.slidein1,.slidein2,.slidein3{/*装飾文字の文字サイズ*/
+    font-size: 1.39rem;
+}
+.slidein1{
+    text-align: left;
+}
+.slidein2{
+    text-align: right;
+}
 /*装飾文字のスライドイン 画面幅ごとにスライド位置や速さを調整済み*/
 /*トップページ*/
 @media screen and (min-width: 69rem){/*1105px ~ */
