@@ -555,6 +555,53 @@ main .informations{
 }
 
 /************Custmoizedカスタマイズド****/
+ul.pagination{
+    display: flex;
+    flex-wrap: nowrap;
+    width: 70%;/*画面サイズに合わせて変える*/
+    margin-right: auto;
+    margin-left: auto;
+}
+@media screen and (min-width: 53rem){
+    ul.pagination{
+        width: 70%;
+    }
+}
+@media screen and (max-width: 53rem){
+    ul.pagination{
+        width: 100%;
+    }
+}
+@media screen and (max-width: 450px){
+    .pagination__item--first,.pagination__item--last{
+        display: none;
+    }
+}
+li.pagination__item{
+    width: 100%;
+    margin: 1%;
+    background-color: rgb(236, 236, 236);
+    padding: 1.5%;
+    border: 2px solid;
+    border-color: rgb(236, 236, 236);
+    border-radius: 3px;
+}
+li.pagination__item--current{/*現在のページ*/
+    background-color: #FFF;
+    border-color: rgb(92, 92, 92);
+    border-radius: 3px;
+}
+a.pagination__link{
+    display: block;
+    border-bottom: none;
+    font-weight: bold;
+    text-align: center;
+    font-size: 1.1rem;
+    font-family: 'Noto Serif JP', serif;
+}
+.pagination__item--current a.pagination__link{/*現在のページ*/
+    color: #3f7bd4;
+}
 .fa{
     font-family: 'Noto Nastaliq Urdu', serif;
 }
@@ -814,7 +861,7 @@ li {/*リストの点を削除*/
   @media screen and (min-width: 69rem){/*1105px ~ */
 
   .post{/*タイル*/
-    width: 28%;/*タイル並び*/
+    width: 28%;/*タイル並び 3列*/
     margin-top: 2rem;
     margin-right: 0.25rem;
     margin-left: 0.25rem;
@@ -827,7 +874,7 @@ li {/*リストの点を削除*/
 }
 @media screen and (min-width: 50rem) and (max-width: 69rem/*61.5rem*/){/*799px ~ 1105px*/
   .post{/*タイル*/
-    width: 36.5%;/*タイル並び*/
+    width: 36.5%;/*タイル並び 2列*/
     margin-top: 2rem;
     margin-right: 0.25rem;
     margin-left: 0.25rem;
@@ -840,7 +887,7 @@ li {/*リストの点を削除*/
 }
 @media screen and (min-width: 28rem) and (max-width: 50rem){/* 448px ~ 799px*/
   .post{/*タイル*/
-    margin-top: 2rem;
+    margin-top: 2rem;/*タイル並び 1列*/
     margin-right: 1rem;
     margin-left: 1rem;
     box-sizing: content-box;
@@ -862,7 +909,7 @@ li {/*リストの点を削除*/
       border-radius: 10px;
       padding: 12px;
     }
-  }
+}
 p.description,.post_title,div.article,div .eyes {/*[* + *]の不要部分のmargin解除*/
     margin-top: 0;
 }
