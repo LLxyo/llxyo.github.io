@@ -745,8 +745,9 @@ a.pagination__link{
     width: 100%;
 }
 /* アフィリエイトリンクボタン */
-.afiimage{
+.aficard .afiimage{
     border-bottom: 0px;
+    font-size: 0.7rem;
 }
 @media screen and (min-width: 768px){
     .afi{
