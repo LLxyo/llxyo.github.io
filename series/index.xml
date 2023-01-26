@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Series on LLxyo&#39;s Daydreams</title>
+    <title>Series on My Daydreams</title>
     <link>https://llxyo.github.io/series/</link>
-    <description>Recent content in Series on LLxyo&#39;s Daydreams</description>
+    <description>Recent content in Series on My Daydreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 25 Jan 2023 01:10:00 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jan 2023 02:10:48 +0900</lastBuildDate>
     
 	<atom:link href="https://llxyo.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>かがみの孤城</title>
+      <link>https://llxyo.github.io/series/%E3%81%8B%E3%81%8C%E3%81%BF%E3%81%AE%E5%AD%A4%E5%9F%8E/</link>
+      <pubDate>Wed, 25 Jan 2023 02:10:48 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/series/%E3%81%8B%E3%81%8C%E3%81%BF%E3%81%AE%E5%AD%A4%E5%9F%8E/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>アークナイツ</title>
