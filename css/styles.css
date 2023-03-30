@@ -112,7 +112,7 @@ div:not([tabindex]):focus {
 /* Text styles */
 p.library-desc{
     font-family: 'Noto Serif JP', serif;
-    font-size: 1.35rem;
+    font-size: 1.2rem;
 }
 h1,
 h2,
