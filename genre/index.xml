@@ -6,10 +6,28 @@
     <description>Recent content in Genre on LLxyo&#39;s Daydreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 25 Jan 2023 02:10:48 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 31 Mar 2023 00:15:51 +0900</lastBuildDate>
     
 	<atom:link href="https://llxyo.github.io/genre/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ダークファンタジー</title>
+      <link>https://llxyo.github.io/genre/%E3%83%80%E3%83%BC%E3%82%AF%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC/</link>
+      <pubDate>Fri, 31 Mar 2023 00:15:51 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E3%83%80%E3%83%BC%E3%82%AF%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>バトルアクション</title>
+      <link>https://llxyo.github.io/genre/%E3%83%90%E3%83%88%E3%83%AB%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/</link>
+      <pubDate>Fri, 31 Mar 2023 00:15:51 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E3%83%90%E3%83%88%E3%83%AB%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ヒューマンドラマ</title>
@@ -44,15 +62,6 @@
       <pubDate>Wed, 25 Jan 2023 01:10:00 +0900</pubDate>
       
       <guid>https://llxyo.github.io/genre/%E3%82%B2%E3%83%BC%E3%83%A0/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ダークファンタジー</title>
-      <link>https://llxyo.github.io/genre/%E3%83%80%E3%83%BC%E3%82%AF%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC/</link>
-      <pubDate>Wed, 25 Jan 2023 01:10:00 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E3%83%80%E3%83%BC%E3%82%AF%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC/</guid>
       <description></description>
     </item>
     
@@ -179,15 +188,6 @@
       <pubDate>Thu, 27 Oct 2022 21:33:18 +0900</pubDate>
       
       <guid>https://llxyo.github.io/genre/%E3%83%8F%E3%82%A4%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>バトルアクション</title>
-      <link>https://llxyo.github.io/genre/%E3%83%90%E3%83%88%E3%83%AB%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/</link>
-      <pubDate>Thu, 27 Oct 2022 21:33:18 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E3%83%90%E3%83%88%E3%83%AB%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/</guid>
       <description></description>
     </item>
     
