@@ -555,6 +555,9 @@ main .informations{
 }
 
 /************Custmoizedカスタマイズド****/
+.quote{
+    font-size: 5px;
+}
 ul.pagination{
     display: flex;
     flex-wrap: nowrap;
