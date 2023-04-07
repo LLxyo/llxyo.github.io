@@ -562,16 +562,7 @@ main .informations{
 
 /************Custmoizedカスタマイズド****/
 .quote{/*キャプション*/
-    display: flex;
-    font-size: 10px;
-    position: relative;
-    background-color: rgba(0,0,0,0);
-    top: -3.8rem;
-    left: 0.5rem;
-    text-shadow:0.5px 0.3px 0 #FFF, -0.5px -0.5px 0 #FFF,
-                -0.5px 0.5px 0 #FFF, 0.5px -0.5px 0 #FFF,
-                0px 0.5px 0 #FFF,  0 -0.5px 0 #FFF,
-                -0.5px 0 0 #FFF, 0.5px 0 0 #FFF;
+    font-size: 5px;
 }
 ul.pagination{
     display: flex;
