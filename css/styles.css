@@ -179,18 +179,12 @@ code {
         height: 200px;
         object-fit: cover;
     }
-    .eyes{
-        height: 200px;
-    }
   }
   @media screen and (max-width: 28rem){/* ~ 448px*/
     .eyecatch{
         width: 300px;
         height: 150px;
         object-fit: cover;
-    }
-    .eyes{
-        height: 150px;
     }
   }
 /*
