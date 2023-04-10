@@ -565,7 +565,15 @@ main .informations{
 .top_description1,.top_description2,.top_description3{
     font-family: 'Noto Serif JP', serif;
     font-size: 1.2rem;
+}
+.top_description1{
+    margin-top: 1.5rem;
+}
+.top_description2,.top_description3{
     margin-top: 0;
+}
+.top_description1,.top_description2{
+    margin-bottom: 1rem;
 }
 @media screen and (max-width: 45rem){/*720px*/
     .top_description1{
