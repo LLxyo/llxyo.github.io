@@ -558,6 +558,9 @@ main .informations{
 }
 
 /************Custmoizedカスタマイズド****/
+.top_description{
+    color:#3f7bd4;
+}
 .quote{/*キャプション*/
     font-size: 10px;
 }
