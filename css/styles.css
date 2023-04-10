@@ -139,6 +139,9 @@ h5 {
     font-size: 0.85rem;
     text-transform: uppercase;
 }
+h6 {
+    font-size: 0.6rem;
+}
 kbd {
     line-height: 1;
     font-size: 0.66rem;
@@ -556,7 +559,7 @@ main .informations{
 
 /************Custmoizedカスタマイズド****/
 .quote{/*キャプション*/
-    font-size: 5px;
+    font-size: 10px;
 }
 ul.pagination{
     display: flex;
