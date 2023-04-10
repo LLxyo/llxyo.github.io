@@ -562,6 +562,11 @@ main .informations{
     color:#3f7bd4;
     margin-top: 0;
 }
+.top_description1,.top_description2,.top_description3{
+    font-family: 'Noto Serif JP', serif;
+    font-size: 1.2rem;
+    margin-top: 0;
+}
 @media screen and (max-width: 45rem){/*720px*/
     .top_description1{
     text-align: left;
@@ -647,7 +652,7 @@ a.pagination__link{
 /*装飾文字のスライドイン 画面幅ごとにスライド位置や速さを調整済み*/
 /*トップページ*/
 @media screen and (min-width: 69rem){/*1105px ~ */
-    .top_description2, h2.slidein1{/*トップページ上部*/
+    h2.slidein1{/*トップページ上部*/
         background-color: rgb(255,255,255,0);
         animation: anim1 2s forwards;
     }
