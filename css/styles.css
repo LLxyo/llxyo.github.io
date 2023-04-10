@@ -579,14 +579,14 @@ main .informations{
     .top_description1{
     text-align: left;
     margin-top: 0;
-    margin-left: 1.2rem;
+    margin-left: 1.5rem;
     font-family: 'Noto Serif JP', serif;
-    font-size: 1.7rem;
+    font-size: 1.5rem;
     }
     .top_description2{
     text-align: center;
     margin-top: 0;
-    margin-right: 0.85rem;
+    margin-right: 1.2rem;
     font-family: 'Noto Serif JP', serif;
     font-size: 1.7rem;
     }
