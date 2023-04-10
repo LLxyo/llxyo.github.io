@@ -583,7 +583,7 @@ main .informations{
     font-size: 1.7rem;
     }
     .top_description2{
-    text-align: left;
+    text-align: center;
     margin-top: 0;
     font-family: 'Noto Serif JP', serif;
     font-size: 1.7rem;
@@ -712,7 +712,7 @@ a.pagination__link{
     }
 } 
 @media screen and (max-width: 45rem){/*720px*/
-    .top_description1,.top_description2,h2.slidein1{
+    .top_description1,h2.slidein1{
         background-color: rgb(255,255,255,0);
         animation: anim1 2s forwards;
     }
