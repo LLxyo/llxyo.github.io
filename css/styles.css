@@ -579,18 +579,21 @@ main .informations{
     .top_description1{
     text-align: left;
     margin-top: 0;
+    margin-left: 1.7rem;
     font-family: 'Noto Serif JP', serif;
     font-size: 1.7rem;
     }
     .top_description2{
     text-align: center;
     margin-top: 0;
+    margin-left: -1.7rem;
     font-family: 'Noto Serif JP', serif;
     font-size: 1.7rem;
     }
     .top_description3{
     text-align: right;
     margin-top: 0;
+    margin-left: 1.7rem;
     font-family: 'Noto Serif JP', serif;
     font-size: 1.7rem;
     }
