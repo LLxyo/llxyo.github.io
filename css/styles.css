@@ -579,9 +579,9 @@ main .informations{
     .top_description1{
     text-align: left;
     margin-top: 0;
-    margin-left: 1.7rem;
+    margin-left: 1rem;
     font-family: 'Noto Serif JP', serif;
-    font-size: 1rem;
+    font-size: 1.7rem;
     }
     .top_description2{
     text-align: center;
@@ -593,9 +593,9 @@ main .informations{
     .top_description3{
     text-align: right;
     margin-top: 0;
-    margin-right: 1.7rem;
+    margin-right: 0.85rem;
     font-family: 'Noto Serif JP', serif;
-    font-size: 0.85rem;
+    font-size: 1.7rem;
     }
 }
 .quote{/*キャプション*/
