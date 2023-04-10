@@ -647,7 +647,7 @@ a.pagination__link{
 /*装飾文字のスライドイン 画面幅ごとにスライド位置や速さを調整済み*/
 /*トップページ*/
 @media screen and (min-width: 69rem){/*1105px ~ */
-    h2.slidein1{/*トップページ上部*/
+    .top_description2, h2.slidein1{/*トップページ上部*/
         background-color: rgb(255,255,255,0);
         animation: anim1 2s forwards;
     }
