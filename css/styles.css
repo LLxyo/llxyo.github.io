@@ -581,12 +581,12 @@ main .informations{
     margin-top: 0;
     margin-left: 1.7rem;
     font-family: 'Noto Serif JP', serif;
-    font-size: 1.7rem;
+    font-size: 1rem;
     }
     .top_description2{
     text-align: center;
     margin-top: 0;
-    margin-left: -1.7rem;
+    margin-left: -0.85rem;
     font-family: 'Noto Serif JP', serif;
     font-size: 1.7rem;
     }
@@ -595,7 +595,7 @@ main .informations{
     margin-top: 0;
     margin-left: 1.7rem;
     font-family: 'Noto Serif JP', serif;
-    font-size: 1.7rem;
+    font-size: 0.85rem;
     }
 }
 .quote{/*キャプション*/
