@@ -564,7 +564,7 @@ main .informations{
     }
 }
 @media screen and (min-width: 45rem){
-    .intro_m{
+    .intro_m .logo_m_div{
         display: none;
     }
 }
