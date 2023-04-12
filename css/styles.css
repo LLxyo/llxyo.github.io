@@ -474,7 +474,7 @@ main .informations{
 /* Patterns navigation */
 .patterns {
     overflow: auto;
-    margin-top: 1.5rem;
+    margin-top: 0rem;
 }
 .patterns * {
     margin-top: 0;
@@ -523,7 +523,7 @@ main .informations{
 /* Menu button */
 #menu-button {
     display: none;
-    width: 100%;
+    width: 15%;
     text-align: center;
 }
 #menu-button:focus {
@@ -571,9 +571,6 @@ main .informations{
 .menu-button_m_div{
     float: left;
     margin-right: 0;
-    width: 100%;
-}
-#menu-button_m{
     width: 15%;
 }
 #svg_m{
