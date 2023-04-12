@@ -432,12 +432,21 @@ caption {
 .main-and-footer {
     margin-left: 13rem;
 }
-.main-and-footer > div {
+@media screen and (min-width: 45rem){
+    .main-and-footer > div {
         max-width: 60rem;
         margin: 0 auto;
         padding-top: 3rem/*3rem*/;
         padding-left: 5rem;
         padding-right: 5rem;
+    }
+}
+@media screen and (max-width: 45rem){/*スマホviaでカラム幅を広げる*/
+    .main-and-footer > div {
+        margin: 0 auto;
+        padding-top: 3rem/*3rem*/;
+        width: 90%;
+    }
 }
 /*
 main p{
