@@ -558,7 +558,40 @@ main .informations{
 }
 
 /************Custmoizedカスタマイズド****/
-.top_description2{
+@media screen and (max-width: 45rem){/*スマホ表示のmenuボタン*/
+    .intro{
+        display: none;
+    }
+}
+@media screen and (min-width: 45rem){
+    .intro_m{
+        display: none;
+    }
+}
+.menu-button_m_div{
+    float: left;
+    margin-right: 0;
+    width: 100%;
+}
+#menu-button_m{
+    width: 15%;
+}
+#svg_m{
+    margin: 0 auto;
+}
+.logo_m_div{
+    width: 80%;
+    float: left;
+    margin-top: 0.625rem;
+    position: absolute;
+    left: 26.666666666666666666666666666666%;
+}
+.logo_m{
+}
+.h1_m{
+    font-size: 1.5rem;
+}
+.top_description2{/*サイトの説明分*/
     color:#3f7bd4;
     margin-top: 0;
 }
