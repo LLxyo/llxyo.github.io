@@ -746,7 +746,32 @@ a.pagination__link{
         }
     }
 } 
-
+@media screen and (max-width: 45rem){/*720px*/
+    .top_description1{
+        background-color: rgb(255,255,255,0);
+        animation: anim1 2s forwards;
+    }
+    @keyframes anim1 {
+        0% {
+            transform: translate(135%);
+        }
+        100% {
+            transform: translate(0%);
+        }
+    }
+    .top_description3{
+      background-color: rgb(255,255,255,0);
+      animation: anim2 2s forwards;
+    }
+    @keyframes anim2 {
+        0% {
+            transform: translate(-135%);
+        }
+        100% {
+            transform: translate(0%);
+        }
+    }
+} 
 /*記事一覧の装飾文字のスライドイン*/
 @media screen and (min-width: 69rem){/*1105px ~ */
     h2.slidein3{
