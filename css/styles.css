@@ -831,11 +831,15 @@ a.pagination__link{
     }
 } 
 /*冒頭の諸情報欄*/
+.title_post{
+    margin-top: 1rem;
+}
 .informations{
     box-sizing: content-box;
     border: #000 solid 2px;
     padding: 5px;
     width: 100%;
+    margin-top: 1rem;
 }
 /* アフィリエイトリンクボタン */
 .aficard .afiimage{
