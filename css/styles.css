@@ -177,14 +177,14 @@ code {
 
 /* Lists */
 @media screen and (min-width: 28rem){/*448px ~ */
-    .eyecatch{
+    .eyecatch,.eyecatch_head{
         width: 100%;
         height: 200px;
         object-fit: cover;
     }
   }
   @media screen and (max-width: 28rem){/* ~ 448px*/
-    .eyecatch{
+    .eyecatch,.eyecatch_head{
         width: 98%;
         height: 200px;
         object-fit: cover;
@@ -958,6 +958,9 @@ a .article_link{/*各記事サムネイルのurl下部線消去*/
 .eyes{/*サムネイル画像*/
     text-align : center;
 }
+.eyes_head{
+    text-align: center;
+}
 li {/*リストの点を削除*/
     list-style: none;
   }
@@ -1013,7 +1016,7 @@ li {/*リストの点を削除*/
       border-radius: 10px;
     }
 }
-p.description,.post_title,div.article,div .eyes {/*[* + *]の不要部分のmargin解除*/
+p.description,.post_title,div.article,div .eyes, div .eye_head {/*[* + *]の不要部分のmargin解除*/
     margin-top: 0;
 }
 .patterns-list {
