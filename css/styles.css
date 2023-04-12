@@ -266,15 +266,15 @@ dd li + li {
 }
 @media screen and (min-width: 24rem) and (max-width: 31rem){/*384px ~ 496px*/
     .eyecatch_related{
-        width: 300px;
-        height: 100px;
+        width: 98%;
+        height: 150px;
         object-fit: cover;
     }
 }
 @media screen and (max-width: 24rem) and (max-width: 31rem){/*384px ~ */
     .eyecatch_related{
         width: 300px;
-        height: 80px;
+        height: 130px;
         object-fit: cover;
     }
 }
