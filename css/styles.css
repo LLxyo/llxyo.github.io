@@ -435,7 +435,9 @@ caption {
 .main-and-footer > div {
         max-width: 60rem;
         margin: 0 auto;
-        padding: 5rem/*3rem*/;
+        padding-top: 3rem/*3rem*/;
+        padding-left: 5rem;
+        padding-right: 5rem;
 }
 /*
 main p{
