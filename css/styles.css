@@ -761,7 +761,7 @@ a.pagination__link{
     }
     .top_description3{
       background-color: rgb(255,255,255,0);
-      animation: anim2 2.s forwards;
+      animation: anim2 2s forwards;
     }
     @keyframes anim2 {
         0% {
