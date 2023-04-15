@@ -1033,7 +1033,7 @@ p.description,.post_title,div.article,div .eyes, div .eye_head {/*[* + *]の不�
     list-style: none;
     margin-left: 0;
     border-bottom: 3px solid;
-    padding-bottom: 3px;
+    padding-bottom: 4px;
 }
 .patterns-list-taxes a{/*taxnomiesのレイアウト、リンクの下線を消す*/
     border-bottom: 0;
