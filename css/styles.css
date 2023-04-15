@@ -1126,7 +1126,8 @@ p.description,.post_title,div.article,div .eyes, div .eye_head {/*[* + *]の不�
     right: 7%; /*位置固定*/
     text-align: center; /*アイコンの中央寄せ*/
     line-height: 5rem; /*アイコンの中央寄せ*/
-    background-color: #000;
+    background-color: #000000;
+    color: #fff;
     /*ダークテーマにすると位置固定が効かなくなる*/
     /*position: fixed;が効いてない*/
 }
