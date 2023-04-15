@@ -6,10 +6,28 @@
     <description>Recent content in Genre on LLxyo&#39;s Daydreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 09 Apr 2023 20:44:28 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 15 Apr 2023 21:57:07 +0900</lastBuildDate>
     
 	<atom:link href="https://llxyo.github.io/genre/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ヒューマンドラマ</title>
+      <link>https://llxyo.github.io/genre/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%89%E3%83%A9%E3%83%9E/</link>
+      <pubDate>Sat, 15 Apr 2023 21:57:07 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%89%E3%83%A9%E3%83%9E/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>音楽</title>
+      <link>https://llxyo.github.io/genre/%E9%9F%B3%E6%A5%BD/</link>
+      <pubDate>Sat, 15 Apr 2023 21:57:07 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E9%9F%B3%E6%A5%BD/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ハイ・ファンタジー</title>
@@ -17,15 +35,6 @@
       <pubDate>Sun, 09 Apr 2023 20:44:28 +0900</pubDate>
       
       <guid>https://llxyo.github.io/genre/%E3%83%8F%E3%82%A4%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ヒューマンドラマ</title>
-      <link>https://llxyo.github.io/genre/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%89%E3%83%A9%E3%83%9E/</link>
-      <pubDate>Sun, 09 Apr 2023 20:44:28 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%89%E3%83%A9%E3%83%9E/</guid>
       <description></description>
     </item>
     
@@ -233,15 +242,6 @@
       <pubDate>Sat, 15 Oct 2022 17:45:07 +0900</pubDate>
       
       <guid>https://llxyo.github.io/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%AB%E3%83%AB/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>音楽</title>
-      <link>https://llxyo.github.io/genre/%E9%9F%B3%E6%A5%BD/</link>
-      <pubDate>Sat, 15 Oct 2022 17:45:07 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E9%9F%B3%E6%A5%BD/</guid>
       <description></description>
     </item>
     
