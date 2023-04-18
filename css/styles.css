@@ -908,7 +908,7 @@ a.pagination__link{
 
 @media screen and (min-width: 450px){
     .aficard{
-        width:30% !important;
+        width:25% !important;
         float: left;
         padding-right: 5%;
         margin-bottom: 5%;
