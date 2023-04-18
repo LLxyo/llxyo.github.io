@@ -968,11 +968,21 @@ a.pagination__link{
 }
 
 /*Youtube埋め込み*/
-.video{
-    width:100%;              /*横幅いっぱいにwidthを指定*/
-    padding-bottom: 56.25%;  /*高さをpaddingで指定(16:9)*/
-    height:0px;              /*高さはpaddingで指定するためheightは0に*/
-    position: relative;
+@media screen and (min-width: 55rem){/*PC表示*/
+    .video{
+        width:70%;              /*横幅いっぱいにwidthを指定*/
+        padding-bottom: 39.375%;  /*高さをpaddingで指定(16:9)*/
+        height:0px;              /*高さはpaddingで指定するためheightは0に*/
+        position: relative;
+    }
+}
+@media screen and (max-width: 55rem){/*タブレット、スマホ表示*/
+    .video{
+        width:100%;              /*横幅いっぱいにwidthを指定*/
+        padding-bottom: 56.25%;  /*高さをpaddingで指定(16:9)*/
+        height:0px;              /*高さはpaddingで指定するためheightは0に*/
+        position: relative;
+    }
 }
 .video iframe{
     position: absolute;
