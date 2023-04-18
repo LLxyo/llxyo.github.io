@@ -649,7 +649,7 @@ main .informations{
     font-size: 10px;
     margin-left: 0.5rem;
     padding-right: 0.5rem;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0rem;
     border-bottom: 0px;
 }
 ul.pagination{
@@ -981,6 +981,7 @@ li {/*リストの点を削除*/
     border-color: #ddd;
     border-radius: 10px;
     padding: 12px;
+    padding-bottom: 8px;
   }
 }
 @media screen and (min-width: 50rem) and (max-width: 69rem/*61.5rem*/){/*799px ~ 1105px*/
@@ -994,6 +995,7 @@ li {/*リストの点を削除*/
     border-color: #ddd;
     border-radius: 10px;
     padding: 12px;
+    padding-bottom: 8px;
   }
 }
 @media screen and (min-width: 28rem) and (max-width: 50rem){/* 448px ~ 799px*/
@@ -1006,6 +1008,7 @@ li {/*リストの点を削除*/
     border-color: #ddd;
     border-radius: 10px;
     padding: 12px;
+    padding-bottom: 8px;
   }
 }
 @media screen and (max-width: 28rem){/* ~ 448px*/
