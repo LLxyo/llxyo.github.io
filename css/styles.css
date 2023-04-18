@@ -1056,7 +1056,7 @@ li {/*リストの点を削除*/
       border-radius: 10px;
     }
 }
-p.description,.post_title,div.article,div .eyes, div .eye_head {/*[* + *]の不要部分のmargin解除*/
+p.description,.post_title,div.article,div .eyes, div .eye_head,.ul_toppage {/*[* + *]の不要部分のmargin解除*/
     margin-top: 0;
 }
 .patterns-list {
