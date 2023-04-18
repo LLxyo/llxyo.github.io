@@ -588,12 +588,19 @@ main .informations{
 }
 @media screen and (min-width: 55rem){/*PC表示*/
     .concept,.concept_post{
-        padding-top: 0.633rem;
         margin-top: 0;
         position: absolute;
-        right: 12rem;
-        background-color: rgba(255,255,255,0);
+        right: 6rem;
+        background-color: rgba(255,255,255,0.7);
         }
+    .concept{
+        padding-top: 0.633rem;
+    }
+    .concept_post{
+        margin-top: 0.5rem;
+        padding-top: 0.133rem;
+        padding-bottom: 0.133rem;
+    }
     .eyes_head{
         margin-top: 0;
     }
