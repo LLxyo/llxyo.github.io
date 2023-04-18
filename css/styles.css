@@ -574,6 +574,30 @@ main .informations{
 }
 
 /************Custmoizedカスタマイズド****/
+.page_title{/*コンセプト文*/
+    float: left;
+    margin-bottom: 2.25rem;
+}
+@media screen and (max-width: 55rem){
+    .page_title{
+        display: none;
+    }
+}
+@media screen and (min-width: 55rem){
+    .concept{
+        padding-top: 0.633rem;
+        margin-top: 0;
+        position: absolute;
+        right: 12rem;
+        background-color: rgba(255,255,255,0);
+        }
+}
+@media screen and (max-width: 55rem){/**/
+    .concept{
+        margin-top: 0;
+        text-align: center;
+        }
+}
 @media screen and (max-width: 45rem){/*スマホ表示のmenuボタン*/
     .intro{
         display: none;
@@ -792,6 +816,9 @@ a.pagination__link{
     }
 }
 /*記事一覧の装飾文字のスライドイン*/
+.slide3_color{
+    color:#3d74c6;
+}
 @media screen and (min-width: 69rem){/*1105px ~ */
     h2.slidein3{
         background-color: rgb(255,255,255,0);
