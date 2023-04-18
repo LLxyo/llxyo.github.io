@@ -578,23 +578,29 @@ main .informations{
     float: left;
     margin-bottom: 2.25rem;
 }
+.concept,.concept_post{
+    color:#656565;
+}
 @media screen and (max-width: 55rem){
     .page_title{
         display: none;
     }
 }
-@media screen and (min-width: 55rem){
-    .concept{
+@media screen and (min-width: 55rem){/*PC表示*/
+    .concept,.concept_post{
         padding-top: 0.633rem;
         margin-top: 0;
         position: absolute;
         right: 12rem;
         background-color: rgba(255,255,255,0);
         }
-}
-@media screen and (max-width: 55rem){/**/
-    .concept{
+    .eyes_head{
         margin-top: 0;
+    }
+}
+@media screen and (max-width: 55rem){/*スマホ、タブレット表示*/
+    .concept,.concept_post{
+        margin-top: -1rem;
         text-align: center;
         }
 }
