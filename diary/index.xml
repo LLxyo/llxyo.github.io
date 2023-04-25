@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diaries on LLxyo&#39;s Daydreams</title>
+    <link>https://llxyo.github.io/diary/</link>
+    <description>Recent content in Diaries on LLxyo&#39;s Daydreams</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 25 Apr 2023 11:56:34 +0900</lastBuildDate>
+    
+	<atom:link href="https://llxyo.github.io/diary/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>「東急歌舞伎町タワー」─近未来のエンタメコンプレックス─ ルポ</title>
+      <link>https://llxyo.github.io/diary/tokyu_kabukicho_tower/</link>
+      <pubDate>Tue, 25 Apr 2023 11:56:34 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/diary/tokyu_kabukicho_tower/</guid>
+      <description>つい先日開業したばかりの東急歌舞伎町タワーにどうやら色々おもしろいエンタメ施設が入ってるということで、GWを前に行ってたレポート。 空間エンターテインメント まず何よりも、そこにいるだけでエンタメ体験となる空間が何より印象的だった。 写真映えする</description>
+    </item>
+    
+  </channel>
+</rss>
