@@ -578,6 +578,10 @@ main .informations{
     float: left;
     margin-right: 1rem;
 }
+.clear{
+    clear: both;
+    margin-right: 1rem;
+}
 @media screen and (max-width: 45rem){
     p {
         font-size: 1.2rem;
@@ -1198,6 +1202,162 @@ p.description,.post_title,div.article,div .eyes, div .eye_head,.ul_toppage {/*[*
 .share a{
     border: none; /*リンクの下線消すけど、なくても良い？*/
 }
+/*画像のポップアップ拡大_1*/
+@media screen and (min-width: 45rem){/*pcvia*/
+    .img_post{
+        position:relative;
+        display:inline-block;
+        min-height: 8rem;
+        height: 8rem;
+        width: auto;
+        max-width: 30%;
+    }
+}
+@media screen and (max-width: 45rem){/*スマホvia*/
+    .img_post{
+        position:relative;
+        display:inline-block;
+        width: 0 auto;
+        padding-top: 0.5rem;
+        margin-top: 0;
+    }
+}
+.rp_plus {
+    position:absolute;
+    padding: 4px 4px; /* ルーペアイコンを画像の角から離す量の設定 */  
+    left: 0.5rem;
+    top: -1.5rem;
+    background-color: rgb(255,255,255, 0);
+}
+.my-parts {
+	display: inline-block;
+	width: 2.5rem;
+	height: 2.5rem;
+	font-size: 2.5rem;
+	position: relative;
+	box-shadow: 0 0 0 1px rgba(0,0,0,0.1);
+	cursor: pointer;
+    background-color: rgb(255,255,255, 0.4);
+}
+.my-parts div {
+	position: absolute;
+	display: block;
+	top: 50%;
+	left: 50%;
+	width: 54%;
+	height: 54%;
+	border-radius: 50%;
+	margin: -.28em 0 0 -.28em;
+	border: 0.25rem solid #000;
+}
+.my-parts div::after {
+	position: absolute;
+	display: block;
+	content: "";
+	top: 50%;
+	left: 50%;
+	width: 72%;
+	height: 36%;
+	background: #000;
+	margin: .2em 0 0 .14em;
+	transform: rotate(45deg);
+}
+.my-parts div p{
+    background-color: rgb(255,255,255, 0);
+    position: absolute;
+    top: -50%;
+    left: 10%;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+/*画像のポップアップ拡大_2*/
+.popup_img{
+    height:87vh;
+    width: auto;
+    max-height: 95vh;
+}
+.overlay { /* グレーの背景 */
+  position: fixed;
+  background: rgba(0, 0, 0, 0.2);
+  transition: all 0.5s 0s ease;
+  visibility: hidden;
+  opacity: 0;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  margin-top: 0;
+}
+#pop-up {
+  display: none;
+}
+#pop-up:checked + .overlay {
+  visibility: visible;
+  opacity: 1;
+  z-index: 100000;
+  background-color: #000000D0;
+  width: 100%;
+}
+.popWindow {
+  border-radius: 5px;
+  overflow: auto; /* スクロールバー用 */
+  max-height: 100%; /* すき間 */
+  min-width: fit-content; /* 横幅が広い時に白の部分が大きくならないため */
+  max-width: 95%; /* すき間 */
+  position: fixed;
+  top: 50%; /* 中央に */
+  left: 50%; /* 中央に */
+  transform: translate(-50%, -50%); /* 中央に */
+  z-index: 100010;
+  font-size: 13px;
+  line-height: 18px;
+  margin: 10px auto;
+  padding: 4px 10px;
+  background: #FFFD; /* 枠の色 */
+  text-align: center; /* 文字を中央寄せ */
+  transition: all 500ms ease-in-out;
+}
+.popWindow .ptitle {
+  font-size: 15px;
+  margin: 8px;
+  color: #333;
+}
+.popWindow .close {
+  position: absolute;
+  top: 8px;
+  right: 10px;
+  transition: all 300ms;
+  font-size: 24px;
+  line-height: inherit;
+  font-weight: bold;
+  text-decoration: none;
+  color: #000;
+  padding: 2px;
+}
+.popWindow .close:hover {
+  color: #06D85F;
+}
+.popWindow::-webkit-scrollbar-track {
+  background: none;
+}
+.popWindow::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+.popWindow::-webkit-scrollbar-thumb {
+  background: #999;
+  border-radius: 5px;
+}
+.clickable:hover {
+  cursor: pointer;
+}
+@media screen and (max-width: 700px){
+  #pop-up:checked + .overlay, .my-parts {
+    visibility: hidden;
+    opacity: 0;
+  }
+}
+/*↑↑↑カスタム*/
 
 /* Notes and warnings */
 .note {
