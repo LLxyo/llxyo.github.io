@@ -574,7 +574,26 @@ main .informations{
 }
 
 /************Custmoizedカスタマイズド****/
+.readotherpost1{
+    text-align: center;
+}
+@media screen and (min-width: 55rem)/*PC表示*/{
+    .readotherpost2{
+        float: left;
+    }
+}
+.readotherpost3{
+    text-align: right;
+}
 .readotherpost4{
+    font-family: 'Noto Serif JP', serif;
+    margin-top: 0.4rem;
+}
+.readotherpost5{
+    font-family: 'Noto Serif JP', serif;
+    margin-top: 0.4rem;
+    text-align: right;
+}
 .left{
     float: left;
     margin-right: 1rem;
@@ -1032,8 +1051,12 @@ a .article_link{/*各記事サムネイルのurl下部線消去*/
 }
 li {/*リストの点を削除*/
     list-style: none;
-  }
-  
+}
+@media screen and (min-width: 45rem/*720px*/) and (max-width: 1104px){/*スマホvia*/
+    .article .post:nth-child(3){/*トップページ3つ目の記事を消す*/
+        display: none;
+    }
+}
   @media screen and (min-width: 69rem){/*1105px ~ */
 
   .post{/*タイル*/
