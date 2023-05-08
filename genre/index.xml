@@ -6,37 +6,10 @@
     <description>Recent content in Genre on LLxyo&#39;s Daydreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 03 May 2023 13:53:53 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 18 Apr 2023 16:07:10 +0900</lastBuildDate>
     
 	<atom:link href="https://llxyo.github.io/genre/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>セカイ系</title>
-      <link>https://llxyo.github.io/genre/%E3%82%BB%E3%82%AB%E3%82%A4%E7%B3%BB/</link>
-      <pubDate>Wed, 03 May 2023 13:53:53 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E3%82%BB%E3%82%AB%E3%82%A4%E7%B3%BB/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ロー・ファンタジー</title>
-      <link>https://llxyo.github.io/genre/%E3%83%AD%E3%83%BC%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC/</link>
-      <pubDate>Wed, 03 May 2023 13:53:53 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E3%83%AD%E3%83%BC%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>青春</title>
-      <link>https://llxyo.github.io/genre/%E9%9D%92%E6%98%A5/</link>
-      <pubDate>Wed, 03 May 2023 13:53:53 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E9%9D%92%E6%98%A5/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>アクション</title>
@@ -44,6 +17,15 @@
       <pubDate>Tue, 18 Apr 2023 16:07:10 +0900</pubDate>
       
       <guid>https://llxyo.github.io/genre/%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>セカイ系</title>
+      <link>https://llxyo.github.io/genre/%E3%82%BB%E3%82%AB%E3%82%A4%E7%B3%BB/</link>
+      <pubDate>Tue, 18 Apr 2023 16:07:10 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E3%82%BB%E3%82%AB%E3%82%A4%E7%B3%BB/</guid>
       <description></description>
     </item>
     
@@ -62,6 +44,15 @@
       <pubDate>Tue, 18 Apr 2023 16:07:10 +0900</pubDate>
       
       <guid>https://llxyo.github.io/genre/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>青春</title>
+      <link>https://llxyo.github.io/genre/%E9%9D%92%E6%98%A5/</link>
+      <pubDate>Tue, 18 Apr 2023 16:07:10 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E9%9D%92%E6%98%A5/</guid>
       <description></description>
     </item>
     
@@ -143,6 +134,15 @@
       <pubDate>Fri, 31 Mar 2023 00:15:51 +0900</pubDate>
       
       <guid>https://llxyo.github.io/genre/%E3%83%90%E3%83%88%E3%83%AB%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ロー・ファンタジー</title>
+      <link>https://llxyo.github.io/genre/%E3%83%AD%E3%83%BC%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC/</link>
+      <pubDate>Wed, 25 Jan 2023 02:10:48 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E3%83%AD%E3%83%BC%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC/</guid>
       <description></description>
     </item>
     
