@@ -1046,6 +1046,9 @@ a.pagination__link{
         height:0px;              /*高さはpaddingで指定するためheightは0に*/
         position: relative;
     }
+    video{
+        width:100%;
+    }
 }
 .video iframe{
     position: absolute;
