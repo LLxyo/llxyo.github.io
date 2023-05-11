@@ -187,12 +187,15 @@ code {
         object-fit: cover;
     }
   }
-  @media screen and (max-width: 28rem){/* ~ 448px*/
+  @media screen and (max-width: 28rem){/* ~ 448px*/    
     .eyecatch,.eyecatch_head{
         width: 98%;
         height: 200px;
         object-fit: cover;
         margin-top: 1%;
+    }
+    img.eyecatch{
+        border-radius: 5px 5px 0 0;
     }
   }
 /*
@@ -740,7 +743,7 @@ main .informations{
     font-size: 10px;
     margin-left: 0.5rem;
     padding-right: 0.5rem;
-    margin-bottom: 0rem;
+    margin-bottom: 1%;
     border-bottom: 0px;
 }
 ul.pagination{
@@ -1124,7 +1127,7 @@ li {/*リストの点を削除*/
 }
 @media screen and (max-width: 28rem){/* ~ 448px*/
     .post{/*タイル*/
-      margin-top: 2rem;
+      margin-top: 1rem;
       margin-right: 1rem;
       margin-left: -1rem;
       margin-right: -1rem;
