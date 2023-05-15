@@ -6,10 +6,19 @@
     <description>Recent content in Categories on LLxyo&#39;s Daydreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 06 May 2023 10:41:52 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 13 May 2023 15:35:11 +0900</lastBuildDate>
     
 	<atom:link href="https://llxyo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>アニメ</title>
+      <link>https://llxyo.github.io/categories/%E3%82%A2%E3%83%8B%E3%83%A1/</link>
+      <pubDate>Sat, 13 May 2023 15:35:11 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/categories/%E3%82%A2%E3%83%8B%E3%83%A1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>photolog</title>
@@ -17,15 +26,6 @@
       <pubDate>Sat, 06 May 2023 10:41:52 +0900</pubDate>
       
       <guid>https://llxyo.github.io/categories/photolog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>アニメ</title>
-      <link>https://llxyo.github.io/categories/%E3%82%A2%E3%83%8B%E3%83%A1/</link>
-      <pubDate>Wed, 03 May 2023 13:53:53 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/categories/%E3%82%A2%E3%83%8B%E3%83%A1/</guid>
       <description></description>
     </item>
     
