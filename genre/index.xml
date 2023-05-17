@@ -6,10 +6,55 @@
     <description>Recent content in Genre on LLxyo&#39;s Daydreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 13 May 2023 15:35:11 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 17 May 2023 02:12:16 +0900</lastBuildDate>
     
 	<atom:link href="https://llxyo.github.io/genre/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SF</title>
+      <link>https://llxyo.github.io/genre/sf/</link>
+      <pubDate>Wed, 17 May 2023 02:12:16 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/sf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ダークファンタジー</title>
+      <link>https://llxyo.github.io/genre/%E3%83%80%E3%83%BC%E3%82%AF%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC/</link>
+      <pubDate>Wed, 17 May 2023 02:12:16 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E3%83%80%E3%83%BC%E3%82%AF%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ディストピア</title>
+      <link>https://llxyo.github.io/genre/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%94%E3%82%A2/</link>
+      <pubDate>Wed, 17 May 2023 02:12:16 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%94%E3%82%A2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>哲学</title>
+      <link>https://llxyo.github.io/genre/%E5%93%B2%E5%AD%A6/</link>
+      <pubDate>Wed, 17 May 2023 02:12:16 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E5%93%B2%E5%AD%A6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>社会派</title>
+      <link>https://llxyo.github.io/genre/%E7%A4%BE%E4%BC%9A%E6%B4%BE/</link>
+      <pubDate>Wed, 17 May 2023 02:12:16 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E7%A4%BE%E4%BC%9A%E6%B4%BE/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>TS</title>
@@ -129,15 +174,6 @@
     </item>
     
     <item>
-      <title>SF</title>
-      <link>https://llxyo.github.io/genre/sf/</link>
-      <pubDate>Fri, 07 Apr 2023 18:07:38 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/sf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>スチームパンク</title>
       <link>https://llxyo.github.io/genre/%E3%82%B9%E3%83%81%E3%83%BC%E3%83%A0%E3%83%91%E3%83%B3%E3%82%AF/</link>
       <pubDate>Fri, 07 Apr 2023 18:07:38 +0900</pubDate>
@@ -165,29 +201,11 @@
     </item>
     
     <item>
-      <title>ダークファンタジー</title>
-      <link>https://llxyo.github.io/genre/%E3%83%80%E3%83%BC%E3%82%AF%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC/</link>
-      <pubDate>Fri, 31 Mar 2023 00:15:51 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E3%83%80%E3%83%BC%E3%82%AF%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>バトルアクション</title>
       <link>https://llxyo.github.io/genre/%E3%83%90%E3%83%88%E3%83%AB%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/</link>
       <pubDate>Fri, 31 Mar 2023 00:15:51 +0900</pubDate>
       
       <guid>https://llxyo.github.io/genre/%E3%83%90%E3%83%88%E3%83%AB%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>社会派</title>
-      <link>https://llxyo.github.io/genre/%E7%A4%BE%E4%BC%9A%E6%B4%BE/</link>
-      <pubDate>Wed, 25 Jan 2023 02:10:48 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E7%A4%BE%E4%BC%9A%E6%B4%BE/</guid>
       <description></description>
     </item>
     
@@ -242,15 +260,6 @@
       <pubDate>Thu, 05 Jan 2023 15:45:01 +0900</pubDate>
       
       <guid>https://llxyo.github.io/genre/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%83%91%E3%83%B3%E3%82%AF/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ディストピア</title>
-      <link>https://llxyo.github.io/genre/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%94%E3%82%A2/</link>
-      <pubDate>Thu, 05 Jan 2023 15:45:01 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%94%E3%82%A2/</guid>
       <description></description>
     </item>
     
@@ -332,15 +341,6 @@
       <pubDate>Sun, 24 Jul 2022 22:34:47 +0900</pubDate>
       
       <guid>https://llxyo.github.io/genre/%E8%87%AA%E5%B7%B1%E5%90%A6%E5%AE%9A/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>哲学</title>
-      <link>https://llxyo.github.io/genre/%E5%93%B2%E5%AD%A6/</link>
-      <pubDate>Mon, 06 Jun 2022 13:51:51 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E5%93%B2%E5%AD%A6/</guid>
       <description></description>
     </item>
     
