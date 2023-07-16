@@ -1232,7 +1232,7 @@ p.description,.post_title,div.article,div .eyes, div .eye_head,.ul_toppage {/*[*
     display: inline-block;
     border-radius: 40%;
     width: 5rem; /*円の大きさ*/
-    height: 5rem; /*円の大きさ*/
+    height: 4.9rem; /*円の大きさ*/
     position: fixed !important; /*位置固定*/
     position: -webkit-fixed;
     transform: translate3d(0, 0, 0);
@@ -1243,7 +1243,7 @@ p.description,.post_title,div.article,div .eyes, div .eye_head,.ul_toppage {/*[*
     right: 7%; /*位置固定*/
     text-align: center; /*アイコンの中央寄せ*/
     line-height: 5rem; /*アイコンの中央寄せ*/
-    background-color: #000000;
+    background-color: #2198e3;
     color: #fff;
     /*ダークテーマにすると位置固定が効かなくなる*/
     /*position: fixed;が効いてない*/
