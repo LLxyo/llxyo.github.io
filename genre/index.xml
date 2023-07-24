@@ -39,15 +39,6 @@
     </item>
     
     <item>
-      <title>青春</title>
-      <link>https://llxyo.github.io/genre/%E9%9D%92%E6%98%A5/</link>
-      <pubDate>Sun, 23 Jul 2023 10:04:47 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E9%9D%92%E6%98%A5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>アイドル</title>
       <link>https://llxyo.github.io/genre/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB/</link>
       <pubDate>Sat, 08 Jul 2023 13:48:29 +0900</pubDate>
@@ -71,6 +62,15 @@
       <pubDate>Sat, 08 Jul 2023 13:48:29 +0900</pubDate>
       
       <guid>https://llxyo.github.io/genre/%E7%A4%BE%E4%BC%9A%E6%B4%BE/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>青春</title>
+      <link>https://llxyo.github.io/genre/%E9%9D%92%E6%98%A5/</link>
+      <pubDate>Sat, 08 Jul 2023 13:48:29 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E9%9D%92%E6%98%A5/</guid>
       <description></description>
     </item>
     
