@@ -6,10 +6,46 @@
     <description>Recent content in Genre on LLxyo&#39;s Daydreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 08 Jul 2023 13:48:29 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jul 2023 10:04:47 +0900</lastBuildDate>
     
 	<atom:link href="https://llxyo.github.io/genre/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ミュージカル</title>
+      <link>https://llxyo.github.io/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%AB%E3%83%AB/</link>
+      <pubDate>Sun, 23 Jul 2023 10:04:47 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%AB%E3%83%AB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>百合</title>
+      <link>https://llxyo.github.io/genre/%E7%99%BE%E5%90%88/</link>
+      <pubDate>Sun, 23 Jul 2023 10:04:47 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E7%99%BE%E5%90%88/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>舞台演劇</title>
+      <link>https://llxyo.github.io/genre/%E8%88%9E%E5%8F%B0%E6%BC%94%E5%8A%87/</link>
+      <pubDate>Sun, 23 Jul 2023 10:04:47 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E8%88%9E%E5%8F%B0%E6%BC%94%E5%8A%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>青春</title>
+      <link>https://llxyo.github.io/genre/%E9%9D%92%E6%98%A5/</link>
+      <pubDate>Sun, 23 Jul 2023 10:04:47 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E9%9D%92%E6%98%A5/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>アイドル</title>
@@ -35,15 +71,6 @@
       <pubDate>Sat, 08 Jul 2023 13:48:29 +0900</pubDate>
       
       <guid>https://llxyo.github.io/genre/%E7%A4%BE%E4%BC%9A%E6%B4%BE/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>青春</title>
-      <link>https://llxyo.github.io/genre/%E9%9D%92%E6%98%A5/</link>
-      <pubDate>Sat, 08 Jul 2023 13:48:29 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E9%9D%92%E6%98%A5/</guid>
       <description></description>
     </item>
     
@@ -255,15 +282,6 @@
     </item>
     
     <item>
-      <title>百合</title>
-      <link>https://llxyo.github.io/genre/%E7%99%BE%E5%90%88/</link>
-      <pubDate>Fri, 07 Apr 2023 18:07:38 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E7%99%BE%E5%90%88/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>バトルアクション</title>
       <link>https://llxyo.github.io/genre/%E3%83%90%E3%83%88%E3%83%AB%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/</link>
       <pubDate>Fri, 31 Mar 2023 00:15:51 +0900</pubDate>
@@ -341,15 +359,6 @@
       <pubDate>Tue, 18 Oct 2022 23:28:29 +0900</pubDate>
       
       <guid>https://llxyo.github.io/genre/%E6%98%A5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ミュージカル</title>
-      <link>https://llxyo.github.io/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%AB%E3%83%AB/</link>
-      <pubDate>Sat, 15 Oct 2022 17:45:07 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%AB%E3%83%AB/</guid>
       <description></description>
     </item>
     
