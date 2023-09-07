@@ -1087,7 +1087,7 @@ li {/*リストの点を削除*/
 
   .post{/*タイル*/
     width: 28%;/*タイル並び 3列*/
-    margin-top: 2rem;
+    margin-top: 1rem;
     margin-right: 0.25rem;
     margin-left: 0.25rem;
     box-sizing: content-box;
@@ -1136,6 +1136,9 @@ li {/*リストの点を削除*/
       border-color: #ddd;
       border-radius: 10px;
     }
+}
+li.post,h2.slidein2{
+    margin-top: 1rem;
 }
 p.description,.post_title,div.article,div .eyes, div .eye_head,.ul_toppage {/*[* + *]の不要部分のmargin解除*/
     margin-top: 0;
