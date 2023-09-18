@@ -1325,9 +1325,9 @@ p.description,.post_title,div.article,div .eyes, div .eye_head,.ul_toppage {/*[*
 }
 /*画像のポップアップ拡大_2*/
 .popup_img{
-    height: 87vh;
+    height: 0 auto;
     width: auto;
-    max-height: 87vh;
+    max-height: /*87vh;*/;
     margin-top: 0rem;}
 .overlay { /* グレーの背景 */
   position: fixed;
