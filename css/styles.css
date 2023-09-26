@@ -6,14 +6,16 @@
 }
 @font-face {
     font-family: 'Noto Serif JP', serif;
-    src: url('https://llxyo.github.io/css/fonts/Noto_Serif_JP/NotoSerifJP-Black.otf') format('otf'),
-    url('https://llxyo.github.io/css/fonts/Noto_Serif_JP/NotoSerifJP-Bold.otf') format('otf'),
-    url('https://llxyo.github.io/css/fonts/Noto_Serif_JP/NotoSerifJP-ExtraLight.otf') format('otf'),
-    url('https://llxyo.github.io/css/fonts/Noto_Serif_JP/NotoSerifJP-Light.otf') format('otf'),
-    url('https://llxyo.github.io/css/fonts/Noto_Serif_JP/NotoSerifJP-Medium.otf') format('otf'),
-    url('https://llxyo.github.io/css/fonts/Noto_Serif_JP/NotoSerifJP-Regular.otf') format('otf'),
-    url('https://llxyo.github.io/css/fonts/Noto_Serif_JP/NotoSerifJP-SemiBold.otf') format('otf');
-    display: swap;
+    src: url('https://llxyo.github.io/css/fonts/Noto_Serif_JP/NotoSerifJP-Black.otf') format('opentype'),
+    url('https://llxyo.github.io/css/fonts/Noto_Serif_JP/NotoSerifJP-Bold.otf') format('opentype'),
+    url('https://llxyo.github.io/css/fonts/Noto_Serif_JP/NotoSerifJP-ExtraLight.otf') format('opentype'),
+    url('https://llxyo.github.io/css/fonts/Noto_Serif_JP/NotoSerifJP-Light.otf') format('opentype'),
+    url('https://llxyo.github.io/css/fonts/Noto_Serif_JP/NotoSerifJP-Medium.otf') format('opentype'),
+    url('https://llxyo.github.io/css/fonts/Noto_Serif_JP/NotoSerifJP-Regular.otf') format('opentype'),
+    url('https://llxyo.github.io/css/fonts/Noto_Serif_JP/NotoSerifJP-SemiBold.otf') format('opentype');
+    font-display: swap;
+    font-weight: normal;
+    font-style: normal;
 }
 *,
 *::before,
@@ -133,7 +135,8 @@ h1,
 h2,
 h3,
 h4 {
-    font-family: 'Noto Serif JP', serif;
+    font-family: "Noto Serif JP", serif;
+    font-weight: Medium;
     line-height: 1.125;
 }
 h1 {
@@ -145,10 +148,9 @@ h2 {
 h3 {
     font-size: 1.25rem;
 }
-h4,
-h5 {
-    font-size: 1rem;
-    font-family: PT Sans, sans-serif;
+h4 {
+    font-size: 17px;
+    font-family: "Noto Serif JP", serif;
 }
 h5 {
     font-size: 0.85rem;
