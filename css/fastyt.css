@@ -16,7 +16,7 @@
 }
 .yt_play::before { /* YouTubeアイコン */
   position: absolute;
-  background: url(https://www.rectus.co.jp/images/yt_icon_rgb.png);
+  background: url(https://llxyo.github.io/yt_icon_rgb.png);
   content: "";
   background-size: 100%;
   width: 70px;
@@ -30,5 +30,5 @@
 
 .yt_play:hover::before { /* YouTubeアイコン */
   cursor: pointer;
-  background-image:url(https://www.rectus.co.jp/images/yt_icon_rgb.png);
+  background-image:url(https://llxyo.github.io/yt_icon_rgb.png);
 }
