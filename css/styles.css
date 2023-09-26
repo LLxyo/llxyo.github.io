@@ -4,6 +4,17 @@
     src: url('https://llxyo.github.io/css/fonts/miriamlibre-bold.woff2') format('woff2'), url('https://llxyo.github.io/css/fonts/miriamlibre-bold.woff') format('woff');
     font-style: normal;
 }
+@font-face {
+    font-family: 'Noto Serif JP', serif;
+    src: url('https://llxyo.github.io/css/fonts/Noto_Serif_JP/NotoSerifJP-Black.otf') format('otf'),
+    url('https://llxyo.github.io/css/fonts/Noto_Serif_JP/NotoSerifJP-Bold.otf') format('otf'),
+    url('https://llxyo.github.io/css/fonts/Noto_Serif_JP/NotoSerifJP-ExtraLight.otf') format('otf'),
+    url('https://llxyo.github.io/css/fonts/Noto_Serif_JP/NotoSerifJP-Light.otf') format('otf'),
+    url('https://llxyo.github.io/css/fonts/Noto_Serif_JP/NotoSerifJP-Medium.otf') format('otf'),
+    url('https://llxyo.github.io/css/fonts/Noto_Serif_JP/NotoSerifJP-Regular.otf') format('otf'),
+    url('https://llxyo.github.io/css/fonts/Noto_Serif_JP/NotoSerifJP-SemiBold.otf') format('otf');
+    display: swap;
+}
 *,
 *::before,
 *::after {
@@ -73,6 +84,9 @@ figure p img {
 .patterns a:focus .text,
 [for="themer"] :focus + [aria-hidden] {
     outline: none;
+}
+.text{
+    font-family: Arial, 'Noto Sans JP', sans-serif;
 }
 a {
   outline-offset: 2px;
@@ -937,6 +951,7 @@ a.pagination__link{
     margin-top: 1rem;
 }
 .informations{
+    font-family: Arial, 'Noto Sans JP', sans-serif;
     box-sizing: content-box;
     border: #000 solid 2px;
     padding: 5px;
