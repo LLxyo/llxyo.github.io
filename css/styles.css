@@ -1,5 +1,11 @@
 /* Fonts */
 @font-face {
+    src: url('https://llxyo.github.io/css/fonts/Noto_Serif_JP/NotoSerifJP.woff') format("woff");
+    font-family: "Noto Serif JP", serif;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
     font-family: 'Noto Serif JP', serif;
     src: url('https://llxyo.github.io/css/fonts/miriamlibre-bold.woff2') format('woff2'), url('https://llxyo.github.io/css/fonts/miriamlibre-bold.woff') format('woff');
     font-style: normal;
@@ -299,7 +305,7 @@ blockquote .author {
 button {
     font-size: 1.25rem;
     border-radius: 0.33em;
-    font-family: inherit;
+    font-family: 'Noto Serif JP', serif;
     background: #111;
     color: #fefefe;
     padding: 0.75rem;
@@ -1235,8 +1241,8 @@ p.description,.post_title,div.article,div .eyes, div .eye_head,.ul_toppage {/*[*
     margin-top: 0;
     display: inline-block;
     border-radius: 40%;
-    width: 5rem; /*円の大きさ*/
-    height: 4.9rem; /*円の大きさ*/
+    width: 1.7em; /*円の大きさ*/
+    height: 1.7em; /*円の大きさ*/
     position: fixed !important; /*位置固定*/
     position: -webkit-fixed;
     transform: translate3d(0, 0, 0);
@@ -1252,6 +1258,9 @@ p.description,.post_title,div.article,div .eyes, div .eye_head,.ul_toppage {/*[*
     /*ダークテーマにすると位置固定が効かなくなる*/
     /*position: fixed;が効いてない*/
 }
+svg > path{
+    fill: #fff;
+  }
 
 .share a{
     border: none; /*リンクの下線消すけど、なくても良い？*/
@@ -1659,9 +1668,9 @@ h1 svg,
 h2 svg,
 th svg,
 li > svg {
-    height: 0.75em;
-    width: 0.75em;
-    margin-right: 0.25em;
+    height: 1.1em;
+    width: 1.1em;
+    margin-top: 0.3em;
 }
 h1 svg,
 h2 svg {
