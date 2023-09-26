@@ -6,10 +6,37 @@
     <description>Recent content in Genre on LLxyo&#39;s Daydreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 21 Sep 2023 16:16:58 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 22 Sep 2023 11:23:07 +0900</lastBuildDate>
     
 	<atom:link href="https://llxyo.github.io/genre/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ヒューマンドラマ</title>
+      <link>https://llxyo.github.io/genre/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%89%E3%83%A9%E3%83%9E/</link>
+      <pubDate>Fri, 22 Sep 2023 11:23:07 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%89%E3%83%A9%E3%83%9E/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>青春</title>
+      <link>https://llxyo.github.io/genre/%E9%9D%92%E6%98%A5/</link>
+      <pubDate>Fri, 22 Sep 2023 11:23:07 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E9%9D%92%E6%98%A5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>音楽</title>
+      <link>https://llxyo.github.io/genre/%E9%9F%B3%E6%A5%BD/</link>
+      <pubDate>Fri, 22 Sep 2023 11:23:07 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E9%9F%B3%E6%A5%BD/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>聖地巡礼</title>
@@ -17,15 +44,6 @@
       <pubDate>Thu, 21 Sep 2023 16:16:58 +0900</pubDate>
       
       <guid>https://llxyo.github.io/genre/%E8%81%96%E5%9C%B0%E5%B7%A1%E7%A4%BC/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ヒューマンドラマ</title>
-      <link>https://llxyo.github.io/genre/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%89%E3%83%A9%E3%83%9E/</link>
-      <pubDate>Thu, 21 Sep 2023 00:18:34 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%89%E3%83%A9%E3%83%9E/</guid>
       <description></description>
     </item>
     
@@ -53,24 +71,6 @@
       <pubDate>Wed, 06 Sep 2023 21:27:13 +0900</pubDate>
       
       <guid>https://llxyo.github.io/genre/%E5%AD%A6%E5%9C%92/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>青春</title>
-      <link>https://llxyo.github.io/genre/%E9%9D%92%E6%98%A5/</link>
-      <pubDate>Wed, 06 Sep 2023 21:27:13 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E9%9D%92%E6%98%A5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>音楽</title>
-      <link>https://llxyo.github.io/genre/%E9%9F%B3%E6%A5%BD/</link>
-      <pubDate>Wed, 06 Sep 2023 21:27:13 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E9%9F%B3%E6%A5%BD/</guid>
       <description></description>
     </item>
     
