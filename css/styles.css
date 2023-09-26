@@ -299,7 +299,7 @@ blockquote .author {
 button {
     font-size: 1.25rem;
     border-radius: 0.33em;
-    font-family: 'Noto Serif JP', serif;
+    font-family: inherit;
     background: #111;
     color: #fefefe;
     padding: 0.75rem;
@@ -1438,7 +1438,7 @@ svg > path{
 }
 .note.warning {
     border-left: 0;
-    background-image: url(https://llxyo.github.io/css/images/stripe.svg);
+    background-image: url('https://llxyo.github.io/css/images/stripe.svg');
     background-size: 0.5rem auto;
     background-repeat: repeat-y;
 }
@@ -1457,7 +1457,7 @@ svg > path{
     width: 1rem;
     height: 1rem;
     margin-right: 0.25rem;
-    background-image: url(https://llxyo.github.io/css/images/icon-tick.svg);
+    background-image: url('https://llxyo.github.io/css/images/icon-tick.svg');
     background-size: 100% auto;
     position: absolute;
     left: -1.25rem;
@@ -1656,15 +1656,19 @@ p:empty {
 }
 
 /* SVG icons */
-a svg,
+a svg{
+    height: 1.1em;
+    width: 1.1em;
+    margin-top: 0.3em;
+}
 button svg,
 h1 svg,
 h2 svg,
 th svg,
 li > svg {
-    height: 1.1em;
-    width: 1.1em;
-    margin-top: 0.3em;
+height: 0.75em;
+width: 0.75em;
+margin-right: 0.25em;
 }
 h1 svg,
 h2 svg {
