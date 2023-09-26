@@ -1668,6 +1668,11 @@ th svg,
 li > svg {
 height: 0.75em;
 width: 0.75em;
+}
+h1 svg,
+h2 svg,
+th svg,
+li > svg {
 margin-right: 0.25em;
 }
 h1 svg,
