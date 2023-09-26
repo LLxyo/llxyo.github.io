@@ -1,11 +1,5 @@
 /* Fonts */
 @font-face {
-    src: url('https://llxyo.github.io/css/fonts/Noto_Serif_JP/NotoSerifJP.woff') format("woff");
-    font-family: "Noto Serif JP", serif;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
     font-family: 'Noto Serif JP', serif;
     src: url('https://llxyo.github.io/css/fonts/miriamlibre-bold.woff2') format('woff2'), url('https://llxyo.github.io/css/fonts/miriamlibre-bold.woff') format('woff');
     font-style: normal;
