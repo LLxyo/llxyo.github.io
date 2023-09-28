@@ -503,13 +503,16 @@ main .informations{
     margin-top: 2.25rem;
     margin-bottom: 2.25rem;
 }*/
-.seealso{
+.seealso1{
+    margin-top: 2.25rem;
+}
+.seealso2{
     margin-top: 1rem;
 }
 .ul_seealso{
     margin-top: 0.5rem;
 }
-.seealso, .related{
+.seealso1,.seealso2, .related{
     max-width: 45rem;
 }
 [role="contentinfo"] {
@@ -970,6 +973,18 @@ a.pagination__link{
     padding: 5px;
     width: 100%;
     margin-top: 1rem;
+}
+/*下部のタグ一覧*/
+.informations_under{
+    font-family: Arial, 'Noto Sans JP', sans-serif;
+    box-sizing: content-box;
+    border: #000 solid 2px;
+    padding: 10px;
+    width: 90%;
+    margin-top: 1rem;
+}
+.informations_under p{
+    margin-bottom: 0.3rem !important;
 }
 /* アフィリエイトリンクボタン */
 .aficard .afiimage{
