@@ -1260,7 +1260,7 @@ p.description,.post_title,div.article,div .eyes, div .eye_head,.ul_toppage {/*[*
     display: flex;
     display: block;
     z-index: 1;
-    bottom: 4rem; /*位置固定*/
+    bottom: 1.5rem; /*位置固定*/
     right: 7%; /*位置固定*/
     text-align: center; /*アイコンの中央寄せ*/
     line-height: 5rem; /*アイコンの中央寄せ*/
@@ -1432,6 +1432,49 @@ svg > path{
     visibility: hidden;
     opacity: 0;
   }
+}
+/*トップへ戻るボタン*/
+html {
+    scroll-behavior: smooth;
+}
+@media screen and (min-width: 55rem){/*PC表示*/
+    .pagetop {
+        position: fixed;
+        bottom: 1.5rem;
+        right: 40%;
+        height: 50px;
+        width: 50px;
+        background: #000;
+        border: solid 2px #fff;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        z-index: 2;
+    }
+}
+@media screen and (max-width: 55rem){/*スマホ表示*/
+    .pagetop {
+        height: 50px;
+        width: 50px;
+        position: fixed;
+        right: 50%;
+        bottom: 30px;
+        background: #fff;
+        border: solid 2px #000;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        z-index: 2;
+    }
+}
+.pagetop__arrow {
+    height: 10px;
+    width: 10px;
+    border-top: 3px solid #fff;
+    border-right: 3px solid #fff;
+    transform: translateY(20%) rotate(-45deg);
 }
 /*↑↑↑カスタム*/
 
