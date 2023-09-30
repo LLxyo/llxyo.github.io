@@ -533,6 +533,12 @@ main .informations{
 }
 
 /************Custmoizedカスタマイズド****/
+@media screen and (min-width: 45rem)/*PC表示*/{
+    main p{
+        max-width: 42rem;
+    }
+}
+/**関連記事**/
 .seealso1{
     margin-top: 2.25rem;
 }
@@ -625,12 +631,12 @@ main .informations{
 .readotherpost1{
     text-align: center;
 }
-@media screen and (min-width: 55rem)/*PC表示*/{
+@media screen and (min-width: 45rem)/*PC表示*/{
     .readotherpost2{
         float: let;
     }
 }
-@media screen and (max-width: 55rem)/*PC表示*/{
+@media screen and (max-width: 45rem)/*PC表示*/{
     .readotherpost3{
         margin-top: 3rem;
     }
@@ -683,12 +689,12 @@ main .informations{
 .concept,.concept_post{
     color:#656565;
 }
-@media screen and (max-width: 55rem){
-    .page_title{
+@media screen and (max-width: 55rem){/*文字が重ならないように、45remではなく、55remで区切る*/
+    .page_title_m{
         display: none;
     }
 }
-@media screen and (min-width: 55rem){/*PC表示*/
+@media screen and (min-width: 55rem){/*文字が重ならないように、45remではなく、55remで区切る*/
     .concept,.concept_post{
         margin-top: 0;
         position: absolute;
@@ -707,7 +713,7 @@ main .informations{
         margin-top: 0;
     }
 }
-@media screen and (max-width: 55rem){/*スマホ、タブレット表示*/
+@media screen and (max-width: 45rem){/*スマホ、タブレット表示*/
     .concept,.concept_post{
         margin-top: -1rem;
         text-align: center;
@@ -1008,7 +1014,6 @@ a.pagination__link{
     box-sizing: content-box;
     border: #000 solid 2px;
     padding: 5px;
-    width: 100%;
     margin-top: 1rem;
 }
 /*下部のタグ一覧*/
@@ -1105,7 +1110,7 @@ a.pagination__link{
 }
 
 /*Youtube埋め込み*/
-@media screen and (min-width: 55rem){/*PC表示*/
+@media screen and (min-width: 45rem){/*PC表示*/
     .video{
         width:70%;              /*横幅いっぱいにwidthを指定*/
         padding-bottom: 39.375%;  /*高さをpaddingで指定(16:9)*/
@@ -1113,7 +1118,7 @@ a.pagination__link{
         position: relative;
     }
 }
-@media screen and (max-width: 55rem){/*タブレット、スマホ表示*/
+@media screen and (max-width: 45rem){/*タブレット、スマホ表示*/
     .video{
         width:100%;              /*横幅いっぱいにwidthを指定*/
         padding-bottom: 56.25%;  /*高さをpaddingで指定(16:9)*/
@@ -1164,7 +1169,6 @@ li {/*リストの点を削除*/
     }
 }
   @media screen and (min-width: 69rem){/*1105px ~ */
-
   .post{/*タイル*/
     width: 28%;/*タイル並び 3列*/
     margin-top: 1rem;
@@ -1180,7 +1184,7 @@ li {/*リストの点を削除*/
 }
 @media screen and (min-width: 50rem) and (max-width: 69rem/*61.5rem*/){/*799px ~ 1105px*/
   .post{/*タイル*/
-    width: 36.5%;/*タイル並び 2列*/
+    width: 41%;/*タイル並び 2列*/
     margin-top: 2rem;
     margin-right: 0.25rem;
     margin-left: 0.25rem;
@@ -1192,7 +1196,7 @@ li {/*リストの点を削除*/
     padding-bottom: 8px;
   }
 }
-@media screen and (min-width: 28rem) and (max-width: 50rem){/* 448px ~ 799px*/
+@media screen and (min-width: 45rem) and (max-width: 50rem){/* 720px ~ 799px*/
   .post{/*タイル*/
     margin-top: 2rem;/*タイル並び 1列*/
     margin-right: 1rem;
@@ -1205,7 +1209,21 @@ li {/*リストの点を削除*/
     padding-bottom: 8px;
   }
 }
-@media screen and (max-width: 28rem){/* ~ 448px*/
+@media screen and (min-width: 30rem) and (max-width: 45rem/*61.5rem*/){/*799px ~ 1105px*/
+    .post{/*タイル*/
+      width: 41%;/*タイル並び 2列*/
+      margin-top: 2rem;
+      margin-right: 0.25rem;
+      margin-left: 0.25rem;
+      box-sizing: content-box;
+      border: 2px solid;
+      border-color: #ddd;
+      border-radius: 10px;
+      padding: 12px;
+      padding-bottom: 8px;
+    }
+  }
+@media screen and (max-width: 30rem){/* ~ 448px*/
     .post{/*タイル*/
       margin-top: 1rem;
       margin-right: 1rem;
@@ -1286,6 +1304,7 @@ p.description,.post_title,div.article,div .eyes, div .eye_head,.ul_toppage {/*[*
 .tag-inline{
     display: inline-block;
     margin-right: 1rem;
+    margin-bottom: 1rem;
 }
 .tags {
     margin-top: 0;
@@ -1505,6 +1524,7 @@ html {
         position: fixed;
         bottom: 1.5rem;
         left: 50%;
+        margin-left: 5rem;
         height: 50px;
         width: 50px;
         background: #000;
