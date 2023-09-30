@@ -533,6 +533,11 @@ main .informations{
 }
 
 /************Custmoizedカスタマイズド****/
+.li_toc{
+    float: left;
+    margin-top: 0.5rem;
+    margin-right: 1rem;
+}
 @media screen and (min-width: 45rem)/*PC表示*/{
     main p{
         max-width: 42rem;
@@ -563,34 +568,38 @@ main .informations{
     .related{
         width:21%;
     }
+    .related:nth-child(9),.related:nth-child(10){/*トップページ3つ目の記事を消す*/
+        display: none;
+    }
 }
 @media screen and  (min-width: 45rem) and (max-width: 59rem){/*720px ~ 945px : 6枚表示*/
     .related{
         width:29%;
     }
-
+    .related:nth-child(7),.related:nth-child(8),.related:nth-child(9),.related:nth-child(10){/*トップページ3つ目の記事を消す*/
+        display: none;
+    }
 }
 @media screen and  (min-width: 38rem) and (max-width: 45rem){/*609px ~ 720px : 8枚表示*/
     .related{
         width:21%;
     }
-}
-@media screen and  (min-width: 25rem) and (max-width: 38rem){/*399px ~ 609px : 6枚表示*/
-    .related{
-        width:29%;
-    }
-}
-@media screen and  (max-width: 25rem){/* ~ 399px*/
-    .related{
-        width:29%;
-    }
-}
-@media screen and (min-width: 35rem) and (max-width: 63rem){/*560px ~ 1008px : 8枚表示*/
     .related:nth-child(9),.related:nth-child(10){/*トップページ3つ目の記事を消す*/
         display: none;
     }
 }
-@media screen and (max-width: 35rem){/* ~ 560px : 6枚表示*/
+@media screen and  (min-width: 22rem) and (max-width: 38rem){/*352px ~ 609px : 6枚表示*/
+    .related{
+        width:30%;
+    }
+    .related:nth-child(7),.related:nth-child(8),.related:nth-child(9),.related:nth-child(10){/*トップページ3つ目の記事を消す*/
+        display: none;
+    }
+}
+@media screen and  (max-width: 22rem){/* ~ 352px*/
+    .related{
+        width:45%;
+    }
     .related:nth-child(7),.related:nth-child(8),.related:nth-child(9),.related:nth-child(10){/*トップページ3つ目の記事を消す*/
         display: none;
     }
@@ -605,7 +614,10 @@ main .informations{
     border: 2px solid;
     border-color: #ddd;
     border-radius: 10px;
-    padding: 1%;
+    padding: 0.5%;
+}
+.eyecatch_related{
+    border-radius: 4px 4px 4px 4px;
 }
 @media screen and (min-width: 31rem){/* ~ 496px*/
     .eyecatch_related{
@@ -633,7 +645,7 @@ main .informations{
 }
 @media screen and (min-width: 45rem)/*PC表示*/{
     .readotherpost2{
-        float: let;
+        float: left;
     }
 }
 @media screen and (max-width: 45rem)/*PC表示*/{
@@ -670,10 +682,6 @@ main .informations{
 }
 .left{
     float: left;
-    margin-right: 1rem;
-}
-.clear{
-    clear: both;
     margin-right: 1rem;
 }
 @media screen and (max-width: 45rem){
@@ -1021,7 +1029,7 @@ a.pagination__link{
     font-family: Arial, 'Noto Sans JP', sans-serif;
     box-sizing: content-box;
     border: #000 solid 2px;
-    padding: 10px;
+    padding: 5px 10px 10px 10px;
     width: 90%;
     margin-top: 1rem;
 }
@@ -1033,45 +1041,29 @@ a.pagination__link{
     border-bottom: 0px;
     font-size: 0.7rem;
 }
-@media screen and (min-width: 768px){
-    .afi{
-        width:50% !important;
-        float: left;
-        padding-right: 5%;
-    }
-}
-@media screen and (max-width: 768px){   
-    .aficard{
-        width:50% !important;
-        float: left;
-        padding-right: 5%;
-        margin-bottom: 5%;
-    }
-}
-
 @media screen and (min-width: 450px){
     .aficard{
         width:25% !important;
         float: left;
-        padding-right: 5%;
-        margin-bottom: 5%;
-    }
-    .clear{
-        clear: both;
+        padding-right: 3%;
+        margin-top:5%;
     }
 }
 @media screen and (min-width: 300px) and (max-width: 450px){
     .aficard{
         width:50% !important;
         float: left;
-        padding-right: 5%;
-        margin-bottom: 5%;
-    }
-    .clear{
-        clear: both;
+        padding-right: 3%;
+        margin-top:5%;
     }
 }
 @media screen and (max-width: 300px){
+    .aficard{
+        width:50% !important;
+        float: left;
+        padding-right: 3%;
+        margin-top:5%;
+    }
 }
 .clear{
     clear: both;
