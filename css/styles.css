@@ -411,7 +411,7 @@ caption {
 @media screen and (max-width: 45rem){/*スマホviaでカラム幅を広げるが、関連記事だけは除く*/
     .main-and-footer > div > #main {
         margin: 0 auto;
-        padding-top: 3rem/*3rem*/;
+        padding-top: 3rem;
         width: 90%;
     }
 }
@@ -533,11 +533,18 @@ main .informations{
 }
 
 /************Custmoizedカスタマイズド****/
+/*目次*/
 .li_toc{
-    float: left;
     margin-top: 0.5rem;
     margin-right: 1rem;
 }
+@media screen and (min-width: 45rem)/*PC表示*/{
+    .li_toc{
+        float: left;
+        width: 45%;
+    }
+}
+/*Pc表示時のみ、本文幅を狭くする*/
 @media screen and (min-width: 45rem)/*PC表示*/{
     main p{
         max-width: 42rem;
@@ -643,14 +650,14 @@ main .informations{
 .readotherpost1{
     text-align: center;
 }
-@media screen and (min-width: 45rem)/*PC表示*/{
+@media screen and (min-width: 66rem)/*PC表示 重なるので45remでなく66rem*/{
     .readotherpost2{
         float: left;
     }
 }
-@media screen and (max-width: 45rem)/*PC表示*/{
+@media screen and (max-width: 66rem)/*PC表示 重なるので45remでなく66rem*/{
     .readotherpost3{
-        margin-top: 3rem;
+        margin-top: 1.5rem;
     }
 }
 .readotherpost2{
@@ -821,7 +828,7 @@ main .informations{
     }
 }
 .quote{/*キャプション*/
-    margin-top: 0;
+    margin-top: 3px;
     font-size: 10px;
     margin-left: 0.5rem;
     padding-right: 0.5rem;
@@ -1067,6 +1074,7 @@ a.pagination__link{
 }
 .clear{
     clear: both;
+    margin-top: 0;
 }
 .button001 a {
     background: #eee;
@@ -1134,7 +1142,12 @@ a.pagination__link{
     padding-top: 10px;
     padding-left: 0.5rem;
     padding-right: 0.5rem;
-}
+    /**/
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 4; /* 任意の行数を指定 */
+  }
 .post_title{
     padding-left: 0.5rem;
     padding-right: 0.5rem;
@@ -1155,8 +1168,8 @@ a .article_link{/*各記事サムネイルのurl下部線消去*/
 li {/*リストの点を削除*/
     list-style: none;
 }
-@media screen and (min-width: 45rem/*720px*/) and (max-width: 1104px){/*スマホvia*/
-    .article .post:nth-child(3){/*トップページ3つ目の記事を消す*/
+@media screen and (min-width: 30rem) and (max-width: 45rem){/*スマホvia*/
+    .article .post_toppgae:nth-child(3){/*トップページ3つ目の記事を消す*/
         display: none;
     }
 }
@@ -1187,6 +1200,9 @@ li {/*リストの点を削除*/
     padding: 12px;
     padding-bottom: 8px;
   }
+  .article .post_toppage:nth-child(3){/*トップページ3つ目の記事を消す*/
+    display: none;
+  }
 }
 @media screen and (min-width: 45rem) and (max-width: 50rem){/* 720px ~ 799px*/
   .post{/*タイル*/
@@ -1200,8 +1216,11 @@ li {/*リストの点を削除*/
     padding: 12px;
     padding-bottom: 8px;
   }
+  .article .post_toppage:nth-child(3){/*トップページ3つ目の記事を消す*/
+    display: none;
+  }
 }
-@media screen and (min-width: 30rem) and (max-width: 45rem/*61.5rem*/){/*799px ~ 1105px*/
+@media screen and (min-width: 30rem) and (max-width: 45rem/*61.5rem*/){
     .post{/*タイル*/
       width: 41%;/*タイル並び 2列*/
       margin-top: 2rem;
@@ -1214,7 +1233,10 @@ li {/*リストの点を削除*/
       padding: 12px;
       padding-bottom: 8px;
     }
-  }
+    .article .post_toppage:nth-child(3){/*トップページ3つ目の記事を消す*/
+        display: none;
+    }
+}
 @media screen and (max-width: 30rem){/* ~ 448px*/
     .post{/*タイル*/
       margin-top: 1rem;
@@ -1985,7 +2007,7 @@ h2 svg {
         -right: none;
     }
     .intro-and-nav > div {
-        padding: 1.5rem;
+        padding: 1.5rem 1.5rem 0 1.5rem;
     }
     .main-and-footer {
         margin: 0;
