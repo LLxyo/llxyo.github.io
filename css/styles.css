@@ -730,13 +730,28 @@ main .informations{
 }
 #svg_m{
     margin: 0 auto;
-}
+}/*
 .logo_m_div{
     width: 80%;
     float: left;
     margin-top: 0.625rem;
     position: absolute;
     left: 26.666666666666666666666666666666%;
+}*/
+@media screen and (max-width: 45rem){/*PC表示*/
+    .logo_m_div {
+        width: 80%;
+        margin-top: 0.625rem;
+        float: left;
+        position: absolute;
+        left: 12.5%;
+        margin-right: 0.625rem;
+        background-color: rgb(255,255,255, 0);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
 }
 .logo_m{
 }
@@ -1476,11 +1491,12 @@ svg > path{
 html {
     scroll-behavior: smooth;
 }
-@media screen and (min-width: 55rem){/*PC表示*/
+@media screen and (min-width: 45rem){/*PC表示*/
     .pagetop {
+        margin-left: rem;
         position: fixed;
         bottom: 1.5rem;
-        right: 40%;
+        left: 50%;
         height: 50px;
         width: 50px;
         background: #000;
@@ -1490,14 +1506,15 @@ html {
         justify-content: center;
         align-items: center;
         z-index: 2;
+        text-align: center;
     }
 }
-@media screen and (max-width: 55rem){/*スマホ表示*/
+@media screen and (max-width: 45rem){/*スマホ表示*/
     .pagetop {
         height: 50px;
         width: 50px;
         position: fixed;
-        right: 50%;
+        left: 50%;
         bottom: 30px;
         background: #000;
         border: solid 2px #fff;
@@ -1506,6 +1523,8 @@ html {
         justify-content: center;
         align-items: center;
         z-index: 2;
+        text-align: center;
+        transform: translate(-50%, 0);
     }
 }
 .pagetop__arrow {
