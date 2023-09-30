@@ -723,6 +723,14 @@ main .informations{
         display: none;
     }
 }
+@media screen and (max-width: 45rem){
+    .intro_m{
+        min-width: 20rem;
+        max-width: 25rem;
+        right: 50%;
+        margin: 0 auto;
+    }
+}
 .menu-button_m_div{
     float: left;
     margin-right: 0;
