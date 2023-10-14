@@ -1,4 +1,4 @@
-/* Fonts */
+/* Fonts *
 @font-face {
     font-family: 'Noto Serif JP', serif;
     src: url('https://llxyo.github.io/css/fonts/Noto_Serif_JP/NotoSerifJP-Black.woff2') format('woff2'),
@@ -11,7 +11,7 @@
     font-display: swap;
     font-weight: 500;
     font-style: normal;
-}
+}*/
 *,
 *::before,
 *::after {
@@ -126,10 +126,7 @@ p.library-desc{
     font-family: 'Noto Serif JP', serif;
     font-size: 1.2rem;
 }
-h1,
-h2,
-h3,
-h4 {
+h1,h2,h3,h4 {
     font-family: 'Noto Serif JP', serif;
     line-height: 1.125;
 }
@@ -144,7 +141,6 @@ h3 {
 }
 h4 {
     font-size: 17px;
-    font-family: 'Noto Serif JP', serif;
 }
 h5 {
     font-size: 0.85rem;
