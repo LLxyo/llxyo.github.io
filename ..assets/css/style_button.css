@@ -1,0 +1,75 @@
+/*fixed_content.html*/
+/*トップへ戻るボタン*/
+html {
+    scroll-behavior: smooth;
+}
+@media screen and (min-width: 45rem){/*PC表示*/
+    .pagetop {
+        margin-left: rem;
+        position: fixed;
+        bottom: 1.5rem;
+        left: 50%;
+        margin-left: 5rem;
+        height: 50px;
+        width: 50px;
+        background: #000;
+        border: solid 2px #fff;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        z-index: 2;
+        text-align: center;
+    }
+}
+@media screen and (max-width: 45rem){/*スマホ表示*/
+    .pagetop {
+        height: 50px;
+        width: 50px;
+        position: fixed;
+        left: 50%;
+        bottom: 30px;
+        background: #000;
+        border: solid 2px #fff;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        z-index: 2;
+        text-align: center;
+        transform: translate(-50%, 0);
+    }
+}
+.pagetop__arrow {
+    height: 10px;
+    width: 10px;
+    border-top: 3px solid #fff;
+    border-right: 3px solid #fff;
+    transform: translateY(20%) rotate(-45deg);
+}
+
+/*シェアボタン*/
+.share a{
+    border: none; /*リンクの下線消すけど、なくても良い？*/
+}
+.share a i{
+    margin-top: 0;
+    display: inline-block;
+    border-radius: 40%;
+    width: 1.7em; /*円の大きさ*/
+    height: 1.7em; /*円の大きさ*/
+    position: fixed !important; /*位置固定*/
+    position: -webkit-fixed;
+    transform: translate3d(0, 0, 0);
+    display: flex;
+    display: block;
+    z-index: 1;
+    bottom: 1.5rem; /*位置固定*/
+    right: 7%; /*位置固定*/
+    text-align: center; /*アイコンの中央寄せ*/
+    line-height: 5rem; /*アイコンの中央寄せ*/
+    background-color: #2198e3;
+    color: #fff;
+    /*ダークテーマにすると位置固定が効かなくなる*/
+    /*position: fixed;が効いてない*/
+}

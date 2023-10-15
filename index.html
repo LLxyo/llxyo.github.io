@@ -17,10 +17,12 @@
   <meta name="msapplication-TileColor" content="#ffffff">
   <meta name="theme-color" content="#ffffff">
 
-
   
   
   <link rel="stylesheet" type="text/css" href="https://llxyo.github.io/css/styles.css">
+  
+  
+  <link rel="stylesheet" type="text/css" href="https://llxyo.github.io/css/style_toppage.css">
 
   <style id="inverter" media="none">
     .intro-and-nav, .main-and-footer { filter: invert(100%) }
@@ -29,15 +31,7 @@
   </style>
 
 <meta name="google-site-verification" content="qKN8ZSNx5Ba24oDQGqPtqccA7-moywKnyl1WoPTqkHo" />    
-
-  <title>LLxyo's Daydreams</title>
-
-  
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  
-  
-  <link rel="stylesheet" href="https://llxyo.github.io/css/font.css"><script type="application/ld+json">
+  <title>LLxyo's Daydreams</title><script type="application/ld+json">
         {
           "@context": "https://schema.org",
           "@type": "BlogPosting",
@@ -60,10 +54,14 @@
           }
         }
 </script></head>
-
-
   <body>
     <a href="#main">skip to content</a>
+    
+    
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@500&display=swap');
+    </style>
+
     <svg style="display: none">
   <symbol id="bookmark" viewBox="0 0 40 50">
    <g transform="translate(2266 3206.2)">
@@ -156,7 +154,6 @@
     <div class="wrapper">
       <header class="intro-and-nav" role="banner">
   <div>
-
     <div class="intro">
       <a class="logo" href="/post" aria-label="LLxyo&#39;s Daydreams home page">
         <h1 style="color:rgb(90 118 186);">LLxyo's</h1>
@@ -169,66 +166,76 @@
       </p>
     </div>
 
-    <nav id="patterns-nav" class="patterns" role="navigation">
-  <h2 class="vh">Main navigation</h2>
-  <button id="menu-button" aria-expanded="false">
-    <svg viewBox="0 0 50 50" aria-hidden="true" focusable="false">
-      <use xlink:href="#menu"></use>
-    </svg>
-  </button>
-
-  <ul id="patterns-list">
-    <li class="pattern">
-      <a href="/" aria-current="page">
-        <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
-          <use xlink:href="#bookmark"></use>
-        </svg>
-        <span class="text">Home</span>
-      </a>
-    </li>
-    <li class="pattern">
-      <a href="/post/">
-        <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
-          <use xlink:href="#bookmark"></use>
-        </svg>
-        <span class="text">Reviews</span>
-      </a>
-    </li>
-    <li class="pattern">
-      <a href="/photolog/" >
-        <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
-          <use xlink:href="#bookmark"></use>
-        </svg>
-        <span class="text">Photologs</span>
-      </a>
-    </li>
-    <li class="pattern">
-      <a href="/taxonomies/">
-        <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
-          <use xlink:href="#bookmark"></use>
-        </svg>
-        <span class="text">Tags</span>
-      </a>
-    </li>
-  <li class="pattern">
-       <a href="/contact/">
-        <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
-         <use xlink:href="#bookmark"></use>
-        </svg>
-        <span>Contact</span>
-      </a>
-    </li>
-  <li class="pattern">
-       <a href="/index.xml">
-        <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
-         <use xlink:href="#bookmark"></use>
-        </svg>
-        <span class="text">RSS</span>
-      </a>
-    </li>
+  <nav id="patterns-nav" class="patterns" role="navigation">
+    <h2 class="vh">Main navigation</h2>
+    <button id="menu-button" aria-expanded="false">
+      <svg id="svg_m" viewBox="0 0 50 50" aria-hidden="true" focusable="false">
+        <use xlink:href="#menu"></use>
+      </svg>
+    </button>
     
-  </ul>
-</nav>
+    <ul id="patterns-list">
+      <li class="pattern">
+        <a href="/" aria-current="page">
+          <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
+            <use xlink:href="#bookmark"></use>
+          </svg>
+          <span class="navname">Home</span>
+          <span class="nav_description"></span>
+        </a>
+      </li>
+    
+      <li class="pattern">
+        <a href="/post/">
+          <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
+            <use xlink:href="#bookmark"></use>
+          </svg>
+          <span class="navname">Review</span>
+          <span class="nav_description">─ 感想・考察記事</span>
+        </a>
+      </li>
+    
+      <li class="pattern">
+        <a href="/photolog/">
+          <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
+            <use xlink:href="#bookmark"></use>
+          </svg>
+          <span class="navname">Photolog</span>
+          <span class="nav_description">─ 聖地巡礼記</span>
+        </a>
+      </li>
+    
+      <li class="pattern">
+        <a href="/tags/">
+          <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
+            <use xlink:href="#bookmark"></use>
+          </svg>
+          <span class="navname">Tags</span>
+          <span class="nav_description">─ タグ一覧</span>
+        </a>
+      </li>
+    
+      <li class="pattern">
+        <a href="/contact/">
+          <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
+            <use xlink:href="#bookmark"></use>
+          </svg>
+          <span class="navname">Contact</span>
+          <span class="nav_description"></span>
+        </a>
+      </li>
+    
+      <li class="pattern">
+        <a href="/index.xml">
+          <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
+            <use xlink:href="#bookmark"></use>
+          </svg>
+          <span class="navname">RSS</span>
+          <span class="nav_description"></span>
+        </a>
+      </li>
+    </ul>
+  </nav>
 
   <div class="logo_m_div">
   <a class="logo logo_m" href="/" aria-label="LLxyo&#39;s Daydreams home page">
@@ -248,16 +255,13 @@
   </p>
   </div>
 </div>
-
   </div>
 </header>
+
       <div class="main-and-footer">
         <div>
-          
   <main id="main">
-
     <h2 class="slidein1">逃げないで、この想い─</h2>
-
     <ul class="ul_toppage">
           <div class="article">
             
@@ -309,44 +313,50 @@
       </ul>
         
         <h2  class="slidein2">─忘れないで、この感動</h2>
-
     <h2 class="readotherpost1">─ Read other posts─</h2>
-
       <div class="readotherpost2">
         <div>
           <a href="/post"><h3>物々語たちのレビュー</h3></a>
           <a href="/post"><p>#アニメ #漫画 #映画 #ラノベ…</p></a>
         </div>
       </div>
-
       <div class="readotherpost3">
         <div>
           <a href="/photolog"><h3>巡り巡るトラベローグ</h3></a>
           <a href="/photolog"><p>#聖地巡礼 #展示会 #イベント…</p></a>
         </div>
       </div>
-
 <div class="ticks">
 </div>
-
-  </main>
-
-          <footer role="contentinfo">
+</main>
+  
+<footer role="contentinfo">
   <div>
     <label for="themer">
       dark theme: <input type="checkbox" id="themer" class="vh">
       <span aria-hidden="true"></span>
     </label>
   </div>
-  
 </footer>
-
         </div>
       </div>
     </div>
     
     <script src="https://llxyo.github.io/js/dom-scripts.js"></script>
+    
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=Page%28%2f_index.md%29"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'Page(\/_index.md)');
+</script>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PM6MBCZL"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 

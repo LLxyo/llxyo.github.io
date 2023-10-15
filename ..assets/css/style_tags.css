@@ -1,0 +1,51 @@
+/*タグ:Series,Brand,Genre一覧*/
+.tag-inline{
+    display: inline-block;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+}
+/*タグ:Categories,Series,Brand,Genre一覧*/
+.indent{
+    padding-left: 3em;
+    text-indent: -3.5em;
+}
+.patterns-list-tags{
+    column-count:1;/*2で縦列を2行化できる*/
+    list-style: none;
+    margin-left: 0;
+}
+.patterns-list-tags h2 {
+    font-size: 1.25rem;
+    line-height: 1.6;
+}
+.patterns-list-tags li:nth-child(1){
+    margin-top: 0;
+}
+.patterns-list-tags li {/*縦並び、下の記事用と同じ*/
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-bottom: 3px solid;
+}
+.patterns-list-tags li.article {/*記事用、横には並べないが全てに下線*/
+    margin-top: 1rem;
+    padding-top: 0rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    border-bottom: 3px solid;
+    border-top: 0px;
+}
+.patterns-list-tags li.tag-inline {/*横並びinline-block用、全てに線を下線として引く*/
+    margin-top: 1rem;
+    padding-top: 0rem;
+    border-top: 0px;
+    margin-top: 0px;
+    border-bottom: 3px solid;
+}
+.patterns-list-customterm li + li {
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 0px solid; /*タグの各項目の上線、邪魔なので消してある*/
+}
+.patterns-list-tags a {
+    border: 0;
+}
