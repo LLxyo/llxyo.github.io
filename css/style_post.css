@@ -97,6 +97,9 @@
 }
 
 /*本文*/
+main p{/*PC表示で本文幅を狭くする*/
+    max-width: 42rem;
+}
 /*目次*/
 .li_toc{
     margin-top: 0.5rem;
@@ -137,23 +140,28 @@
 }
 /*本文*/
 /*画像のポップアップ拡大_1*/
-@media screen and (min-width: 45rem){/*pcvia*/
+@media screen and (min-width: 30rem){/*pcvia*/
     .img_post{
-        position:relative;
-        display:inline-block;
-        min-height: 8rem;
-        height: 8rem;
+        position: relative;
+        display: inline-block;
         width: auto;
         max-width: 30%;
     }
+    .img_post label img{
+        min-height: 8rem;
+        width: auto 0;
+    }
 }
-@media screen and (max-width: 45rem){/*スマホvia*/
+@media screen and (max-width: 30rem){/*スマホvia*/
     .img_post{
         position:relative;
         display:inline-block;
         width: 0 auto;
         padding-top: 0.5rem;
         margin-top: 0;
+    }
+    .img_post label img{
+        max-height: 35vh;
     }
 }
 .rp_plus {
@@ -207,9 +215,11 @@
 /*画像のポップアップ拡大_2*/
 .popup_img{
     height: 0 auto;
-    width: auto;/*
-    max-height:; 87vh;*/
-    margin-top: 0rem;}
+    width: 30rem;
+    max-width: 70vw;
+    margin-top: 0rem;
+    margin-bottom: 0;
+}
 .overlay { /* グレーの背景 */
   position: fixed;
   background: rgba(0, 0, 0, 0.2);
@@ -225,7 +235,7 @@
 #pop-up01,#pop-up02,#pop-up03,#pop-up04,#pop-up05,#pop-up06,#pop-up07,#pop-up08,#pop-up09,#pop-up1,#pop-up2,#pop-up3,#pop-up4,#pop-up5,#pop-up6,#pop-up7,#pop-up8,#pop-up9,#pop-up10,#pop-up11,#pop-up12,#pop-up13,#pop-up14,#pop-up15,#pop-up16,#pop-up17,#pop-up18,#pop-up19,#pop-up20,#pop-up21,#pop-up22,#pop-up23,#pop-up24,#pop-up25,#pop-up26,#pop-up27,#pop-up28,#pop-up29,#pop-up30,#pop-up31,#pop-up32,#pop-up33,#pop-up34,#pop-up35,#pop-up36,#pop-up37,#pop-up38,#pop-up39,#pop-up40,#pop-up41,#pop-up42,#pop-up43,#pop-up44,#pop-up45,#pop-up46,#pop-up47,#pop-up48,#pop-up49,#pop-up50,#pop-up51,#pop-up52,#pop-up53,#pop-up54,#pop-up55,#pop-up56,#pop-up57,#pop-up58,#pop-up59,#pop-up60,#pop-up61,#pop-up62,#pop-up63,#pop-up64,#pop-up65,#pop-up66,#pop-up67,#pop-up68,#pop-up69,#pop-up70,#pop-up71,#pop-up72,#pop-up73,#pop-up74,#pop-up75,#pop-up76,#pop-up77,#pop-up78,#pop-up79,#pop-up80,#pop-up81,#pop-up82,#pop-up83,#pop-up84,#pop-up85,#pop-up86,#pop-up87,#pop-up88,#pop-up89,#pop-up90,#pop-up91,#pop-up92,#pop-up93,#pop-up94,#pop-up95,#pop-up96,#pop-up97,#pop-up98,#pop-up99,#pop-up100 {
   display: none;
 }
-@media screen and (min-width: 45rem){
+@media screen and (min-width: 30rem){
     #pop-up01:checked + .overlay,#pop-up02:checked + .overlay,#pop-up03:checked + .overlay,#pop-up04:checked + .overlay,#pop-up05:checked + .overlay,#pop-up06:checked + .overlay,#pop-up07:checked + .overlay,#pop-up08:checked + .overlay,#pop-up09:checked + .overlay,#pop-up1:checked + .overlay,#pop-up2:checked + .overlay,#pop-up3:checked + .overlay,#pop-up4:checked + .overlay,#pop-up5:checked + .overlay,#pop-up6:checked + .overlay,#pop-up7:checked + .overlay,#pop-up8:checked + .overlay,#pop-up9:checked + .overlay,#pop-up10:checked + .overlay,#pop-up11:checked + .overlay,#pop-up12:checked + .overlay,#pop-up13:checked + .overlay,#pop-up14:checked + .overlay,#pop-up15:checked + .overlay,#pop-up16:checked + .overlay,#pop-up17:checked + .overlay,#pop-up18:checked + .overlay,#pop-up19:checked + .overlay,#pop-up20:checked + .overlay,#pop-up21:checked + .overlay,#pop-up22:checked + .overlay,#pop-up23:checked + .overlay,#pop-up24:checked + .overlay,#pop-up25:checked + .overlay,#pop-up26:checked + .overlay,#pop-up27:checked + .overlay,#pop-up28:checked + .overlay,#pop-up29:checked + .overlay,#pop-up30:checked + .overlay,#pop-up31:checked + .overlay,#pop-up32:checked + .overlay,#pop-up33:checked + .overlay,#pop-up34:checked + .overlay,#pop-up35:checked + .overlay,#pop-up36:checked + .overlay,#pop-up37:checked + .overlay,#pop-up38:checked + .overlay,#pop-up39:checked + .overlay,#pop-up40:checked + .overlay,#pop-up41:checked + .overlay,#pop-up42:checked + .overlay,#pop-up43:checked + .overlay,#pop-up44:checked + .overlay,#pop-up45:checked + .overlay,#pop-up46:checked + .overlay,#pop-up47:checked + .overlay,#pop-up48:checked + .overlay,#pop-up49:checked + .overlay,#pop-up50:checked + .overlay,#pop-up51:checked + .overlay,#pop-up52:checked + .overlay,#pop-up53:checked + .overlay,#pop-up54:checked + .overlay,#pop-up55:checked + .overlay,#pop-up56:checked + .overlay,#pop-up57:checked + .overlay,#pop-up58:checked + .overlay,#pop-up59:checked + .overlay,#pop-up60:checked + .overlay,#pop-up61:checked + .overlay,#pop-up62:checked + .overlay,#pop-up63:checked + .overlay,#pop-up64:checked + .overlay,#pop-up65:checked + .overlay,#pop-up66:checked + .overlay,#pop-up67:checked + .overlay,#pop-up68:checked + .overlay,#pop-up69:checked + .overlay,#pop-up70:checked + .overlay,#pop-up71:checked + .overlay,#pop-up72:checked + .overlay,#pop-up73:checked + .overlay,#pop-up74:checked + .overlay,#pop-up75:checked + .overlay,#pop-up76:checked + .overlay,#pop-up77:checked + .overlay,#pop-up78:checked + .overlay,#pop-up79:checked + .overlay,#pop-up80:checked + .overlay,#pop-up81:checked + .overlay,#pop-up82:checked + .overlay,#pop-up83:checked + .overlay,#pop-up84:checked + .overlay,#pop-up85:checked + .overlay,#pop-up86:checked + .overlay,#pop-up87:checked + .overlay,#pop-up88:checked + .overlay,#pop-up89:checked + .overlay,#pop-up90:checked + .overlay,#pop-up91:checked + .overlay,#pop-up92:checked + .overlay,#pop-up93:checked + .overlay,#pop-up94:checked + .overlay,#pop-up95:checked + .overlay,#pop-up96:checked + .overlay,#pop-up97:checked + .overlay,#pop-up98:checked + .overlay,#pop-up99:checked + .overlay,#pop-up100:checked + .overlay{
         visibility: visible;
         opacity: 1;
@@ -287,7 +297,7 @@
 .clickable:hover {
   cursor: pointer;
 }
-@media screen and (max-width: 700px){
+@media screen and (max-width: 30rem){
   #pop-up:checked + .overlay, .my-parts {
     visibility: hidden;
     opacity: 0;

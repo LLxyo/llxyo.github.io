@@ -110,7 +110,7 @@ p.library-desc{
     font-family: 'Noto Serif JP', serif;
     font-size: 1.2rem;
 }
-h1,h2,h3,h4 {
+h1,h2,h3,h4,h5,h6 {
     font-family: 'Noto Serif JP', serif;
     line-height: 1.125;
 }
@@ -119,6 +119,9 @@ h1 {
 }
 h2 {
     font-size: 1.66rem;
+}
+main h2{
+    font-size: 25px;
 }
 h3 {
     font-size: 1.25rem;
@@ -131,12 +134,21 @@ h5 {
     text-transform: uppercase;
 }
 h6 {
-    font-size: 0.65rem;
+    font-size: 12px;
+}
+p {
+    font-size: 17px;
+    line-height: 27px;
+    font-family: Arial, 'Noto Sans JP', sans-serif;
 }
 @media screen and (max-width: 45rem){/*スマホ表示*/
     p {
-        font-size: 1.2rem;
+        font-size: 15px;
+        line-height: 25px;
         font-family: Arial, 'Noto Sans JP', sans-serif;
+    }
+    main h3,main h2{
+        font-size: 1.4rem;
     }
 }
 .fa{/*ペルシャ語*/
@@ -569,15 +581,26 @@ li{/*リストの点を削除*/
 /* Tables of contents */
 .toc {
     font-size: 0.85rem;
-    border: 1px solid;
-    padding: 1.5rem;
+    border: 2px solid;
+    padding: 0.5rem;
+    margin-top: 1rem !important;
 }
-.toc h2 {
+#toc-button *{
+    display:inline-block;
+}
+.toc_button_text{
+    margin-top: 0;
     font-size: 1rem;
 }
 .toc ol {
     margin-left: 0.75rem;
     margin-top: 0.5rem;
+}
+[aria-expanded="true"] + #toc_list {
+    display: block;
+}
+#toc_list{
+    display: none;
 }
 /* Disqus Comments */
 #disqus-container {
@@ -1053,9 +1076,6 @@ h2 svg {
     }
     main {
       min-height: auto;
-    }
-    main p{/*スマホ表示で本文幅を狭くする*/
-        max-width: 42rem;
     }
     #patterns-list {
       margin-top: 0.5rem;

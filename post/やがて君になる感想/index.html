@@ -340,12 +340,20 @@
     <h4 class="concept_post">「物語の読解、演出の解体、作品の抽象化」</h4>
 
     <div class="eyes_head">
-      
-      
-      
-      <img class="eyecatch_head" src="https://llxyo.github.io/post/%E3%82%84%E3%81%8C%E3%81%A6%E5%90%9B%E3%81%AB%E3%81%AA%E3%82%8B%E6%84%9F%E6%83%B3/image01_head.webp">
-      
-      
+      <picture>
+        
+        
+        
+        <source class="eyecatch_head" srcset="https://llxyo.github.io/post/%E3%82%84%E3%81%8C%E3%81%A6%E5%90%9B%E3%81%AB%E3%81%AA%E3%82%8B%E6%84%9F%E6%83%B3/image01.webp" media="(max-width:550px)">
+        
+        
+        
+        
+        
+        <img class="eyecatch_head" src="https://llxyo.github.io/post/%E3%82%84%E3%81%8C%E3%81%A6%E5%90%9B%E3%81%AB%E3%81%AA%E3%82%8B%E6%84%9F%E6%83%B3/image01_head.webp">
+        
+        
+      </picture>
       
       
       
@@ -445,9 +453,12 @@
     
     
 
-  <nav class="toc" aria-labelledby="toc-heading">
-    <h2 id="toc-heading">目次：</h2>
-    <ol>
+  <nav class="toc" aria-labelledby="toc-headin">
+    <button id="toc-button" aria-expanded="false">
+      <div class="pagetop__arrow" style="transform:rotate(45deg);"></div>
+      <h4 class="toc_button_text">目次：</h4>
+    </button>
+    <ol id="toc_list">
       
         <li class="li_toc">
           
@@ -482,7 +493,6 @@
       <div class="clear"></div>
     </ol>
   </nav>
-
 
     
 

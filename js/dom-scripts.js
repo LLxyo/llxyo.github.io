@@ -29,6 +29,18 @@
   }
 }());
 
+/* Menu button */
+(function () {
+  var button = document.getElementById('toc-button');
+  if (button) {
+    var menu = document.getElementById('toc-list');
+    button.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', !expanded);
+    })
+  }
+}());
+
 /* Persist navigation scroll point */
 (function () {
   window.onbeforeunload = function () {

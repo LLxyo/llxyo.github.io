@@ -340,12 +340,20 @@
     <h4 class="concept_post">「物語の読解、演出の解体、作品の抽象化」</h4>
 
     <div class="eyes_head">
-      
-      
-      
-      <img class="eyecatch_head" src="https://llxyo.github.io/post/wonderegg-priority/image01_head.webp">
-      
-      
+      <picture>
+        
+        
+        
+        <source class="eyecatch_head" srcset="https://llxyo.github.io/post/wonderegg-priority/image01.webp" media="(max-width:550px)">
+        
+        
+        
+        
+        
+        <img class="eyecatch_head" src="https://llxyo.github.io/post/wonderegg-priority/image01_head.webp">
+        
+        
+      </picture>
       
       
       
@@ -461,9 +469,12 @@
     
     
 
-  <nav class="toc" aria-labelledby="toc-heading">
-    <h2 id="toc-heading">目次：</h2>
-    <ol>
+  <nav class="toc" aria-labelledby="toc-headin">
+    <button id="toc-button" aria-expanded="false">
+      <div class="pagetop__arrow" style="transform:rotate(45deg);"></div>
+      <h4 class="toc_button_text">目次：</h4>
+    </button>
+    <ol id="toc_list">
       
         <li class="li_toc">
           
@@ -528,7 +539,6 @@
       <div class="clear"></div>
     </ol>
   </nav>
-
 
     
 
