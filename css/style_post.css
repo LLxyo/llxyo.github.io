@@ -380,6 +380,13 @@ main p{/*PC表示で本文幅を狭くする*/
 }
 
 /*関連記事*/
+@media screen and  (min-width: 45rem){
+    .main_related{
+    margin: 0 auto;
+    padding-left: 4%;
+    padding-right: 2%;
+    }
+}
 .seealso1{
     margin-top: 2.25rem;
 }
@@ -392,29 +399,29 @@ main p{/*PC表示で本文幅を狭くする*/
 .ul_seealso{
     margin-top: 0rem;
 }
-.seealso1,.seealso2, .related{
+.seealso1,.seealso2,.related{
     max-width: 45rem;
 }
 .related{
     padding-top: 0.25rem;
     padding-bottom: 0.25rem;
-    margin-right: 0.5%;
-    margin-left: 0.5%;
+    margin-right: 0.1%;
+    margin-left: 0.1%;
     margin-top: 0.5%;
     box-sizing: content-box;
     border: 2px solid;
     border-color: #ddd;
     border-radius: 10px;
-    padding: 0.5%;
+    padding: 0.5% 0.3% 0.3% 0.3%;
 }
 @media screen and (min-width: 73rem){/*1168px ~ : 10枚表示*/
     .related{
-        width:16%;
+        width:18%;
     }
 }
 @media screen and (min-width: 59rem) and (max-width: 73rem){/*945px ~ 1168px : 8枚表示*/
     .related{
-        width:21%;
+        width:22%;
     }
     .related:nth-child(9),.related:nth-child(10){/*トップページ3つ目の記事を消す*/
         display: none;

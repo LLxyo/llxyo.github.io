@@ -134,7 +134,7 @@ h5 {
     text-transform: uppercase;
 }
 h6 {
-    font-size: 12px;
+    font-size: 13px;
 }
 p {
     font-size: 17px;
@@ -531,10 +531,10 @@ li.pattern a{
     margin-left: 13rem;
 }
 @media screen and (min-width: 45rem){
-    .main-and-footer > div {
+    .main-and-footer > div > #main > div.main_ex{
         max-width: 60rem;
         margin: 0 auto;
-        padding-top: 3rem/*3rem*/;
+        padding-top: 3rem;
         padding-left: 5rem;
         padding-right: 5rem;
     }
