@@ -6,10 +6,19 @@
     <description>Recent content in Brand on LLxyo&#39;s Daydreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 10 Oct 2023 16:18:14 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 23 Oct 2023 22:35:12 +0900</lastBuildDate>
     
 	<atom:link href="https://llxyo.github.io/brand/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>P.A.WORKS</title>
+      <link>https://llxyo.github.io/brand/p.a.works/</link>
+      <pubDate>Mon, 23 Oct 2023 22:35:12 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/brand/p.a.works/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>タカヒロIVプロジェクト</title>
@@ -224,15 +233,6 @@
       <pubDate>Thu, 20 Jan 2022 10:35:31 +0900</pubDate>
       
       <guid>https://llxyo.github.io/brand/%E5%90%89%E6%B5%A6%E5%BA%B7%E8%A3%95/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>P.A.WORKS</title>
-      <link>https://llxyo.github.io/brand/p.a.works/</link>
-      <pubDate>Tue, 11 Jan 2022 21:44:09 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/brand/p.a.works/</guid>
       <description></description>
     </item>
     
