@@ -219,6 +219,10 @@ main p{/*PC表示で本文幅を狭くする*/
     margin-top: 0rem;
     margin-bottom: 0;
 }
+@media screen and (min-width: 45rem){
+    .popup_img{
+    max-width: 100vw;
+}
 .overlay { /* グレーの背景 */
   position: fixed;
   background: rgba(0, 0, 0, 0.2);
