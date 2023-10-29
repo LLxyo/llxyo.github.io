@@ -6,10 +6,19 @@
     <description>Recent content in Genre on LLxyo&#39;s Daydreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 27 Oct 2023 15:07:44 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 30 Oct 2023 00:41:05 +0900</lastBuildDate>
     
 	<atom:link href="https://llxyo.github.io/genre/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>聖地巡礼</title>
+      <link>https://llxyo.github.io/genre/%E8%81%96%E5%9C%B0%E5%B7%A1%E7%A4%BC/</link>
+      <pubDate>Mon, 30 Oct 2023 00:41:05 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E8%81%96%E5%9C%B0%E5%B7%A1%E7%A4%BC/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ヒューマンドラマ</title>
@@ -35,15 +44,6 @@
       <pubDate>Fri, 27 Oct 2023 15:07:44 +0900</pubDate>
       
       <guid>https://llxyo.github.io/genre/%E8%B3%AA%E3%82%A2%E3%83%8B%E3%83%A1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>聖地巡礼</title>
-      <link>https://llxyo.github.io/genre/%E8%81%96%E5%9C%B0%E5%B7%A1%E7%A4%BC/</link>
-      <pubDate>Wed, 25 Oct 2023 22:00:12 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E8%81%96%E5%9C%B0%E5%B7%A1%E7%A4%BC/</guid>
       <description></description>
     </item>
     
