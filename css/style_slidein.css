@@ -1,0 +1,53 @@
+/*記事一覧の装飾文字のスライドイン*/
+/*装飾文字の文字サイズ*/
+.slidein1,.slidein2,.slidein3{
+    font-size: 1.39rem;
+}
+h3.slidein3{
+    font-size: 1.25rem;
+}
+.slide3_color{
+    color:#3d74c6;
+}
+@media screen and (min-width: 69rem){/*1105px ~ */
+    .slidein3{
+        background-color: rgb(255,255,255,0);
+        animation: anim3 2.5s forwards;
+    }
+    @keyframes anim3 {
+        0% {
+            transform: translate(135%);
+        }
+        100% {
+            transform: translate(0%);
+        }
+    }
+}
+@media screen and (min-width: 45rem) and (max-width: 69rem){/*720px ~ 1105px*/
+    .slidein3{
+        background-color: rgb(255,255,255,0);
+        animation: anim3 2.5s forwards;
+    }
+    @keyframes anim3 {
+        0% {
+            transform: translate(135%);
+        }
+        100% {
+            transform: translate(0%);
+        }
+    }
+}
+@media screen and (max-width: 45rem){/*720px*/
+    .slidein3{
+        background-color: rgb(255,255,255,0);
+        animation: anim3 2s forwards;
+    }
+    @keyframes anim3 {
+        0% {
+            transform: translate(135%);
+        }
+        100% {
+            transform: translate(0%);
+        }
+    }
+}

@@ -42,11 +42,14 @@
 .slidein1,.slidein2,.slidein3{
     font-size: 1.39rem;
 }
+h3.slidein3{
+    font-size: 1.25rem;
+}
 .slide3_color{
     color:#3d74c6;
 }
 @media screen and (min-width: 69rem){/*1105px ~ */
-    h2.slidein3{
+    .slidein3{
         background-color: rgb(255,255,255,0);
         animation: anim3 2.5s forwards;
     }
@@ -60,7 +63,7 @@
     }
 }
 @media screen and (min-width: 45rem) and (max-width: 69rem){/*720px ~ 1105px*/
-    h2.slidein3{
+    .slidein3{
         background-color: rgb(255,255,255,0);
         animation: anim3 2.5s forwards;
     }
@@ -74,7 +77,7 @@
     }
 }
 @media screen and (max-width: 45rem){/*720px*/
-    h2.slidein3{
+    .slidein3{
         background-color: rgb(255,255,255,0);
         animation: anim3 2s forwards;
     }
