@@ -221,7 +221,7 @@ main p{/*PC表示で本文幅を狭くする*/
 }
 @media screen and (max-width: 45rem){
     .popup_img{
-    max-height: 85vh;
+    max-height: 70vh;
     max-width: 85vw;
     margin-top: 0rem;
     margin-bottom: 0;
