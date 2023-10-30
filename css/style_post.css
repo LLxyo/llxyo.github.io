@@ -207,8 +207,8 @@ main p{/*PC表示で本文幅を狭くする*/
 .my-parts div p{
     background-color: rgb(255,255,255, 0);
     position: absolute;
-    top: -42%;
-    left: 10%;
+    top: -0.5rem;
+    left: 0.13rem;
     font-size: 1.2rem;
     font-weight: bold;
 }
@@ -226,14 +226,16 @@ main p{/*PC表示で本文幅を狭くする*/
     display: flex;
 }
 /*画像直下のテキストの調整*/
-.img_post + .clear + p,.clear + p + p,.img_box + p, .img_post + p + p{
+.img_post + .clear + p,
+.img_post + p + p,
+.clear + p + p, .img_box + p{
     margin-top: 8px !important;
-}
-h2 + input + label + div, h3 + #popup + .img_post, h4 +.img_post{
-    margin-top: 2.25rem !important;
 }
 .img_post{
     margin-top: 8px;
+}
+h2 + input + label + div, h3 + #popup + .img_post, h4 +.img_post{
+    margin-top: 2.25rem !important;
 }
 .popup_img{
     max-height: 85vh;
