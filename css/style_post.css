@@ -213,9 +213,11 @@ main p{/*PC表示で本文幅を狭くする*/
     font-weight: bold;
 }
 /*画像のポップアップ拡大_2*/
-.img_box{/*画像の高さを揃える*/
+@media screen and (min-width: 30rem){
+    .img_box{/*画像の高さを揃える*/
     display: flex;
     margin-top: 0;
+    }
 }
 .img_post{
     display: flex;
