@@ -207,26 +207,33 @@ main p{/*PC表示で本文幅を狭くする*/
 .my-parts div p{
     background-color: rgb(255,255,255, 0);
     position: absolute;
-    top: -50%;
+    top: -42%;
     left: 10%;
     font-size: 1.2rem;
     font-weight: bold;
 }
 /*画像のポップアップ拡大_2*/
-.img_box{
+.img_box{/*画像の高さを揃える*/
     display: flex;
     margin-top: 0;
 }
 .img_post{
     display: flex;
-}
-
-.img_post + .clear + p,.clear + p + p,.img_box + p, .img_post + p + p{
-    margin-top: 8px !important;
+    margin-top: 0;
 }
 .img_post label{
     justify-content: space-around;
     display: flex;
+}
+/*画像直下のテキストの調整*/
+.img_post + .clear + p,.clear + p + p,.img_box + p, .img_post + p + p{
+    margin-top: 8px !important;
+}
+h2 + input + label + div, h3 + #popup + .img_post, h4 +.img_post{
+    margin-top: 2.25rem !important;
+}
+.img_post{
+    margin-top: 8px;
 }
 .popup_img{
     max-height: 85vh;
