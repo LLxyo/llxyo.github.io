@@ -1,12 +1,19 @@
+@media screen and (max-width: 45rem){/*スマホviaでカラム幅を広げるが、関連記事だけは除く*/
+    .main-and-footer > div > #main {
+        width: 97%!important;
+    }
+}
 /*装飾文字の文字サイズ*/
 .slidein1,.slidein2,.slidein3{
     font-size: 1.39rem;
 }
 .slidein1{
     text-align: left;
+    margin-left: 1rem;
 }
 .slidein2{
     text-align: right;
+    margin-right: 1rem;
 }
 /*装飾文字のスライドイン 画面幅ごとにスライド位置や速さを調整済み*/
 @media screen and (min-width: 69rem){/*1105px ~ */
@@ -225,9 +232,6 @@ li.post,h2.slidein2{
 @media screen and (max-width: 30rem){/* ~ 448px*/
     .post{/*タイル*/
       margin-top: 1rem;
-      margin-right: 1rem;
-      margin-left: -1rem;
-      margin-right: -1rem;
       box-sizing: content-box;
       border: 2px solid;
       border-color: #ddd;

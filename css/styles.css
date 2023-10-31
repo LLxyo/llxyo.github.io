@@ -686,6 +686,11 @@ li{/*リストの点を削除*/
     left: -1.25rem;
     top: 0.25rem;
 }
+@media screen and (max-width: 45rem){
+    .ticks li{
+        margin-left: 5%;
+    }
+}
 
 /* Figures */
 figure {

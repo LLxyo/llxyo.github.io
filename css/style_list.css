@@ -1,7 +1,13 @@
+@media screen and (max-width: 45rem){/*スマホviaでカラム幅を広げるが、関連記事だけは除く*/
+    .main-and-footer > div > #main {
+        width: 97% !important;
+    }
+}
 /*個別記事と記事一覧のコンセプト文*/
 .page_title{
     float: left;
     margin-bottom: 2.25rem;
+    margin-left: 1.5%;
 }
 .concept,.concept_post{
     color:#656565;
@@ -12,31 +18,30 @@
     }
 }
 @media screen and (min-width: 55rem){/*文字が重ならないように、45remではなく、55remで区切る*/
-    .concept,.concept_post{
+    .concept{
         margin-top: 0;
         position: absolute;
         right: 6rem;
         background-color: rgba(255,255,255,0.7);
-        }
+    }
     .concept{
         padding-top: 0.633rem;
-    }
-    .concept_post{
-        margin-top: 0.5rem;
-        padding-top: 0.133rem;
-        padding-bottom: 0.133rem;
     }
     .eyes_head{
         margin-top: 0;
     }
 }
 @media screen and (max-width: 45rem){/*スマホ、タブレット表示*/
-    .concept,.concept_post{
+    .concept{
         margin-top: -1rem;
         text-align: center;
         }
 }
-
+@media screen and (max-width:380px){
+    .concept{
+        font-size: 1.09rem !important;
+    }
+}
 /*記事一覧の装飾文字のスライドイン*/
 /*装飾文字の文字サイズ*/
 .slidein1,.slidein2,.slidein3{
@@ -89,6 +94,14 @@ h3.slidein3{
             transform: translate(0%);
         }
     }
+    .slidein3{
+        margin-left: 1.5%;
+    }
+}
+@media screen and (max-width: 375px){
+    h2.slidein3{
+        font-size: 1.34rem !important;
+    }
 }
 
 /*記事カード*/
@@ -118,9 +131,10 @@ a .article_link{/*各記事サムネイルのurl下部線消去*/
     text-align : center;
 }
 .quote{/*引用*/
-    margin-top: 3px;
+    margin-top:0;
+    padding-top: 3px;
     font-size: 10px;
-    margin-left: 0.5rem;
+    padding-left: 0.5rem;
     padding-right: 0.5rem;
     margin-bottom: 1%;
     border-bottom: 0px;
@@ -179,8 +193,12 @@ li.post,h2.slidein2{
     display: grid;
     grid-template-columns: repeat(auto-fill,minmax(260px,1fr));/*最大幅は最小幅の2倍まで広がる*/
     grid-gap: 10px;
-    margin-right: 0.25rem;
-    margin-left: 0.25rem;
+}
+@media screen and (min-width: 45rem){
+    .article {
+        margin-right: 0.25rem;
+        margin-left: 0.25rem;
+    }
 }
 .post{/*タイル*/
     margin-top: 1rem;
