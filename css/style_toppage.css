@@ -122,7 +122,8 @@ a .article_link{/*各記事サムネイルのurl下部線消去*/
     text-align : center;
 }
 .quote{/*引用*/
-    margin-top: 3px;
+    margin-top: 0;
+    padding-top: 3px;
     font-size: 10px;
     margin-left: 0.5rem;
     padding-right: 0.5rem;
@@ -278,5 +279,6 @@ li.post,h2.slidein2{
 }
 .readotherpost2 a p,.readotherpost3 a p{
     font-family: 'Noto Serif JP', serif;
-    margin-top: 1rem;
+    margin-top:0;
+    padding-top: 1rem;
 }
