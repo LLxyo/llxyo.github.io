@@ -125,7 +125,7 @@ a .article_link{/*各記事サムネイルのurl下部線消去*/
     margin-top: 0;
     padding-top: 3px;
     font-size: 10px;
-    margin-left: 0.5rem;
+    padding-left: 0.5rem;
     padding-right: 0.5rem;
     margin-bottom: 1%;
     border-bottom: 0px;
