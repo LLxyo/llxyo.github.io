@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ハイ・ファンタジー on LLxyo&#39;s Daydreams</title>
+    <title>ハイファンタジー on LLxyo&#39;s Daydreams</title>
     <link>https://llxyo.github.io/genre/%E3%83%8F%E3%82%A4%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC/</link>
-    <description>Recent content in ハイ・ファンタジー on LLxyo&#39;s Daydreams</description>
+    <description>Recent content in ハイファンタジー on LLxyo&#39;s Daydreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 23 Aug 2023 15:21:33 +0900</lastBuildDate>
@@ -30,7 +30,7 @@
     </item>
     
     <item>
-      <title>「さよならの朝に約束の花をかざろう」─愛に導かれる私の人生─ 感想と考察</title>
+      <title>「さよ朝」─愛に導かれるマキアの人生─ 感想と考察</title>
       <link>https://llxyo.github.io/post/sayoasa/</link>
       <pubDate>Sun, 09 Apr 2023 20:44:28 +0900</pubDate>
       
@@ -39,7 +39,7 @@
     </item>
     
     <item>
-      <title>「ソードアート・オンライン プログレッシブ 冥き夕闇のスケルツォ」─アスナとミト、別れと新たな道─ 感想と考察</title>
+      <title>「SAO プログレッシブ 冥き夕闇のスケルツォ」─アスナとミト、別れと新たな道─ 感想と考察</title>
       <link>https://llxyo.github.io/post/saop_scherzo/</link>
       <pubDate>Thu, 27 Oct 2022 21:33:18 +0900</pubDate>
       
@@ -48,7 +48,7 @@
     </item>
     
     <item>
-      <title>「ディアルガVSパルキアVSダークライ」─その暗黒に秘められた想い─ 感想</title>
+      <title>「ディアルガVSパルキアVSダークライ」─その暗黒に秘められた想い─ 感想と考察</title>
       <link>https://llxyo.github.io/post/pokemon_the_rise_of_darkrai/</link>
       <pubDate>Wed, 07 Sep 2022 17:47:40 +0900</pubDate>
       
@@ -57,16 +57,25 @@
     </item>
     
     <item>
-      <title>「水の都の護神 ラティアスとラティオス」─あめつちと生きていく─ 感想</title>
+      <title>「水の都の護神 ラティアスとラティオス」─この水の都と生きていく─ 感想と考察</title>
       <link>https://llxyo.github.io/post/pokemon_latios_and_latias/</link>
       <pubDate>Thu, 18 Aug 2022 18:31:34 +0900</pubDate>
       
       <guid>https://llxyo.github.io/post/pokemon_latios_and_latias/</guid>
-      <description>人の姿に化けてサトシと遊びたがるラティアスが本当に人懐っこくて、どこまでも愛おしい。彼女に感じるこの気持ちは、人に対する愛と同じかそれ以上のものだと言い張れる。 人と水が共に生きる街 「こころのしずく」から湧き出す水に揺蕩われた水の都 アルトマーレ、この街をかつて危機から護ったという伝説と共に語り継がれる</description>
+      <description>人の姿に化けてサトシと遊びたがるラティアスが本当に人懐っこくて、どこまでも愛おしい。彼女に感じるこの気持ちは、人に対する愛と同じかそれ以上のものだと言い張れる。 人と水が共に生きる街 「こころのしずく」から湧き出す水に揺蕩われた水の都・アルトマーレ、この街をかつて危機から護ったという伝説と共に語り継がれ</description>
     </item>
     
     <item>
-      <title>「七夜の願い星 ジラーチ」─人と自然、共に生きる隣人たち─ 感想</title>
+      <title>「86-エイティシックス-」─孤独の自己犠牲と自己嫌悪─ 感想と考察</title>
+      <link>https://llxyo.github.io/post/eightysix/</link>
+      <pubDate>Tue, 26 Apr 2022 22:58:20 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/post/eightysix/</guid>
+      <description>虐げられし者の倫理 満ち足りた者からの慈悲はエイティシックスの倫理観や信念には受け入れられないというジレンマに苛まされ続ける物語だった。 誰かの犠牲の上に立ちながら銃後でのうのうと生きて、最前線での無数の死に無自覚でいることを許せないエイティシックスたちの正義もわかる。わかるけれど、その信念に完全に共感</description>
+    </item>
+    
+    <item>
+      <title>「七夜の願い星ジラーチ」─人と自然、共に生きる隣人たち─ 感想と考察</title>
       <link>https://llxyo.github.io/post/pokemon_jirachi_wish_maker/</link>
       <pubDate>Thu, 03 Feb 2022 21:40:40 +0900</pubDate>
       
@@ -75,7 +84,7 @@
     </item>
     
     <item>
-      <title>「サカサマのパテマ」─サカサマなキミの世界を知りたい─ 感想</title>
+      <title>「サカサマのパテマ」─逆さまなキミの世界を知りたい─ 感想と考察</title>
       <link>https://llxyo.github.io/post/patema_inverted/</link>
       <pubDate>Thu, 20 Jan 2022 10:35:31 +0900</pubDate>
       
@@ -84,7 +93,16 @@
     </item>
     
     <item>
-      <title>「劇場版マクロスΔ 絶対LIVE!!!!!!」─絶対諦めない、絶対の歌い様─ 感想</title>
+      <title>「ロード・エルメロイ二世 特別編」─大人になれない少年を導く魔術と内省─ 感想と考察</title>
+      <link>https://llxyo.github.io/post/lord_el-melloi_ii_sp/</link>
+      <pubDate>Tue, 11 Jan 2022 21:25:43 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/post/lord_el-melloi_ii_sp/</guid>
+      <description>「ウェイバーと同窓会と幻灯機」 見るべき時期の定められた作品というものは少なからずしてあると思うのだけど、2022年の1月10日、人生で20回目の成人の日というのはまさしくこの物語を見るための日であったと思う。 あらすじ ある日、時計塔の同窓会の報せがロード・エルメロイII世の許に届くところからこのエピソ</description>
+    </item>
+    
+    <item>
+      <title>「劇場版マクロスΔ絶対LIVE」─絶対諦めない、絶対の歌い様─ 感想と考察</title>
       <link>https://llxyo.github.io/post/macross_delta_absolute_live/</link>
       <pubDate>Sat, 08 Jan 2022 11:56:54 +0900</pubDate>
       
@@ -93,7 +111,7 @@
     </item>
     
     <item>
-      <title>「マクロスΔ 激情のワルキューレ」─本編を越えた&#34;激情版&#34;総集編─ 感想</title>
+      <title>「マクロスΔ激情のワルキューレ」─本編を越えた&#34;激情版&#34;総集編─ 感想と考察</title>
       <link>https://llxyo.github.io/post/macross_delta_passionate_walkure/</link>
       <pubDate>Wed, 05 Jan 2022 18:39:53 +0900</pubDate>
       
@@ -102,7 +120,7 @@
     </item>
     
     <item>
-      <title>「マクロスΔ」─魅惑のコズミックSFミュージカル─ 感想</title>
+      <title>「マクロスΔ」─魅惑のコズミックSFミュージカル─ 感想と考察</title>
       <link>https://llxyo.github.io/post/macross_delta/</link>
       <pubDate>Mon, 06 Dec 2021 23:50:08 +0900</pubDate>
       
@@ -111,7 +129,7 @@
     </item>
     
     <item>
-      <title>アサルトリリィBOUQUETについての覚書き</title>
+      <title>「アサルトリリィBOUQUET」についての覚書き</title>
       <link>https://llxyo.github.io/post/assaultlily_bouquet/</link>
       <pubDate>Sun, 06 Dec 2020 00:49:34 +0900</pubDate>
       
@@ -120,34 +138,7 @@
     </item>
     
     <item>
-      <title>「劇場版 ヴァイオレット・エヴァーガーデン」感想と考察 その２</title>
-      <link>https://llxyo.github.io/post/violetevergarden-movie-part2/</link>
-      <pubDate>Fri, 25 Sep 2020 16:11:48 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/post/violetevergarden-movie-part2/</guid>
-      <description>舞台挨拶で監督が言っていたように、この映画はとても丁寧で緻密な作品で何回見ても新しい発見と感想があった。ここではそれらの考察？のような感想とはちょっと違う雑感を纏める。 この記事を書いた時点で3回この作品を見ているが、シリーズの積み重ねを経た上でのサプライズ的な展開が感動の増幅装置の1つでもあるのでT</description>
-    </item>
-    
-    <item>
-      <title>「劇場版 ヴァイオレット・エヴァーガーデン」感想と考察 その１</title>
-      <link>https://llxyo.github.io/post/violetevergardenmovie/</link>
-      <pubDate>Sun, 20 Sep 2020 02:11:28 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/post/violetevergardenmovie/</guid>
-      <description>描き語るアニメ 今作で一番京アニすごい！というかもはや感服した部分に、絵によって描き出されるキャラクターの内なる心情があった。これを感じた場面はいくつかあったが、とりわけこれを感じたのはヴァイオレットとホッジンズがギルベルトの家に押しかけた場面だった。ここでギルベルトは会いたいというヴァイオレットを拒</description>
-    </item>
-    
-    <item>
-      <title>「ヴァイオレット・エヴァーガーデン外伝-永遠と自動手記人形-」感想</title>
-      <link>https://llxyo.github.io/post/%E3%83%B4%E3%82%A1%E3%82%A4%E3%82%AA%E3%83%AC%E3%83%83%E3%83%88%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E5%A4%96%E4%BC%9D-%E6%B0%B8%E9%81%A0%E3%81%A8%E8%87%AA%E5%8B%95%E6%89%8B%E8%A8%98%E4%BA%BA%E5%BD%A2-%E6%84%9F%E6%83%B3/</link>
-      <pubDate>Thu, 04 Jun 2020 09:19:44 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/post/%E3%83%B4%E3%82%A1%E3%82%A4%E3%82%AA%E3%83%AC%E3%83%83%E3%83%88%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E5%A4%96%E4%BC%9D-%E6%B0%B8%E9%81%A0%E3%81%A8%E8%87%AA%E5%8B%95%E6%89%8B%E8%A8%98%E4%BA%BA%E5%BD%A2-%E6%84%9F%E6%83%B3/</guid>
-      <description>幸せを届ける手紙 エイミーはある捨て子を拾いテイラーと名付け、自分の貧しく惨めな生活への当てつけにと彼女を幸せにすることを誓ったが自分も所詮子供なエイミーには幸せの実現は不可能のように思えた。しかし、ある日エイミーの父親を名乗る男が現れてテイラーの保護と引き換えにエイミーを引き取り来て、エイミーにその</description>
-    </item>
-    
-    <item>
-      <title>「クオリディア・コード」─クオリディア・コードと世界の意味─ 感想</title>
+      <title>「クオリディア・コード」─クオリディア・コードと世界の意味─ 感想と考察</title>
       <link>https://llxyo.github.io/post/qualideacode/</link>
       <pubDate>Wed, 29 Apr 2020 01:12:45 +0900</pubDate>
       
