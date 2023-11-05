@@ -379,7 +379,7 @@ h2 + input + label + div, h3 + #popup + .img_post, h4 +.img_post{
 }
 @media screen and (max-width: 450px){
     .afiimage>img{
-        height: 100px !important;
+        height: 115px !important;
     }
 }
 .aficard > .afiimage + img + .button001>*{
