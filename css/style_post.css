@@ -453,7 +453,7 @@ h2 + input + label + div, h3 + #popup + .img_post, h4 +.img_post{
 
 /*関連記事*/
 .main_related{
-    margin-top: 0.5rem;
+    margin-top: 1rem;
 }
 @media screen and  (min-width: 45rem){
     .main_related{
@@ -579,8 +579,13 @@ h2 + input + label + div, h3 + #popup + .img_post, h4 +.img_post{
     -webkit-line-clamp: 4;/*任意の行数を指定*/
 }
 .post_title{
-    padding-left: 0.1rem;
-    padding-right: 0.1rem;
+    padding-left: 0.3rem;
+    padding-right: 0.3rem;
+}
+@media screen and (max-width: 450px){
+    h6.post_title{
+        font-size: 12px;
+    }
 }
 @media screen and (min-width: 45rem){
     .post_title{
