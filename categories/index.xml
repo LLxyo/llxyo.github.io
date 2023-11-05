@@ -6,24 +6,15 @@
     <description>Recent content in Categories on LLxyo&#39;s Daydreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 30 Oct 2023 00:41:05 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 05 Nov 2023 14:03:20 +0900</lastBuildDate>
     
 	<atom:link href="https://llxyo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>聖地巡礼</title>
-      <link>https://llxyo.github.io/categories/%E8%81%96%E5%9C%B0%E5%B7%A1%E7%A4%BC/</link>
-      <pubDate>Mon, 30 Oct 2023 00:41:05 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/categories/%E8%81%96%E5%9C%B0%E5%B7%A1%E7%A4%BC/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>アニメ</title>
       <link>https://llxyo.github.io/categories/%E3%82%A2%E3%83%8B%E3%83%A1/</link>
-      <pubDate>Fri, 27 Oct 2023 15:07:44 +0900</pubDate>
+      <pubDate>Sun, 05 Nov 2023 14:03:20 +0900</pubDate>
       
       <guid>https://llxyo.github.io/categories/%E3%82%A2%E3%83%8B%E3%83%A1/</guid>
       <description></description>
@@ -32,9 +23,18 @@
     <item>
       <title>映画・劇場版</title>
       <link>https://llxyo.github.io/categories/%E6%98%A0%E7%94%BB%E5%8A%87%E5%A0%B4%E7%89%88/</link>
-      <pubDate>Mon, 23 Oct 2023 23:29:50 +0900</pubDate>
+      <pubDate>Sun, 05 Nov 2023 14:03:20 +0900</pubDate>
       
       <guid>https://llxyo.github.io/categories/%E6%98%A0%E7%94%BB%E5%8A%87%E5%A0%B4%E7%89%88/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>聖地巡礼</title>
+      <link>https://llxyo.github.io/categories/%E8%81%96%E5%9C%B0%E5%B7%A1%E7%A4%BC/</link>
+      <pubDate>Mon, 30 Oct 2023 00:41:05 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/categories/%E8%81%96%E5%9C%B0%E5%B7%A1%E7%A4%BC/</guid>
       <description></description>
     </item>
     

@@ -341,36 +341,80 @@ h2 + input + label + div, h3 + #popup + .img_post, h4 +.img_post{
   }
 }
 
-/*アフィリンクボタン*/
-.aficard .afiimage{
-    border-bottom: 0px;
-    font-size: 0.7rem;
+/*下部のタグ一覧*/
+.informations_under{
+    font-family: Arial, 'Noto Sans JP', sans-serif;
+    box-sizing: content-box;
+    border: #000 solid 2px;
+    padding: 3px 8px 6px 8px;
+    width: 90%;
+    margin-top: 1rem;
 }
-@media screen and (min-width: 450px){
+
+/*アフィリンクボタン*/
+.afi_box{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    margin-top: 0!important;
+}
+.afiimage{
+    border-bottom: 0px;
+    font-size: 11px;
+}
+.button001>a{
+    font-size: 12px;
+}
+.afiimage{
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 4; /*制限したい行数*/
+    overflow: hidden;
+}
+.aficard>img{
+    display:none;
+}
+.afiimage>img{
+    height: 100px;
+}
+.aficard > .afiimage + img + .button001>*{
+    margin-bottom: 23px;
+}
+.aficard > .afiimage + img + .button001 + .button001>a{
+    margin-top: -23px;
+}
+
+@media screen and (min-width: 900px){
+    .aficard{
+        width:20% !important;
+        float: left;
+        padding-right: 3%;
+        margin-top:2%;
+    }
+}
+@media screen and (min-width: 450px) and (max-width: 900px){
     .aficard{
         width:25% !important;
         float: left;
         padding-right: 3%;
-        margin-top:5%;
+        margin-top:2%;
     }
 }
-@media screen and (min-width: 300px) and (max-width: 450px){
+@media screen and (max-width: 450px){
     .aficard{
-        width:50% !important;
+        width:33.3% !important;
         float: left;
         padding-right: 3%;
-        margin-top:5%;
+        margin-top:2%;
+    }
+    .afiimage{
+        font-size:11px;
+    }
+    .button001>a{/*アフィリンク用ボタン*/
+        padding: 2px 5px !important;
     }
 }
-@media screen and (max-width: 300px){
-    .aficard{
-        width:50% !important;
-        float: left;
-        padding-right: 3%;
-        margin-top:5%;
-    }
-}
-.button001 a{/*アフィリンク用ボタン*/
+.button001>a{/*アフィリンク用ボタン*/
     background: #eee;
     border-radius: 3px;
     position: relative;
@@ -395,7 +439,7 @@ h2 + input + label + div, h3 + #popup + .img_post, h4 +.img_post{
     transform: rotate(45deg) translateY(-50%);
     position: absolute;
     top: 50%;
-    right: 20px;
+    right: 13px;
     border-radius: 1px;
     transition: 0.3s ease-in-out;
 }
@@ -403,40 +447,39 @@ h2 + input + label + div, h3 + #popup + .img_post, h4 +.img_post{
     border-color: #FFF;
 }
 
-/*下部のタグ一覧*/
-.informations_under{
-    font-family: Arial, 'Noto Sans JP', sans-serif;
-    box-sizing: content-box;
-    border: #000 solid 2px;
-    padding: 5px 10px 10px 10px;
-    width: 90%;
-    margin-top: 1rem;
-}
-.informations_under p{
-    margin-bottom: 0.3rem !important;
-}
-
 /*関連記事*/
 @media screen and  (min-width: 45rem){
     .main_related{
-    margin: 0 auto;
     padding-left: 4%;
     padding-right: 2%;
     }
 }
+.main_related{
+    margin-top: 6px !important;
+}
 .seealso1{
-    margin-top: 2.25rem;
+    margin-top: 0!important;
+    background-color: rgb(234 84 107);
 }
 .seealso2{
-    margin-top: 1rem;
+    margin-top: 1rem!important;
+    background-color: rgb(90 118 186);
 }
 .seealso1,.seealso2{
-    margin-left: 2.5%;
+    margin-left: 1.5%;
+    padding-left: 4%;
+    padding-bottom: 0.1%;
+    color: #fff;
+    border: #000;
+    border-style: solid;
+    border-width: 3px !important;
+    width: 200%;
+    clip-path: polygon(100% 0%,100% 90%,100% 100%,2% 100%, 0% 0%);
 }
 .ul_seealso{
     margin-top: 0rem;
 }
-.seealso1,.seealso2,.related{
+.related{
     max-width: 45rem;
 }
 .related{
