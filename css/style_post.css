@@ -353,10 +353,10 @@ h2 + input + label + div, h3 + #popup + .img_post, h4 +.img_post{
 
 /*アフィリンクボタン*/
 .afi_box{
+    margin-top: 0.5rem;
     display: flex;
     width: 100%;
     flex-wrap: wrap;
-    margin-top: 0!important;
 }
 .afiimage{
     border-bottom: 0px;
@@ -375,7 +375,12 @@ h2 + input + label + div, h3 + #popup + .img_post, h4 +.img_post{
     display:none;
 }
 .afiimage>img{
-    height: 100px;
+    height: 150px !important;
+}
+@media screen and (max-width: 450px){
+    .afiimage>img{
+        height: 100px !important;
+    }
 }
 .aficard > .afiimage + img + .button001>*{
     margin-bottom: 23px;
@@ -383,7 +388,6 @@ h2 + input + label + div, h3 + #popup + .img_post, h4 +.img_post{
 .aficard > .afiimage + img + .button001 + .button001>a{
     margin-top: -23px;
 }
-
 @media screen and (min-width: 900px){
     .aficard{
         width:20% !important;
@@ -448,22 +452,22 @@ h2 + input + label + div, h3 + #popup + .img_post, h4 +.img_post{
 }
 
 /*関連記事*/
+.main_related{
+    margin-top: 0.5rem;
+}
 @media screen and  (min-width: 45rem){
     .main_related{
     padding-left: 4%;
     padding-right: 2%;
     }
 }
-.main_related{
-    margin-top: 6px !important;
-}
 .seealso1{
     margin-top: 0!important;
-    background-color: rgb(234 84 107);
+    background-color: #000;
 }
 .seealso2{
     margin-top: 1rem!important;
-    background-color: rgb(90 118 186);
+    background-color: #000;
 }
 .seealso1,.seealso2{
     margin-left: 1.5%;
