@@ -6,10 +6,46 @@
     <description>Recent content in Genre on LLxyo&#39;s Daydreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 05 Nov 2023 18:59:36 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 10 Nov 2023 16:05:56 +0900</lastBuildDate>
     
 	<atom:link href="https://llxyo.github.io/genre/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>お仕事</title>
+      <link>https://llxyo.github.io/genre/%E3%81%8A%E4%BB%95%E4%BA%8B/</link>
+      <pubDate>Fri, 10 Nov 2023 16:05:56 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E3%81%8A%E4%BB%95%E4%BA%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ヒューマンドラマ</title>
+      <link>https://llxyo.github.io/genre/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%89%E3%83%A9%E3%83%9E/</link>
+      <pubDate>Fri, 10 Nov 2023 16:05:56 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%89%E3%83%A9%E3%83%9E/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>夢を目指す物語</title>
+      <link>https://llxyo.github.io/genre/%E5%A4%A2%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E7%89%A9%E8%AA%9E/</link>
+      <pubDate>Fri, 10 Nov 2023 16:05:56 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E5%A4%A2%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E7%89%A9%E8%AA%9E/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>料理</title>
+      <link>https://llxyo.github.io/genre/%E6%96%99%E7%90%86/</link>
+      <pubDate>Fri, 10 Nov 2023 16:05:56 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E6%96%99%E7%90%86/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>スポーツ</title>
@@ -17,15 +53,6 @@
       <pubDate>Sun, 05 Nov 2023 18:59:36 +0900</pubDate>
       
       <guid>https://llxyo.github.io/genre/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>夢を目指す物語</title>
-      <link>https://llxyo.github.io/genre/%E5%A4%A2%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E7%89%A9%E8%AA%9E/</link>
-      <pubDate>Sun, 05 Nov 2023 18:59:36 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E5%A4%A2%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E7%89%A9%E8%AA%9E/</guid>
       <description></description>
     </item>
     
@@ -125,15 +152,6 @@
       <pubDate>Fri, 27 Oct 2023 15:07:44 +0900</pubDate>
       
       <guid>https://llxyo.github.io/genre/%E8%B3%AA%E3%82%A2%E3%83%8B%E3%83%A1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>お仕事</title>
-      <link>https://llxyo.github.io/genre/%E3%81%8A%E4%BB%95%E4%BA%8B/</link>
-      <pubDate>Mon, 23 Oct 2023 23:29:50 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E3%81%8A%E4%BB%95%E4%BA%8B/</guid>
       <description></description>
     </item>
     
@@ -480,15 +498,6 @@
     </item>
     
     <item>
-      <title>ヒューマンドラマ</title>
-      <link>https://llxyo.github.io/genre/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%89%E3%83%A9%E3%83%9E/</link>
-      <pubDate>Fri, 09 Dec 2022 22:09:51 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%89%E3%83%A9%E3%83%9E/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>冒険</title>
       <link>https://llxyo.github.io/genre/%E5%86%92%E9%99%BA/</link>
       <pubDate>Fri, 11 Nov 2022 21:34:09 +0900</pubDate>
@@ -530,15 +539,6 @@
       <pubDate>Wed, 07 Sep 2022 17:47:40 +0900</pubDate>
       
       <guid>https://llxyo.github.io/genre/%E3%83%94%E3%82%AB%E3%83%AC%E3%82%B9%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%B3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>料理</title>
-      <link>https://llxyo.github.io/genre/%E6%96%99%E7%90%86/</link>
-      <pubDate>Sat, 30 Jul 2022 18:36:56 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E6%96%99%E7%90%86/</guid>
       <description></description>
     </item>
     
