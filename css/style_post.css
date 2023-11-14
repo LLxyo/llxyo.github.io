@@ -114,6 +114,9 @@ main p{/*PC表示で本文幅を狭くする*/
     }
 }
 /*Youtube埋め込み*/
+.video, .video + h2, .video + h3, .video + p{
+    margin-top: 1.25rem;
+}
 @media screen and (min-width: 45rem){/*PC表示*/
     .video{
         width:70%;              /*横幅いっぱいにwidthを指定*/
