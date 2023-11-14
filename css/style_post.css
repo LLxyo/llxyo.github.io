@@ -391,17 +391,28 @@ h2 + input + label + div, h3 + #popup + .img_post, h4 +.img_post{
 .aficard > .afiimage + img + .button001 + .button001>a{
     margin-top: -23px;
 }
-@media screen and (min-width: 900px){
+@media screen and (min-width: 1000px){
     .aficard{
-        width:20% !important;
+        width: 16.6% !important;
         float: left;
-        padding-right: 3%;
+        padding-right:1.5%;
         margin-top:2%;
+    }
+}
+@media screen and (min-width: 900px) and (max-width: 1000px){
+    .aficard{
+        width: 20% !important;
+        float: left;
+        padding-right:2%;
+        margin-top:2%;
+    }
+    .aficard:nth-child(6){
+        display:none;
     }
 }
 @media screen and (min-width: 450px) and (max-width: 900px){
     .aficard{
-        width:25% !important;
+        width: 25% !important;
         float: left;
         padding-right: 3%;
         margin-top:2%;
@@ -409,7 +420,7 @@ h2 + input + label + div, h3 + #popup + .img_post, h4 +.img_post{
 }
 @media screen and (max-width: 450px){
     .aficard{
-        width:33.3% !important;
+        width: 33.3% !important;
         float: left;
         padding-right: 3%;
         margin-top:2%;
