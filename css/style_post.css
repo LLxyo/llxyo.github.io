@@ -119,8 +119,9 @@ main p{/*PC表示で本文幅を狭くする*/
 }
 @media screen and (min-width: 45rem){/*PC表示*/
     .video{
-        width:70%;              /*横幅いっぱいにwidthを指定*/
-        padding-bottom: 39.375%;  /*高さをpaddingで指定(16:9)*/
+        width:60%;              /*横幅いっぱいにwidthを指定*/
+        min-width: 370px;
+        padding-bottom: 34%/*39.375%*/;  /*高さをpaddingで指定(16:9)*/
         height:0px;              /*高さはpaddingで指定するためheightは0に*/
         position: relative;
     }
@@ -344,6 +345,11 @@ h2 + input + label + div, h3 + #popup + .img_post, h4 +.img_post{
   }
 }
 
+/*Google Mapの埋め込み*/
+.google_map{
+    max-width:420px!important;
+    height: 300px!important;
+}
 /*下部のタグ一覧*/
 .informations_under{
     font-family: Arial, 'Noto Sans JP', sans-serif;
