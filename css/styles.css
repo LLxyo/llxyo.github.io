@@ -354,6 +354,20 @@ caption {
 .logo {
     border: 0;
 }
+.logo_first{
+    color:rgb(90 118 186);
+}
+.logo_second{
+    color:rgb(234 84 107);
+    margin-top:0;
+}
+.logo:hover .logo_first{
+    color:rgb(234 84 107);
+}
+.logo:hover .logo_second{
+    color:rgb(90 118 186);
+    margin-top:0;
+}
 .logo img {
     width: 100%;
     max-width: 12rem;
@@ -365,15 +379,15 @@ caption {
     .logo_m_div {
         width: 80%;
         margin-top: 0.625rem;
-        float: left;
-        position: absolute;
-        left: 12.5%;
         margin-right: 0.625rem;
+        left: 12.5%;
+        position: absolute;
         background-color: rgb(255,255,255, 0);
         display: flex;
         justify-content: center;
         align-items: center;
         text-align: center;
+        z-index: 0;
     }
 }
 /*コンセプトテキスト*/
@@ -458,6 +472,12 @@ caption {
     font-weight: bold;
     padding: 0 1rem;
 }
+.pattern:nth-child(1) a:hover span,.pattern:nth-child(3) a:hover span,.pattern:nth-child(5) a:hover span{
+    color:rgb(234 84 107);
+}
+.pattern:nth-child(2) a:hover span,.pattern:nth-child(4) a:hover span,.pattern:nth-child(6) a:hover span{
+    color:rgb(90 118 186);
+}
 .pattern a:focus {
     outline: none;
 }
@@ -488,12 +508,12 @@ li.pattern a{
   color: #fefefe;
 }
 /* Menu button */
-#menu-button {
+#menu-button{
     display: none;
     width: 15%;
     text-align: center;
 }
-#menu-button:focus {
+#menu-button:focus{
     outline: none;
     box-shadow: inset 0 0 0 0.25rem #999;
 }
@@ -522,10 +542,10 @@ li.pattern a{
     }
 }
 .menu-button_m_div{
-    float: left;
     margin-right: 0;
     width: 15%;
 }
+
 /*main-and-footer*/
 .main-and-footer {
     margin-left: 13rem;

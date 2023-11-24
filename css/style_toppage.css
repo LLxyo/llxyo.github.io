@@ -258,10 +258,22 @@ li.post,h2.slidein2{
     color: #fff;
     width: 21rem;
 }
+.readotherpost2 h3{
+    color:rgb(171 198 239);
+}
+.readotherpost2:hover div{
+    clip-path: polygon(10% 0%, 90% 0%, 100% 50%, 90% 100%, 10% 100%, 0% 50%);;
+}
 .readotherpost3{
     display: flex;
     justify-content: flex-end;
     color: #fff;
+}
+.readotherpost3 h3{
+    color:rgb(244, 126, 143);
+}
+.readotherpost3:hover div{
+    clip-path: polygon(10% 0%, 90% 0%, 100% 50%, 90% 100%, 10% 100%, 0% 50%);;
 }
 .readotherpost3 div{
     width: 21rem;
