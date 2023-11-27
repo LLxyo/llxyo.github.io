@@ -494,6 +494,7 @@ li.pattern a{
     font-size: 14px;
     width: 3.5rem;
     display: inline-block;
+    margin-top: 0;
 }
 .nav_description{
     font-size: 12px;
@@ -545,6 +546,147 @@ li.pattern a{
     margin-right: 0;
     width: 15%;
 }
+
+
+/*******グローバルナビ********/
+/******スライドメニュー*******/
+@media screen and (min-width:45rem) {
+    .slideMenu,.layer,.slideMenuInner,.closeArea_top,.menu-button{
+    display: none;
+    }
+}
+@media screen and (max-width:45rem) {/*1*/
+    #menu-button{
+        margin-top: 0 !important;
+        width: 15%;
+        text-align: center;
+        z-index: 10;
+    }
+    #menu-button:focus{
+        outline: none;
+        box-shadow: inset 0 0 0 0.25rem #999;
+    }
+    #menuButtonInner {
+        position: relative;
+        width: 100%;
+        margin: 0 auto;
+        text-align: right;
+    }
+    .slideButton {
+        text-align: center;
+        display: inline-block;
+        border-radius: 0.33em;
+        font-family: inherit;
+        background: #111;
+        color: #fefefe;
+        padding: 0.5rem 0.75rem 0rem 0.75rem;
+        border: 0;
+    }
+    #svg_m{
+        height:1rem;
+    }
+    #slideMenu {
+        margin-top: 0!important;
+        overflow-x: hidden;
+        overflow-y: auto;
+        position: absolute;
+        z-index: 20;
+        top: 0;
+        right: -260px;
+        width: 260px;
+        height: 100%;
+        padding: 0;
+        box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2);
+    }
+    #slideMenu > .slideMenuInner {
+        position: static;
+        width: 100%;
+        height: 100%;
+        margin-top: 0;
+        background-color: rgba(0, 0, 0, 0);
+    }
+    #slideMenu > .slideMenuInner > li {
+        display: block;
+        position: relative;
+        float: none;
+        width: 100%;
+        height: auto;
+        margin-bottom: 10px;
+        border-top: none !important;
+    }
+    #slideMenu > .slideMenuInner > li a {
+        list-style: none;
+        font-size: 1rem;
+        display: block;
+        position: relative;
+        z-index: 1;
+        width: 100%;
+        height: 100%;
+        padding-left: 1.3rem !important;
+        margin-left: 0.7rem;
+        background-color: #191e27;/*スライドメニューの背景色*/
+        color: #fff;/*スライドメニューの文字色*/
+        clip-path: polygon(7% 0%, 100% 0%, 100% 50%, 100% 100%, 7% 100%, 0% 50%);
+    }
+    #slideMenu > .slideMenuInner > li a svg{
+        margin-top: 0 !important;
+    }
+    #slideMenu > .slideMenuInner > li:hover a {
+        background-color: #fff;/*スライドメニューの背景色（マウスホバー時）*/
+        color: #333;/*スライドメニューの文字色（マウスホバー時）*/
+    }
+    #slideMenu > .slideMenuInner > li > a:active {
+        opacity: .8;
+    }
+    #slideMenu > .slideMenuInner > li:hover > ul.second-level {
+        display: none;
+    }
+    .closeArea_top{
+        background-color: rgb(234 84 107);/*クローズエリア（スライドメニューの下の部分）の色*/
+        cursor: pointer;
+        line-height: 1.125;
+        list-style: none;
+        font-size: 1rem;
+        font-family: Arial, 'Noto Sans JP', sans-serif;
+        font-weight: 700;
+        color: #191e27;
+        display: block;
+        position: relative;
+        z-index: 1;
+        width: 90%;
+        padding: 1rem 0 1rem 2.3rem;
+        margin: 10px 0 10px 0;
+        clip-path: polygon(0% 0%, 93% 0%, 100% 50%, 93% 100%, 0% 100%, 0% 50%);
+    }
+    .closeArea_top span{
+        margin-left: 0.2rem;
+    }
+    .closeArea_top>svg{
+        height: 14px;
+        width: 14px;
+        margin-top: 0;
+    }
+    .closeArea{
+        margin-top: 0;
+        height: 100%;
+        background-color: #333;/*クローズエリア（スライドメニューの下の部分）の色*/
+        cursor: pointer;
+    }
+    #layer {
+        margin-top: 0;
+        display: none;
+        position: fixed;
+        left: -1.5rem;
+        z-index: 10;
+        top: 0;
+        width: 100%;
+        height: 150%;
+        background-color: #222;/*レイヤーの色*/
+        opacity: .4;/*レイヤーの透明度*/
+        cursor: pointer;
+    }
+}
+
 
 /*main-and-footer*/
 .main-and-footer {
