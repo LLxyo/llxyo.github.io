@@ -267,11 +267,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
     <nav id="patterns-nav" class="patterns" role="navigation">
   <h2 class="vh">Main navigation</h2>
-  <button id="menu-button" aria-expanded="false">
-    <svg id="svg_m" viewBox="0 0 50 50" aria-hidden="true" focusable="false">
-      <use xlink:href="#menu"></use>
-    </svg>
-  </button>
   
   <ul id="patterns-list">
   
@@ -357,8 +352,147 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   </ul>
 </nav>
 
-
+    <div class="nav_mobile"><div id="menu-button">
+    <div id="menuButtonInner">
+    <span class="slideButton"><i class="blogicon-list lg"></i>
+      <svg id="svg_m" viewBox="0 0 50 50" aria-hidden="true" focusable="false">
+        <use xlink:href="#menu"></use>
+      </svg>MENU</span>
+    </div>
+</div>
+    <div id="slideMenu" style="margin-top:0 !important">
+        <div class="closeArea_top">
+          <svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="14px" height="14px" viewBox="0 0 1280.000000 1280.000000" preserveAspectRatio="xMidYMid meet"><g transform="translate(0.000000,1280.000000) scale(0.100000,-0.100000)"fill="#000000" stroke="none"><path d="M1545 12784 c-85 -19 -167 -51 -243 -95 -69 -41 -1089 -1049 -1157 -1144 -101 -141 -140 -263 -140 -440 0 -169 36 -293 125 -427 29 -43 705 -726 2149 -2170 l2106 -2108 -2111 -2112 c-1356 -1358 -2124 -2133 -2147 -2169 -88 -137 -121 -249 -121 -419 -1 -181 37 -302 139 -445 68 -95 1088 -1103 1157 -1144 273 -159 604 -143 853 42 22 17 986 976 2143 2131 l2102 2101 2103 -2101 c1156 -1155 2120 -2114 2142 -2131 69 -51 130 -82 224 -113 208 -70 431 -44 629 71 69 41 1089 1049 1157 1144 101 141 140 263 140 440 0 166 -36 290 -121 422 -25 39 -746 767 -2148 2171 l-2111 2112 2107 2108 c2207 2208 2162 2161 2219 2303 75 187 77 392 4 572 -53 132 -74 157 -615 700 -289 291 -552 548 -585 572 -141 101 -263 140 -440 140 -166 0 -289 -35 -420 -120 -41 -26 -724 -702 -2172 -2149 l-2113 -2111 -2112 2111 c-1454 1452 -2132 2123 -2173 2150 -64 41 -149 78 -230 101 -79 22 -258 26 -340 7z"/></g></svg>
+          <span>Close</span>
+        </div>
+        
+        <ul class="slideMenuInner">
+        
+          <li class="pattern">
+            
+            
+            
+            <a href="/" >
+              <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
+                <use xlink:href="#bookmark"></use>
+              </svg>
+              <span class="navname">Home</span>
+              <span class="nav_description"></span>
+            </a>
+          </li>
+        
+          <li class="pattern">
+            
+            
+            
+            <a href="/post/" >
+              <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
+                <use xlink:href="#bookmark"></use>
+              </svg>
+              <span class="navname">Review</span>
+              <span class="nav_description">─ 感想・考察記事</span>
+            </a>
+          </li>
+        
+          <li class="pattern">
+            
+            
+            
+            <a href="/photolog/" >
+              <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
+                <use xlink:href="#bookmark"></use>
+              </svg>
+              <span class="navname">Photolog</span>
+              <span class="nav_description">─ 聖地巡礼記</span>
+            </a>
+          </li>
+        
+          <li class="pattern">
+            
+            
+            
+            <a href="/tags/" >
+              <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
+                <use xlink:href="#bookmark"></use>
+              </svg>
+              <span class="navname">Tags</span>
+              <span class="nav_description">─ タグ一覧</span>
+            </a>
+          </li>
+        
+          <li class="pattern">
+            
+            
+            
+            <a href="/contact/" >
+              <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
+                <use xlink:href="#bookmark"></use>
+              </svg>
+              <span class="navname">Contact</span>
+              <span class="nav_description"></span>
+            </a>
+          </li>
+        
+          <li class="pattern">
+            
+            
+            
+            <a href="/index.xml" >
+              <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
+                <use xlink:href="#bookmark"></use>
+              </svg>
+              <span class="navname">RSS</span>
+              <span class="nav_description"></span>
+            </a>
+          </li>
+        
+      
+    </ul>
+    </div>
+    <div style="clear:both;"></div>
+    <div id="layer"></div>
     
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+    <script>
+    $(function(){
+        var menu = $('#slideMenu'),
+            closeArea = $('.closeArea',),
+            closeArea = $('.closeArea_top',),
+            slideButton = $('.slideButton'),
+            content = $('body'),
+            layer = $('#layer'),
+            menuWidth = menu.outerWidth();                
+        slideButton.click(function(){
+            slideOpen();       
+        });
+        layer.click(function(){
+            slideClose();
+        });
+        closeArea.click(function(){
+            slideClose();
+        });
+        function slideOpen(){
+            menu.animate({'right' : 0 }, 300);
+            layer.show();
+            content.addClass('open');
+        }
+        function slideClose(){
+            menu.animate({'right' : -menuWidth }, 300);
+            layer.hide();
+            content.removeClass('open');
+        };
+        $(window).resize(function(){
+            var win = $(window).width();
+            var p = 960;
+            if(win > p){
+                menu.animate({'right' : 0 }, 300);
+            }else{
+                menu.animate({'right' : -menuWidth }, 300);
+                layer.hide();
+            }
+        });
+    });   
+    </script></div>
 
   </div>
 </header>
@@ -820,6 +954,23 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <div class="article">
     <li class="related">
 
+       <a href="https://llxyo.github.io/post/just_because2/" class="article_link">
+
+        <div class="eyes">
+          
+          
+          
+          <img loading="lazy" class="eyecatch_related" src="https://llxyo.github.io/post/just_because2/image01_related.webp">
+          
+          
+        </div>
+       
+          <h6 class="post_title">「Just Because!」─青春の終わりの続きの恋物語─ 感想と考察 6~9話</h6>
+          <div class="quote">©FOA/Just Because! 製作委員会</div>
+          
+  <div class="article">
+    <li class="related">
+
        <a href="https://llxyo.github.io/post/16bitsensation_al1/" class="article_link">
 
         <div class="eyes">
@@ -969,23 +1120,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        
           <h6 class="post_title">「ウマ娘 3期」─キタちゃんを”リスタート”させた3つの転換点─ 感想と考察 1~4話</h6>
           <div class="quote">©2023 アニメ「ウマ娘 プリティーダービー Season 3」製作委員会</div>
-          
-  <div class="article">
-    <li class="related">
-
-       <a href="https://llxyo.github.io/post/gup_final_ep4/" class="article_link">
-
-        <div class="eyes">
-          
-          
-          
-          <img loading="lazy" class="eyecatch_related" src="https://llxyo.github.io/post/gup_final_ep4/image01_related.webp">
-          
-          
-        </div>
-       
-          <h6 class="post_title">「ガルパン最終章 4話」─ミカvs澤梓、カリスマじゃない健気なリーダー像─ 感想と考察</h6>
-          <div class="quote">©GIRLS und PANZER Finale Projekt</div>
           
        </a>
     </li>

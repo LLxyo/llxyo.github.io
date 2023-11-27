@@ -6,10 +6,55 @@
     <description>Recent content in Genre on LLxyo&#39;s Daydreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 21 Nov 2023 22:05:20 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 22 Nov 2023 16:42:54 +0900</lastBuildDate>
     
 	<atom:link href="https://llxyo.github.io/genre/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>人間関係</title>
+      <link>https://llxyo.github.io/genre/%E4%BA%BA%E9%96%93%E9%96%A2%E4%BF%82/</link>
+      <pubDate>Wed, 22 Nov 2023 16:42:54 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E4%BA%BA%E9%96%93%E9%96%A2%E4%BF%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>冬</title>
+      <link>https://llxyo.github.io/genre/%E5%86%AC/</link>
+      <pubDate>Wed, 22 Nov 2023 16:42:54 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E5%86%AC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>学園</title>
+      <link>https://llxyo.github.io/genre/%E5%AD%A6%E5%9C%92/</link>
+      <pubDate>Wed, 22 Nov 2023 16:42:54 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E5%AD%A6%E5%9C%92/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>思春期</title>
+      <link>https://llxyo.github.io/genre/%E6%80%9D%E6%98%A5%E6%9C%9F/</link>
+      <pubDate>Wed, 22 Nov 2023 16:42:54 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E6%80%9D%E6%98%A5%E6%9C%9F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>恋愛</title>
+      <link>https://llxyo.github.io/genre/%E6%81%8B%E6%84%9B/</link>
+      <pubDate>Wed, 22 Nov 2023 16:42:54 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E6%81%8B%E6%84%9B/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>お仕事</title>
@@ -75,29 +120,11 @@
     </item>
     
     <item>
-      <title>人間関係</title>
-      <link>https://llxyo.github.io/genre/%E4%BA%BA%E9%96%93%E9%96%A2%E4%BF%82/</link>
-      <pubDate>Tue, 21 Nov 2023 02:36:23 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E4%BA%BA%E9%96%93%E9%96%A2%E4%BF%82/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>冒険</title>
       <link>https://llxyo.github.io/genre/%E5%86%92%E9%99%BA/</link>
       <pubDate>Tue, 21 Nov 2023 02:36:23 +0900</pubDate>
       
       <guid>https://llxyo.github.io/genre/%E5%86%92%E9%99%BA/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>恋愛</title>
-      <link>https://llxyo.github.io/genre/%E6%81%8B%E6%84%9B/</link>
-      <pubDate>Tue, 21 Nov 2023 02:36:23 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E6%81%8B%E6%84%9B/</guid>
       <description></description>
     </item>
     
@@ -143,33 +170,6 @@
       <pubDate>Fri, 17 Nov 2023 01:59:36 +0900</pubDate>
       
       <guid>https://llxyo.github.io/genre/%E9%9D%92%E6%98%A5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>冬</title>
-      <link>https://llxyo.github.io/genre/%E5%86%AC/</link>
-      <pubDate>Tue, 14 Nov 2023 22:42:54 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E5%86%AC/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>学園</title>
-      <link>https://llxyo.github.io/genre/%E5%AD%A6%E5%9C%92/</link>
-      <pubDate>Tue, 14 Nov 2023 22:42:54 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E5%AD%A6%E5%9C%92/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>思春期</title>
-      <link>https://llxyo.github.io/genre/%E6%80%9D%E6%98%A5%E6%9C%9F/</link>
-      <pubDate>Tue, 14 Nov 2023 22:42:54 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E6%80%9D%E6%98%A5%E6%9C%9F/</guid>
       <description></description>
     </item>
     
