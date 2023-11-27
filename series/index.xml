@@ -6,19 +6,10 @@
     <description>Recent content in Series on LLxyo&#39;s Daydreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 22 Nov 2023 16:42:54 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 21 Nov 2023 22:05:20 +0900</lastBuildDate>
     
 	<atom:link href="https://llxyo.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Just Because!</title>
-      <link>https://llxyo.github.io/series/just-because/</link>
-      <pubDate>Wed, 22 Nov 2023 16:42:54 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/series/just-because/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>16bitセンセーション ANOTHER LAYER</title>
@@ -44,6 +35,15 @@
       <pubDate>Fri, 17 Nov 2023 01:59:36 +0900</pubDate>
       
       <guid>https://llxyo.github.io/series/%E3%82%A6%E3%83%9E%E5%A8%98-%E3%83%97%E3%83%AA%E3%83%86%E3%82%A3%E3%83%BC%E3%83%80%E3%83%BC%E3%83%93%E3%83%BC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Just Because!</title>
+      <link>https://llxyo.github.io/series/just-because/</link>
+      <pubDate>Tue, 14 Nov 2023 22:42:54 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/series/just-because/</guid>
       <description></description>
     </item>
     
