@@ -267,6 +267,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
     <nav id="patterns-nav" class="patterns" role="navigation">
   <h2 class="vh">Main navigation</h2>
+  <button id="menu-button" aria-expanded="false">
+    <svg id="svg_m" viewBox="0 0 50 50" aria-hidden="true" focusable="false">
+      <use xlink:href="#menu"></use>
+    </svg>
+  </button>
   
   <ul id="patterns-list">
   
@@ -352,12 +357,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   </ul>
 </nav>
 
-    <div class="nav_mobile"><div id="menu-button">
+    <div class="nav_mobile" style="margin-top: 0 !important"><div id="menu-button">
     <div id="menuButtonInner">
     <span class="slideButton"><i class="blogicon-list lg"></i>
       <svg id="svg_m" viewBox="0 0 50 50" aria-hidden="true" focusable="false">
         <use xlink:href="#menu"></use>
-      </svg>MENU</span>
+      </svg><br>MENU</span>
     </div>
 </div>
     <div id="slideMenu" style="margin-top:0 !important">
@@ -456,7 +461,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <script>
     $(function(){
         var menu = $('#slideMenu'),
-            closeArea = $('.closeArea',),
             closeArea = $('.closeArea_top',),
             slideButton = $('.slideButton'),
             content = $('body'),
