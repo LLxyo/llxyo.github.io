@@ -6,10 +6,55 @@
     <description>Recent content in Genre on LLxyo&#39;s Daydreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 09 Dec 2023 18:55:25 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 24 Dec 2023 18:03:16 +0900</lastBuildDate>
     
 	<atom:link href="https://llxyo.github.io/genre/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>スポーツ</title>
+      <link>https://llxyo.github.io/genre/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84/</link>
+      <pubDate>Sun, 24 Dec 2023 18:03:16 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>夢を目指す物語</title>
+      <link>https://llxyo.github.io/genre/%E5%A4%A2%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E7%89%A9%E8%AA%9E/</link>
+      <pubDate>Sun, 24 Dec 2023 18:03:16 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E5%A4%A2%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E7%89%A9%E8%AA%9E/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>葛藤</title>
+      <link>https://llxyo.github.io/genre/%E8%91%9B%E8%97%A4/</link>
+      <pubDate>Sun, 24 Dec 2023 18:03:16 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E8%91%9B%E8%97%A4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>部活・課外活動</title>
+      <link>https://llxyo.github.io/genre/%E9%83%A8%E6%B4%BB%E8%AA%B2%E5%A4%96%E6%B4%BB%E5%8B%95/</link>
+      <pubDate>Sun, 24 Dec 2023 18:03:16 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E9%83%A8%E6%B4%BB%E8%AA%B2%E5%A4%96%E6%B4%BB%E5%8B%95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>青春</title>
+      <link>https://llxyo.github.io/genre/%E9%9D%92%E6%98%A5/</link>
+      <pubDate>Sun, 24 Dec 2023 18:03:16 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/genre/%E9%9D%92%E6%98%A5/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ダークファンタジー</title>
@@ -53,15 +98,6 @@
       <pubDate>Sat, 09 Dec 2023 18:55:25 +0900</pubDate>
       
       <guid>https://llxyo.github.io/genre/%E3%83%9F%E3%83%AA%E3%82%BF%E3%83%AA%E3%83%BC/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>葛藤</title>
-      <link>https://llxyo.github.io/genre/%E8%91%9B%E8%97%A4/</link>
-      <pubDate>Sat, 09 Dec 2023 18:55:25 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E8%91%9B%E8%97%A4/</guid>
       <description></description>
     </item>
     
@@ -165,15 +201,6 @@
     </item>
     
     <item>
-      <title>夢を目指す物語</title>
-      <link>https://llxyo.github.io/genre/%E5%A4%A2%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E7%89%A9%E8%AA%9E/</link>
-      <pubDate>Tue, 21 Nov 2023 22:05:20 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E5%A4%A2%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E7%89%A9%E8%AA%9E/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>冒険</title>
       <link>https://llxyo.github.io/genre/%E5%86%92%E9%99%BA/</link>
       <pubDate>Tue, 21 Nov 2023 02:36:23 +0900</pubDate>
@@ -188,33 +215,6 @@
       <pubDate>Tue, 21 Nov 2023 02:36:23 +0900</pubDate>
       
       <guid>https://llxyo.github.io/genre/%E7%95%B0%E4%B8%96%E7%95%8C/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>スポーツ</title>
-      <link>https://llxyo.github.io/genre/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84/</link>
-      <pubDate>Fri, 17 Nov 2023 01:59:36 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>部活・課外活動</title>
-      <link>https://llxyo.github.io/genre/%E9%83%A8%E6%B4%BB%E8%AA%B2%E5%A4%96%E6%B4%BB%E5%8B%95/</link>
-      <pubDate>Fri, 17 Nov 2023 01:59:36 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E9%83%A8%E6%B4%BB%E8%AA%B2%E5%A4%96%E6%B4%BB%E5%8B%95/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>青春</title>
-      <link>https://llxyo.github.io/genre/%E9%9D%92%E6%98%A5/</link>
-      <pubDate>Fri, 17 Nov 2023 01:59:36 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/genre/%E9%9D%92%E6%98%A5/</guid>
       <description></description>
     </item>
     
