@@ -6,10 +6,19 @@
     <description>Recent content in Categories on LLxyo&#39;s Daydreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 31 Dec 2023 21:12:23 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jan 2024 14:05:04 +0900</lastBuildDate>
     
 	<atom:link href="https://llxyo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>アニメ</title>
+      <link>https://llxyo.github.io/categories/%E3%82%A2%E3%83%8B%E3%83%A1/</link>
+      <pubDate>Tue, 16 Jan 2024 14:05:04 +0900</pubDate>
+      
+      <guid>https://llxyo.github.io/categories/%E3%82%A2%E3%83%8B%E3%83%A1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>聖地巡礼</title>
@@ -17,15 +26,6 @@
       <pubDate>Sun, 31 Dec 2023 21:12:23 +0900</pubDate>
       
       <guid>https://llxyo.github.io/categories/%E8%81%96%E5%9C%B0%E5%B7%A1%E7%A4%BC/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>アニメ</title>
-      <link>https://llxyo.github.io/categories/%E3%82%A2%E3%83%8B%E3%83%A1/</link>
-      <pubDate>Tue, 26 Dec 2023 12:57:29 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/categories/%E3%82%A2%E3%83%8B%E3%83%A1/</guid>
       <description></description>
     </item>
     
