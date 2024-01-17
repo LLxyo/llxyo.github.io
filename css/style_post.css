@@ -236,6 +236,13 @@ main p{/*PC表示で本文幅を狭くする*/
     display: flex;
 }
 /*画像直下のテキストの調整*/
+p:empty + p{
+    margin-top: 0.75rem !important;
+}
+h2 + .img_box,
+h3 + .img_box{
+    margin-top: 1.2rem;
+}
 .img_post + .clear + p,
 .img_post + p + p,
 .clear + p + p, .img_box + p{
