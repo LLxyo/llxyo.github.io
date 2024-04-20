@@ -1,3 +1,9 @@
+h4 + p,h5 + p,h6 + p{
+    margin-top: 1rem !important;
+}
+h4,h5,h6{
+    margin-top: 1.25rem;
+}
 /*個別記事と記事一覧のコンセプト文*/
 .page_title{
     float: left;
@@ -646,4 +652,22 @@ a .article_link{/*各記事サムネイルのurl下部線消去*/
     padding-right: 0.5rem;
     margin-bottom: 1%;
     border-bottom: 0px;
+}
+
+/*DMMTVバナー*/
+@media screen and (max-width: 910px){
+    .dmmtv_large{
+        display: none;
+    }
+}
+@media screen and (min-width: 911px){
+    .dmmtv_small{
+        display: none;
+    }
+}
+.dmmtv_small,.dmmtv_large{
+    text-align: center;
+}
+.dmmtv_small > a,.dmmtv_large >a{
+    border-bottom: 0;
 }

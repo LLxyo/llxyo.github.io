@@ -2,50 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>アクション on LLxyo&#39;s Daydreams</title>
-    <link>https://llxyo.github.io/genre/%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/</link>
+    <link>http://localhost:1313/genre/%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/</link>
     <description>Recent content in アクション on LLxyo&#39;s Daydreams</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo 0.125.1</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 14 Jun 2023 19:29:45 +0900</lastBuildDate>
-    
-	<atom:link href="https://llxyo.github.io/genre/%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 20 Apr 2024 15:30:30 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/genre/%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>「トップをねらえ2！」─人類を導く、ノノという星─ 感想と考察</title>
-      <link>https://llxyo.github.io/post/diebuster/</link>
-      <pubDate>Wed, 14 Jun 2023 19:29:45 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/post/diebuster/</guid>
-      <description>#1 お姉さまと呼ばせてください！ オタクコテコテな1話。 宇宙パイロットになりたいノノだけど、彼女の信じる努力と根性、そういうのは要らないとラルクに言われてしまう。でも、襲い来る宇宙怪獣をノノが両断する。 少しはトップレスに近づけたかな？ #2 お姉さまなんかになりたくない トップレスがみんなを守るのか、それともト</description>
+      <title>「ストレンヂア 無皇刃譚」─自由こそ、男の生き様─ 感想と考察</title>
+      <link>http://localhost:1313/post/stranger/</link>
+      <pubDate>Sat, 20 Apr 2024 15:30:30 +0900</pubDate>
+      <guid>http://localhost:1313/post/stranger/</guid>
+      <description>流れ者《Stranger》 この物語の核になるのは、「自由」と「縛り」なんだと思う。特に印象的だったのは、仔太郎と温泉に浸かる際に語った名無しの「士官の頃より、今は自由」という言葉。 そもそも赤髪だったり難破船から拾われたりと、外の国にその出自が伺い知れる名無しは、どこにも固定化された居場所がないという</description>
     </item>
-    
-    <item>
-      <title>「グリッドマン ユニバース」─重なる世界が見せた真実とメタフィクション─ 感想と考察</title>
-      <link>https://llxyo.github.io/post/gridman_universe/</link>
-      <pubDate>Tue, 18 Apr 2023 16:07:10 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/post/gridman_universe/</guid>
-      <description>この物語はすべての妄想への賛歌なんだと思う。 子どもっぽくて、夢想的で、ロマンチックで、非現実的なメタフィクション。 GRIDMANで人と繋がることを知り、DYNAZENONで自分を貫くことを知った僕たち人間は、今度は夢見ることを知る。 「グリッドマン物語」 それは霧のように消えてしまったあの2か月のことを</description>
-    </item>
-    
-    <item>
-      <title>「SSSS.DYNAZENON」─不完全な僕たちの生き方ってなに？─ 感想と考察</title>
-      <link>https://llxyo.github.io/post/dynazenon/</link>
-      <pubDate>Tue, 18 Apr 2023 16:06:49 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/post/dynazenon/</guid>
-      <description>どこか猜疑心に満ちた物語だったように思う。夢芽の姉に対する憶測、怪獣優生思想の一味との関わり、そしてこの物語の行く末というものの見えなさ。 自分の内側を裸にする でも、そういう疑いをはっきりと口にすることが、もやもやとした霧を払う答えだということを彼らは提示した。そうやって本音を出し合うことで一つになれ</description>
-    </item>
-    
-    <item>
-      <title>「SSSS.GRIDMAN」─甘くて不安定なアカネの世界の意味─ 感想と考察</title>
-      <link>https://llxyo.github.io/post/gridman/</link>
-      <pubDate>Tue, 18 Apr 2023 16:05:25 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/post/gridman/</guid>
-      <description>不安定・青春エッセンス 新条アカネの心という狭いセカイの中で、彼女自身の存在がいっぱいいっぱいに肥大化していた。彼女の怒りやストレス、ナイーブさや未熟さ、自己中心さやわがままさといった自己と世界が分離できてないセカイの捉え方を、愛おしさたっぷりに言えば青春と呼び、はっきり言えば幼さとか子どもっぽさと呼</description>
-    </item>
-    
   </channel>
 </rss>

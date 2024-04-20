@@ -4,84 +4,65 @@
     <title>Categories on LLxyo&#39;s Daydreams</title>
     <link>https://llxyo.github.io/categories/</link>
     <description>Recent content in Categories on LLxyo&#39;s Daydreams</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 17 Jan 2024 03:35:27 +0900</lastBuildDate>
-    
-	<atom:link href="https://llxyo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://llxyo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>聖地巡礼</title>
       <link>https://llxyo.github.io/categories/%E8%81%96%E5%9C%B0%E5%B7%A1%E7%A4%BC/</link>
-      <pubDate>Wed, 17 Jan 2024 03:35:27 +0900</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://llxyo.github.io/categories/%E8%81%96%E5%9C%B0%E5%B7%A1%E7%A4%BC/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>アニメ</title>
-      <link>https://llxyo.github.io/categories/%E3%82%A2%E3%83%8B%E3%83%A1/</link>
-      <pubDate>Tue, 16 Jan 2024 14:05:04 +0900</pubDate>
-      
-      <guid>https://llxyo.github.io/categories/%E3%82%A2%E3%83%8B%E3%83%A1/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>映画・劇場版</title>
       <link>https://llxyo.github.io/categories/%E6%98%A0%E7%94%BB%E5%8A%87%E5%A0%B4%E7%89%88/</link>
-      <pubDate>Mon, 04 Dec 2023 11:14:01 +0900</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://llxyo.github.io/categories/%E6%98%A0%E7%94%BB%E5%8A%87%E5%A0%B4%E7%89%88/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>アニメ</title>
+      <link>https://llxyo.github.io/categories/%E3%82%A2%E3%83%8B%E3%83%A1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://llxyo.github.io/categories/%E3%82%A2%E3%83%8B%E3%83%A1/</guid>
+      <description></description>
+    </item>
     <item>
       <title>イベント</title>
       <link>https://llxyo.github.io/categories/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/</link>
-      <pubDate>Tue, 25 Apr 2023 11:56:34 +0900</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://llxyo.github.io/categories/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>ライトノベル</title>
       <link>https://llxyo.github.io/categories/%E3%83%A9%E3%82%A4%E3%83%88%E3%83%8E%E3%83%99%E3%83%AB/</link>
-      <pubDate>Tue, 15 Mar 2022 12:54:16 +0900</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://llxyo.github.io/categories/%E3%83%A9%E3%82%A4%E3%83%88%E3%83%8E%E3%83%99%E3%83%AB/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Advent Calendar</title>
       <link>https://llxyo.github.io/categories/advent-calendar/</link>
-      <pubDate>Mon, 06 Dec 2021 23:50:08 +0900</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://llxyo.github.io/categories/advent-calendar/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>漫画</title>
       <link>https://llxyo.github.io/categories/%E6%BC%AB%E7%94%BB/</link>
-      <pubDate>Fri, 03 Sep 2021 16:36:43 +0900</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://llxyo.github.io/categories/%E6%BC%AB%E7%94%BB/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>ドキュメンタリー</title>
       <link>https://llxyo.github.io/categories/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AA%E3%83%BC/</link>
-      <pubDate>Thu, 29 Apr 2021 17:02:01 +0900</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://llxyo.github.io/categories/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AA%E3%83%BC/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -1,24 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>serial experiments lain on LLxyo&#39;s Daydreams</title>
+    <title>Serial Experiments Lain on LLxyo&#39;s Daydreams</title>
     <link>https://llxyo.github.io/series/serial-experiments-lain/</link>
-    <description>Recent content in serial experiments lain on LLxyo&#39;s Daydreams</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Serial Experiments Lain on LLxyo&#39;s Daydreams</description>
+    <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 22 Sep 2021 10:20:25 +0900</lastBuildDate>
-    
-	<atom:link href="https://llxyo.github.io/series/serial-experiments-lain/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://llxyo.github.io/series/serial-experiments-lain/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「GHOST IN THE SHELL/攻殻機動隊」─もはや我々は人間ではない─ 感想と考察</title>
       <link>https://llxyo.github.io/post/ghost_in_the_shell/</link>
       <pubDate>Wed, 22 Sep 2021 10:20:25 +0900</pubDate>
-      
       <guid>https://llxyo.github.io/post/ghost_in_the_shell/</guid>
       <description>人間を人間足らしめるものとは、自分を自分足らしめるものとは。 本来肉体から切り離すことのできない囚われの魂を解放することができたらどうなるのか。 この『GHOST IN THE SHELL / 攻殻機動隊』はゴーストが殻から解放されたところで終わり明確な答えは定まらないが、その個体や種を制限する殻によってその生命の在り方は定ま</description>
     </item>
-    
   </channel>
 </rss>
