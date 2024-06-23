@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BLUE GIANT on LLxyo&#39;s Daydreams</title>
-    <link>http://localhost:1313/series/blue-giant/</link>
+    <link>https://llxyo.github.io/series/blue-giant/</link>
     <description>Recent content in BLUE GIANT on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 15 Apr 2023 21:57:07 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/series/blue-giant/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://llxyo.github.io/series/blue-giant/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「ブルージャイアント」─存在が光るから、その音色に惹かれる─ 感想と考察</title>
-      <link>http://localhost:1313/post/blue_giant/</link>
+      <link>https://llxyo.github.io/post/blue_giant/</link>
       <pubDate>Sat, 15 Apr 2023 21:57:07 +0900</pubDate>
-      <guid>http://localhost:1313/post/blue_giant/</guid>
+      <guid>https://llxyo.github.io/post/blue_giant/</guid>
       <description>ジャズの音色とジャズにかける思い。そんな具体的な形を持たないものが、はっきりと目に見える程の爆発を描き出す。そんな物語がこのアニメだった。 信念と存在が宿るサックス 貫く自分の思いと信念、そして光る存在感と人を虜にする魅力。解き放たれる覇気や気力、生命力といった強さ。それこそが宮本大のサックスが奏でてい</description>
     </item>
   </channel>

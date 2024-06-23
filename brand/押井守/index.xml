@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>押井守 on LLxyo&#39;s Daydreams</title>
-    <link>http://localhost:1313/brand/%E6%8A%BC%E4%BA%95%E5%AE%88/</link>
+    <link>https://llxyo.github.io/brand/%E6%8A%BC%E4%BA%95%E5%AE%88/</link>
     <description>Recent content in 押井守 on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 22 Sep 2021 10:20:25 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/brand/%E6%8A%BC%E4%BA%95%E5%AE%88/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://llxyo.github.io/brand/%E6%8A%BC%E4%BA%95%E5%AE%88/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「GHOST IN THE SHELL/攻殻機動隊」─もはや我々は人間ではない─ 感想と考察</title>
-      <link>http://localhost:1313/post/ghost_in_the_shell/</link>
+      <link>https://llxyo.github.io/post/ghost_in_the_shell/</link>
       <pubDate>Wed, 22 Sep 2021 10:20:25 +0900</pubDate>
-      <guid>http://localhost:1313/post/ghost_in_the_shell/</guid>
+      <guid>https://llxyo.github.io/post/ghost_in_the_shell/</guid>
       <description>人間を人間足らしめるものとは、自分を自分足らしめるものとは。 本来肉体から切り離すことのできない囚われの魂を解放することができたらどうなるのか。 この『GHOST IN THE SHELL / 攻殻機動隊』はゴーストが殻から解放されたところで終わり明確な答えは定まらないが、その個体や種を制限する殻によってその生命の在り方は定ま</description>
     </item>
     <item>
       <title>「機動警察パトレイバー2」─欺瞞と空回りの社会─ 感想と考察</title>
-      <link>http://localhost:1313/post/patlabor2/</link>
+      <link>https://llxyo.github.io/post/patlabor2/</link>
       <pubDate>Sun, 15 Aug 2021 10:18:13 +0900</pubDate>
-      <guid>http://localhost:1313/post/patlabor2/</guid>
+      <guid>https://llxyo.github.io/post/patlabor2/</guid>
       <description>素直に警察vs自衛隊という構図や都市で繰り広げられる戦争という展開にはロマンとでも言うべき魅惑的なものがあった。「もう一度この国は戦後からやり直すことになる」という内戦の様相漂う日本への米軍の介入が迫った場面での台詞も然り。 蜃気楼の如し街、仮想的な「戦争」 テロリストに巧妙に踊らされた結果として仮想的</description>
     </item>
   </channel>

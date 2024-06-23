@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ドキュメンタリー on LLxyo&#39;s Daydreams</title>
-    <link>http://localhost:1313/categories/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AA%E3%83%BC/</link>
+    <link>https://llxyo.github.io/categories/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AA%E3%83%BC/</link>
     <description>Recent content in ドキュメンタリー on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Thu, 29 Apr 2021 17:02:01 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AA%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://llxyo.github.io/categories/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AA%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「トンネル建設に揺れる村 ジョージア“一帯一路”の陰で」感想と考察</title>
-      <link>http://localhost:1313/post/a_tunnel/</link>
+      <link>https://llxyo.github.io/post/a_tunnel/</link>
       <pubDate>Thu, 29 Apr 2021 17:02:01 +0900</pubDate>
-      <guid>http://localhost:1313/post/a_tunnel/</guid>
+      <guid>https://llxyo.github.io/post/a_tunnel/</guid>
       <description>「トンネル建設に揺れる村 ジョージア“一帯一路”の陰で」 原題：A Tunnel 制作：Artefact Production 2021年4月28日放送回 中国が押し進める現代版シルクロード「一帯一路」の一環で、中国とヨーロッパをつなぐ高速鉄道建設が進んでいる。この鉄道に翻弄されるジョージアの村人たちの生活を描く。 高速鉄道の開設に向け、中国</description>
     </item>
   </channel>

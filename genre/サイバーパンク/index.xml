@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>サイバーパンク on LLxyo&#39;s Daydreams</title>
-    <link>http://localhost:1313/genre/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%83%91%E3%83%B3%E3%82%AF/</link>
+    <link>https://llxyo.github.io/genre/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%83%91%E3%83%B3%E3%82%AF/</link>
     <description>Recent content in サイバーパンク on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Thu, 05 Jan 2023 15:45:01 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/genre/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%83%91%E3%83%B3%E3%82%AF/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://llxyo.github.io/genre/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%83%91%E3%83%B3%E3%82%AF/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「AKIRA」─万人に眠りし反逆の本能─ 感想と考察</title>
-      <link>http://localhost:1313/post/akira/</link>
+      <link>https://llxyo.github.io/post/akira/</link>
       <pubDate>Thu, 05 Jan 2023 15:45:01 +0900</pubDate>
-      <guid>http://localhost:1313/post/akira/</guid>
+      <guid>https://llxyo.github.io/post/akira/</guid>
       <description>欲望の果実 戦後30年を経て、ディストピアと化したネオ東京。そこは政治家と資本家の身の丈を超えた欲望によって社会は熟れきっていた。そして、もはや腐りかけの果実では、その内に溜め込んだ人々の抑圧された叫びの制御に亀裂が生まれていた。武力による治安統制や民を搾取する税制改革に具現化した現状の社会秩序を崩壊</description>
     </item>
     <item>
       <title>「SAO プログレッシブ 冥き夕闇のスケルツォ」─アスナとミト、別れと新たな道─ 感想と考察</title>
-      <link>http://localhost:1313/post/saop_scherzo/</link>
+      <link>https://llxyo.github.io/post/saop_scherzo/</link>
       <pubDate>Thu, 27 Oct 2022 21:33:18 +0900</pubDate>
-      <guid>http://localhost:1313/post/saop_scherzo/</guid>
+      <guid>https://llxyo.github.io/post/saop_scherzo/</guid>
       <description>燻る彼女への想い 第二章が始まって早々にアスナさんがレイピアをモンスター、そしてプレイヤーキラーに奪われる展開にSAOにトラブルは付きものだなぁと改めて思うばかりだったけれど、この「冥き夕闇のスケルツォ」を一度見た後にこの顛末を思い出すと、また違った印象を感じる。 このレイピアは元はミトから貰ったフルー</description>
     </item>
     <item>
       <title>「SAO オーディナル・スケール」─彼女の歌声は永遠に刻まれる─ 感想と考察</title>
-      <link>http://localhost:1313/post/sao_os/</link>
+      <link>https://llxyo.github.io/post/sao_os/</link>
       <pubDate>Sat, 05 Feb 2022 01:14:00 +0900</pubDate>
-      <guid>http://localhost:1313/post/sao_os/</guid>
+      <guid>https://llxyo.github.io/post/sao_os/</guid>
       <description>SAO事件から4年を経た2026年、人々の間ではARに特化した新たな次世代ウェアラブル・マルチデバイス≪オーグマー≫とが人気を得ていた。 ≪ナーヴギア≫の後継デバイスの位置を継ぐ≪オーグマー≫とその専用ARMMO RPG≪オーディナル・スケール≫にはかつて多くの人の命を奪ったデスゲーム、SAO≪ソードア</description>
     </item>
   </channel>
