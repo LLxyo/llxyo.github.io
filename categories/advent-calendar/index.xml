@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Advent Calendar on LLxyo&#39;s Daydreams</title>
-    <link>https://llxyo.github.io/categories/advent-calendar/</link>
+    <link>http://localhost:1313/categories/advent-calendar/</link>
     <description>Recent content in Advent Calendar on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Mon, 06 Dec 2021 23:50:08 +0900</lastBuildDate>
-    <atom:link href="https://llxyo.github.io/categories/advent-calendar/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/advent-calendar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「マクロスΔ」─魅惑のコズミックSFミュージカル─ 感想と考察</title>
-      <link>https://llxyo.github.io/post/macross_delta/</link>
+      <link>http://localhost:1313/post/macross_delta/</link>
       <pubDate>Mon, 06 Dec 2021 23:50:08 +0900</pubDate>
-      <guid>https://llxyo.github.io/post/macross_delta/</guid>
+      <guid>http://localhost:1313/post/macross_delta/</guid>
       <description>クソじゃないアニメ Advent Calendar 2021の7日目は、音に聞く限りではシリーズ前作との比較もあってかイマイチと聞くことが多いマクロスΔです。曲とか圧倒的に良いのになぜ&amp;hellip;。 マクロスの魅力といえば歌、その中でもマクロスΔにはワルキューレという歌の女神がいる。 正直言うと、この後にストーリーラインや世界観</description>
     </item>
     <item>
       <title>「TARI TARI」─どこまでもまっすぐで貴い、青春の全部が詰まった物語─ 感想と考察</title>
-      <link>https://llxyo.github.io/post/taritari2/</link>
+      <link>http://localhost:1313/post/taritari2/</link>
       <pubDate>Fri, 03 Dec 2021 01:45:11 +0900</pubDate>
-      <guid>https://llxyo.github.io/post/taritari2/</guid>
+      <guid>http://localhost:1313/post/taritari2/</guid>
       <description>この「TARITARI」、クソじゃないアニメ Advent Calendarに似合わず普通に非の打ちどころのない名作アニメです。まぁ文字通りクソじゃないアニメには変わらないのでＯＫですが。 ということで、クソじゃないアニメ Advent Calendar 2021の4日目です。 *** まず「TARI TARI」がどんなアニメかというと、江ノ島や湘南を舞</description>
     </item>
     <item>
       <title>「変好き」─変態ラブコメミステリーという暴力的なおもしろさ─ 感想と考察</title>
-      <link>https://llxyo.github.io/post/hensuki/</link>
+      <link>http://localhost:1313/post/hensuki/</link>
       <pubDate>Wed, 01 Dec 2021 15:19:37 +0900</pubDate>
-      <guid>https://llxyo.github.io/post/hensuki/</guid>
+      <guid>http://localhost:1313/post/hensuki/</guid>
       <description>クソじゃないアニメ Advent Calendar 2021の2日目です。 さて、本日紹介するのは『可愛ければ変態でも好きになってくれますか?』です。 どんなアニメか一言で表すと、**「下ネタとミステリーで殴りかかってくるアニメ」**です。 きっと意味が分からないとお思いでしょう。でも安心してください。これからじっくりと「変好き」のそ</description>
     </item>
     <item>
       <title>「ジョゼと虎と魚たち」を薦める感想と考察</title>
-      <link>https://llxyo.github.io/post/joseethetigerandthefish/</link>
+      <link>http://localhost:1313/post/joseethetigerandthefish/</link>
       <pubDate>Thu, 24 Dec 2020 00:45:41 +0900</pubDate>
-      <guid>https://llxyo.github.io/post/joseethetigerandthefish/</guid>
+      <guid>http://localhost:1313/post/joseethetigerandthefish/</guid>
       <description>この記事はクソじゃないアニメ Advent Calendar 2020の参加記事です。 この記事のアドベントカレンダー担当日である12月25日劇場公開の『ジョゼと虎と魚たち』の紹介記事です。試写会で鑑賞済みなので感想も織り交ぜつつ、ストーリーの核心的なネタバレは避けながら予告PVに少し言い足したくらいに内容に触れながら色々言ってい</description>
     </item>
   </channel>

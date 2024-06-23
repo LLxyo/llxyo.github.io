@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>機動戦士ガンダム on LLxyo&#39;s Daydreams</title>
-    <link>https://llxyo.github.io/series/%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0/</link>
+    <link>http://localhost:1313/series/%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0/</link>
     <description>Recent content in 機動戦士ガンダム on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 02 Jul 2023 23:18:10 +0900</lastBuildDate>
-    <atom:link href="https://llxyo.github.io/series/%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/series/%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「ガンダム 水星の魔女」─同じ宙の下、共に祝福される道─ 感想と考察</title>
-      <link>https://llxyo.github.io/post/g-witch/</link>
+      <link>http://localhost:1313/post/g-witch/</link>
       <pubDate>Sun, 02 Jul 2023 23:18:10 +0900</pubDate>
-      <guid>https://llxyo.github.io/post/g-witch/</guid>
+      <guid>http://localhost:1313/post/g-witch/</guid>
       <description>「水星の魔女」が示した現代の革命 この水星の魔女は「理想だけではなく現実を受け止めながら、当事者として世界に関わっていけるように&amp;hellip;」というニカやスレッタを中心とした軸と、「共に手を取り合うことでこそ、祝福や平和を得られる」という登場人物全員を巻き込んでいた軸があったように思う。その軸は1</description>
     </item>
     <item>
       <title>閉店前に「成田アニメデッキ」を見送ってきた話</title>
-      <link>https://llxyo.github.io/photolog/narita_animedeck/</link>
+      <link>http://localhost:1313/photolog/narita_animedeck/</link>
       <pubDate>Sat, 06 May 2023 10:41:52 +0900</pubDate>
-      <guid>https://llxyo.github.io/photolog/narita_animedeck/</guid>
+      <guid>http://localhost:1313/photolog/narita_animedeck/</guid>
       <description>今回は日本のアニメとアニメ聖地の国内外に向けた発信拠点である「成田アニメデッキ」に行ってきました。 主にKADOKAWAが運営・企画するこの施設ですが、東京オリンピックを見据えて2019年にオープンしたものの、コロナ禍で完全に計画が失敗。そして、2023年6月30日で閉店予定となってしまったため、今回</description>
     </item>
     <item>
       <title>「ガンダム 閃光のハサウェイ」─崇高な理想と愚鈍な現実─ 感想と考察</title>
-      <link>https://llxyo.github.io/post/hathaway/</link>
+      <link>http://localhost:1313/post/hathaway/</link>
       <pubDate>Sun, 11 Jul 2021 14:20:16 +0900</pubDate>
-      <guid>https://llxyo.github.io/post/hathaway/</guid>
+      <guid>http://localhost:1313/post/hathaway/</guid>
       <description>理想と現実 子どもと大人 インテリと愚者 テロリストと一般市民 豊かさと貧しさ この物語で最も豊かさを持っていたのが閣僚たちだが、テロリスト相手の指示も聞かず喚き散らし殺される姿は自由奔放で楽観的である意味理想郷からやって来た穢れを知らない人々のようでもあった 貧しさを物語っていたのはダバオの市民で、1000年</description>
     </item>
   </channel>

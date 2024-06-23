@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>パーフェクトブルー on LLxyo&#39;s Daydreams</title>
-    <link>https://llxyo.github.io/series/%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%83%96%E3%83%AB%E3%83%BC/</link>
+    <link>http://localhost:1313/series/%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%83%96%E3%83%AB%E3%83%BC/</link>
     <description>Recent content in パーフェクトブルー on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Fri, 22 Sep 2023 16:21:03 +0900</lastBuildDate>
-    <atom:link href="https://llxyo.github.io/series/%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%83%96%E3%83%AB%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/series/%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%83%96%E3%83%AB%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「パーフェクトブルー」─未麻の正体とは、失われたアイデンティティ─ 感想と考察</title>
-      <link>https://llxyo.github.io/post/perfect_blue/</link>
+      <link>http://localhost:1313/post/perfect_blue/</link>
       <pubDate>Fri, 22 Sep 2023 16:21:03 +0900</pubDate>
-      <guid>https://llxyo.github.io/post/perfect_blue/</guid>
+      <guid>http://localhost:1313/post/perfect_blue/</guid>
       <description>自分が何なのかというお話 結論から言うと、この『パーフェクトブルー』という作品は、アイドルから女優へと転身した未麻のアイデンティティを描いた物語だったように私は思う。 私はどんな私？どんな姿の私？ 物語は前述のように、アイドル・みまりんが女優へとキャリアを乗り換えるところから始まる。しかし、それをファンの</description>
     </item>
   </channel>

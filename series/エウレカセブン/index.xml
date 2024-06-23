@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>エウレカセブン on LLxyo&#39;s Daydreams</title>
-    <link>https://llxyo.github.io/series/%E3%82%A8%E3%82%A6%E3%83%AC%E3%82%AB%E3%82%BB%E3%83%96%E3%83%B3/</link>
+    <link>http://localhost:1313/series/%E3%82%A8%E3%82%A6%E3%83%AC%E3%82%AB%E3%82%BB%E3%83%96%E3%83%B3/</link>
     <description>Recent content in エウレカセブン on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Thu, 02 Dec 2021 00:40:02 +0900</lastBuildDate>
-    <atom:link href="https://llxyo.github.io/series/%E3%82%A8%E3%82%A6%E3%83%AC%E3%82%AB%E3%82%BB%E3%83%96%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/series/%E3%82%A8%E3%82%A6%E3%83%AC%E3%82%AB%E3%82%BB%E3%83%96%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「EUREKA/エウレカセブン ハイエボリューション」─少女は愛を知り、母に、そして神になる─ 感想と考察</title>
-      <link>https://llxyo.github.io/post/eureka/</link>
+      <link>http://localhost:1313/post/eureka/</link>
       <pubDate>Thu, 02 Dec 2021 00:40:02 +0900</pubDate>
-      <guid>https://llxyo.github.io/post/eureka/</guid>
+      <guid>http://localhost:1313/post/eureka/</guid>
       <description>これは家族を知らないたった一人だったエウレカが、同じエウレカであるアイリスと出会い、身を共にする中で親と子の愛に通じるものを知り、大切なものを得るまでの物語。 最初は愛情どころか愛想すら知らずアイリスの子どもの心を解することができなかったエウレカはもう見ていられないくらいだった。だけど、アイリスにとっ</description>
     </item>
   </channel>

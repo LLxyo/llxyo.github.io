@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>エヴァンゲリオン on LLxyo&#39;s Daydreams</title>
-    <link>https://llxyo.github.io/series/%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%B2%E3%83%AA%E3%82%AA%E3%83%B3/</link>
+    <link>http://localhost:1313/series/%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%B2%E3%83%AA%E3%82%AA%E3%83%B3/</link>
     <description>Recent content in エヴァンゲリオン on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 17 Mar 2021 01:44:52 +0900</lastBuildDate>
-    <atom:link href="https://llxyo.github.io/series/%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%B2%E3%83%AA%E3%82%AA%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/series/%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%B2%E3%83%AA%E3%82%AA%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「ゲキドル11話」がエヴァンゲリオンにしか見えなくなってしまった話</title>
-      <link>https://llxyo.github.io/post/gekidol_and_evangelion/</link>
+      <link>http://localhost:1313/post/gekidol_and_evangelion/</link>
       <pubDate>Wed, 17 Mar 2021 01:44:52 +0900</pubDate>
-      <guid>https://llxyo.github.io/post/gekidol_and_evangelion/</guid>
+      <guid>http://localhost:1313/post/gekidol_and_evangelion/</guid>
       <description>ふとドールの声が綾波レイみたいだなと感じた時から全てがそうにしか見えなくなってきた GMSの機能や真実？あたりの人類補完計画っぽさ 竹崎の人類に伝えたかった「人類はいつまでも心をバラバラにして争い合うんじゃなくて手と手を繋ぎ合おう」というメッセージと握手は仲良くなるためのお呪い 竹崎の在り様なんてまんまゲ</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>コメディ on LLxyo&#39;s Daydreams</title>
-    <link>https://llxyo.github.io/genre/%E3%82%B3%E3%83%A1%E3%83%87%E3%82%A3/</link>
+    <link>http://localhost:1313/genre/%E3%82%B3%E3%83%A1%E3%83%87%E3%82%A3/</link>
     <description>Recent content in コメディ on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 01 Dec 2021 15:19:37 +0900</lastBuildDate>
-    <atom:link href="https://llxyo.github.io/genre/%E3%82%B3%E3%83%A1%E3%83%87%E3%82%A3/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/genre/%E3%82%B3%E3%83%A1%E3%83%87%E3%82%A3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「変好き」─変態ラブコメミステリーという暴力的なおもしろさ─ 感想と考察</title>
-      <link>https://llxyo.github.io/post/hensuki/</link>
+      <link>http://localhost:1313/post/hensuki/</link>
       <pubDate>Wed, 01 Dec 2021 15:19:37 +0900</pubDate>
-      <guid>https://llxyo.github.io/post/hensuki/</guid>
+      <guid>http://localhost:1313/post/hensuki/</guid>
       <description>クソじゃないアニメ Advent Calendar 2021の2日目です。 さて、本日紹介するのは『可愛ければ変態でも好きになってくれますか?』です。 どんなアニメか一言で表すと、**「下ネタとミステリーで殴りかかってくるアニメ」**です。 きっと意味が分からないとお思いでしょう。でも安心してください。これからじっくりと「変好き」のそ</description>
     </item>
   </channel>

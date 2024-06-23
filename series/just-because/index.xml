@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Just Because! on LLxyo&#39;s Daydreams</title>
-    <link>https://llxyo.github.io/series/just-because/</link>
+    <link>http://localhost:1313/series/just-because/</link>
     <description>Recent content in Just Because! on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Mon, 04 Dec 2023 11:13:05 +0900</lastBuildDate>
-    <atom:link href="https://llxyo.github.io/series/just-because/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/series/just-because/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「Just Because!」─青春を終わらせない、再会の恋物語─ 感想と考察 10~12話</title>
-      <link>https://llxyo.github.io/post/just_because3/</link>
+      <link>http://localhost:1313/post/just_because3/</link>
       <pubDate>Mon, 04 Dec 2023 11:13:05 +0900</pubDate>
-      <guid>https://llxyo.github.io/post/just_because3/</guid>
+      <guid>http://localhost:1313/post/just_because3/</guid>
       <description>この物語は、最高の青春の終わりと再開、もとい再会。 『Just Because』 だからといって青春は終わらない。再開して再会し続ける、そんな物語。 第10話「Childhood&amp;rsquo;s end」 バレンタインデイ・ビターエンド 今日はバレンタインの2月14日、誰しも想いを伝えられずにはいられない。それは</description>
     </item>
     <item>
       <title>「Just Because!」─青春の終わりの続きの恋物語─ 感想と考察 6~9話</title>
-      <link>https://llxyo.github.io/post/just_because2/</link>
+      <link>http://localhost:1313/post/just_because2/</link>
       <pubDate>Wed, 22 Nov 2023 16:42:54 +0900</pubDate>
-      <guid>https://llxyo.github.io/post/just_because2/</guid>
+      <guid>http://localhost:1313/post/just_because2/</guid>
       <description>これは青春の終わりの続きの物語。そして、その青春とは、高校生活であり受験勉強であり、切ない恋のことである。 第6話「Restart」 それぞれが自分の気持ちと向き合おうとする時が来た。 とはいえ、そこには恐れも付き纏う。陽斗なんかはまさにそうで、なんとか瑛太との思いをはっきりさせるか否かの1打席勝負の末に</description>
     </item>
     <item>
       <title>「Just Because!」─青春の終わりに、僕らは諦められなかった─ 感想と考察 1~5話</title>
-      <link>https://llxyo.github.io/post/just_because1/</link>
+      <link>http://localhost:1313/post/just_because1/</link>
       <pubDate>Tue, 14 Nov 2023 22:42:54 +0900</pubDate>
-      <guid>https://llxyo.github.io/post/just_because1/</guid>
+      <guid>http://localhost:1313/post/just_because1/</guid>
       <description>第1話「On your marks!」 高校3年生も3学期目前の転校生。このまま穏やかに残りの僅かな時間の消化試合のように過ごすだけだったはずの日々。そこに、唐突に射し込んだ一つの特異点が泉瑛太だった。 4年ぶりに戻ってきた街に、4年ぶりに再開した陽斗。ホームランチャレンジで野球をしているうちに不思議に自然とまた</description>
     </item>
   </channel>

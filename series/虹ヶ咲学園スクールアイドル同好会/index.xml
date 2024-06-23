@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>虹ヶ咲学園スクールアイドル同好会 on LLxyo&#39;s Daydreams</title>
-    <link>https://llxyo.github.io/series/%E8%99%B9%E3%83%B6%E5%92%B2%E5%AD%A6%E5%9C%92%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E5%90%8C%E5%A5%BD%E4%BC%9A/</link>
+    <link>http://localhost:1313/series/%E8%99%B9%E3%83%B6%E5%92%B2%E5%AD%A6%E5%9C%92%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E5%90%8C%E5%A5%BD%E4%BC%9A/</link>
     <description>Recent content in 虹ヶ咲学園スクールアイドル同好会 on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 31 Jul 2022 14:23:23 +0900</lastBuildDate>
-    <atom:link href="https://llxyo.github.io/series/%E8%99%B9%E3%83%B6%E5%92%B2%E5%AD%A6%E5%9C%92%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E5%90%8C%E5%A5%BD%E4%BC%9A/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/series/%E8%99%B9%E3%83%B6%E5%92%B2%E5%AD%A6%E5%9C%92%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E5%90%8C%E5%A5%BD%E4%BC%9A/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「ラブライブ!虹ヶ咲2期」─ステージの上にあなたを連れて行くトキメキ─ 感想と考察</title>
-      <link>https://llxyo.github.io/post/lovelive_nizigasaki/</link>
+      <link>http://localhost:1313/post/lovelive_nizigasaki/</link>
       <pubDate>Sun, 31 Jul 2022 14:23:23 +0900</pubDate>
-      <guid>https://llxyo.github.io/post/lovelive_nizigasaki/</guid>
+      <guid>http://localhost:1313/post/lovelive_nizigasaki/</guid>
       <description>自分が主役になるなんて考えたこともなかった。そんなあなたがトキメキに魅せられて、輝くそれに手を伸ばしてもいいんだよと勇気と情熱をくれる。虹ヶ咲学園スクールアイドル同好会の物語の後半を表すには、まさにそんな言葉がぴったりだと思う。 そして、彼女たちの生き様に胸を打ち震わされて流した涙の向こうには七色の光</description>
     </item>
   </channel>
