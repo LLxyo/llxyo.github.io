@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>アークナイツ on LLxyo&#39;s Daydreams</title>
-    <link>https://llxyo.github.io/series/%E3%82%A2%E3%83%BC%E3%82%AF%E3%83%8A%E3%82%A4%E3%83%84/</link>
+    <link>http://localhost:1313/series/%E3%82%A2%E3%83%BC%E3%82%AF%E3%83%8A%E3%82%A4%E3%83%84/</link>
     <description>Recent content in アークナイツ on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 09 Dec 2023 18:55:25 +0900</lastBuildDate>
-    <atom:link href="https://llxyo.github.io/series/%E3%82%A2%E3%83%BC%E3%82%AF%E3%83%8A%E3%82%A4%E3%83%84/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/series/%E3%82%A2%E3%83%BC%E3%82%AF%E3%83%8A%E3%82%A4%E3%83%84/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「アークナイツ 2期 冬隠帰路」─正義と正義の殺し合い、貫くのは絶対的な正義─ 感想と考察 14~16話</title>
-      <link>https://llxyo.github.io/post/arknights_perish_in_frost2/</link>
+      <link>http://localhost:1313/post/arknights_perish_in_frost2/</link>
       <pubDate>Sat, 09 Dec 2023 18:55:25 +0900</pubDate>
-      <guid>https://llxyo.github.io/post/arknights_perish_in_frost2/</guid>
+      <guid>http://localhost:1313/post/arknights_perish_in_frost2/</guid>
       <description>第14話「征兆 Blooming」 グレースロートが問うロドスの正義 ファウストの死に寄せられるレユニオンたちの弔いに、グレースロートが思うのは「ロドスは何のために戦っているの？」という疑問。「感染者のために戦っているはずなのに、戦っているのも死んでいくのも感染者ばかり」という彼女の言葉は決して的外れでも</description>
     </item>
     <item>
       <title>「アークナイツ 2期 冬隠帰路」─アーミヤとチェンの正義、その意味とは─ 感想と考察 9~13話</title>
-      <link>https://llxyo.github.io/post/arknights_perish_in_frost/</link>
+      <link>http://localhost:1313/post/arknights_perish_in_frost/</link>
       <pubDate>Sun, 05 Nov 2023 00:36:41 +0900</pubDate>
-      <guid>https://llxyo.github.io/post/arknights_perish_in_frost/</guid>
+      <guid>http://localhost:1313/post/arknights_perish_in_frost/</guid>
       <description>第9話「序歌 Conspiracy」 チェルノボーグでの戦いにて、ミーシャを自らの手で殺せなかったことは、アーミヤの心に「自分は誰も救えない」という傷を残していた。そして、あの時ミーシャに手を下すことができたチェンと対比して、アーミヤは自分の正義はただ怒りや憎しみに動かされるままのものでしかなく、そこに</description>
     </item>
     <item>
       <title>「アークナイツ 1期 黎明前奏」─それでも私は理想を語る─ 感想と考察</title>
-      <link>https://llxyo.github.io/post/arknights/</link>
+      <link>http://localhost:1313/post/arknights/</link>
       <pubDate>Wed, 25 Jan 2023 01:10:00 +0900</pubDate>
-      <guid>https://llxyo.github.io/post/arknights/</guid>
+      <guid>http://localhost:1313/post/arknights/</guid>
       <description>この物語は「理想を語ることは簡単でも現実にすることは果てしなく難しい。だけどそれを知ってなお、まだ理想を語る者は臆病なんかじゃない。現実という暗闇を希望の光で照らしていく者には確かな勇気を持っている」と、そんなことを語っているのだと私は思う。 重く暗い世界で生きる少女たち 重く残酷な世界に立ち向かわなけ</description>
     </item>
   </channel>

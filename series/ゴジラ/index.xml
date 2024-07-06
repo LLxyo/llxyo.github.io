@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ゴジラ on LLxyo&#39;s Daydreams</title>
-    <link>https://llxyo.github.io/series/%E3%82%B4%E3%82%B8%E3%83%A9/</link>
+    <link>http://localhost:1313/series/%E3%82%B4%E3%82%B8%E3%83%A9/</link>
     <description>Recent content in ゴジラ on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Thu, 18 Nov 2021 17:34:48 +0900</lastBuildDate>
-    <atom:link href="https://llxyo.github.io/series/%E3%82%B4%E3%82%B8%E3%83%A9/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/series/%E3%82%B4%E3%82%B8%E3%83%A9/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「シン・ゴジラ」─日本という日常の崩壊と真価─ 感想と考察</title>
-      <link>https://llxyo.github.io/post/shin_godzilla/</link>
+      <link>http://localhost:1313/post/shin_godzilla/</link>
       <pubDate>Thu, 18 Nov 2021 17:34:48 +0900</pubDate>
-      <guid>https://llxyo.github.io/post/shin_godzilla/</guid>
+      <guid>http://localhost:1313/post/shin_godzilla/</guid>
       <description>本物の現実の崩壊 その圧倒的な異物によって、日常の風景が世界があっと言う間に崩れて去っていく光景には恐怖なのか、悲しみなのかその理由すらもわからない涙が湧き上がってくる。 保守的な文書主義と保身的な政治によってがんじがらめなその国は、余りに私たちの生きる日本という名の国家とそっくりであった。ヒロイックな</description>
     </item>
   </channel>

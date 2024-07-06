@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>True Tears on LLxyo&#39;s Daydreams</title>
-    <link>https://llxyo.github.io/series/true-tears/</link>
+    <link>http://localhost:1313/series/true-tears/</link>
     <description>Recent content in True Tears on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Fri, 27 Oct 2023 15:07:44 +0900</lastBuildDate>
-    <atom:link href="https://llxyo.github.io/series/true-tears/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/series/true-tears/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「true tears」─泣けない私の、叶わない恋─ 感想と考察</title>
-      <link>https://llxyo.github.io/post/true_tears/</link>
+      <link>http://localhost:1313/post/true_tears/</link>
       <pubDate>Fri, 27 Oct 2023 15:07:44 +0900</pubDate>
-      <guid>https://llxyo.github.io/post/true_tears/</guid>
+      <guid>http://localhost:1313/post/true_tears/</guid>
       <description>この『true tears』というアニメは、なかなかに恋愛アニメな以上に質アニメ的であるうようにも感じた。それ故に1話ずつ見終えた後にキャラクターたちの関係性と展開を整理し、自分で改めて咀嚼してから初めて見えてくるものも少なくないし、もう一度見たいと思わせてくれるものだった。それに、そうやって彼女たち</description>
     </item>
     <item>
       <title>「true tears」聖地巡礼④ 氷見編</title>
-      <link>https://llxyo.github.io/photolog/true_tears_animetourism4/</link>
+      <link>http://localhost:1313/photolog/true_tears_animetourism4/</link>
       <pubDate>Thu, 26 Oct 2023 12:01:50 +0900</pubDate>
-      <guid>https://llxyo.github.io/photolog/true_tears_animetourism4/</guid>
+      <guid>http://localhost:1313/photolog/true_tears_animetourism4/</guid>
       <description>『true tears』聖地巡礼、最後は氷見へやって来ました。 薮田バス停 12話で象徴的だったバスの停留所。 いずれも12話から。 ちょうど薮田に到着した頃から雨風が出てきていて、劇中で雪の寒さを停留所の中でしのぐ乃絵と眞一郎の気持ちがわかるようでした。 薮田交差点 10話で仲上家を出る比呂美を追いかける眞一郎</description>
     </item>
     <item>
       <title>「true tears」聖地巡礼③ 高岡編</title>
-      <link>https://llxyo.github.io/photolog/true_tears_animetourism3/</link>
+      <link>http://localhost:1313/photolog/true_tears_animetourism3/</link>
       <pubDate>Wed, 25 Oct 2023 22:00:12 +0900</pubDate>
-      <guid>https://llxyo.github.io/photolog/true_tears_animetourism3/</guid>
+      <guid>http://localhost:1313/photolog/true_tears_animetourism3/</guid>
       <description>『true tears』聖地巡礼、続いて城端から高岡へと場所を移していきます。 高岡古城公園 劇中で噴水が印象的な公園、高岡古城公園にやって来ました。 最寄り駅は越中中川駅なのですが、城端駅からでは高岡駅で乗り換える必要があり、しかも接続によっては1時間弱も電車を待つことになってしまいます&amp;hellip;。</description>
     </item>
     <item>
       <title>「true tears」聖地巡礼② 城端編その2</title>
-      <link>https://llxyo.github.io/photolog/true_tears_animetourism2/</link>
+      <link>http://localhost:1313/photolog/true_tears_animetourism2/</link>
       <pubDate>Wed, 25 Oct 2023 21:59:49 +0900</pubDate>
-      <guid>https://llxyo.github.io/photolog/true_tears_animetourism2/</guid>
+      <guid>http://localhost:1313/photolog/true_tears_animetourism2/</guid>
       <description>『true tears』聖地の城端・巡礼はまだまだ続きます。 御坊坂・善徳寺前 まずは9話と10話から。仲上家の外壁は、御坊坂の中腹にあるわき道を入ったところがそれっぽかったです。 立派な家を背景にした場面は4話から。ちょうど御坊坂を登りきるあたりのところでした。 そして、10話の仲上家前で雪かきをする比呂美</description>
     </item>
     <item>
       <title>「true tears」聖地巡礼① 城端編その1</title>
-      <link>https://llxyo.github.io/photolog/true_tears_animetourism1/</link>
+      <link>http://localhost:1313/photolog/true_tears_animetourism1/</link>
       <pubDate>Wed, 25 Oct 2023 20:53:00 +0900</pubDate>
-      <guid>https://llxyo.github.io/photolog/true_tears_animetourism1/</guid>
+      <guid>http://localhost:1313/photolog/true_tears_animetourism1/</guid>
       <description>今回は、『true tears』の聖地・富山県の巡礼。中でもメインの舞台となった南砺市城端に加え、高岡市、氷見市を巡ってきました。 （1日しか時間がなく、富山市内の聖地は回り切れませんでした。それでも氷見まで回れたのはかなりの頑張りのはず&amp;hellip;） ちなみに日程は2023年10月20日と『花咲くい</description>
     </item>
   </channel>

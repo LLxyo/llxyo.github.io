@@ -2,18 +2,124 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>音楽&#34; on LLxyo&#39;s Daydreams</title>
-    <link>https://llxyo.github.io/genre/%E9%9F%B3%E6%A5%BD/</link>
+    <link>http://localhost:1313/genre/%E9%9F%B3%E6%A5%BD/</link>
     <description>Recent content in 音楽&#34; on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Fri, 03 Dec 2021 01:45:11 +0900</lastBuildDate>
-    <atom:link href="https://llxyo.github.io/genre/%E9%9F%B3%E6%A5%BD/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/genre/%E9%9F%B3%E6%A5%BD/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「TARI TARI」─どこまでもまっすぐで貴い、青春の全部が詰まった物語─ 感想と考察</title>
-      <link>https://llxyo.github.io/post/taritari2/</link>
+      <link>http://localhost:1313/post/taritari2/</link>
       <pubDate>Fri, 03 Dec 2021 01:45:11 +0900</pubDate>
-      <guid>https://llxyo.github.io/post/taritari2/</guid>
+      <guid>http://localhost:1313/post/taritari2/</guid>
       <description>この「TARITARI」、クソじゃないアニメ Advent Calendarに似合わず普通に非の打ちどころのない名作アニメです。まぁ文字通りクソじゃないアニメには変わらないのでＯＫですが。 ということで、クソじゃないアニメ Advent Calendar 2021の4日目です。 *** まず「TARI TARI」がどんなアニメかというと、江ノ島や湘南を舞</description>
+    </item>
+  </channel>
+</rss>
+   <title>「夜のクラゲは泳げない」─青春は痛くて、輝いていて─ 感想と考察</title>
+      <link>http://localhost:1313/post/yorukura/</link>
+      <pubDate>Sat, 20 Apr 2024 18:54:56 +0900</pubDate>
+      <guid>http://localhost:1313/post/yorukura/</guid>
+      <description>第1話「夜のクラゲ」 本音を言って否定されることを怖がる。そんな私が光月まひるで、量産型女子を生きる将来はつまらない大人になるもんだと思ってた。でも、そうはなりたくない。そんな何者かになりたい私、それが光月ヨルとして映し出されていた。 だけど、幼い頃にイラストを描いていたヨルは、せっかく壁画に選ばれた絵</description>
+    </item>
+    <item>
+      <title>「MyGO!!!!!」─ポピパには救えない弱さを、迷子は拾ってくれた─ 感想と考察</title>
+      <link>http://localhost:1313/post/bangdream_mygo/</link>
+      <pubDate>Tue, 26 Sep 2023 11:23:07 +0900</pubDate>
+      <guid>http://localhost:1313/post/bangdream_mygo/</guid>
+      <description>バンドリの挑戦的な新シリーズ『It’s MyGO!!!!!』は、あまりにも衝撃的であり、今までのキラキラしたバンドリの世界はどこにもなかった。 だけど、荒んだ人間関係の中でもがきながら、「迷子でも進む」をスローガンになんとか一緒に繋がっていようとする迷子たちは、誰もが抱える弱さに余すとこなく寄り添ってく</description>
+    </item>
+    <item>
+      <title>「響け!ユーフォニアム アンサンブルコンテスト」─優しいだけじゃない大前新部長─ 感想と考察</title>
+      <link>http://localhost:1313/post/sound_euphonium_ensemble_contest/</link>
+      <pubDate>Wed, 06 Sep 2023 21:27:13 +0900</pubDate>
+      <guid>http://localhost:1313/post/sound_euphonium_ensemble_contest/</guid>
+      <description>新部長・大前久美子 ユニットごとのオーディションで挑むアンサンブルコンテスト。初手で麗奈は「なぁなぁで済ませるのはキラい」と言い切っていた。 一方で、久美子は部長として部内のバランスを取るためにも、どこかふわふわと優柔不断そうな姿にも見えるようだった。 もちろん、久美子にもその自覚はあって、かつての小笠原</description>
+    </item>
+    <item>
+      <title>「ブルージャイアント」─存在が光るから、その音色に惹かれる─ 感想と考察</title>
+      <link>http://localhost:1313/post/blue_giant/</link>
+      <pubDate>Sat, 15 Apr 2023 21:57:07 +0900</pubDate>
+      <guid>http://localhost:1313/post/blue_giant/</guid>
+      <description>ジャズの音色とジャズにかける思い。そんな具体的な形を持たないものが、はっきりと目に見える程の爆発を描き出す。そんな物語がこのアニメだった。 信念と存在が宿るサックス 貫く自分の思いと信念、そして光る存在感と人を虜にする魅力。解き放たれる覇気や気力、生命力といった強さ。それこそが宮本大のサックスが奏でてい</description>
+    </item>
+    <item>
+      <title>「ルミナスウィッチーズ」─歌で、世界も想いも繋ぐ─ 感想と考察</title>
+      <link>http://localhost:1313/post/luminous_witches/</link>
+      <pubDate>Sat, 15 Oct 2022 17:45:07 +0900</pubDate>
+      <guid>http://localhost:1313/post/luminous_witches/</guid>
+      <description>「人と人との繋がりこそが力をくれる」ということを深く深く感じた。そして、1話から12話までのエピソードが一繋ぎに繋がった時、ルミナスウィッチーズたちの成長と旅路がいっそう輝きを放っていた。 同じ空の下、どこまでも越えて繋がる想い この物語は常に「遠い距離を越えて繋がる想い」を描いていた。特にセンチメンタ</description>
+    </item>
+    <item>
+      <title>「犬王」─魂の叫びは、友有の存在証明─ 感想と考察</title>
+      <link>http://localhost:1313/post/inu_oh/</link>
+      <pubDate>Wed, 03 Aug 2022 19:00:31 +0900</pubDate>
+      <guid>http://localhost:1313/post/inu_oh/</guid>
+      <description>今は昔、奪われて失われた者たちの物語 犬王と友有は無念のうちに終えた平家の物語を歌うことで、彼らの存在を再び世に示し成仏させていった。 そして、足利義満によって亡き者にされた友有と自らを封じざるを得なかった犬王。この歴史の上からその存在をかき消され、忘れ去られてしまった2人が確かに存在し一世を風靡したこ</description>
+    </item>
+    <item>
+      <title>「ラブライブ!虹ヶ咲2期」─ステージの上にあなたを連れて行くトキメキ─ 感想と考察</title>
+      <link>http://localhost:1313/post/lovelive_nizigasaki/</link>
+      <pubDate>Sun, 31 Jul 2022 14:23:23 +0900</pubDate>
+      <guid>http://localhost:1313/post/lovelive_nizigasaki/</guid>
+      <description>自分が主役になるなんて考えたこともなかった。そんなあなたがトキメキに魅せられて、輝くそれに手を伸ばしてもいいんだよと勇気と情熱をくれる。虹ヶ咲学園スクールアイドル同好会の物語の後半を表すには、まさにそんな言葉がぴったりだと思う。 そして、彼女たちの生き様に胸を打ち震わされて流した涙の向こうには七色の光</description>
+    </item>
+    <item>
+      <title>「劇場版マクロスΔ絶対LIVE」─絶対諦めない、絶対の歌い様─ 感想と考察</title>
+      <link>http://localhost:1313/post/macross_delta_absolute_live/</link>
+      <pubDate>Sat, 08 Jan 2022 11:56:54 +0900</pubDate>
+      <guid>http://localhost:1313/post/macross_delta_absolute_live/</guid>
+      <description>どんな困難が立ちはだかっても、自分の生き方を諦めたくない。全力で生きて、全力で誰かを守る歌を、誰かを愛する歌を刻み付けたい。 林檎の花のように彼女に残された時間は短いけれど、その中で悔いのないように最高に幸せだったって言えるようにめいいっぱい咲き誇りたいってフレイアの叫びが胸に響いた。 林檎の花は一度燃</description>
+    </item>
+    <item>
+      <title>「マクロスΔ激情のワルキューレ」─本編を越えた&#34;激情版&#34;総集編─ 感想と考察</title>
+      <link>http://localhost:1313/post/macross_delta_passionate_walkure/</link>
+      <pubDate>Wed, 05 Jan 2022 18:39:53 +0900</pubDate>
+      <guid>http://localhost:1313/post/macross_delta_passionate_walkure/</guid>
+      <description>魂込めて歌う激情 歌を歌いたい、歌うことが生きる意味。 存在証明的なこの激情を絶唱して、立ちはだかる壁にぶつけていくワルキューレの姿が単純だけど熱くて胸に響いた。 そして、メッサーが命がけでワルキューレを守る姿やワルキューレたちが歌で届けてくれる魂や覚悟は、言葉にならないそのままの想いが伝わってきて…もう</description>
+    </item>
+    <item>
+      <title>「マクロスΔ」─魅惑のコズミックSFミュージカル─ 感想と考察</title>
+      <link>http://localhost:1313/post/macross_delta/</link>
+      <pubDate>Mon, 06 Dec 2021 23:50:08 +0900</pubDate>
+      <guid>http://localhost:1313/post/macross_delta/</guid>
+      <description>クソじゃないアニメ Advent Calendar 2021の7日目は、音に聞く限りではシリーズ前作との比較もあってかイマイチと聞くことが多いマクロスΔです。曲とか圧倒的に良いのになぜ&amp;hellip;。 マクロスの魅力といえば歌、その中でもマクロスΔにはワルキューレという歌の女神がいる。 正直言うと、この後にストーリーラインや世界観</description>
+    </item>
+    <item>
+      <title>「響け!ユーフォニアム 誓いのフィナーレ」─本気にならないと手に入らないものがある─ 感想と考察</title>
+      <link>http://localhost:1313/post/sound_euphonium_oaths_finale/</link>
+      <pubDate>Sun, 28 Nov 2021 14:33:45 +0900</pubDate>
+      <guid>http://localhost:1313/post/sound_euphonium_oaths_finale/</guid>
+      <description>彼女は、実力のある者の肩を持つようで自分自身は実力主義以上に感情的な論理に身を埋めようとする。彼女は、久美子の調和的な振る舞いを気に食わなそうに見ているくせに自分を犠牲にして先輩である夏紀を立てようとする。 頑張った末に何も残らないどころか、それを否定するような傷を負っていた。本音を隠して、本気でいる</description>
+    </item>
+    <item>
+      <title>「TARI TARI」─笑ったり、悩んだり、泣いたりの青春群像劇─ 感想と考察</title>
+      <link>http://localhost:1313/post/taritari/</link>
+      <pubDate>Fri, 03 Sep 2021 16:29:30 +0900</pubDate>
+      <guid>http://localhost:1313/post/taritari/</guid>
+      <description>合唱部の5人が歌と共にたくさんの困難を乗り越えたり、はっちゃけて笑いあったり、時には高い壁の前に諦めてしまうこともあったけど、仲間と支えあってまた前を向いて歩き出したりな青春群像劇。 全13話のどれを取っても合唱部の5人の姿に具現化されたメッセージが込められていた。行く手を阻む困難に打ちのめされてしま</description>
+    </item>
+    <item>
+      <title>「ハナヤマタ」─青春をぎこちなくも華々しく舞う5人の物語─ 感想と考察</title>
+      <link>http://localhost:1313/post/hanayamata/</link>
+      <pubDate>Sun, 15 Aug 2021 10:17:11 +0900</pubDate>
+      <guid>http://localhost:1313/post/hanayamata/</guid>
+      <description>輝きたい！ヒロインになりたい！と思う普通の女の子が金髪よさこい少女と出会い、仲間を集め、5人でよさこいを踊るというお話。 思春期特有の家族や友だちについてのナイーブな葛藤や悩みを乗り越えて、5人がだんだんと結束していく姿は瑞々しく輝いていた。 そして、よさこいステージに向けてという前に待ち受ける唐突な別</description>
+    </item>
+    <item>
+      <title>「ラブライブ!」─μ´ｓの輝きと儚さ─ 感想　</title>
+      <link>http://localhost:1313/post/lovelive/</link>
+      <pubDate>Mon, 07 Jun 2021 17:53:56 +0900</pubDate>
+      <guid>http://localhost:1313/post/lovelive/</guid>
+      <description>今更ラブライブ!シリーズのアニメを全部見た。 もちろん今までラブライブ! を知らないなんてことはなかったけれど、なかなかまともにコンテンツに触れる機会がなかった。そして遂にシリーズ9周年の2020年の秋クールに放送されたアニガサキでようやくラブライブ!に初めてまともに触れてからは他のシリーズにも触れる機</description>
+    </item>
+    <item>
+      <title>「響け！ユーフォニアム 2期」─自由な子供のままでいい─ 感想と考察</title>
+      <link>http://localhost:1313/post/%E9%9F%BF%E3%81%91%E3%83%A6%E3%83%BC%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%A0%EF%BC%92%E6%84%9F%E6%83%B3/</link>
+      <pubDate>Sun, 05 Apr 2020 00:30:12 +0900</pubDate>
+      <guid>http://localhost:1313/post/%E9%9F%BF%E3%81%91%E3%83%A6%E3%83%BC%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%A0%EF%BC%92%E6%84%9F%E6%83%B3/</guid>
+      <description>自由な子供のままでいい これはあすか先輩はもちろん、この言葉を10話で投げ掛けた久美子の成長にも寄与した 高校生なんだから、子供なんだから変に無理に自分を抑え込んで他人のために周りに合わせて我慢せずに、らしくありのままに自分の好きなことを、学生時代の今にしかできないことをやり通せ！大人になっても後悔しな</description>
     </item>
   </channel>
 </rss>

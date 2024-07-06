@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>【推しの子】 on LLxyo&#39;s Daydreams</title>
-    <link>https://llxyo.github.io/series/%E6%8E%A8%E3%81%97%E3%81%AE%E5%AD%90/</link>
+    <link>http://localhost:1313/series/%E6%8E%A8%E3%81%97%E3%81%AE%E5%AD%90/</link>
     <description>Recent content in 【推しの子】 on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 08 Jul 2023 13:48:29 +0900</lastBuildDate>
-    <atom:link href="https://llxyo.github.io/series/%E6%8E%A8%E3%81%97%E3%81%AE%E5%AD%90/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/series/%E6%8E%A8%E3%81%97%E3%81%AE%E5%AD%90/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「推しの子」─嘘と真実が炙り出す、ヒトの本性─ 感想と考察</title>
-      <link>https://llxyo.github.io/post/oshinoko/</link>
+      <link>http://localhost:1313/post/oshinoko/</link>
       <pubDate>Sat, 08 Jul 2023 13:48:29 +0900</pubDate>
-      <guid>https://llxyo.github.io/post/oshinoko/</guid>
+      <guid>http://localhost:1313/post/oshinoko/</guid>
       <description>6話『エゴサーチ』：見える虚像と見えない実像 バカが付くほど正直で真面目でまっすぐな黒川あかねに、恋愛リアリティショーというホントでウソなエンターテインメントは決定的に水と油なのかもしれない。丸っきりの虚構の役を演じるのでもなく、嘘が入ったり入らなかったりしつつも演じるのは自分そのものという曖昧さ微妙</description>
     </item>
   </channel>

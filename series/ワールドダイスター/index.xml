@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ワールドダイスター on LLxyo&#39;s Daydreams</title>
-    <link>https://llxyo.github.io/series/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%80%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC/</link>
+    <link>http://localhost:1313/series/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%80%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC/</link>
     <description>Recent content in ワールドダイスター on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 23 Jul 2023 10:04:47 +0900</lastBuildDate>
-    <atom:link href="https://llxyo.github.io/series/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%80%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/series/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%80%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「ワールドダイスター」─ここなと静香の絆、その裏側に見える意味─感想と考察</title>
-      <link>https://llxyo.github.io/post/world_dai_star/</link>
+      <link>http://localhost:1313/post/world_dai_star/</link>
       <pubDate>Sun, 23 Jul 2023 10:04:47 +0900</pubDate>
-      <guid>https://llxyo.github.io/post/world_dai_star/</guid>
+      <guid>http://localhost:1313/post/world_dai_star/</guid>
       <description>ワールドダイスターの物語 この『ワールドダイスター』は、「少女☆歌劇 レヴュースタァライト」や「かげきしょうじょ!!」と同じように、舞台演劇に熱を注ぐ少女たちの物語である。 だが、『ワールドダイスター』は「少女☆歌劇 レヴュースタァライト」のほどに高度なファンタジーや抽象的な世界観ではなく、かといって「かげ</description>
     </item>
   </channel>

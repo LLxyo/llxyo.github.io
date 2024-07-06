@@ -2,1046 +2,1067 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on LLxyo&#39;s Daydreams</title>
-    <link>https://llxyo.github.io/series/</link>
+    <link>http://localhost:1313/series/</link>
     <description>Recent content in Series on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 06 Jul 2024 13:25:57 +0900</lastBuildDate>
-    <atom:link href="https://llxyo.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>夜のクラゲは泳げない</title>
-      <link>https://llxyo.github.io/series/%E5%A4%9C%E3%81%AE%E3%82%AF%E3%83%A9%E3%82%B2%E3%81%AF%E6%B3%B3%E3%81%92%E3%81%AA%E3%81%84/</link>
+      <link>http://localhost:1313/series/%E5%A4%9C%E3%81%AE%E3%82%AF%E3%83%A9%E3%82%B2%E3%81%AF%E6%B3%B3%E3%81%92%E3%81%AA%E3%81%84/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E5%A4%9C%E3%81%AE%E3%82%AF%E3%83%A9%E3%82%B2%E3%81%AF%E6%B3%B3%E3%81%92%E3%81%AA%E3%81%84/</guid>
+      <guid>http://localhost:1313/series/%E5%A4%9C%E3%81%AE%E3%82%AF%E3%83%A9%E3%82%B2%E3%81%AF%E6%B3%B3%E3%81%92%E3%81%AA%E3%81%84/</guid>
       <description></description>
     </item>
     <item>
       <title>ルックバック</title>
-      <link>https://llxyo.github.io/series/%E3%83%AB%E3%83%83%E3%82%AF%E3%83%90%E3%83%83%E3%82%AF/</link>
+      <link>http://localhost:1313/series/%E3%83%AB%E3%83%83%E3%82%AF%E3%83%90%E3%83%83%E3%82%AF/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%83%AB%E3%83%83%E3%82%AF%E3%83%90%E3%83%83%E3%82%AF/</guid>
+      <guid>http://localhost:1313/series/%E3%83%AB%E3%83%83%E3%82%AF%E3%83%90%E3%83%83%E3%82%AF/</guid>
       <description></description>
     </item>
     <item>
       <title>心が叫びたがってるんだ。</title>
-      <link>https://llxyo.github.io/series/%E5%BF%83%E3%81%8C%E5%8F%AB%E3%81%B3%E3%81%9F%E3%81%8C%E3%81%A3%E3%81%A6%E3%82%8B%E3%82%93%E3%81%A0/</link>
+      <link>http://localhost:1313/series/%E5%BF%83%E3%81%8C%E5%8F%AB%E3%81%B3%E3%81%9F%E3%81%8C%E3%81%A3%E3%81%A6%E3%82%8B%E3%82%93%E3%81%A0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E5%BF%83%E3%81%8C%E5%8F%AB%E3%81%B3%E3%81%9F%E3%81%8C%E3%81%A3%E3%81%A6%E3%82%8B%E3%82%93%E3%81%A0/</guid>
+      <guid>http://localhost:1313/series/%E5%BF%83%E3%81%8C%E5%8F%AB%E3%81%B3%E3%81%9F%E3%81%8C%E3%81%A3%E3%81%A6%E3%82%8B%E3%82%93%E3%81%A0/</guid>
       <description></description>
     </item>
     <item>
       <title>トラペジウム</title>
-      <link>https://llxyo.github.io/series/%E3%83%88%E3%83%A9%E3%83%9A%E3%82%B8%E3%82%A6%E3%83%A0/</link>
+      <link>http://localhost:1313/series/%E3%83%88%E3%83%A9%E3%83%9A%E3%82%B8%E3%82%A6%E3%83%A0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%83%88%E3%83%A9%E3%83%9A%E3%82%B8%E3%82%A6%E3%83%A0/</guid>
+      <guid>http://localhost:1313/series/%E3%83%88%E3%83%A9%E3%83%9A%E3%82%B8%E3%82%A6%E3%83%A0/</guid>
       <description></description>
     </item>
     <item>
       <title>ストレンヂア 無皇刃譚</title>
-      <link>https://llxyo.github.io/series/%E3%82%B9%E3%83%88%E3%83%AC%E3%83%B3%E3%83%82%E3%82%A2-%E7%84%A1%E7%9A%87%E5%88%83%E8%AD%9A/</link>
+      <link>http://localhost:1313/series/%E3%82%B9%E3%83%88%E3%83%AC%E3%83%B3%E3%83%82%E3%82%A2-%E7%84%A1%E7%9A%87%E5%88%83%E8%AD%9A/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%82%B9%E3%83%88%E3%83%AC%E3%83%B3%E3%83%82%E3%82%A2-%E7%84%A1%E7%9A%87%E5%88%83%E8%AD%9A/</guid>
+      <guid>http://localhost:1313/series/%E3%82%B9%E3%83%88%E3%83%AC%E3%83%B3%E3%83%82%E3%82%A2-%E7%84%A1%E7%9A%87%E5%88%83%E8%AD%9A/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>やはり俺の青春ラブコメはまちがっている。</title>
+      <link>http://localhost:1313/series/%E3%82%84%E3%81%AF%E3%82%8A%E4%BF%BA%E3%81%AE%E9%9D%92%E6%98%A5%E3%83%A9%E3%83%96%E3%82%B3%E3%83%A1%E3%81%AF%E3%81%BE%E3%81%A1%E3%81%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/series/%E3%82%84%E3%81%AF%E3%82%8A%E4%BF%BA%E3%81%AE%E9%9D%92%E6%98%A5%E3%83%A9%E3%83%96%E3%82%B3%E3%83%A1%E3%81%AF%E3%81%BE%E3%81%A1%E3%81%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B/</guid>
       <description></description>
     </item>
     <item>
       <title>凪のあすから</title>
-      <link>https://llxyo.github.io/series/%E5%87%AA%E3%81%AE%E3%81%82%E3%81%99%E3%81%8B%E3%82%89/</link>
+      <link>http://localhost:1313/series/%E5%87%AA%E3%81%AE%E3%81%82%E3%81%99%E3%81%8B%E3%82%89/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E5%87%AA%E3%81%AE%E3%81%82%E3%81%99%E3%81%8B%E3%82%89/</guid>
+      <guid>http://localhost:1313/series/%E5%87%AA%E3%81%AE%E3%81%82%E3%81%99%E3%81%8B%E3%82%89/</guid>
       <description></description>
     </item>
     <item>
       <title>16bitセンセーション ANOTHER LAYER</title>
-      <link>https://llxyo.github.io/series/16bit%E3%82%BB%E3%83%B3%E3%82%BB%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-another-layer/</link>
+      <link>http://localhost:1313/series/16bit%E3%82%BB%E3%83%B3%E3%82%BB%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-another-layer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/16bit%E3%82%BB%E3%83%B3%E3%82%BB%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-another-layer/</guid>
+      <guid>http://localhost:1313/series/16bit%E3%82%BB%E3%83%B3%E3%82%BB%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-another-layer/</guid>
       <description></description>
     </item>
     <item>
       <title>ウマ娘 プリティーダービー</title>
-      <link>https://llxyo.github.io/series/%E3%82%A6%E3%83%9E%E5%A8%98-%E3%83%97%E3%83%AA%E3%83%86%E3%82%A3%E3%83%BC%E3%83%80%E3%83%BC%E3%83%93%E3%83%BC/</link>
+      <link>http://localhost:1313/series/%E3%82%A6%E3%83%9E%E5%A8%98-%E3%83%97%E3%83%AA%E3%83%86%E3%82%A3%E3%83%BC%E3%83%80%E3%83%BC%E3%83%93%E3%83%BC/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%82%A6%E3%83%9E%E5%A8%98-%E3%83%97%E3%83%AA%E3%83%86%E3%82%A3%E3%83%BC%E3%83%80%E3%83%BC%E3%83%93%E3%83%BC/</guid>
+      <guid>http://localhost:1313/series/%E3%82%A6%E3%83%9E%E5%A8%98-%E3%83%97%E3%83%AA%E3%83%86%E3%82%A3%E3%83%BC%E3%83%80%E3%83%BC%E3%83%93%E3%83%BC/</guid>
       <description></description>
     </item>
     <item>
       <title>星屑テレパス</title>
-      <link>https://llxyo.github.io/series/%E6%98%9F%E5%B1%91%E3%83%86%E3%83%AC%E3%83%91%E3%82%B9/</link>
+      <link>http://localhost:1313/series/%E6%98%9F%E5%B1%91%E3%83%86%E3%83%AC%E3%83%91%E3%82%B9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E6%98%9F%E5%B1%91%E3%83%86%E3%83%AC%E3%83%91%E3%82%B9/</guid>
+      <guid>http://localhost:1313/series/%E6%98%9F%E5%B1%91%E3%83%86%E3%83%AC%E3%83%91%E3%82%B9/</guid>
       <description></description>
     </item>
     <item>
       <title>アークナイツ</title>
-      <link>https://llxyo.github.io/series/%E3%82%A2%E3%83%BC%E3%82%AF%E3%83%8A%E3%82%A4%E3%83%84/</link>
+      <link>http://localhost:1313/series/%E3%82%A2%E3%83%BC%E3%82%AF%E3%83%8A%E3%82%A4%E3%83%84/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%82%A2%E3%83%BC%E3%82%AF%E3%83%8A%E3%82%A4%E3%83%84/</guid>
+      <guid>http://localhost:1313/series/%E3%82%A2%E3%83%BC%E3%82%AF%E3%83%8A%E3%82%A4%E3%83%84/</guid>
       <description></description>
     </item>
     <item>
       <title>青春ブタ野郎</title>
-      <link>https://llxyo.github.io/series/%E9%9D%92%E6%98%A5%E3%83%96%E3%82%BF%E9%87%8E%E9%83%8E/</link>
+      <link>http://localhost:1313/series/%E9%9D%92%E6%98%A5%E3%83%96%E3%82%BF%E9%87%8E%E9%83%8E/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E9%9D%92%E6%98%A5%E3%83%96%E3%82%BF%E9%87%8E%E9%83%8E/</guid>
+      <guid>http://localhost:1313/series/%E9%9D%92%E6%98%A5%E3%83%96%E3%82%BF%E9%87%8E%E9%83%8E/</guid>
       <description></description>
     </item>
     <item>
       <title>Just Because!</title>
-      <link>https://llxyo.github.io/series/just-because/</link>
+      <link>http://localhost:1313/series/just-because/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/just-because/</guid>
+      <guid>http://localhost:1313/series/just-because/</guid>
       <description></description>
     </item>
     <item>
       <title>無職転生</title>
-      <link>https://llxyo.github.io/series/%E7%84%A1%E8%81%B7%E8%BB%A2%E7%94%9F/</link>
+      <link>http://localhost:1313/series/%E7%84%A1%E8%81%B7%E8%BB%A2%E7%94%9F/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E7%84%A1%E8%81%B7%E8%BB%A2%E7%94%9F/</guid>
+      <guid>http://localhost:1313/series/%E7%84%A1%E8%81%B7%E8%BB%A2%E7%94%9F/</guid>
       <description></description>
     </item>
     <item>
       <title>であいもん</title>
-      <link>https://llxyo.github.io/series/%E3%81%A7%E3%81%82%E3%81%84%E3%82%82%E3%82%93/</link>
+      <link>http://localhost:1313/series/%E3%81%A7%E3%81%82%E3%81%84%E3%82%82%E3%82%93/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%81%A7%E3%81%82%E3%81%84%E3%82%82%E3%82%93/</guid>
+      <guid>http://localhost:1313/series/%E3%81%A7%E3%81%82%E3%81%84%E3%82%82%E3%82%93/</guid>
       <description></description>
     </item>
     <item>
       <title>駒田蒸留所へようこそ</title>
-      <link>https://llxyo.github.io/series/%E9%A7%92%E7%94%B0%E8%92%B8%E7%95%99%E6%89%80%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D/</link>
+      <link>http://localhost:1313/series/%E9%A7%92%E7%94%B0%E8%92%B8%E7%95%99%E6%89%80%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E9%A7%92%E7%94%B0%E8%92%B8%E7%95%99%E6%89%80%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D/</guid>
+      <guid>http://localhost:1313/series/%E9%A7%92%E7%94%B0%E8%92%B8%E7%95%99%E6%89%80%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D/</guid>
       <description></description>
     </item>
     <item>
       <title>ガールズ&amp;パンツァー</title>
-      <link>https://llxyo.github.io/series/%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%91%E3%83%B3%E3%83%84%E3%82%A1%E3%83%BC/</link>
+      <link>http://localhost:1313/series/%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%91%E3%83%B3%E3%83%84%E3%82%A1%E3%83%BC/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%91%E3%83%B3%E3%83%84%E3%82%A1%E3%83%BC/</guid>
+      <guid>http://localhost:1313/series/%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%91%E3%83%B3%E3%83%84%E3%82%A1%E3%83%BC/</guid>
       <description></description>
     </item>
     <item>
       <title>たまこまーけっと</title>
-      <link>https://llxyo.github.io/series/%E3%81%9F%E3%81%BE%E3%81%93%E3%81%BE%E3%83%BC%E3%81%91%E3%81%A3%E3%81%A8/</link>
+      <link>http://localhost:1313/series/%E3%81%9F%E3%81%BE%E3%81%93%E3%81%BE%E3%83%BC%E3%81%91%E3%81%A3%E3%81%A8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%81%9F%E3%81%BE%E3%81%93%E3%81%BE%E3%83%BC%E3%81%91%E3%81%A3%E3%81%A8/</guid>
+      <guid>http://localhost:1313/series/%E3%81%9F%E3%81%BE%E3%81%93%E3%81%BE%E3%83%BC%E3%81%91%E3%81%A3%E3%81%A8/</guid>
       <description></description>
     </item>
     <item>
       <title>ガヴリールドロップアウト</title>
-      <link>https://llxyo.github.io/series/%E3%82%AC%E3%83%B4%E3%83%AA%E3%83%BC%E3%83%AB%E3%83%89%E3%83%AD%E3%83%83%E3%83%97%E3%82%A2%E3%82%A6%E3%83%88/</link>
+      <link>http://localhost:1313/series/%E3%82%AC%E3%83%B4%E3%83%AA%E3%83%BC%E3%83%AB%E3%83%89%E3%83%AD%E3%83%83%E3%83%97%E3%82%A2%E3%82%A6%E3%83%88/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%82%AC%E3%83%B4%E3%83%AA%E3%83%BC%E3%83%AB%E3%83%89%E3%83%AD%E3%83%83%E3%83%97%E3%82%A2%E3%82%A6%E3%83%88/</guid>
+      <guid>http://localhost:1313/series/%E3%82%AC%E3%83%B4%E3%83%AA%E3%83%BC%E3%83%AB%E3%83%89%E3%83%AD%E3%83%83%E3%83%97%E3%82%A2%E3%82%A6%E3%83%88/</guid>
       <description></description>
     </item>
     <item>
       <title>ゆるキャン△</title>
-      <link>https://llxyo.github.io/series/%E3%82%86%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%B3/</link>
+      <link>http://localhost:1313/series/%E3%82%86%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%B3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%82%86%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%B3/</guid>
+      <guid>http://localhost:1313/series/%E3%82%86%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%B3/</guid>
       <description></description>
     </item>
     <item>
       <title>新世紀エヴァンゲリオン</title>
-      <link>https://llxyo.github.io/series/%E6%96%B0%E4%B8%96%E7%B4%80%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%B2%E3%83%AA%E3%82%AA%E3%83%B3/</link>
+      <link>http://localhost:1313/series/%E6%96%B0%E4%B8%96%E7%B4%80%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%B2%E3%83%AA%E3%82%AA%E3%83%B3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E6%96%B0%E4%B8%96%E7%B4%80%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%B2%E3%83%AA%E3%82%AA%E3%83%B3/</guid>
+      <guid>http://localhost:1313/series/%E6%96%B0%E4%B8%96%E7%B4%80%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%B2%E3%83%AA%E3%82%AA%E3%83%B3/</guid>
       <description></description>
     </item>
     <item>
       <title>音街ウナ</title>
-      <link>https://llxyo.github.io/series/%E9%9F%B3%E8%A1%97%E3%82%A6%E3%83%8A/</link>
+      <link>http://localhost:1313/series/%E9%9F%B3%E8%A1%97%E3%82%A6%E3%83%8A/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E9%9F%B3%E8%A1%97%E3%82%A6%E3%83%8A/</guid>
+      <guid>http://localhost:1313/series/%E9%9F%B3%E8%A1%97%E3%82%A6%E3%83%8A/</guid>
       <description></description>
     </item>
     <item>
       <title>やくならマグカップも</title>
-      <link>https://llxyo.github.io/series/%E3%82%84%E3%81%8F%E3%81%AA%E3%82%89%E3%83%9E%E3%82%B0%E3%82%AB%E3%83%83%E3%83%97%E3%82%82/</link>
+      <link>http://localhost:1313/series/%E3%82%84%E3%81%8F%E3%81%AA%E3%82%89%E3%83%9E%E3%82%B0%E3%82%AB%E3%83%83%E3%83%97%E3%82%82/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%82%84%E3%81%8F%E3%81%AA%E3%82%89%E3%83%9E%E3%82%B0%E3%82%AB%E3%83%83%E3%83%97%E3%82%82/</guid>
+      <guid>http://localhost:1313/series/%E3%82%84%E3%81%8F%E3%81%AA%E3%82%89%E3%83%9E%E3%82%B0%E3%82%AB%E3%83%83%E3%83%97%E3%82%82/</guid>
       <description></description>
     </item>
     <item>
       <title>True Tears</title>
-      <link>https://llxyo.github.io/series/true-tears/</link>
+      <link>http://localhost:1313/series/true-tears/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/true-tears/</guid>
+      <guid>http://localhost:1313/series/true-tears/</guid>
       <description></description>
     </item>
     <item>
       <title>花咲くいろは</title>
-      <link>https://llxyo.github.io/series/%E8%8A%B1%E5%92%B2%E3%81%8F%E3%81%84%E3%82%8D%E3%81%AF/</link>
+      <link>http://localhost:1313/series/%E8%8A%B1%E5%92%B2%E3%81%8F%E3%81%84%E3%82%8D%E3%81%AF/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E8%8A%B1%E5%92%B2%E3%81%8F%E3%81%84%E3%82%8D%E3%81%AF/</guid>
+      <guid>http://localhost:1313/series/%E8%8A%B1%E5%92%B2%E3%81%8F%E3%81%84%E3%82%8D%E3%81%AF/</guid>
       <description></description>
     </item>
     <item>
       <title>勇者であるシリーズ</title>
-      <link>https://llxyo.github.io/series/%E5%8B%87%E8%80%85%E3%81%A7%E3%81%82%E3%82%8B%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/</link>
+      <link>http://localhost:1313/series/%E5%8B%87%E8%80%85%E3%81%A7%E3%81%82%E3%82%8B%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E5%8B%87%E8%80%85%E3%81%A7%E3%81%82%E3%82%8B%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/</guid>
+      <guid>http://localhost:1313/series/%E5%8B%87%E8%80%85%E3%81%A7%E3%81%82%E3%82%8B%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/</guid>
       <description></description>
     </item>
     <item>
       <title>BanG Dream!</title>
-      <link>https://llxyo.github.io/series/bang-dream/</link>
+      <link>http://localhost:1313/series/bang-dream/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/bang-dream/</guid>
+      <guid>http://localhost:1313/series/bang-dream/</guid>
       <description></description>
     </item>
     <item>
       <title>パプリカ</title>
-      <link>https://llxyo.github.io/series/%E3%83%91%E3%83%97%E3%83%AA%E3%82%AB/</link>
+      <link>http://localhost:1313/series/%E3%83%91%E3%83%97%E3%83%AA%E3%82%AB/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%83%91%E3%83%97%E3%83%AA%E3%82%AB/</guid>
+      <guid>http://localhost:1313/series/%E3%83%91%E3%83%97%E3%83%AA%E3%82%AB/</guid>
       <description></description>
     </item>
     <item>
       <title>パーフェクトブルー</title>
-      <link>https://llxyo.github.io/series/%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%83%96%E3%83%AB%E3%83%BC/</link>
+      <link>http://localhost:1313/series/%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%83%96%E3%83%AB%E3%83%BC/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%83%96%E3%83%AB%E3%83%BC/</guid>
+      <guid>http://localhost:1313/series/%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%83%96%E3%83%AB%E3%83%BC/</guid>
       <description></description>
     </item>
     <item>
       <title>アリスとテレスのまぼろし工場</title>
-      <link>https://llxyo.github.io/series/%E3%82%A2%E3%83%AA%E3%82%B9%E3%81%A8%E3%83%86%E3%83%AC%E3%82%B9%E3%81%AE%E3%81%BE%E3%81%BC%E3%82%8D%E3%81%97%E5%B7%A5%E5%A0%B4/</link>
+      <link>http://localhost:1313/series/%E3%82%A2%E3%83%AA%E3%82%B9%E3%81%A8%E3%83%86%E3%83%AC%E3%82%B9%E3%81%AE%E3%81%BE%E3%81%BC%E3%82%8D%E3%81%97%E5%B7%A5%E5%A0%B4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%82%A2%E3%83%AA%E3%82%B9%E3%81%A8%E3%83%86%E3%83%AC%E3%82%B9%E3%81%AE%E3%81%BE%E3%81%BC%E3%82%8D%E3%81%97%E5%B7%A5%E5%A0%B4/</guid>
+      <guid>http://localhost:1313/series/%E3%82%A2%E3%83%AA%E3%82%B9%E3%81%A8%E3%83%86%E3%83%AC%E3%82%B9%E3%81%AE%E3%81%BE%E3%81%BC%E3%82%8D%E3%81%97%E5%B7%A5%E5%A0%B4/</guid>
       <description></description>
     </item>
     <item>
       <title>あの夏で待ってる</title>
-      <link>https://llxyo.github.io/series/%E3%81%82%E3%81%AE%E5%A4%8F%E3%81%A7%E5%BE%85%E3%81%A3%E3%81%A6%E3%82%8B/</link>
+      <link>http://localhost:1313/series/%E3%81%82%E3%81%AE%E5%A4%8F%E3%81%A7%E5%BE%85%E3%81%A3%E3%81%A6%E3%82%8B/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%81%82%E3%81%AE%E5%A4%8F%E3%81%A7%E5%BE%85%E3%81%A3%E3%81%A6%E3%82%8B/</guid>
+      <guid>http://localhost:1313/series/%E3%81%82%E3%81%AE%E5%A4%8F%E3%81%A7%E5%BE%85%E3%81%A3%E3%81%A6%E3%82%8B/</guid>
       <description></description>
     </item>
     <item>
       <title>夢見る男子は現実主義者</title>
-      <link>https://llxyo.github.io/series/%E5%A4%A2%E8%A6%8B%E3%82%8B%E7%94%B7%E5%AD%90%E3%81%AF%E7%8F%BE%E5%AE%9F%E4%B8%BB%E7%BE%A9%E8%80%85/</link>
+      <link>http://localhost:1313/series/%E5%A4%A2%E8%A6%8B%E3%82%8B%E7%94%B7%E5%AD%90%E3%81%AF%E7%8F%BE%E5%AE%9F%E4%B8%BB%E7%BE%A9%E8%80%85/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E5%A4%A2%E8%A6%8B%E3%82%8B%E7%94%B7%E5%AD%90%E3%81%AF%E7%8F%BE%E5%AE%9F%E4%B8%BB%E7%BE%A9%E8%80%85/</guid>
+      <guid>http://localhost:1313/series/%E5%A4%A2%E8%A6%8B%E3%82%8B%E7%94%B7%E5%AD%90%E3%81%AF%E7%8F%BE%E5%AE%9F%E4%B8%BB%E7%BE%A9%E8%80%85/</guid>
       <description></description>
     </item>
     <item>
       <title>響け！ユーフォニアム</title>
-      <link>https://llxyo.github.io/series/%E9%9F%BF%E3%81%91%E3%83%A6%E3%83%BC%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%A0/</link>
+      <link>http://localhost:1313/series/%E9%9F%BF%E3%81%91%E3%83%A6%E3%83%BC%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%A0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E9%9F%BF%E3%81%91%E3%83%A6%E3%83%BC%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%A0/</guid>
+      <guid>http://localhost:1313/series/%E9%9F%BF%E3%81%91%E3%83%A6%E3%83%BC%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%A0/</guid>
       <description></description>
     </item>
     <item>
       <title>転生王女と天才令嬢の魔法革命</title>
-      <link>https://llxyo.github.io/series/%E8%BB%A2%E7%94%9F%E7%8E%8B%E5%A5%B3%E3%81%A8%E5%A4%A9%E6%89%8D%E4%BB%A4%E5%AC%A2%E3%81%AE%E9%AD%94%E6%B3%95%E9%9D%A9%E5%91%BD/</link>
+      <link>http://localhost:1313/series/%E8%BB%A2%E7%94%9F%E7%8E%8B%E5%A5%B3%E3%81%A8%E5%A4%A9%E6%89%8D%E4%BB%A4%E5%AC%A2%E3%81%AE%E9%AD%94%E6%B3%95%E9%9D%A9%E5%91%BD/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E8%BB%A2%E7%94%9F%E7%8E%8B%E5%A5%B3%E3%81%A8%E5%A4%A9%E6%89%8D%E4%BB%A4%E5%AC%A2%E3%81%AE%E9%AD%94%E6%B3%95%E9%9D%A9%E5%91%BD/</guid>
+      <guid>http://localhost:1313/series/%E8%BB%A2%E7%94%9F%E7%8E%8B%E5%A5%B3%E3%81%A8%E5%A4%A9%E6%89%8D%E4%BB%A4%E5%AC%A2%E3%81%AE%E9%AD%94%E6%B3%95%E9%9D%A9%E5%91%BD/</guid>
       <description></description>
     </item>
     <item>
       <title>BIRDIE WING ‐Golf Girls&#39; Story‐</title>
-      <link>https://llxyo.github.io/series/birdie-wing-golf-girls-story/</link>
+      <link>http://localhost:1313/series/birdie-wing-golf-girls-story/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/birdie-wing-golf-girls-story/</guid>
+      <guid>http://localhost:1313/series/birdie-wing-golf-girls-story/</guid>
       <description></description>
     </item>
     <item>
       <title>君は放課後インソムニア</title>
-      <link>https://llxyo.github.io/series/%E5%90%9B%E3%81%AF%E6%94%BE%E8%AA%B2%E5%BE%8C%E3%82%A4%E3%83%B3%E3%82%BD%E3%83%A0%E3%83%8B%E3%82%A2/</link>
+      <link>http://localhost:1313/series/%E5%90%9B%E3%81%AF%E6%94%BE%E8%AA%B2%E5%BE%8C%E3%82%A4%E3%83%B3%E3%82%BD%E3%83%A0%E3%83%8B%E3%82%A2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E5%90%9B%E3%81%AF%E6%94%BE%E8%AA%B2%E5%BE%8C%E3%82%A4%E3%83%B3%E3%82%BD%E3%83%A0%E3%83%8B%E3%82%A2/</guid>
+      <guid>http://localhost:1313/series/%E5%90%9B%E3%81%AF%E6%94%BE%E8%AA%B2%E5%BE%8C%E3%82%A4%E3%83%B3%E3%82%BD%E3%83%A0%E3%83%8B%E3%82%A2/</guid>
       <description></description>
     </item>
     <item>
       <title>アイドルマスター</title>
-      <link>https://llxyo.github.io/series/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC/</link>
+      <link>http://localhost:1313/series/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC/</guid>
+      <guid>http://localhost:1313/series/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC/</guid>
       <description></description>
     </item>
     <item>
       <title>ワールドダイスター</title>
-      <link>https://llxyo.github.io/series/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%80%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC/</link>
+      <link>http://localhost:1313/series/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%80%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%80%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC/</guid>
+      <guid>http://localhost:1313/series/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%80%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC/</guid>
       <description></description>
     </item>
     <item>
       <title>【推しの子】</title>
-      <link>https://llxyo.github.io/series/%E6%8E%A8%E3%81%97%E3%81%AE%E5%AD%90/</link>
+      <link>http://localhost:1313/series/%E6%8E%A8%E3%81%97%E3%81%AE%E5%AD%90/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E6%8E%A8%E3%81%97%E3%81%AE%E5%AD%90/</guid>
+      <guid>http://localhost:1313/series/%E6%8E%A8%E3%81%97%E3%81%AE%E5%AD%90/</guid>
       <description></description>
     </item>
     <item>
       <title>機動戦士ガンダム</title>
-      <link>https://llxyo.github.io/series/%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0/</link>
+      <link>http://localhost:1313/series/%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0/</guid>
+      <guid>http://localhost:1313/series/%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0/</guid>
       <description></description>
     </item>
     <item>
       <title>シュガーアップル・フェアリーテイル</title>
-      <link>https://llxyo.github.io/series/%E3%82%B7%E3%83%A5%E3%82%AC%E3%83%BC%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB%E3%83%95%E3%82%A7%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%86%E3%82%A4%E3%83%AB/</link>
+      <link>http://localhost:1313/series/%E3%82%B7%E3%83%A5%E3%82%AC%E3%83%BC%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB%E3%83%95%E3%82%A7%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%86%E3%82%A4%E3%83%AB/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%82%B7%E3%83%A5%E3%82%AC%E3%83%BC%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB%E3%83%95%E3%82%A7%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%86%E3%82%A4%E3%83%AB/</guid>
+      <guid>http://localhost:1313/series/%E3%82%B7%E3%83%A5%E3%82%AC%E3%83%BC%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB%E3%83%95%E3%82%A7%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%86%E3%82%A4%E3%83%AB/</guid>
       <description></description>
     </item>
     <item>
       <title>放課後アングラーライフ</title>
-      <link>https://llxyo.github.io/series/%E6%94%BE%E8%AA%B2%E5%BE%8C%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%95/</link>
+      <link>http://localhost:1313/series/%E6%94%BE%E8%AA%B2%E5%BE%8C%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%95/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E6%94%BE%E8%AA%B2%E5%BE%8C%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%95/</guid>
+      <guid>http://localhost:1313/series/%E6%94%BE%E8%AA%B2%E5%BE%8C%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%95/</guid>
       <description></description>
     </item>
     <item>
       <title>百日紅 〜Miss HOKUSAI〜</title>
-      <link>https://llxyo.github.io/series/%E7%99%BE%E6%97%A5%E7%B4%85-miss-hokusai/</link>
+      <link>http://localhost:1313/series/%E7%99%BE%E6%97%A5%E7%B4%85-miss-hokusai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E7%99%BE%E6%97%A5%E7%B4%85-miss-hokusai/</guid>
+      <guid>http://localhost:1313/series/%E7%99%BE%E6%97%A5%E7%B4%85-miss-hokusai/</guid>
       <description></description>
     </item>
     <item>
       <title>お隣の天使様にいつの間にか駄目人間にされていた件</title>
-      <link>https://llxyo.github.io/series/%E3%81%8A%E9%9A%A3%E3%81%AE%E5%A4%A9%E4%BD%BF%E6%A7%98%E3%81%AB%E3%81%84%E3%81%A4%E3%81%AE%E9%96%93%E3%81%AB%E3%81%8B%E9%A7%84%E7%9B%AE%E4%BA%BA%E9%96%93%E3%81%AB%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%9F%E4%BB%B6/</link>
+      <link>http://localhost:1313/series/%E3%81%8A%E9%9A%A3%E3%81%AE%E5%A4%A9%E4%BD%BF%E6%A7%98%E3%81%AB%E3%81%84%E3%81%A4%E3%81%AE%E9%96%93%E3%81%AB%E3%81%8B%E9%A7%84%E7%9B%AE%E4%BA%BA%E9%96%93%E3%81%AB%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%9F%E4%BB%B6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%81%8A%E9%9A%A3%E3%81%AE%E5%A4%A9%E4%BD%BF%E6%A7%98%E3%81%AB%E3%81%84%E3%81%A4%E3%81%AE%E9%96%93%E3%81%AB%E3%81%8B%E9%A7%84%E7%9B%AE%E4%BA%BA%E9%96%93%E3%81%AB%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%9F%E4%BB%B6/</guid>
+      <guid>http://localhost:1313/series/%E3%81%8A%E9%9A%A3%E3%81%AE%E5%A4%A9%E4%BD%BF%E6%A7%98%E3%81%AB%E3%81%84%E3%81%A4%E3%81%AE%E9%96%93%E3%81%AB%E3%81%8B%E9%A7%84%E7%9B%AE%E4%BA%BA%E9%96%93%E3%81%AB%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%9F%E4%BB%B6/</guid>
       <description></description>
     </item>
     <item>
       <title>トップをねらえ！</title>
-      <link>https://llxyo.github.io/series/%E3%83%88%E3%83%83%E3%83%97%E3%82%92%E3%81%AD%E3%82%89%E3%81%88/</link>
+      <link>http://localhost:1313/series/%E3%83%88%E3%83%83%E3%83%97%E3%82%92%E3%81%AD%E3%82%89%E3%81%88/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%83%88%E3%83%83%E3%83%97%E3%82%92%E3%81%AD%E3%82%89%E3%81%88/</guid>
+      <guid>http://localhost:1313/series/%E3%83%88%E3%83%83%E3%83%97%E3%82%92%E3%81%AD%E3%82%89%E3%81%88/</guid>
       <description></description>
     </item>
     <item>
       <title>ジョジョの奇妙な冒険</title>
-      <link>https://llxyo.github.io/series/%E3%82%B8%E3%83%A7%E3%82%B8%E3%83%A7%E3%81%AE%E5%A5%87%E5%A6%99%E3%81%AA%E5%86%92%E9%99%BA/</link>
+      <link>http://localhost:1313/series/%E3%82%B8%E3%83%A7%E3%82%B8%E3%83%A7%E3%81%AE%E5%A5%87%E5%A6%99%E3%81%AA%E5%86%92%E9%99%BA/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%82%B8%E3%83%A7%E3%82%B8%E3%83%A7%E3%81%AE%E5%A5%87%E5%A6%99%E3%81%AA%E5%86%92%E9%99%BA/</guid>
+      <guid>http://localhost:1313/series/%E3%82%B8%E3%83%A7%E3%82%B8%E3%83%A7%E3%81%AE%E5%A5%87%E5%A6%99%E3%81%AA%E5%86%92%E9%99%BA/</guid>
       <description></description>
     </item>
     <item>
       <title>PSYCHO-PASS</title>
-      <link>https://llxyo.github.io/series/psycho-pass/</link>
+      <link>http://localhost:1313/series/psycho-pass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/psycho-pass/</guid>
+      <guid>http://localhost:1313/series/psycho-pass/</guid>
       <description></description>
     </item>
     <item>
       <title>お兄ちゃんはおしまい！</title>
-      <link>https://llxyo.github.io/series/%E3%81%8A%E5%85%84%E3%81%A1%E3%82%83%E3%82%93%E3%81%AF%E3%81%8A%E3%81%97%E3%81%BE%E3%81%84/</link>
+      <link>http://localhost:1313/series/%E3%81%8A%E5%85%84%E3%81%A1%E3%82%83%E3%82%93%E3%81%AF%E3%81%8A%E3%81%97%E3%81%BE%E3%81%84/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%81%8A%E5%85%84%E3%81%A1%E3%82%83%E3%82%93%E3%81%AF%E3%81%8A%E3%81%97%E3%81%BE%E3%81%84/</guid>
+      <guid>http://localhost:1313/series/%E3%81%8A%E5%85%84%E3%81%A1%E3%82%83%E3%82%93%E3%81%AF%E3%81%8A%E3%81%97%E3%81%BE%E3%81%84/</guid>
       <description></description>
     </item>
     <item>
       <title>ソードアートオンライン</title>
-      <link>https://llxyo.github.io/series/%E3%82%BD%E3%83%BC%E3%83%89%E3%82%A2%E3%83%BC%E3%83%88%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3/</link>
+      <link>http://localhost:1313/series/%E3%82%BD%E3%83%BC%E3%83%89%E3%82%A2%E3%83%BC%E3%83%88%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%82%BD%E3%83%BC%E3%83%89%E3%82%A2%E3%83%BC%E3%83%88%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3/</guid>
+      <guid>http://localhost:1313/series/%E3%82%BD%E3%83%BC%E3%83%89%E3%82%A2%E3%83%BC%E3%83%88%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3/</guid>
       <description></description>
     </item>
     <item>
       <title>ラブライブ</title>
-      <link>https://llxyo.github.io/series/%E3%83%A9%E3%83%96%E3%83%A9%E3%82%A4%E3%83%96/</link>
+      <link>http://localhost:1313/series/%E3%83%A9%E3%83%96%E3%83%A9%E3%82%A4%E3%83%96/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%83%A9%E3%83%96%E3%83%A9%E3%82%A4%E3%83%96/</guid>
+      <guid>http://localhost:1313/series/%E3%83%A9%E3%83%96%E3%83%A9%E3%82%A4%E3%83%96/</guid>
       <description></description>
     </item>
     <item>
       <title>名探偵コナン</title>
-      <link>https://llxyo.github.io/series/%E5%90%8D%E6%8E%A2%E5%81%B5%E3%82%B3%E3%83%8A%E3%83%B3/</link>
+      <link>http://localhost:1313/series/%E5%90%8D%E6%8E%A2%E5%81%B5%E3%82%B3%E3%83%8A%E3%83%B3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E5%90%8D%E6%8E%A2%E5%81%B5%E3%82%B3%E3%83%8A%E3%83%B3/</guid>
+      <guid>http://localhost:1313/series/%E5%90%8D%E6%8E%A2%E5%81%B5%E3%82%B3%E3%83%8A%E3%83%B3/</guid>
       <description></description>
     </item>
     <item>
       <title>結城友奈は勇者である</title>
-      <link>https://llxyo.github.io/series/%E7%B5%90%E5%9F%8E%E5%8F%8B%E5%A5%88%E3%81%AF%E5%8B%87%E8%80%85%E3%81%A7%E3%81%82%E3%82%8B/</link>
+      <link>http://localhost:1313/series/%E7%B5%90%E5%9F%8E%E5%8F%8B%E5%A5%88%E3%81%AF%E5%8B%87%E8%80%85%E3%81%A7%E3%81%82%E3%82%8B/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E7%B5%90%E5%9F%8E%E5%8F%8B%E5%A5%88%E3%81%AF%E5%8B%87%E8%80%85%E3%81%A7%E3%81%82%E3%82%8B/</guid>
+      <guid>http://localhost:1313/series/%E7%B5%90%E5%9F%8E%E5%8F%8B%E5%A5%88%E3%81%AF%E5%8B%87%E8%80%85%E3%81%A7%E3%81%82%E3%82%8B/</guid>
       <description></description>
     </item>
     <item>
       <title>進撃の巨人</title>
-      <link>https://llxyo.github.io/series/%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA/</link>
+      <link>http://localhost:1313/series/%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA/</guid>
+      <guid>http://localhost:1313/series/%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA/</guid>
       <description></description>
     </item>
     <item>
       <title>らき☆すた</title>
-      <link>https://llxyo.github.io/series/%E3%82%89%E3%81%8D%E3%81%99%E3%81%9F/</link>
+      <link>http://localhost:1313/series/%E3%82%89%E3%81%8D%E3%81%99%E3%81%9F/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%82%89%E3%81%8D%E3%81%99%E3%81%9F/</guid>
+      <guid>http://localhost:1313/series/%E3%82%89%E3%81%8D%E3%81%99%E3%81%9F/</guid>
       <description></description>
     </item>
     <item>
       <title>宇宙よりも遠い場所</title>
-      <link>https://llxyo.github.io/series/%E5%AE%87%E5%AE%99%E3%82%88%E3%82%8A%E3%82%82%E9%81%A0%E3%81%84%E5%A0%B4%E6%89%80/</link>
+      <link>http://localhost:1313/series/%E5%AE%87%E5%AE%99%E3%82%88%E3%82%8A%E3%82%82%E9%81%A0%E3%81%84%E5%A0%B4%E6%89%80/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E5%AE%87%E5%AE%99%E3%82%88%E3%82%8A%E3%82%82%E9%81%A0%E3%81%84%E5%A0%B4%E6%89%80/</guid>
+      <guid>http://localhost:1313/series/%E5%AE%87%E5%AE%99%E3%82%88%E3%82%8A%E3%82%82%E9%81%A0%E3%81%84%E5%A0%B4%E6%89%80/</guid>
       <description></description>
     </item>
     <item>
       <title>涼宮ハルヒの憂鬱</title>
-      <link>https://llxyo.github.io/series/%E6%B6%BC%E5%AE%AE%E3%83%8F%E3%83%AB%E3%83%92%E3%81%AE%E6%86%82%E9%AC%B1/</link>
+      <link>http://localhost:1313/series/%E6%B6%BC%E5%AE%AE%E3%83%8F%E3%83%AB%E3%83%92%E3%81%AE%E6%86%82%E9%AC%B1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E6%B6%BC%E5%AE%AE%E3%83%8F%E3%83%AB%E3%83%92%E3%81%AE%E6%86%82%E9%AC%B1/</guid>
+      <guid>http://localhost:1313/series/%E6%B6%BC%E5%AE%AE%E3%83%8F%E3%83%AB%E3%83%92%E3%81%AE%E6%86%82%E9%AC%B1/</guid>
       <description></description>
     </item>
     <item>
       <title>GRIDMAN UNIVERSE</title>
-      <link>https://llxyo.github.io/series/gridman-universe/</link>
+      <link>http://localhost:1313/series/gridman-universe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/gridman-universe/</guid>
+      <guid>http://localhost:1313/series/gridman-universe/</guid>
       <description></description>
     </item>
     <item>
       <title>グリッドマン</title>
-      <link>https://llxyo.github.io/series/%E3%82%B0%E3%83%AA%E3%83%83%E3%83%89%E3%83%9E%E3%83%B3/</link>
+      <link>http://localhost:1313/series/%E3%82%B0%E3%83%AA%E3%83%83%E3%83%89%E3%83%9E%E3%83%B3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%82%B0%E3%83%AA%E3%83%83%E3%83%89%E3%83%9E%E3%83%B3/</guid>
+      <guid>http://localhost:1313/series/%E3%82%B0%E3%83%AA%E3%83%83%E3%83%89%E3%83%9E%E3%83%B3/</guid>
       <description></description>
     </item>
     <item>
       <title>BLUE GIANT</title>
-      <link>https://llxyo.github.io/series/blue-giant/</link>
+      <link>http://localhost:1313/series/blue-giant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/blue-giant/</guid>
+      <guid>http://localhost:1313/series/blue-giant/</guid>
       <description></description>
     </item>
     <item>
       <title>さよならの朝に約束の花をかざろう</title>
-      <link>https://llxyo.github.io/series/%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E3%81%AE%E6%9C%9D%E3%81%AB%E7%B4%84%E6%9D%9F%E3%81%AE%E8%8A%B1%E3%82%92%E3%81%8B%E3%81%96%E3%82%8D%E3%81%86/</link>
+      <link>http://localhost:1313/series/%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E3%81%AE%E6%9C%9D%E3%81%AB%E7%B4%84%E6%9D%9F%E3%81%AE%E8%8A%B1%E3%82%92%E3%81%8B%E3%81%96%E3%82%8D%E3%81%86/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E3%81%AE%E6%9C%9D%E3%81%AB%E7%B4%84%E6%9D%9F%E3%81%AE%E8%8A%B1%E3%82%92%E3%81%8B%E3%81%96%E3%82%8D%E3%81%86/</guid>
+      <guid>http://localhost:1313/series/%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E3%81%AE%E6%9C%9D%E3%81%AB%E7%B4%84%E6%9D%9F%E3%81%AE%E8%8A%B1%E3%82%92%E3%81%8B%E3%81%96%E3%82%8D%E3%81%86/</guid>
       <description></description>
     </item>
     <item>
       <title>プリンセス・プリンシパル</title>
-      <link>https://llxyo.github.io/series/%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B7%E3%83%91%E3%83%AB/</link>
+      <link>http://localhost:1313/series/%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B7%E3%83%91%E3%83%AB/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B7%E3%83%91%E3%83%AB/</guid>
+      <guid>http://localhost:1313/series/%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B7%E3%83%91%E3%83%AB/</guid>
       <description></description>
     </item>
     <item>
       <title>シン・シリーズ</title>
-      <link>https://llxyo.github.io/series/%E3%82%B7%E3%83%B3%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/</link>
+      <link>http://localhost:1313/series/%E3%82%B7%E3%83%B3%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%82%B7%E3%83%B3%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/</guid>
+      <guid>http://localhost:1313/series/%E3%82%B7%E3%83%B3%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/</guid>
       <description></description>
     </item>
     <item>
       <title>仮面ライダー</title>
-      <link>https://llxyo.github.io/series/%E4%BB%AE%E9%9D%A2%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC/</link>
+      <link>http://localhost:1313/series/%E4%BB%AE%E9%9D%A2%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E4%BB%AE%E9%9D%A2%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC/</guid>
+      <guid>http://localhost:1313/series/%E4%BB%AE%E9%9D%A2%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC/</guid>
       <description></description>
     </item>
     <item>
       <title>かがみの孤城</title>
-      <link>https://llxyo.github.io/series/%E3%81%8B%E3%81%8C%E3%81%BF%E3%81%AE%E5%AD%A4%E5%9F%8E/</link>
+      <link>http://localhost:1313/series/%E3%81%8B%E3%81%8C%E3%81%BF%E3%81%AE%E5%AD%A4%E5%9F%8E/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%81%8B%E3%81%8C%E3%81%BF%E3%81%AE%E5%AD%A4%E5%9F%8E/</guid>
+      <guid>http://localhost:1313/series/%E3%81%8B%E3%81%8C%E3%81%BF%E3%81%AE%E5%AD%A4%E5%9F%8E/</guid>
       <description></description>
     </item>
     <item>
       <title>魔法少女まどか☆マギカ</title>
-      <link>https://llxyo.github.io/series/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E3%81%BE%E3%81%A9%E3%81%8B%E3%83%9E%E3%82%AE%E3%82%AB/</link>
+      <link>http://localhost:1313/series/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E3%81%BE%E3%81%A9%E3%81%8B%E3%83%9E%E3%82%AE%E3%82%AB/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E3%81%BE%E3%81%A9%E3%81%8B%E3%83%9E%E3%82%AE%E3%82%AB/</guid>
+      <guid>http://localhost:1313/series/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E3%81%BE%E3%81%A9%E3%81%8B%E3%83%9E%E3%82%AE%E3%82%AB/</guid>
       <description></description>
     </item>
     <item>
       <title>千年女優</title>
-      <link>https://llxyo.github.io/series/%E5%8D%83%E5%B9%B4%E5%A5%B3%E5%84%AA/</link>
+      <link>http://localhost:1313/series/%E5%8D%83%E5%B9%B4%E5%A5%B3%E5%84%AA/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E5%8D%83%E5%B9%B4%E5%A5%B3%E5%84%AA/</guid>
+      <guid>http://localhost:1313/series/%E5%8D%83%E5%B9%B4%E5%A5%B3%E5%84%AA/</guid>
       <description></description>
     </item>
     <item>
       <title>少女☆歌劇 レヴュースタァライト</title>
-      <link>https://llxyo.github.io/series/%E5%B0%91%E5%A5%B3%E6%AD%8C%E5%8A%87-%E3%83%AC%E3%83%B4%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%BF%E3%82%A1%E3%83%A9%E3%82%A4%E3%83%88/</link>
+      <link>http://localhost:1313/series/%E5%B0%91%E5%A5%B3%E6%AD%8C%E5%8A%87-%E3%83%AC%E3%83%B4%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%BF%E3%82%A1%E3%83%A9%E3%82%A4%E3%83%88/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E5%B0%91%E5%A5%B3%E6%AD%8C%E5%8A%87-%E3%83%AC%E3%83%B4%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%BF%E3%82%A1%E3%83%A9%E3%82%A4%E3%83%88/</guid>
+      <guid>http://localhost:1313/series/%E5%B0%91%E5%A5%B3%E6%AD%8C%E5%8A%87-%E3%83%AC%E3%83%B4%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%BF%E3%82%A1%E3%83%A9%E3%82%A4%E3%83%88/</guid>
       <description></description>
     </item>
     <item>
       <title>AKIRA</title>
-      <link>https://llxyo.github.io/series/akira/</link>
+      <link>http://localhost:1313/series/akira/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/akira/</guid>
+      <guid>http://localhost:1313/series/akira/</guid>
       <description></description>
     </item>
     <item>
       <title>プリマドール</title>
-      <link>https://llxyo.github.io/series/%E3%83%97%E3%83%AA%E3%83%9E%E3%83%89%E3%83%BC%E3%83%AB/</link>
+      <link>http://localhost:1313/series/%E3%83%97%E3%83%AA%E3%83%9E%E3%83%89%E3%83%BC%E3%83%AB/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%83%97%E3%83%AA%E3%83%9E%E3%83%89%E3%83%BC%E3%83%AB/</guid>
+      <guid>http://localhost:1313/series/%E3%83%97%E3%83%AA%E3%83%9E%E3%83%89%E3%83%BC%E3%83%AB/</guid>
       <description></description>
     </item>
     <item>
       <title>すずめの戸締まり</title>
-      <link>https://llxyo.github.io/series/%E3%81%99%E3%81%9A%E3%82%81%E3%81%AE%E6%88%B8%E7%B7%A0%E3%81%BE%E3%82%8A/</link>
+      <link>http://localhost:1313/series/%E3%81%99%E3%81%9A%E3%82%81%E3%81%AE%E6%88%B8%E7%B7%A0%E3%81%BE%E3%82%8A/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%81%99%E3%81%9A%E3%82%81%E3%81%AE%E6%88%B8%E7%B7%A0%E3%81%BE%E3%82%8A/</guid>
+      <guid>http://localhost:1313/series/%E3%81%99%E3%81%9A%E3%82%81%E3%81%AE%E6%88%B8%E7%B7%A0%E3%81%BE%E3%82%8A/</guid>
       <description></description>
     </item>
     <item>
       <title>ソードアート・オンライン</title>
-      <link>https://llxyo.github.io/series/%E3%82%BD%E3%83%BC%E3%83%89%E3%82%A2%E3%83%BC%E3%83%88%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3/</link>
+      <link>http://localhost:1313/series/%E3%82%BD%E3%83%BC%E3%83%89%E3%82%A2%E3%83%BC%E3%83%88%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%82%BD%E3%83%BC%E3%83%89%E3%82%A2%E3%83%BC%E3%83%88%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3/</guid>
+      <guid>http://localhost:1313/series/%E3%82%BD%E3%83%BC%E3%83%89%E3%82%A2%E3%83%BC%E3%83%88%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3/</guid>
       <description></description>
     </item>
     <item>
       <title>ソードアート・オンライン プログレッシブ</title>
-      <link>https://llxyo.github.io/series/%E3%82%BD%E3%83%BC%E3%83%89%E3%82%A2%E3%83%BC%E3%83%88%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3-%E3%83%97%E3%83%AD%E3%82%B0%E3%83%AC%E3%83%83%E3%82%B7%E3%83%96/</link>
+      <link>http://localhost:1313/series/%E3%82%BD%E3%83%BC%E3%83%89%E3%82%A2%E3%83%BC%E3%83%88%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3-%E3%83%97%E3%83%AD%E3%82%B0%E3%83%AC%E3%83%83%E3%82%B7%E3%83%96/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%82%BD%E3%83%BC%E3%83%89%E3%82%A2%E3%83%BC%E3%83%88%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3-%E3%83%97%E3%83%AD%E3%82%B0%E3%83%AC%E3%83%83%E3%82%B7%E3%83%96/</guid>
+      <guid>http://localhost:1313/series/%E3%82%BD%E3%83%BC%E3%83%89%E3%82%A2%E3%83%BC%E3%83%88%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3-%E3%83%97%E3%83%AD%E3%82%B0%E3%83%AC%E3%83%83%E3%82%B7%E3%83%96/</guid>
       <description></description>
     </item>
     <item>
       <title>秒速5センチメートル</title>
-      <link>https://llxyo.github.io/series/%E7%A7%92%E9%80%9F5%E3%82%BB%E3%83%B3%E3%83%81%E3%83%A1%E3%83%BC%E3%83%88%E3%83%AB/</link>
+      <link>http://localhost:1313/series/%E7%A7%92%E9%80%9F5%E3%82%BB%E3%83%B3%E3%83%81%E3%83%A1%E3%83%BC%E3%83%88%E3%83%AB/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E7%A7%92%E9%80%9F5%E3%82%BB%E3%83%B3%E3%83%81%E3%83%A1%E3%83%BC%E3%83%88%E3%83%AB/</guid>
+      <guid>http://localhost:1313/series/%E7%A7%92%E9%80%9F5%E3%82%BB%E3%83%B3%E3%83%81%E3%83%A1%E3%83%BC%E3%83%88%E3%83%AB/</guid>
       <description></description>
     </item>
     <item>
       <title>ワールドウィッチーズ</title>
-      <link>https://llxyo.github.io/series/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A6%E3%82%A3%E3%83%83%E3%83%81%E3%83%BC%E3%82%BA/</link>
+      <link>http://localhost:1313/series/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A6%E3%82%A3%E3%83%83%E3%83%81%E3%83%BC%E3%82%BA/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A6%E3%82%A3%E3%83%83%E3%83%81%E3%83%BC%E3%82%BA/</guid>
+      <guid>http://localhost:1313/series/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A6%E3%82%A3%E3%83%83%E3%83%81%E3%83%BC%E3%82%BA/</guid>
       <description></description>
     </item>
     <item>
       <title>連盟空軍航空魔法音楽隊ルミナスウィッチーズ</title>
-      <link>https://llxyo.github.io/series/%E9%80%A3%E7%9B%9F%E7%A9%BA%E8%BB%8D%E8%88%AA%E7%A9%BA%E9%AD%94%E6%B3%95%E9%9F%B3%E6%A5%BD%E9%9A%8A%E3%83%AB%E3%83%9F%E3%83%8A%E3%82%B9%E3%82%A6%E3%82%A3%E3%83%83%E3%83%81%E3%83%BC%E3%82%BA/</link>
+      <link>http://localhost:1313/series/%E9%80%A3%E7%9B%9F%E7%A9%BA%E8%BB%8D%E8%88%AA%E7%A9%BA%E9%AD%94%E6%B3%95%E9%9F%B3%E6%A5%BD%E9%9A%8A%E3%83%AB%E3%83%9F%E3%83%8A%E3%82%B9%E3%82%A6%E3%82%A3%E3%83%83%E3%83%81%E3%83%BC%E3%82%BA/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E9%80%A3%E7%9B%9F%E7%A9%BA%E8%BB%8D%E8%88%AA%E7%A9%BA%E9%AD%94%E6%B3%95%E9%9F%B3%E6%A5%BD%E9%9A%8A%E3%83%AB%E3%83%9F%E3%83%8A%E3%82%B9%E3%82%A6%E3%82%A3%E3%83%83%E3%83%81%E3%83%BC%E3%82%BA/</guid>
+      <guid>http://localhost:1313/series/%E9%80%A3%E7%9B%9F%E7%A9%BA%E8%BB%8D%E8%88%AA%E7%A9%BA%E9%AD%94%E6%B3%95%E9%9F%B3%E6%A5%BD%E9%9A%8A%E3%83%AB%E3%83%9F%E3%83%8A%E3%82%B9%E3%82%A6%E3%82%A3%E3%83%83%E3%83%81%E3%83%BC%E3%82%BA/</guid>
       <description></description>
     </item>
     <item>
       <title>僕が愛したすべての君へ</title>
-      <link>https://llxyo.github.io/series/%E5%83%95%E3%81%8C%E6%84%9B%E3%81%97%E3%81%9F%E3%81%99%E3%81%B9%E3%81%A6%E3%81%AE%E5%90%9B%E3%81%B8/</link>
+      <link>http://localhost:1313/series/%E5%83%95%E3%81%8C%E6%84%9B%E3%81%97%E3%81%9F%E3%81%99%E3%81%B9%E3%81%A6%E3%81%AE%E5%90%9B%E3%81%B8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E5%83%95%E3%81%8C%E6%84%9B%E3%81%97%E3%81%9F%E3%81%99%E3%81%B9%E3%81%A6%E3%81%AE%E5%90%9B%E3%81%B8/</guid>
+      <guid>http://localhost:1313/series/%E5%83%95%E3%81%8C%E6%84%9B%E3%81%97%E3%81%9F%E3%81%99%E3%81%B9%E3%81%A6%E3%81%AE%E5%90%9B%E3%81%B8/</guid>
       <description></description>
     </item>
     <item>
       <title>君を愛したひとりの僕へ</title>
-      <link>https://llxyo.github.io/series/%E5%90%9B%E3%82%92%E6%84%9B%E3%81%97%E3%81%9F%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%AE%E5%83%95%E3%81%B8/</link>
+      <link>http://localhost:1313/series/%E5%90%9B%E3%82%92%E6%84%9B%E3%81%97%E3%81%9F%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%AE%E5%83%95%E3%81%B8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E5%90%9B%E3%82%92%E6%84%9B%E3%81%97%E3%81%9F%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%AE%E5%83%95%E3%81%B8/</guid>
+      <guid>http://localhost:1313/series/%E5%90%9B%E3%82%92%E6%84%9B%E3%81%97%E3%81%9F%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%AE%E5%83%95%E3%81%B8/</guid>
       <description></description>
     </item>
     <item>
       <title>天気の子</title>
-      <link>https://llxyo.github.io/series/%E5%A4%A9%E6%B0%97%E3%81%AE%E5%AD%90/</link>
+      <link>http://localhost:1313/series/%E5%A4%A9%E6%B0%97%E3%81%AE%E5%AD%90/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E5%A4%A9%E6%B0%97%E3%81%AE%E5%AD%90/</guid>
+      <guid>http://localhost:1313/series/%E5%A4%A9%E6%B0%97%E3%81%AE%E5%AD%90/</guid>
       <description></description>
     </item>
     <item>
       <title>君の名は。</title>
-      <link>https://llxyo.github.io/series/%E5%90%9B%E3%81%AE%E5%90%8D%E3%81%AF/</link>
+      <link>http://localhost:1313/series/%E5%90%9B%E3%81%AE%E5%90%8D%E3%81%AF/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E5%90%9B%E3%81%AE%E5%90%8D%E3%81%AF/</guid>
+      <guid>http://localhost:1313/series/%E5%90%9B%E3%81%AE%E5%90%8D%E3%81%AF/</guid>
       <description></description>
     </item>
     <item>
       <title>夏へのトンネル、さよならの出口</title>
-      <link>https://llxyo.github.io/series/%E5%A4%8F%E3%81%B8%E3%81%AE%E3%83%88%E3%83%B3%E3%83%8D%E3%83%AB%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E3%81%AE%E5%87%BA%E5%8F%A3/</link>
+      <link>http://localhost:1313/series/%E5%A4%8F%E3%81%B8%E3%81%AE%E3%83%88%E3%83%B3%E3%83%8D%E3%83%AB%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E3%81%AE%E5%87%BA%E5%8F%A3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E5%A4%8F%E3%81%B8%E3%81%AE%E3%83%88%E3%83%B3%E3%83%8D%E3%83%AB%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E3%81%AE%E5%87%BA%E5%8F%A3/</guid>
+      <guid>http://localhost:1313/series/%E5%A4%8F%E3%81%B8%E3%81%AE%E3%83%88%E3%83%B3%E3%83%8D%E3%83%AB%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E3%81%AE%E5%87%BA%E5%8F%A3/</guid>
       <description></description>
     </item>
     <item>
       <title>雨を告げる漂流団地</title>
-      <link>https://llxyo.github.io/series/%E9%9B%A8%E3%82%92%E5%91%8A%E3%81%92%E3%82%8B%E6%BC%82%E6%B5%81%E5%9B%A3%E5%9C%B0/</link>
+      <link>http://localhost:1313/series/%E9%9B%A8%E3%82%92%E5%91%8A%E3%81%92%E3%82%8B%E6%BC%82%E6%B5%81%E5%9B%A3%E5%9C%B0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E9%9B%A8%E3%82%92%E5%91%8A%E3%81%92%E3%82%8B%E6%BC%82%E6%B5%81%E5%9B%A3%E5%9C%B0/</guid>
+      <guid>http://localhost:1313/series/%E9%9B%A8%E3%82%92%E5%91%8A%E3%81%92%E3%82%8B%E6%BC%82%E6%B5%81%E5%9B%A3%E5%9C%B0/</guid>
       <description></description>
     </item>
     <item>
       <title>ペンギン・ハイウェイ</title>
-      <link>https://llxyo.github.io/series/%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A4/</link>
+      <link>http://localhost:1313/series/%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A4/</guid>
+      <guid>http://localhost:1313/series/%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A4/</guid>
       <description></description>
     </item>
     <item>
       <title>ポケットモンスター</title>
-      <link>https://llxyo.github.io/series/%E3%83%9D%E3%82%B1%E3%83%83%E3%83%88%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC/</link>
+      <link>http://localhost:1313/series/%E3%83%9D%E3%82%B1%E3%83%83%E3%83%88%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%83%9D%E3%82%B1%E3%83%83%E3%83%88%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC/</guid>
+      <guid>http://localhost:1313/series/%E3%83%9D%E3%82%B1%E3%83%83%E3%83%88%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC/</guid>
       <description></description>
     </item>
     <item>
       <title>犬王</title>
-      <link>https://llxyo.github.io/series/%E7%8A%AC%E7%8E%8B/</link>
+      <link>http://localhost:1313/series/%E7%8A%AC%E7%8E%8B/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E7%8A%AC%E7%8E%8B/</guid>
+      <guid>http://localhost:1313/series/%E7%8A%AC%E7%8E%8B/</guid>
       <description></description>
     </item>
     <item>
       <title>虹ヶ咲学園スクールアイドル同好会</title>
-      <link>https://llxyo.github.io/series/%E8%99%B9%E3%83%B6%E5%92%B2%E5%AD%A6%E5%9C%92%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E5%90%8C%E5%A5%BD%E4%BC%9A/</link>
+      <link>http://localhost:1313/series/%E8%99%B9%E3%83%B6%E5%92%B2%E5%AD%A6%E5%9C%92%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E5%90%8C%E5%A5%BD%E4%BC%9A/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E8%99%B9%E3%83%B6%E5%92%B2%E5%AD%A6%E5%9C%92%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E5%90%8C%E5%A5%BD%E4%BC%9A/</guid>
+      <guid>http://localhost:1313/series/%E8%99%B9%E3%83%B6%E5%92%B2%E5%AD%A6%E5%9C%92%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E5%90%8C%E5%A5%BD%E4%BC%9A/</guid>
       <description></description>
     </item>
     <item>
       <title>輪るピングドラム</title>
-      <link>https://llxyo.github.io/series/%E8%BC%AA%E3%82%8B%E3%83%94%E3%83%B3%E3%82%B0%E3%83%89%E3%83%A9%E3%83%A0/</link>
+      <link>http://localhost:1313/series/%E8%BC%AA%E3%82%8B%E3%83%94%E3%83%B3%E3%82%B0%E3%83%89%E3%83%A9%E3%83%A0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E8%BC%AA%E3%82%8B%E3%83%94%E3%83%B3%E3%82%B0%E3%83%89%E3%83%A9%E3%83%A0/</guid>
+      <guid>http://localhost:1313/series/%E8%BC%AA%E3%82%8B%E3%83%94%E3%83%B3%E3%82%B0%E3%83%89%E3%83%A9%E3%83%A0/</guid>
       <description></description>
     </item>
     <item>
       <title>デリシャスパーティー♡プリキュア</title>
-      <link>https://llxyo.github.io/series/%E3%83%87%E3%83%AA%E3%82%B7%E3%83%A3%E3%82%B9%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2/</link>
+      <link>http://localhost:1313/series/%E3%83%87%E3%83%AA%E3%82%B7%E3%83%A3%E3%82%B9%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%83%87%E3%83%AA%E3%82%B7%E3%83%A3%E3%82%B9%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2/</guid>
+      <guid>http://localhost:1313/series/%E3%83%87%E3%83%AA%E3%82%B7%E3%83%A3%E3%82%B9%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2/</guid>
       <description></description>
     </item>
     <item>
       <title>プリキュア</title>
-      <link>https://llxyo.github.io/series/%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2/</link>
+      <link>http://localhost:1313/series/%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2/</guid>
+      <guid>http://localhost:1313/series/%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2/</guid>
       <description></description>
     </item>
     <item>
       <title>マギアレコード</title>
-      <link>https://llxyo.github.io/series/%E3%83%9E%E3%82%AE%E3%82%A2%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89/</link>
+      <link>http://localhost:1313/series/%E3%83%9E%E3%82%AE%E3%82%A2%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%83%9E%E3%82%AE%E3%82%A2%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89/</guid>
+      <guid>http://localhost:1313/series/%E3%83%9E%E3%82%AE%E3%82%A2%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89/</guid>
       <description></description>
     </item>
     <item>
       <title>エイティシックス</title>
-      <link>https://llxyo.github.io/series/%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%82%B7%E3%83%83%E3%82%AF%E3%82%B9/</link>
+      <link>http://localhost:1313/series/%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%82%B7%E3%83%83%E3%82%AF%E3%82%B9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%82%B7%E3%83%83%E3%82%AF%E3%82%B9/</guid>
+      <guid>http://localhost:1313/series/%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%82%B7%E3%83%83%E3%82%AF%E3%82%B9/</guid>
       <description></description>
     </item>
     <item>
       <title>時光代理人</title>
-      <link>https://llxyo.github.io/series/%E6%99%82%E5%85%89%E4%BB%A3%E7%90%86%E4%BA%BA/</link>
+      <link>http://localhost:1313/series/%E6%99%82%E5%85%89%E4%BB%A3%E7%90%86%E4%BA%BA/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E6%99%82%E5%85%89%E4%BB%A3%E7%90%86%E4%BA%BA/</guid>
+      <guid>http://localhost:1313/series/%E6%99%82%E5%85%89%E4%BB%A3%E7%90%86%E4%BA%BA/</guid>
       <description></description>
     </item>
     <item>
       <title>魔法少女育成計画</title>
-      <link>https://llxyo.github.io/series/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E8%82%B2%E6%88%90%E8%A8%88%E7%94%BB/</link>
+      <link>http://localhost:1313/series/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E8%82%B2%E6%88%90%E8%A8%88%E7%94%BB/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E8%82%B2%E6%88%90%E8%A8%88%E7%94%BB/</guid>
+      <guid>http://localhost:1313/series/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E8%82%B2%E6%88%90%E8%A8%88%E7%94%BB/</guid>
       <description></description>
     </item>
     <item>
       <title>平家物語</title>
-      <link>https://llxyo.github.io/series/%E5%B9%B3%E5%AE%B6%E7%89%A9%E8%AA%9E/</link>
+      <link>http://localhost:1313/series/%E5%B9%B3%E5%AE%B6%E7%89%A9%E8%AA%9E/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E5%B9%B3%E5%AE%B6%E7%89%A9%E8%AA%9E/</guid>
+      <guid>http://localhost:1313/series/%E5%B9%B3%E5%AE%B6%E7%89%A9%E8%AA%9E/</guid>
       <description></description>
     </item>
     <item>
       <title>ワンダーエッグ・プライオリティ</title>
-      <link>https://llxyo.github.io/series/%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%82%A8%E3%83%83%E3%82%B0%E3%83%97%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%AA%E3%83%86%E3%82%A3/</link>
+      <link>http://localhost:1313/series/%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%82%A8%E3%83%83%E3%82%B0%E3%83%97%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%AA%E3%83%86%E3%82%A3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%82%A8%E3%83%83%E3%82%B0%E3%83%97%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%AA%E3%83%86%E3%82%A3/</guid>
+      <guid>http://localhost:1313/series/%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%82%A8%E3%83%83%E3%82%B0%E3%83%97%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%AA%E3%83%86%E3%82%A3/</guid>
       <description></description>
     </item>
     <item>
       <title>サカサマのパテマ</title>
-      <link>https://llxyo.github.io/series/%E3%82%B5%E3%82%AB%E3%82%B5%E3%83%9E%E3%81%AE%E3%83%91%E3%83%86%E3%83%9E/</link>
+      <link>http://localhost:1313/series/%E3%82%B5%E3%82%AB%E3%82%B5%E3%83%9E%E3%81%AE%E3%83%91%E3%83%86%E3%83%9E/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%82%B5%E3%82%AB%E3%82%B5%E3%83%9E%E3%81%AE%E3%83%91%E3%83%86%E3%83%9E/</guid>
+      <guid>http://localhost:1313/series/%E3%82%B5%E3%82%AB%E3%82%B5%E3%83%9E%E3%81%AE%E3%83%91%E3%83%86%E3%83%9E/</guid>
       <description></description>
     </item>
     <item>
       <title>Fate</title>
-      <link>https://llxyo.github.io/series/fate/</link>
+      <link>http://localhost:1313/series/fate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/fate/</guid>
+      <guid>http://localhost:1313/series/fate/</guid>
       <description></description>
     </item>
     <item>
       <title>マクロス</title>
-      <link>https://llxyo.github.io/series/%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%B9/</link>
+      <link>http://localhost:1313/series/%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%B9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%B9/</guid>
+      <guid>http://localhost:1313/series/%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%B9/</guid>
       <description></description>
     </item>
     <item>
       <title>イヴの時間</title>
-      <link>https://llxyo.github.io/series/%E3%82%A4%E3%83%B4%E3%81%AE%E6%99%82%E9%96%93/</link>
+      <link>http://localhost:1313/series/%E3%82%A4%E3%83%B4%E3%81%AE%E6%99%82%E9%96%93/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%82%A4%E3%83%B4%E3%81%AE%E6%99%82%E9%96%93/</guid>
+      <guid>http://localhost:1313/series/%E3%82%A4%E3%83%B4%E3%81%AE%E6%99%82%E9%96%93/</guid>
       <description></description>
     </item>
     <item>
       <title>フラ・フラダンス</title>
-      <link>https://llxyo.github.io/series/%E3%83%95%E3%83%A9%E3%83%95%E3%83%A9%E3%83%80%E3%83%B3%E3%82%B9/</link>
+      <link>http://localhost:1313/series/%E3%83%95%E3%83%A9%E3%83%95%E3%83%A9%E3%83%80%E3%83%B3%E3%82%B9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%83%95%E3%83%A9%E3%83%95%E3%83%A9%E3%83%80%E3%83%B3%E3%82%B9/</guid>
+      <guid>http://localhost:1313/series/%E3%83%95%E3%83%A9%E3%83%95%E3%83%A9%E3%83%80%E3%83%B3%E3%82%B9/</guid>
       <description></description>
     </item>
     <item>
       <title>TARI TARI</title>
-      <link>https://llxyo.github.io/series/tari-tari/</link>
+      <link>http://localhost:1313/series/tari-tari/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/tari-tari/</guid>
+      <guid>http://localhost:1313/series/tari-tari/</guid>
       <description></description>
     </item>
     <item>
       <title>エウレカセブン</title>
-      <link>https://llxyo.github.io/series/%E3%82%A8%E3%82%A6%E3%83%AC%E3%82%AB%E3%82%BB%E3%83%96%E3%83%B3/</link>
+      <link>http://localhost:1313/series/%E3%82%A8%E3%82%A6%E3%83%AC%E3%82%AB%E3%82%BB%E3%83%96%E3%83%B3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%82%A8%E3%82%A6%E3%83%AC%E3%82%AB%E3%82%BB%E3%83%96%E3%83%B3/</guid>
+      <guid>http://localhost:1313/series/%E3%82%A8%E3%82%A6%E3%83%AC%E3%82%AB%E3%82%BB%E3%83%96%E3%83%B3/</guid>
       <description></description>
     </item>
     <item>
       <title>可愛ければ変態でも好きになってくれますか?</title>
-      <link>https://llxyo.github.io/series/%E5%8F%AF%E6%84%9B%E3%81%91%E3%82%8C%E3%81%B0%E5%A4%89%E6%85%8B%E3%81%A7%E3%82%82%E5%A5%BD%E3%81%8D%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%8F%E3%82%8C%E3%81%BE%E3%81%99%E3%81%8B/</link>
+      <link>http://localhost:1313/series/%E5%8F%AF%E6%84%9B%E3%81%91%E3%82%8C%E3%81%B0%E5%A4%89%E6%85%8B%E3%81%A7%E3%82%82%E5%A5%BD%E3%81%8D%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%8F%E3%82%8C%E3%81%BE%E3%81%99%E3%81%8B/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E5%8F%AF%E6%84%9B%E3%81%91%E3%82%8C%E3%81%B0%E5%A4%89%E6%85%8B%E3%81%A7%E3%82%82%E5%A5%BD%E3%81%8D%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%8F%E3%82%8C%E3%81%BE%E3%81%99%E3%81%8B/</guid>
+      <guid>http://localhost:1313/series/%E5%8F%AF%E6%84%9B%E3%81%91%E3%82%8C%E3%81%B0%E5%A4%89%E6%85%8B%E3%81%A7%E3%82%82%E5%A5%BD%E3%81%8D%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%8F%E3%82%8C%E3%81%BE%E3%81%99%E3%81%8B/</guid>
       <description></description>
     </item>
     <item>
       <title>ゴジラ</title>
-      <link>https://llxyo.github.io/series/%E3%82%B4%E3%82%B8%E3%83%A9/</link>
+      <link>http://localhost:1313/series/%E3%82%B4%E3%82%B8%E3%83%A9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%82%B4%E3%82%B8%E3%83%A9/</guid>
+      <guid>http://localhost:1313/series/%E3%82%B4%E3%82%B8%E3%83%A9/</guid>
       <description></description>
     </item>
     <item>
       <title>アイの歌声を聴かせて</title>
-      <link>https://llxyo.github.io/series/%E3%82%A2%E3%82%A4%E3%81%AE%E6%AD%8C%E5%A3%B0%E3%82%92%E8%81%B4%E3%81%8B%E3%81%9B%E3%81%A6/</link>
+      <link>http://localhost:1313/series/%E3%82%A2%E3%82%A4%E3%81%AE%E6%AD%8C%E5%A3%B0%E3%82%92%E8%81%B4%E3%81%8B%E3%81%9B%E3%81%A6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%82%A2%E3%82%A4%E3%81%AE%E6%AD%8C%E5%A3%B0%E3%82%92%E8%81%B4%E3%81%8B%E3%81%9B%E3%81%A6/</guid>
+      <guid>http://localhost:1313/series/%E3%82%A2%E3%82%A4%E3%81%AE%E6%AD%8C%E5%A3%B0%E3%82%92%E8%81%B4%E3%81%8B%E3%81%9B%E3%81%A6/</guid>
       <description></description>
     </item>
     <item>
       <title>シュヴァルツェスマーケン</title>
-      <link>https://llxyo.github.io/series/%E3%82%B7%E3%83%A5%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%84%E3%82%A7%E3%82%B9%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%B3/</link>
+      <link>http://localhost:1313/series/%E3%82%B7%E3%83%A5%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%84%E3%82%A7%E3%82%B9%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%B3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%82%B7%E3%83%A5%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%84%E3%82%A7%E3%82%B9%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%B3/</guid>
+      <guid>http://localhost:1313/series/%E3%82%B7%E3%83%A5%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%84%E3%82%A7%E3%82%B9%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%B3/</guid>
       <description></description>
     </item>
     <item>
       <title>マブラヴ</title>
-      <link>https://llxyo.github.io/series/%E3%83%9E%E3%83%96%E3%83%A9%E3%83%B4/</link>
+      <link>http://localhost:1313/series/%E3%83%9E%E3%83%96%E3%83%A9%E3%83%B4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%83%9E%E3%83%96%E3%83%A9%E3%83%B4/</guid>
+      <guid>http://localhost:1313/series/%E3%83%9E%E3%83%96%E3%83%A9%E3%83%B4/</guid>
       <description></description>
     </item>
     <item>
       <title>岬のマヨイガ</title>
-      <link>https://llxyo.github.io/series/%E5%B2%AC%E3%81%AE%E3%83%9E%E3%83%A8%E3%82%A4%E3%82%AC/</link>
+      <link>http://localhost:1313/series/%E5%B2%AC%E3%81%AE%E3%83%9E%E3%83%A8%E3%82%A4%E3%82%AC/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E5%B2%AC%E3%81%AE%E3%83%9E%E3%83%A8%E3%82%A4%E3%82%AC/</guid>
+      <guid>http://localhost:1313/series/%E5%B2%AC%E3%81%AE%E3%83%9E%E3%83%A8%E3%82%A4%E3%82%AC/</guid>
       <description></description>
     </item>
     <item>
       <title>ぼくたちのリメイク</title>
-      <link>https://llxyo.github.io/series/%E3%81%BC%E3%81%8F%E3%81%9F%E3%81%A1%E3%81%AE%E3%83%AA%E3%83%A1%E3%82%A4%E3%82%AF/</link>
+      <link>http://localhost:1313/series/%E3%81%BC%E3%81%8F%E3%81%9F%E3%81%A1%E3%81%AE%E3%83%AA%E3%83%A1%E3%82%A4%E3%82%AF/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%81%BC%E3%81%8F%E3%81%9F%E3%81%A1%E3%81%AE%E3%83%AA%E3%83%A1%E3%82%A4%E3%82%AF/</guid>
+      <guid>http://localhost:1313/series/%E3%81%BC%E3%81%8F%E3%81%9F%E3%81%A1%E3%81%AE%E3%83%AA%E3%83%A1%E3%82%A4%E3%82%AF/</guid>
       <description></description>
     </item>
     <item>
       <title>Serial Experiments Lain</title>
-      <link>https://llxyo.github.io/series/serial-experiments-lain/</link>
+      <link>http://localhost:1313/series/serial-experiments-lain/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/serial-experiments-lain/</guid>
+      <guid>http://localhost:1313/series/serial-experiments-lain/</guid>
       <description></description>
     </item>
     <item>
       <title>攻殻機動隊</title>
-      <link>https://llxyo.github.io/series/%E6%94%BB%E6%AE%BB%E6%A9%9F%E5%8B%95%E9%9A%8A/</link>
+      <link>http://localhost:1313/series/%E6%94%BB%E6%AE%BB%E6%A9%9F%E5%8B%95%E9%9A%8A/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E6%94%BB%E6%AE%BB%E6%A9%9F%E5%8B%95%E9%9A%8A/</guid>
+      <guid>http://localhost:1313/series/%E6%94%BB%E6%AE%BB%E6%A9%9F%E5%8B%95%E9%9A%8A/</guid>
       <description></description>
     </item>
     <item>
       <title>ミモザの告白</title>
-      <link>https://llxyo.github.io/series/%E3%83%9F%E3%83%A2%E3%82%B6%E3%81%AE%E5%91%8A%E7%99%BD/</link>
+      <link>http://localhost:1313/series/%E3%83%9F%E3%83%A2%E3%82%B6%E3%81%AE%E5%91%8A%E7%99%BD/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%83%9F%E3%83%A2%E3%82%B6%E3%81%AE%E5%91%8A%E7%99%BD/</guid>
+      <guid>http://localhost:1313/series/%E3%83%9F%E3%83%A2%E3%82%B6%E3%81%AE%E5%91%8A%E7%99%BD/</guid>
       <description></description>
     </item>
     <item>
       <title>ヤマノススメ</title>
-      <link>https://llxyo.github.io/series/%E3%83%A4%E3%83%9E%E3%83%8E%E3%82%B9%E3%82%B9%E3%83%A1/</link>
+      <link>http://localhost:1313/series/%E3%83%A4%E3%83%9E%E3%83%8E%E3%82%B9%E3%82%B9%E3%83%A1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%83%A4%E3%83%9E%E3%83%8E%E3%82%B9%E3%82%B9%E3%83%A1/</guid>
+      <guid>http://localhost:1313/series/%E3%83%A4%E3%83%9E%E3%83%8E%E3%82%B9%E3%82%B9%E3%83%A1/</guid>
       <description></description>
     </item>
     <item>
       <title>踊り場にスカートが鳴る</title>
-      <link>https://llxyo.github.io/series/%E8%B8%8A%E3%82%8A%E5%A0%B4%E3%81%AB%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%88%E3%81%8C%E9%B3%B4%E3%82%8B/</link>
+      <link>http://localhost:1313/series/%E8%B8%8A%E3%82%8A%E5%A0%B4%E3%81%AB%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%88%E3%81%8C%E9%B3%B4%E3%82%8B/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E8%B8%8A%E3%82%8A%E5%A0%B4%E3%81%AB%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%88%E3%81%8C%E9%B3%B4%E3%82%8B/</guid>
+      <guid>http://localhost:1313/series/%E8%B8%8A%E3%82%8A%E5%A0%B4%E3%81%AB%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%88%E3%81%8C%E9%B3%B4%E3%82%8B/</guid>
       <description></description>
     </item>
     <item>
       <title>きんいろモザイク</title>
-      <link>https://llxyo.github.io/series/%E3%81%8D%E3%82%93%E3%81%84%E3%82%8D%E3%83%A2%E3%82%B6%E3%82%A4%E3%82%AF/</link>
+      <link>http://localhost:1313/series/%E3%81%8D%E3%82%93%E3%81%84%E3%82%8D%E3%83%A2%E3%82%B6%E3%82%A4%E3%82%AF/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%81%8D%E3%82%93%E3%81%84%E3%82%8D%E3%83%A2%E3%82%B6%E3%82%A4%E3%82%AF/</guid>
+      <guid>http://localhost:1313/series/%E3%81%8D%E3%82%93%E3%81%84%E3%82%8D%E3%83%A2%E3%82%B6%E3%82%A4%E3%82%AF/</guid>
       <description></description>
     </item>
     <item>
       <title>はるかなレシーブ</title>
-      <link>https://llxyo.github.io/series/%E3%81%AF%E3%82%8B%E3%81%8B%E3%81%AA%E3%83%AC%E3%82%B7%E3%83%BC%E3%83%96/</link>
+      <link>http://localhost:1313/series/%E3%81%AF%E3%82%8B%E3%81%8B%E3%81%AA%E3%83%AC%E3%82%B7%E3%83%BC%E3%83%96/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%81%AF%E3%82%8B%E3%81%8B%E3%81%AA%E3%83%AC%E3%82%B7%E3%83%BC%E3%83%96/</guid>
+      <guid>http://localhost:1313/series/%E3%81%AF%E3%82%8B%E3%81%8B%E3%81%AA%E3%83%AC%E3%82%B7%E3%83%BC%E3%83%96/</guid>
       <description></description>
     </item>
     <item>
       <title>魔女っこ姉妹のヨヨとネネ</title>
-      <link>https://llxyo.github.io/series/%E9%AD%94%E5%A5%B3%E3%81%A3%E3%81%93%E5%A7%89%E5%A6%B9%E3%81%AE%E3%83%A8%E3%83%A8%E3%81%A8%E3%83%8D%E3%83%8D/</link>
+      <link>http://localhost:1313/series/%E9%AD%94%E5%A5%B3%E3%81%A3%E3%81%93%E5%A7%89%E5%A6%B9%E3%81%AE%E3%83%A8%E3%83%A8%E3%81%A8%E3%83%8D%E3%83%8D/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E9%AD%94%E5%A5%B3%E3%81%A3%E3%81%93%E5%A7%89%E5%A6%B9%E3%81%AE%E3%83%A8%E3%83%A8%E3%81%A8%E3%83%8D%E3%83%8D/</guid>
+      <guid>http://localhost:1313/series/%E9%AD%94%E5%A5%B3%E3%81%A3%E3%81%93%E5%A7%89%E5%A6%B9%E3%81%AE%E3%83%A8%E3%83%A8%E3%81%A8%E3%83%8D%E3%83%8D/</guid>
       <description></description>
     </item>
     <item>
       <title>ジョゼと虎と魚たち</title>
-      <link>https://llxyo.github.io/series/%E3%82%B8%E3%83%A7%E3%82%BC%E3%81%A8%E8%99%8E%E3%81%A8%E9%AD%9A%E3%81%9F%E3%81%A1/</link>
+      <link>http://localhost:1313/series/%E3%82%B8%E3%83%A7%E3%82%BC%E3%81%A8%E8%99%8E%E3%81%A8%E9%AD%9A%E3%81%9F%E3%81%A1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%82%B8%E3%83%A7%E3%82%BC%E3%81%A8%E8%99%8E%E3%81%A8%E9%AD%9A%E3%81%9F%E3%81%A1/</guid>
+      <guid>http://localhost:1313/series/%E3%82%B8%E3%83%A7%E3%82%BC%E3%81%A8%E8%99%8E%E3%81%A8%E9%AD%9A%E3%81%9F%E3%81%A1/</guid>
       <description></description>
     </item>
     <item>
       <title>機動警察パトレイバー</title>
-      <link>https://llxyo.github.io/series/%E6%A9%9F%E5%8B%95%E8%AD%A6%E5%AF%9F%E3%83%91%E3%83%88%E3%83%AC%E3%82%A4%E3%83%90%E3%83%BC/</link>
+      <link>http://localhost:1313/series/%E6%A9%9F%E5%8B%95%E8%AD%A6%E5%AF%9F%E3%83%91%E3%83%88%E3%83%AC%E3%82%A4%E3%83%90%E3%83%BC/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E6%A9%9F%E5%8B%95%E8%AD%A6%E5%AF%9F%E3%83%91%E3%83%88%E3%83%AC%E3%82%A4%E3%83%90%E3%83%BC/</guid>
+      <guid>http://localhost:1313/series/%E6%A9%9F%E5%8B%95%E8%AD%A6%E5%AF%9F%E3%83%91%E3%83%88%E3%83%AC%E3%82%A4%E3%83%90%E3%83%BC/</guid>
       <description></description>
     </item>
     <item>
       <title>ハナヤマタ</title>
-      <link>https://llxyo.github.io/series/%E3%83%8F%E3%83%8A%E3%83%A4%E3%83%9E%E3%82%BF/</link>
+      <link>http://localhost:1313/series/%E3%83%8F%E3%83%8A%E3%83%A4%E3%83%9E%E3%82%BF/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%83%8F%E3%83%8A%E3%83%A4%E3%83%9E%E3%82%BF/</guid>
+      <guid>http://localhost:1313/series/%E3%83%8F%E3%83%8A%E3%83%A4%E3%83%9E%E3%82%BF/</guid>
       <description></description>
     </item>
     <item>
       <title>ジャッリカットゥ 牛の怒り</title>
-      <link>https://llxyo.github.io/series/%E3%82%B8%E3%83%A3%E3%83%83%E3%83%AA%E3%82%AB%E3%83%83%E3%83%88%E3%82%A5-%E7%89%9B%E3%81%AE%E6%80%92%E3%82%8A/</link>
+      <link>http://localhost:1313/series/%E3%82%B8%E3%83%A3%E3%83%83%E3%83%AA%E3%82%AB%E3%83%83%E3%83%88%E3%82%A5-%E7%89%9B%E3%81%AE%E6%80%92%E3%82%8A/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%82%B8%E3%83%A3%E3%83%83%E3%83%AA%E3%82%AB%E3%83%83%E3%83%88%E3%82%A5-%E7%89%9B%E3%81%AE%E6%80%92%E3%82%8A/</guid>
+      <guid>http://localhost:1313/series/%E3%82%B8%E3%83%A3%E3%83%83%E3%83%AA%E3%82%AB%E3%83%83%E3%83%88%E3%82%A5-%E7%89%9B%E3%81%AE%E6%80%92%E3%82%8A/</guid>
       <description></description>
     </item>
     <item>
       <title>サイダーのように言葉が湧き上がる</title>
-      <link>https://llxyo.github.io/series/%E3%82%B5%E3%82%A4%E3%83%80%E3%83%BC%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E8%A8%80%E8%91%89%E3%81%8C%E6%B9%A7%E3%81%8D%E4%B8%8A%E3%81%8C%E3%82%8B/</link>
+      <link>http://localhost:1313/series/%E3%82%B5%E3%82%A4%E3%83%80%E3%83%BC%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E8%A8%80%E8%91%89%E3%81%8C%E6%B9%A7%E3%81%8D%E4%B8%8A%E3%81%8C%E3%82%8B/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%82%B5%E3%82%A4%E3%83%80%E3%83%BC%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E8%A8%80%E8%91%89%E3%81%8C%E6%B9%A7%E3%81%8D%E4%B8%8A%E3%81%8C%E3%82%8B/</guid>
+      <guid>http://localhost:1313/series/%E3%82%B5%E3%82%A4%E3%83%80%E3%83%BC%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E8%A8%80%E8%91%89%E3%81%8C%E6%B9%A7%E3%81%8D%E4%B8%8A%E3%81%8C%E3%82%8B/</guid>
       <description></description>
     </item>
     <item>
       <title>聲の形</title>
-      <link>https://llxyo.github.io/series/%E8%81%B2%E3%81%AE%E5%BD%A2/</link>
+      <link>http://localhost:1313/series/%E8%81%B2%E3%81%AE%E5%BD%A2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E8%81%B2%E3%81%AE%E5%BD%A2/</guid>
+      <guid>http://localhost:1313/series/%E8%81%B2%E3%81%AE%E5%BD%A2/</guid>
       <description></description>
     </item>
     <item>
       <title>ガメラ</title>
-      <link>https://llxyo.github.io/series/%E3%82%AC%E3%83%A1%E3%83%A9/</link>
+      <link>http://localhost:1313/series/%E3%82%AC%E3%83%A1%E3%83%A9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%82%AC%E3%83%A1%E3%83%A9/</guid>
+      <guid>http://localhost:1313/series/%E3%82%AC%E3%83%A1%E3%83%A9/</guid>
       <description></description>
     </item>
     <item>
       <title>ひげを剃る。そして女子高生を拾う。</title>
-      <link>https://llxyo.github.io/series/%E3%81%B2%E3%81%92%E3%82%92%E5%89%83%E3%82%8B%E3%81%9D%E3%81%97%E3%81%A6%E5%A5%B3%E5%AD%90%E9%AB%98%E7%94%9F%E3%82%92%E6%8B%BE%E3%81%86/</link>
+      <link>http://localhost:1313/series/%E3%81%B2%E3%81%92%E3%82%92%E5%89%83%E3%82%8B%E3%81%9D%E3%81%97%E3%81%A6%E5%A5%B3%E5%AD%90%E9%AB%98%E7%94%9F%E3%82%92%E6%8B%BE%E3%81%86/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%81%B2%E3%81%92%E3%82%92%E5%89%83%E3%82%8B%E3%81%9D%E3%81%97%E3%81%A6%E5%A5%B3%E5%AD%90%E9%AB%98%E7%94%9F%E3%82%92%E6%8B%BE%E3%81%86/</guid>
+      <guid>http://localhost:1313/series/%E3%81%B2%E3%81%92%E3%82%92%E5%89%83%E3%82%8B%E3%81%9D%E3%81%97%E3%81%A6%E5%A5%B3%E5%AD%90%E9%AB%98%E7%94%9F%E3%82%92%E6%8B%BE%E3%81%86/</guid>
       <description></description>
     </item>
     <item>
       <title>羅小黒戦記</title>
-      <link>https://llxyo.github.io/series/%E7%BE%85%E5%B0%8F%E9%BB%92%E6%88%A6%E8%A8%98/</link>
+      <link>http://localhost:1313/series/%E7%BE%85%E5%B0%8F%E9%BB%92%E6%88%A6%E8%A8%98/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E7%BE%85%E5%B0%8F%E9%BB%92%E6%88%A6%E8%A8%98/</guid>
+      <guid>http://localhost:1313/series/%E7%BE%85%E5%B0%8F%E9%BB%92%E6%88%A6%E8%A8%98/</guid>
       <description></description>
     </item>
     <item>
       <title>BS世界のドキュメンタリー</title>
-      <link>https://llxyo.github.io/series/bs%E4%B8%96%E7%95%8C%E3%81%AE%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AA%E3%83%BC/</link>
+      <link>http://localhost:1313/series/bs%E4%B8%96%E7%95%8C%E3%81%AE%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AA%E3%83%BC/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/bs%E4%B8%96%E7%95%8C%E3%81%AE%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AA%E3%83%BC/</guid>
+      <guid>http://localhost:1313/series/bs%E4%B8%96%E7%95%8C%E3%81%AE%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AA%E3%83%BC/</guid>
       <description></description>
     </item>
     <item>
       <title>Project Itoh</title>
-      <link>https://llxyo.github.io/series/project-itoh/</link>
+      <link>http://localhost:1313/series/project-itoh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/project-itoh/</guid>
+      <guid>http://localhost:1313/series/project-itoh/</guid>
       <description></description>
     </item>
     <item>
       <title>色づく世界の明日から</title>
-      <link>https://llxyo.github.io/series/%E8%89%B2%E3%81%A5%E3%81%8F%E4%B8%96%E7%95%8C%E3%81%AE%E6%98%8E%E6%97%A5%E3%81%8B%E3%82%89/</link>
+      <link>http://localhost:1313/series/%E8%89%B2%E3%81%A5%E3%81%8F%E4%B8%96%E7%95%8C%E3%81%AE%E6%98%8E%E6%97%A5%E3%81%8B%E3%82%89/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E8%89%B2%E3%81%A5%E3%81%8F%E4%B8%96%E7%95%8C%E3%81%AE%E6%98%8E%E6%97%A5%E3%81%8B%E3%82%89/</guid>
+      <guid>http://localhost:1313/series/%E8%89%B2%E3%81%A5%E3%81%8F%E4%B8%96%E7%95%8C%E3%81%AE%E6%98%8E%E6%97%A5%E3%81%8B%E3%82%89/</guid>
       <description></description>
     </item>
     <item>
       <title>エヴァンゲリオン</title>
-      <link>https://llxyo.github.io/series/%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%B2%E3%83%AA%E3%82%AA%E3%83%B3/</link>
+      <link>http://localhost:1313/series/%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%B2%E3%83%AA%E3%82%AA%E3%83%B3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%B2%E3%83%AA%E3%82%AA%E3%83%B3/</guid>
+      <guid>http://localhost:1313/series/%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%B2%E3%83%AA%E3%82%AA%E3%83%B3/</guid>
       <description></description>
     </item>
     <item>
       <title>ゲキドル</title>
-      <link>https://llxyo.github.io/series/%E3%82%B2%E3%82%AD%E3%83%89%E3%83%AB/</link>
+      <link>http://localhost:1313/series/%E3%82%B2%E3%82%AD%E3%83%89%E3%83%AB/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%82%B2%E3%82%AD%E3%83%89%E3%83%AB/</guid>
+      <guid>http://localhost:1313/series/%E3%82%B2%E3%82%AD%E3%83%89%E3%83%AB/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>天体のメソッド</title>
+      <link>http://localhost:1313/series/%E5%A4%A9%E4%BD%93%E3%81%AE%E3%83%A1%E3%82%BD%E3%83%83%E3%83%89/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/series/%E5%A4%A9%E4%BD%93%E3%81%AE%E3%83%A1%E3%82%BD%E3%83%83%E3%83%89/</guid>
       <description></description>
     </item>
     <item>
       <title>アサルトリリィ</title>
-      <link>https://llxyo.github.io/series/%E3%82%A2%E3%82%B5%E3%83%AB%E3%83%88%E3%83%AA%E3%83%AA%E3%82%A3/</link>
+      <link>http://localhost:1313/series/%E3%82%A2%E3%82%B5%E3%83%AB%E3%83%88%E3%83%AA%E3%83%AA%E3%82%A3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%82%A2%E3%82%B5%E3%83%AB%E3%83%88%E3%83%AA%E3%83%AA%E3%82%A3/</guid>
+      <guid>http://localhost:1313/series/%E3%82%A2%E3%82%B5%E3%83%AB%E3%83%88%E3%83%AA%E3%83%AA%E3%82%A3/</guid>
       <description></description>
     </item>
     <item>
       <title>ようこそ実力至上主義の教室へ</title>
-      <link>https://llxyo.github.io/series/%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E5%AE%9F%E5%8A%9B%E8%87%B3%E4%B8%8A%E4%B8%BB%E7%BE%A9%E3%81%AE%E6%95%99%E5%AE%A4%E3%81%B8/</link>
+      <link>http://localhost:1313/series/%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E5%AE%9F%E5%8A%9B%E8%87%B3%E4%B8%8A%E4%B8%BB%E7%BE%A9%E3%81%AE%E6%95%99%E5%AE%A4%E3%81%B8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E5%AE%9F%E5%8A%9B%E8%87%B3%E4%B8%8A%E4%B8%BB%E7%BE%A9%E3%81%AE%E6%95%99%E5%AE%A4%E3%81%B8/</guid>
+      <guid>http://localhost:1313/series/%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E5%AE%9F%E5%8A%9B%E8%87%B3%E4%B8%8A%E4%B8%BB%E7%BE%A9%E3%81%AE%E6%95%99%E5%AE%A4%E3%81%B8/</guid>
       <description></description>
     </item>
     <item>
       <title>ウィッチクラフトワークス</title>
-      <link>https://llxyo.github.io/series/%E3%82%A6%E3%82%A3%E3%83%83%E3%83%81%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9/</link>
+      <link>http://localhost:1313/series/%E3%82%A6%E3%82%A3%E3%83%83%E3%83%81%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%82%A6%E3%82%A3%E3%83%83%E3%83%81%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9/</guid>
+      <guid>http://localhost:1313/series/%E3%82%A6%E3%82%A3%E3%83%83%E3%83%81%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9/</guid>
       <description></description>
     </item>
     <item>
       <title>ひぐらしのなく頃に</title>
-      <link>https://llxyo.github.io/series/%E3%81%B2%E3%81%90%E3%82%89%E3%81%97%E3%81%AE%E3%81%AA%E3%81%8F%E9%A0%83%E3%81%AB/</link>
+      <link>http://localhost:1313/series/%E3%81%B2%E3%81%90%E3%82%89%E3%81%97%E3%81%AE%E3%81%AA%E3%81%8F%E9%A0%83%E3%81%AB/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%81%B2%E3%81%90%E3%82%89%E3%81%97%E3%81%AE%E3%81%AA%E3%81%8F%E9%A0%83%E3%81%AB/</guid>
+      <guid>http://localhost:1313/series/%E3%81%B2%E3%81%90%E3%82%89%E3%81%97%E3%81%AE%E3%81%AA%E3%81%8F%E9%A0%83%E3%81%AB/</guid>
       <description></description>
     </item>
     <item>
       <title>放課後のプレアデス</title>
-      <link>https://llxyo.github.io/series/%E6%94%BE%E8%AA%B2%E5%BE%8C%E3%81%AE%E3%83%97%E3%83%AC%E3%82%A2%E3%83%87%E3%82%B9/</link>
+      <link>http://localhost:1313/series/%E6%94%BE%E8%AA%B2%E5%BE%8C%E3%81%AE%E3%83%97%E3%83%AC%E3%82%A2%E3%83%87%E3%82%B9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E6%94%BE%E8%AA%B2%E5%BE%8C%E3%81%AE%E3%83%97%E3%83%AC%E3%82%A2%E3%83%87%E3%82%B9/</guid>
+      <guid>http://localhost:1313/series/%E6%94%BE%E8%AA%B2%E5%BE%8C%E3%81%AE%E3%83%97%E3%83%AC%E3%82%A2%E3%83%87%E3%82%B9/</guid>
       <description></description>
     </item>
     <item>
       <title>鬼滅の刃</title>
-      <link>https://llxyo.github.io/series/%E9%AC%BC%E6%BB%85%E3%81%AE%E5%88%83/</link>
+      <link>http://localhost:1313/series/%E9%AC%BC%E6%BB%85%E3%81%AE%E5%88%83/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E9%AC%BC%E6%BB%85%E3%81%AE%E5%88%83/</guid>
+      <guid>http://localhost:1313/series/%E9%AC%BC%E6%BB%85%E3%81%AE%E5%88%83/</guid>
       <description></description>
     </item>
     <item>
       <title>熱帯魚は雪に焦がれる</title>
-      <link>https://llxyo.github.io/series/%E7%86%B1%E5%B8%AF%E9%AD%9A%E3%81%AF%E9%9B%AA%E3%81%AB%E7%84%A6%E3%81%8C%E3%82%8C%E3%82%8B/</link>
+      <link>http://localhost:1313/series/%E7%86%B1%E5%B8%AF%E9%AD%9A%E3%81%AF%E9%9B%AA%E3%81%AB%E7%84%A6%E3%81%8C%E3%82%8C%E3%82%8B/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E7%86%B1%E5%B8%AF%E9%AD%9A%E3%81%AF%E9%9B%AA%E3%81%AB%E7%84%A6%E3%81%8C%E3%82%8C%E3%82%8B/</guid>
+      <guid>http://localhost:1313/series/%E7%86%B1%E5%B8%AF%E9%AD%9A%E3%81%AF%E9%9B%AA%E3%81%AB%E7%84%A6%E3%81%8C%E3%82%8C%E3%82%8B/</guid>
       <description></description>
     </item>
     <item>
       <title>ヴァイオレット・エヴァーガーデン</title>
-      <link>https://llxyo.github.io/series/%E3%83%B4%E3%82%A1%E3%82%A4%E3%82%AA%E3%83%AC%E3%83%83%E3%83%88%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3/</link>
+      <link>http://localhost:1313/series/%E3%83%B4%E3%82%A1%E3%82%A4%E3%82%AA%E3%83%AC%E3%83%83%E3%83%88%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%83%B4%E3%82%A1%E3%82%A4%E3%82%AA%E3%83%AC%E3%83%83%E3%83%88%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3/</guid>
+      <guid>http://localhost:1313/series/%E3%83%B4%E3%82%A1%E3%82%A4%E3%82%AA%E3%83%AC%E3%83%83%E3%83%88%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3/</guid>
       <description></description>
     </item>
     <item>
       <title>ささやくように恋を唄う</title>
-      <link>https://llxyo.github.io/series/%E3%81%95%E3%81%95%E3%82%84%E3%81%8F%E3%82%88%E3%81%86%E3%81%AB%E6%81%8B%E3%82%92%E5%94%84%E3%81%86/</link>
+      <link>http://localhost:1313/series/%E3%81%95%E3%81%95%E3%82%84%E3%81%8F%E3%82%88%E3%81%86%E3%81%AB%E6%81%8B%E3%82%92%E5%94%84%E3%81%86/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%81%95%E3%81%95%E3%82%84%E3%81%8F%E3%82%88%E3%81%86%E3%81%AB%E6%81%8B%E3%82%92%E5%94%84%E3%81%86/</guid>
+      <guid>http://localhost:1313/series/%E3%81%95%E3%81%95%E3%82%84%E3%81%8F%E3%82%88%E3%81%86%E3%81%AB%E6%81%8B%E3%82%92%E5%94%84%E3%81%86/</guid>
       <description></description>
     </item>
     <item>
       <title>イエスタデイをうたって</title>
-      <link>https://llxyo.github.io/series/%E3%82%A4%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A4%E3%82%92%E3%81%86%E3%81%9F%E3%81%A3%E3%81%A6/</link>
+      <link>http://localhost:1313/series/%E3%82%A4%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A4%E3%82%92%E3%81%86%E3%81%9F%E3%81%A3%E3%81%A6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%82%A4%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A4%E3%82%92%E3%81%86%E3%81%9F%E3%81%A3%E3%81%A6/</guid>
+      <guid>http://localhost:1313/series/%E3%82%A4%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A4%E3%82%92%E3%81%86%E3%81%9F%E3%81%A3%E3%81%A6/</guid>
       <description></description>
     </item>
     <item>
       <title>コードギアス</title>
-      <link>https://llxyo.github.io/series/%E3%82%B3%E3%83%BC%E3%83%89%E3%82%AE%E3%82%A2%E3%82%B9/</link>
+      <link>http://localhost:1313/series/%E3%82%B3%E3%83%BC%E3%83%89%E3%82%AE%E3%82%A2%E3%82%B9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%82%B3%E3%83%BC%E3%83%89%E3%82%AE%E3%82%A2%E3%82%B9/</guid>
+      <guid>http://localhost:1313/series/%E3%82%B3%E3%83%BC%E3%83%89%E3%82%AE%E3%82%A2%E3%82%B9/</guid>
       <description></description>
     </item>
     <item>
       <title>やがて君になる</title>
-      <link>https://llxyo.github.io/series/%E3%82%84%E3%81%8C%E3%81%A6%E5%90%9B%E3%81%AB%E3%81%AA%E3%82%8B/</link>
+      <link>http://localhost:1313/series/%E3%82%84%E3%81%8C%E3%81%A6%E5%90%9B%E3%81%AB%E3%81%AA%E3%82%8B/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%82%84%E3%81%8C%E3%81%A6%E5%90%9B%E3%81%AB%E3%81%AA%E3%82%8B/</guid>
+      <guid>http://localhost:1313/series/%E3%82%84%E3%81%8C%E3%81%A6%E5%90%9B%E3%81%AB%E3%81%AA%E3%82%8B/</guid>
       <description></description>
     </item>
     <item>
       <title>クオリディア・コード</title>
-      <link>https://llxyo.github.io/series/%E3%82%AF%E3%82%AA%E3%83%AA%E3%83%87%E3%82%A3%E3%82%A2%E3%82%B3%E3%83%BC%E3%83%89/</link>
+      <link>http://localhost:1313/series/%E3%82%AF%E3%82%AA%E3%83%AA%E3%83%87%E3%82%A3%E3%82%A2%E3%82%B3%E3%83%BC%E3%83%89/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%82%AF%E3%82%AA%E3%83%AA%E3%83%87%E3%82%A3%E3%82%A2%E3%82%B3%E3%83%BC%E3%83%89/</guid>
+      <guid>http://localhost:1313/series/%E3%82%AF%E3%82%AA%E3%83%AA%E3%83%87%E3%82%A3%E3%82%A2%E3%82%B3%E3%83%BC%E3%83%89/</guid>
       <description></description>
     </item>
     <item>
       <title>中二病でも恋がしたい！</title>
-      <link>https://llxyo.github.io/series/%E4%B8%AD%E4%BA%8C%E7%97%85%E3%81%A7%E3%82%82%E6%81%8B%E3%81%8C%E3%81%97%E3%81%9F%E3%81%84/</link>
+      <link>http://localhost:1313/series/%E4%B8%AD%E4%BA%8C%E7%97%85%E3%81%A7%E3%82%82%E6%81%8B%E3%81%8C%E3%81%97%E3%81%9F%E3%81%84/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E4%B8%AD%E4%BA%8C%E7%97%85%E3%81%A7%E3%82%82%E6%81%8B%E3%81%8C%E3%81%97%E3%81%9F%E3%81%84/</guid>
+      <guid>http://localhost:1313/series/%E4%B8%AD%E4%BA%8C%E7%97%85%E3%81%A7%E3%82%82%E6%81%8B%E3%81%8C%E3%81%97%E3%81%9F%E3%81%84/</guid>
       <description></description>
     </item>
     <item>
       <title>冴えない彼女の育てかた</title>
-      <link>https://llxyo.github.io/series/%E5%86%B4%E3%81%88%E3%81%AA%E3%81%84%E5%BD%BC%E5%A5%B3%E3%81%AE%E8%82%B2%E3%81%A6%E3%81%8B%E3%81%9F/</link>
+      <link>http://localhost:1313/series/%E5%86%B4%E3%81%88%E3%81%AA%E3%81%84%E5%BD%BC%E5%A5%B3%E3%81%AE%E8%82%B2%E3%81%A6%E3%81%8B%E3%81%9F/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E5%86%B4%E3%81%88%E3%81%AA%E3%81%84%E5%BD%BC%E5%A5%B3%E3%81%AE%E8%82%B2%E3%81%A6%E3%81%8B%E3%81%9F/</guid>
+      <guid>http://localhost:1313/series/%E5%86%B4%E3%81%88%E3%81%AA%E3%81%84%E5%BD%BC%E5%A5%B3%E3%81%AE%E8%82%B2%E3%81%A6%E3%81%8B%E3%81%9F/</guid>
       <description></description>
     </item>
     <item>
       <title>物語シリーズ</title>
-      <link>https://llxyo.github.io/series/%E7%89%A9%E8%AA%9E%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/</link>
+      <link>http://localhost:1313/series/%E7%89%A9%E8%AA%9E%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E7%89%A9%E8%AA%9E%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/</guid>
+      <guid>http://localhost:1313/series/%E7%89%A9%E8%AA%9E%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/</guid>
       <description></description>
     </item>
     <item>
       <title>私の百合はお仕事です!</title>
-      <link>https://llxyo.github.io/series/%E7%A7%81%E3%81%AE%E7%99%BE%E5%90%88%E3%81%AF%E3%81%8A%E4%BB%95%E4%BA%8B%E3%81%A7%E3%81%99/</link>
+      <link>http://localhost:1313/series/%E7%A7%81%E3%81%AE%E7%99%BE%E5%90%88%E3%81%AF%E3%81%8A%E4%BB%95%E4%BA%8B%E3%81%A7%E3%81%99/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E7%A7%81%E3%81%AE%E7%99%BE%E5%90%88%E3%81%AF%E3%81%8A%E4%BB%95%E4%BA%8B%E3%81%A7%E3%81%99/</guid>
+      <guid>http://localhost:1313/series/%E7%A7%81%E3%81%AE%E7%99%BE%E5%90%88%E3%81%AF%E3%81%8A%E4%BB%95%E4%BA%8B%E3%81%A7%E3%81%99/</guid>
       <description></description>
     </item>
     <item>
       <title>とある科学の超電磁砲</title>
-      <link>https://llxyo.github.io/series/%E3%81%A8%E3%81%82%E3%82%8B%E7%A7%91%E5%AD%A6%E3%81%AE%E8%B6%85%E9%9B%BB%E7%A3%81%E7%A0%B2/</link>
+      <link>http://localhost:1313/series/%E3%81%A8%E3%81%82%E3%82%8B%E7%A7%91%E5%AD%A6%E3%81%AE%E8%B6%85%E9%9B%BB%E7%A3%81%E7%A0%B2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/%E3%81%A8%E3%81%82%E3%82%8B%E7%A7%91%E5%AD%A6%E3%81%AE%E8%B6%85%E9%9B%BB%E7%A3%81%E7%A0%B2/</guid>
+      <guid>http://localhost:1313/series/%E3%81%A8%E3%81%82%E3%82%8B%E7%A7%91%E5%AD%A6%E3%81%AE%E8%B6%85%E9%9B%BB%E7%A3%81%E7%A0%B2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>アサシンズプライド</title>
+      <link>http://localhost:1313/series/%E3%82%A2%E3%82%B5%E3%82%B7%E3%83%B3%E3%82%BA%E3%83%97%E3%83%A9%E3%82%A4%E3%83%89/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/series/%E3%82%A2%E3%82%B5%E3%82%B7%E3%83%B3%E3%82%BA%E3%83%97%E3%83%A9%E3%82%A4%E3%83%89/</guid>
       <description></description>
     </item>
     <item>
       <title>SHIROBAKO</title>
-      <link>https://llxyo.github.io/series/shirobako/</link>
+      <link>http://localhost:1313/series/shirobako/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/series/shirobako/</guid>
+      <guid>http://localhost:1313/series/shirobako/</guid>
       <description></description>
     </item>
   </channel>

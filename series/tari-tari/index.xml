@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TARI TARI on LLxyo&#39;s Daydreams</title>
-    <link>https://llxyo.github.io/series/tari-tari/</link>
+    <link>http://localhost:1313/series/tari-tari/</link>
     <description>Recent content in TARI TARI on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Fri, 03 Dec 2021 01:45:11 +0900</lastBuildDate>
-    <atom:link href="https://llxyo.github.io/series/tari-tari/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/series/tari-tari/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「TARI TARI」─どこまでもまっすぐで貴い、青春の全部が詰まった物語─ 感想と考察</title>
-      <link>https://llxyo.github.io/post/taritari2/</link>
+      <link>http://localhost:1313/post/taritari2/</link>
       <pubDate>Fri, 03 Dec 2021 01:45:11 +0900</pubDate>
-      <guid>https://llxyo.github.io/post/taritari2/</guid>
+      <guid>http://localhost:1313/post/taritari2/</guid>
       <description>この「TARITARI」、クソじゃないアニメ Advent Calendarに似合わず普通に非の打ちどころのない名作アニメです。まぁ文字通りクソじゃないアニメには変わらないのでＯＫですが。 ということで、クソじゃないアニメ Advent Calendar 2021の4日目です。 *** まず「TARI TARI」がどんなアニメかというと、江ノ島や湘南を舞</description>
     </item>
     <item>
       <title>「TARI TARI」─笑ったり、悩んだり、泣いたりの青春群像劇─ 感想と考察</title>
-      <link>https://llxyo.github.io/post/taritari/</link>
+      <link>http://localhost:1313/post/taritari/</link>
       <pubDate>Fri, 03 Sep 2021 16:29:30 +0900</pubDate>
-      <guid>https://llxyo.github.io/post/taritari/</guid>
+      <guid>http://localhost:1313/post/taritari/</guid>
       <description>合唱部の5人が歌と共にたくさんの困難を乗り越えたり、はっちゃけて笑いあったり、時には高い壁の前に諦めてしまうこともあったけど、仲間と支えあってまた前を向いて歩き出したりな青春群像劇。 全13話のどれを取っても合唱部の5人の姿に具現化されたメッセージが込められていた。行く手を阻む困難に打ちのめされてしま</description>
     </item>
   </channel>

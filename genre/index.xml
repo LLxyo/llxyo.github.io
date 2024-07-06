@@ -2,556 +2,556 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Genre on LLxyo&#39;s Daydreams</title>
-    <link>https://llxyo.github.io/genre/</link>
+    <link>http://localhost:1313/genre/</link>
     <description>Recent content in Genre on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 29 Jun 2024 15:53:40 +0900</lastBuildDate>
-    <atom:link href="https://llxyo.github.io/genre/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/genre/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>創作活動</title>
-      <link>https://llxyo.github.io/genre/%E5%89%B5%E4%BD%9C%E6%B4%BB%E5%8B%95/</link>
+      <link>http://localhost:1313/genre/%E5%89%B5%E4%BD%9C%E6%B4%BB%E5%8B%95/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E5%89%B5%E4%BD%9C%E6%B4%BB%E5%8B%95/</guid>
+      <guid>http://localhost:1313/genre/%E5%89%B5%E4%BD%9C%E6%B4%BB%E5%8B%95/</guid>
       <description></description>
     </item>
     <item>
       <title>夢を目指す物語</title>
-      <link>https://llxyo.github.io/genre/%E5%A4%A2%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E7%89%A9%E8%AA%9E/</link>
+      <link>http://localhost:1313/genre/%E5%A4%A2%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E7%89%A9%E8%AA%9E/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E5%A4%A2%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E7%89%A9%E8%AA%9E/</guid>
+      <guid>http://localhost:1313/genre/%E5%A4%A2%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E7%89%A9%E8%AA%9E/</guid>
       <description></description>
     </item>
     <item>
       <title>葛藤</title>
-      <link>https://llxyo.github.io/genre/%E8%91%9B%E8%97%A4/</link>
+      <link>http://localhost:1313/genre/%E8%91%9B%E8%97%A4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E8%91%9B%E8%97%A4/</guid>
+      <guid>http://localhost:1313/genre/%E8%91%9B%E8%97%A4/</guid>
       <description></description>
     </item>
     <item>
       <title>ヒューマンドラマ</title>
-      <link>https://llxyo.github.io/genre/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%89%E3%83%A9%E3%83%9E/</link>
+      <link>http://localhost:1313/genre/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%89%E3%83%A9%E3%83%9E/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%89%E3%83%A9%E3%83%9E/</guid>
+      <guid>http://localhost:1313/genre/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%89%E3%83%A9%E3%83%9E/</guid>
       <description></description>
     </item>
     <item>
       <title>ミュージカル</title>
-      <link>https://llxyo.github.io/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%AB%E3%83%AB/</link>
+      <link>http://localhost:1313/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%AB%E3%83%AB/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%AB%E3%83%AB/</guid>
+      <guid>http://localhost:1313/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%AB%E3%83%AB/</guid>
       <description></description>
     </item>
     <item>
       <title>人間関係</title>
-      <link>https://llxyo.github.io/genre/%E4%BA%BA%E9%96%93%E9%96%A2%E4%BF%82/</link>
+      <link>http://localhost:1313/genre/%E4%BA%BA%E9%96%93%E9%96%A2%E4%BF%82/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E4%BA%BA%E9%96%93%E9%96%A2%E4%BF%82/</guid>
+      <guid>http://localhost:1313/genre/%E4%BA%BA%E9%96%93%E9%96%A2%E4%BF%82/</guid>
       <description></description>
     </item>
     <item>
       <title>アイドル</title>
-      <link>https://llxyo.github.io/genre/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB/</link>
+      <link>http://localhost:1313/genre/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB/</guid>
+      <guid>http://localhost:1313/genre/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB/</guid>
       <description></description>
     </item>
     <item>
       <title>青春</title>
-      <link>https://llxyo.github.io/genre/%E9%9D%92%E6%98%A5/</link>
+      <link>http://localhost:1313/genre/%E9%9D%92%E6%98%A5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E9%9D%92%E6%98%A5/</guid>
+      <guid>http://localhost:1313/genre/%E9%9D%92%E6%98%A5/</guid>
       <description></description>
     </item>
     <item>
       <title>音楽</title>
-      <link>https://llxyo.github.io/genre/%E9%9F%B3%E6%A5%BD/</link>
+      <link>http://localhost:1313/genre/%E9%9F%B3%E6%A5%BD/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E9%9F%B3%E6%A5%BD/</guid>
+      <guid>http://localhost:1313/genre/%E9%9F%B3%E6%A5%BD/</guid>
       <description></description>
     </item>
     <item>
       <title>思春期</title>
-      <link>https://llxyo.github.io/genre/%E6%80%9D%E6%98%A5%E6%9C%9F/</link>
+      <link>http://localhost:1313/genre/%E6%80%9D%E6%98%A5%E6%9C%9F/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E6%80%9D%E6%98%A5%E6%9C%9F/</guid>
+      <guid>http://localhost:1313/genre/%E6%80%9D%E6%98%A5%E6%9C%9F/</guid>
       <description></description>
     </item>
     <item>
       <title>バトルアクション</title>
-      <link>https://llxyo.github.io/genre/%E3%83%90%E3%83%88%E3%83%AB%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/</link>
+      <link>http://localhost:1313/genre/%E3%83%90%E3%83%88%E3%83%AB%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E3%83%90%E3%83%88%E3%83%AB%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/</guid>
+      <guid>http://localhost:1313/genre/%E3%83%90%E3%83%88%E3%83%AB%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/</guid>
       <description></description>
     </item>
     <item>
       <title>歴史</title>
-      <link>https://llxyo.github.io/genre/%E6%AD%B4%E5%8F%B2/</link>
+      <link>http://localhost:1313/genre/%E6%AD%B4%E5%8F%B2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E6%AD%B4%E5%8F%B2/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>お仕事</title>
-      <link>https://llxyo.github.io/genre/%E3%81%8A%E4%BB%95%E4%BA%8B/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E3%81%8A%E4%BB%95%E4%BA%8B/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ゲーム</title>
-      <link>https://llxyo.github.io/genre/%E3%82%B2%E3%83%BC%E3%83%A0/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E3%82%B2%E3%83%BC%E3%83%A0/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ローファンタジー</title>
-      <link>https://llxyo.github.io/genre/%E3%83%AD%E3%83%BC%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E3%83%AD%E3%83%BC%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>スポーツ</title>
-      <link>https://llxyo.github.io/genre/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>部活・課外活動</title>
-      <link>https://llxyo.github.io/genre/%E9%83%A8%E6%B4%BB%E8%AA%B2%E5%A4%96%E6%B4%BB%E5%8B%95/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E9%83%A8%E6%B4%BB%E8%AA%B2%E5%A4%96%E6%B4%BB%E5%8B%95/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>女の子が○○してみた</title>
-      <link>https://llxyo.github.io/genre/%E5%A5%B3%E3%81%AE%E5%AD%90%E3%81%8C%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E5%A5%B3%E3%81%AE%E5%AD%90%E3%81%8C%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>百合</title>
-      <link>https://llxyo.github.io/genre/%E7%99%BE%E5%90%88/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E7%99%BE%E5%90%88/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ダークファンタジー</title>
-      <link>https://llxyo.github.io/genre/%E3%83%80%E3%83%BC%E3%82%AF%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E3%83%80%E3%83%BC%E3%82%AF%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ハイファンタジー</title>
-      <link>https://llxyo.github.io/genre/%E3%83%8F%E3%82%A4%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E3%83%8F%E3%82%A4%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ポストアポカリプス</title>
-      <link>https://llxyo.github.io/genre/%E3%83%9D%E3%82%B9%E3%83%88%E3%82%A2%E3%83%9D%E3%82%AB%E3%83%AA%E3%83%97%E3%82%B9/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E3%83%9D%E3%82%B9%E3%83%88%E3%82%A2%E3%83%9D%E3%82%AB%E3%83%AA%E3%83%97%E3%82%B9/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ミリタリー</title>
-      <link>https://llxyo.github.io/genre/%E3%83%9F%E3%83%AA%E3%82%BF%E3%83%AA%E3%83%BC/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E3%83%9F%E3%83%AA%E3%82%BF%E3%83%AA%E3%83%BC/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>兄妹</title>
-      <link>https://llxyo.github.io/genre/%E5%85%84%E5%A6%B9/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E5%85%84%E5%A6%B9/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>親子愛</title>
-      <link>https://llxyo.github.io/genre/%E8%A6%AA%E5%AD%90%E6%84%9B/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E8%A6%AA%E5%AD%90%E6%84%9B/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>冬</title>
-      <link>https://llxyo.github.io/genre/%E5%86%AC/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E5%86%AC/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>学園</title>
-      <link>https://llxyo.github.io/genre/%E5%AD%A6%E5%9C%92/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E5%AD%A6%E5%9C%92/</guid>
+      <guid>http://localhost:1313/genre/%E6%AD%B4%E5%8F%B2/</guid>
       <description></description>
     </item>
     <item>
       <title>恋愛</title>
-      <link>https://llxyo.github.io/genre/%E6%81%8B%E6%84%9B/</link>
+      <link>http://localhost:1313/genre/%E6%81%8B%E6%84%9B/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E6%81%8B%E6%84%9B/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>冒険</title>
-      <link>https://llxyo.github.io/genre/%E5%86%92%E9%99%BA/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E5%86%92%E9%99%BA/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>異世界</title>
-      <link>https://llxyo.github.io/genre/%E7%95%B0%E4%B8%96%E7%95%8C/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E7%95%B0%E4%B8%96%E7%95%8C/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>料理</title>
-      <link>https://llxyo.github.io/genre/%E6%96%99%E7%90%86/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E6%96%99%E7%90%86/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>女の子が○○してみた系</title>
-      <link>https://llxyo.github.io/genre/%E5%A5%B3%E3%81%AE%E5%AD%90%E3%81%8C%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F%E7%B3%BB/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E5%A5%B3%E3%81%AE%E5%AD%90%E3%81%8C%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F%E7%B3%BB/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>失恋</title>
-      <link>https://llxyo.github.io/genre/%E5%A4%B1%E6%81%8B/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E5%A4%B1%E6%81%8B/</guid>
+      <guid>http://localhost:1313/genre/%E6%81%8B%E6%84%9B/</guid>
       <description></description>
     </item>
     <item>
       <title>質アニメ</title>
-      <link>https://llxyo.github.io/genre/%E8%B3%AA%E3%82%A2%E3%83%8B%E3%83%A1/</link>
+      <link>http://localhost:1313/genre/%E8%B3%AA%E3%82%A2%E3%83%8B%E3%83%A1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E8%B3%AA%E3%82%A2%E3%83%8B%E3%83%A1/</guid>
+      <guid>http://localhost:1313/genre/%E8%B3%AA%E3%82%A2%E3%83%8B%E3%83%A1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>お仕事</title>
+      <link>http://localhost:1313/genre/%E3%81%8A%E4%BB%95%E4%BA%8B/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/genre/%E3%81%8A%E4%BB%95%E4%BA%8B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ゲーム</title>
+      <link>http://localhost:1313/genre/%E3%82%B2%E3%83%BC%E3%83%A0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/genre/%E3%82%B2%E3%83%BC%E3%83%A0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ローファンタジー</title>
+      <link>http://localhost:1313/genre/%E3%83%AD%E3%83%BC%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/genre/%E3%83%AD%E3%83%BC%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>スポーツ</title>
+      <link>http://localhost:1313/genre/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/genre/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>部活・課外活動</title>
+      <link>http://localhost:1313/genre/%E9%83%A8%E6%B4%BB%E8%AA%B2%E5%A4%96%E6%B4%BB%E5%8B%95/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/genre/%E9%83%A8%E6%B4%BB%E8%AA%B2%E5%A4%96%E6%B4%BB%E5%8B%95/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>女の子が○○してみた</title>
+      <link>http://localhost:1313/genre/%E5%A5%B3%E3%81%AE%E5%AD%90%E3%81%8C%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/genre/%E5%A5%B3%E3%81%AE%E5%AD%90%E3%81%8C%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>百合</title>
+      <link>http://localhost:1313/genre/%E7%99%BE%E5%90%88/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/genre/%E7%99%BE%E5%90%88/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ダークファンタジー</title>
+      <link>http://localhost:1313/genre/%E3%83%80%E3%83%BC%E3%82%AF%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/genre/%E3%83%80%E3%83%BC%E3%82%AF%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ハイファンタジー</title>
+      <link>http://localhost:1313/genre/%E3%83%8F%E3%82%A4%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/genre/%E3%83%8F%E3%82%A4%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ポストアポカリプス</title>
+      <link>http://localhost:1313/genre/%E3%83%9D%E3%82%B9%E3%83%88%E3%82%A2%E3%83%9D%E3%82%AB%E3%83%AA%E3%83%97%E3%82%B9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/genre/%E3%83%9D%E3%82%B9%E3%83%88%E3%82%A2%E3%83%9D%E3%82%AB%E3%83%AA%E3%83%97%E3%82%B9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ミリタリー</title>
+      <link>http://localhost:1313/genre/%E3%83%9F%E3%83%AA%E3%82%BF%E3%83%AA%E3%83%BC/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/genre/%E3%83%9F%E3%83%AA%E3%82%BF%E3%83%AA%E3%83%BC/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>兄妹</title>
+      <link>http://localhost:1313/genre/%E5%85%84%E5%A6%B9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/genre/%E5%85%84%E5%A6%B9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>親子愛</title>
+      <link>http://localhost:1313/genre/%E8%A6%AA%E5%AD%90%E6%84%9B/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/genre/%E8%A6%AA%E5%AD%90%E6%84%9B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>冬</title>
+      <link>http://localhost:1313/genre/%E5%86%AC/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/genre/%E5%86%AC/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>学園</title>
+      <link>http://localhost:1313/genre/%E5%AD%A6%E5%9C%92/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/genre/%E5%AD%A6%E5%9C%92/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>冒険</title>
+      <link>http://localhost:1313/genre/%E5%86%92%E9%99%BA/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/genre/%E5%86%92%E9%99%BA/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>異世界</title>
+      <link>http://localhost:1313/genre/%E7%95%B0%E4%B8%96%E7%95%8C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/genre/%E7%95%B0%E4%B8%96%E7%95%8C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>料理</title>
+      <link>http://localhost:1313/genre/%E6%96%99%E7%90%86/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/genre/%E6%96%99%E7%90%86/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>女の子が○○してみた系</title>
+      <link>http://localhost:1313/genre/%E5%A5%B3%E3%81%AE%E5%AD%90%E3%81%8C%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F%E7%B3%BB/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/genre/%E5%A5%B3%E3%81%AE%E5%AD%90%E3%81%8C%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F%E7%B3%BB/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>失恋</title>
+      <link>http://localhost:1313/genre/%E5%A4%B1%E6%81%8B/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/genre/%E5%A4%B1%E6%81%8B/</guid>
       <description></description>
     </item>
     <item>
       <title>セカイ系</title>
-      <link>https://llxyo.github.io/genre/%E3%82%BB%E3%82%AB%E3%82%A4%E7%B3%BB/</link>
+      <link>http://localhost:1313/genre/%E3%82%BB%E3%82%AB%E3%82%A4%E7%B3%BB/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E3%82%BB%E3%82%AB%E3%82%A4%E7%B3%BB/</guid>
+      <guid>http://localhost:1313/genre/%E3%82%BB%E3%82%AB%E3%82%A4%E7%B3%BB/</guid>
       <description></description>
     </item>
     <item>
       <title>隣人愛</title>
-      <link>https://llxyo.github.io/genre/%E9%9A%A3%E4%BA%BA%E6%84%9B/</link>
+      <link>http://localhost:1313/genre/%E9%9A%A3%E4%BA%BA%E6%84%9B/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E9%9A%A3%E4%BA%BA%E6%84%9B/</guid>
+      <guid>http://localhost:1313/genre/%E9%9A%A3%E4%BA%BA%E6%84%9B/</guid>
       <description></description>
     </item>
     <item>
       <title>魔法少女</title>
-      <link>https://llxyo.github.io/genre/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3/</link>
+      <link>http://localhost:1313/genre/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3/</guid>
+      <guid>http://localhost:1313/genre/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3/</guid>
       <description></description>
     </item>
     <item>
       <title>SF</title>
-      <link>https://llxyo.github.io/genre/sf/</link>
+      <link>http://localhost:1313/genre/sf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/sf/</guid>
+      <guid>http://localhost:1313/genre/sf/</guid>
       <description></description>
     </item>
     <item>
       <title>サイコホラー</title>
-      <link>https://llxyo.github.io/genre/%E3%82%B5%E3%82%A4%E3%82%B3%E3%83%9B%E3%83%A9%E3%83%BC/</link>
+      <link>http://localhost:1313/genre/%E3%82%B5%E3%82%A4%E3%82%B3%E3%83%9B%E3%83%A9%E3%83%BC/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E3%82%B5%E3%82%A4%E3%82%B3%E3%83%9B%E3%83%A9%E3%83%BC/</guid>
+      <guid>http://localhost:1313/genre/%E3%82%B5%E3%82%A4%E3%82%B3%E3%83%9B%E3%83%A9%E3%83%BC/</guid>
       <description></description>
     </item>
     <item>
       <title>ミステリー</title>
-      <link>https://llxyo.github.io/genre/%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC/</link>
+      <link>http://localhost:1313/genre/%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC/</guid>
+      <guid>http://localhost:1313/genre/%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC/</guid>
       <description></description>
     </item>
     <item>
       <title>メタフィクション</title>
-      <link>https://llxyo.github.io/genre/%E3%83%A1%E3%82%BF%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/</link>
+      <link>http://localhost:1313/genre/%E3%83%A1%E3%82%BF%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E3%83%A1%E3%82%BF%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/</guid>
+      <guid>http://localhost:1313/genre/%E3%83%A1%E3%82%BF%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/</guid>
       <description></description>
     </item>
     <item>
       <title>自己否定</title>
-      <link>https://llxyo.github.io/genre/%E8%87%AA%E5%B7%B1%E5%90%A6%E5%AE%9A/</link>
+      <link>http://localhost:1313/genre/%E8%87%AA%E5%B7%B1%E5%90%A6%E5%AE%9A/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E8%87%AA%E5%B7%B1%E5%90%A6%E5%AE%9A/</guid>
+      <guid>http://localhost:1313/genre/%E8%87%AA%E5%B7%B1%E5%90%A6%E5%AE%9A/</guid>
       <description></description>
     </item>
     <item>
       <title>子どもから大人への成長</title>
-      <link>https://llxyo.github.io/genre/%E5%AD%90%E3%81%A9%E3%82%82%E3%81%8B%E3%82%89%E5%A4%A7%E4%BA%BA%E3%81%B8%E3%81%AE%E6%88%90%E9%95%B7/</link>
+      <link>http://localhost:1313/genre/%E5%AD%90%E3%81%A9%E3%82%82%E3%81%8B%E3%82%89%E5%A4%A7%E4%BA%BA%E3%81%B8%E3%81%AE%E6%88%90%E9%95%B7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E5%AD%90%E3%81%A9%E3%82%82%E3%81%8B%E3%82%89%E5%A4%A7%E4%BA%BA%E3%81%B8%E3%81%AE%E6%88%90%E9%95%B7/</guid>
+      <guid>http://localhost:1313/genre/%E5%AD%90%E3%81%A9%E3%82%82%E3%81%8B%E3%82%89%E5%A4%A7%E4%BA%BA%E3%81%B8%E3%81%AE%E6%88%90%E9%95%B7/</guid>
       <description></description>
     </item>
     <item>
       <title>舞台演劇</title>
-      <link>https://llxyo.github.io/genre/%E8%88%9E%E5%8F%B0%E6%BC%94%E5%8A%87/</link>
+      <link>http://localhost:1313/genre/%E8%88%9E%E5%8F%B0%E6%BC%94%E5%8A%87/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E8%88%9E%E5%8F%B0%E6%BC%94%E5%8A%87/</guid>
+      <guid>http://localhost:1313/genre/%E8%88%9E%E5%8F%B0%E6%BC%94%E5%8A%87/</guid>
       <description></description>
     </item>
     <item>
       <title>社会派</title>
-      <link>https://llxyo.github.io/genre/%E7%A4%BE%E4%BC%9A%E6%B4%BE/</link>
+      <link>http://localhost:1313/genre/%E7%A4%BE%E4%BC%9A%E6%B4%BE/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E7%A4%BE%E4%BC%9A%E6%B4%BE/</guid>
+      <guid>http://localhost:1313/genre/%E7%A4%BE%E4%BC%9A%E6%B4%BE/</guid>
       <description></description>
     </item>
     <item>
       <title>スペースオペラ</title>
-      <link>https://llxyo.github.io/genre/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%AA%E3%83%9A%E3%83%A9/</link>
+      <link>http://localhost:1313/genre/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%AA%E3%83%9A%E3%83%A9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%AA%E3%83%9A%E3%83%A9/</guid>
+      <guid>http://localhost:1313/genre/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%AA%E3%83%9A%E3%83%A9/</guid>
       <description></description>
     </item>
     <item>
       <title>ロボット</title>
-      <link>https://llxyo.github.io/genre/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</link>
+      <link>http://localhost:1313/genre/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</guid>
+      <guid>http://localhost:1313/genre/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</guid>
       <description></description>
     </item>
     <item>
       <title>少女/乙女系</title>
-      <link>https://llxyo.github.io/genre/%E5%B0%91%E5%A5%B3/%E4%B9%99%E5%A5%B3%E7%B3%BB/</link>
+      <link>http://localhost:1313/genre/%E5%B0%91%E5%A5%B3/%E4%B9%99%E5%A5%B3%E7%B3%BB/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E5%B0%91%E5%A5%B3/%E4%B9%99%E5%A5%B3%E7%B3%BB/</guid>
+      <guid>http://localhost:1313/genre/%E5%B0%91%E5%A5%B3/%E4%B9%99%E5%A5%B3%E7%B3%BB/</guid>
       <description></description>
     </item>
     <item>
       <title>サスペンス</title>
-      <link>https://llxyo.github.io/genre/%E3%82%B5%E3%82%B9%E3%83%9A%E3%83%B3%E3%82%B9/</link>
+      <link>http://localhost:1313/genre/%E3%82%B5%E3%82%B9%E3%83%9A%E3%83%B3%E3%82%B9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E3%82%B5%E3%82%B9%E3%83%9A%E3%83%B3%E3%82%B9/</guid>
+      <guid>http://localhost:1313/genre/%E3%82%B5%E3%82%B9%E3%83%9A%E3%83%B3%E3%82%B9/</guid>
       <description></description>
     </item>
     <item>
       <title>ディストピア</title>
-      <link>https://llxyo.github.io/genre/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%94%E3%82%A2/</link>
+      <link>http://localhost:1313/genre/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%94%E3%82%A2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%94%E3%82%A2/</guid>
+      <guid>http://localhost:1313/genre/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%94%E3%82%A2/</guid>
       <description></description>
     </item>
     <item>
       <title>哲学</title>
-      <link>https://llxyo.github.io/genre/%E5%93%B2%E5%AD%A6/</link>
+      <link>http://localhost:1313/genre/%E5%93%B2%E5%AD%A6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E5%93%B2%E5%AD%A6/</guid>
+      <guid>http://localhost:1313/genre/%E5%93%B2%E5%AD%A6/</guid>
       <description></description>
     </item>
     <item>
       <title>TS</title>
-      <link>https://llxyo.github.io/genre/ts/</link>
+      <link>http://localhost:1313/genre/ts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/ts/</guid>
+      <guid>http://localhost:1313/genre/ts/</guid>
       <description></description>
     </item>
     <item>
       <title>日常</title>
-      <link>https://llxyo.github.io/genre/%E6%97%A5%E5%B8%B8/</link>
+      <link>http://localhost:1313/genre/%E6%97%A5%E5%B8%B8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E6%97%A5%E5%B8%B8/</guid>
+      <guid>http://localhost:1313/genre/%E6%97%A5%E5%B8%B8/</guid>
       <description></description>
     </item>
     <item>
       <title>特撮</title>
-      <link>https://llxyo.github.io/genre/%E7%89%B9%E6%92%AE/</link>
+      <link>http://localhost:1313/genre/%E7%89%B9%E6%92%AE/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E7%89%B9%E6%92%AE/</guid>
+      <guid>http://localhost:1313/genre/%E7%89%B9%E6%92%AE/</guid>
       <description></description>
     </item>
     <item>
       <title>人生</title>
-      <link>https://llxyo.github.io/genre/%E4%BA%BA%E7%94%9F/</link>
+      <link>http://localhost:1313/genre/%E4%BA%BA%E7%94%9F/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E4%BA%BA%E7%94%9F/</guid>
+      <guid>http://localhost:1313/genre/%E4%BA%BA%E7%94%9F/</guid>
       <description></description>
     </item>
     <item>
       <title>スチームパンク</title>
-      <link>https://llxyo.github.io/genre/%E3%82%B9%E3%83%81%E3%83%BC%E3%83%A0%E3%83%91%E3%83%B3%E3%82%AF/</link>
+      <link>http://localhost:1313/genre/%E3%82%B9%E3%83%81%E3%83%BC%E3%83%A0%E3%83%91%E3%83%B3%E3%82%AF/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E3%82%B9%E3%83%81%E3%83%BC%E3%83%A0%E3%83%91%E3%83%B3%E3%82%AF/</guid>
+      <guid>http://localhost:1313/genre/%E3%82%B9%E3%83%81%E3%83%BC%E3%83%A0%E3%83%91%E3%83%B3%E3%82%AF/</guid>
       <description></description>
     </item>
     <item>
       <title>スパイ</title>
-      <link>https://llxyo.github.io/genre/%E3%82%B9%E3%83%91%E3%82%A4/</link>
+      <link>http://localhost:1313/genre/%E3%82%B9%E3%83%91%E3%82%A4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E3%82%B9%E3%83%91%E3%82%A4/</guid>
+      <guid>http://localhost:1313/genre/%E3%82%B9%E3%83%91%E3%82%A4/</guid>
       <description></description>
     </item>
     <item>
       <title>ワイドスクリーン・バロック</title>
-      <link>https://llxyo.github.io/genre/%E3%83%AF%E3%82%A4%E3%83%89%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%90%E3%83%AD%E3%83%83%E3%82%AF/</link>
+      <link>http://localhost:1313/genre/%E3%83%AF%E3%82%A4%E3%83%89%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%90%E3%83%AD%E3%83%83%E3%82%AF/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E3%83%AF%E3%82%A4%E3%83%89%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%90%E3%83%AD%E3%83%83%E3%82%AF/</guid>
+      <guid>http://localhost:1313/genre/%E3%83%AF%E3%82%A4%E3%83%89%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%90%E3%83%AD%E3%83%83%E3%82%AF/</guid>
       <description></description>
     </item>
     <item>
       <title>サイバーパンク</title>
-      <link>https://llxyo.github.io/genre/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%83%91%E3%83%B3%E3%82%AF/</link>
+      <link>http://localhost:1313/genre/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%83%91%E3%83%B3%E3%82%AF/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%83%91%E3%83%B3%E3%82%AF/</guid>
+      <guid>http://localhost:1313/genre/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%83%91%E3%83%B3%E3%82%AF/</guid>
       <description></description>
     </item>
     <item>
       <title>自然</title>
-      <link>https://llxyo.github.io/genre/%E8%87%AA%E7%84%B6/</link>
+      <link>http://localhost:1313/genre/%E8%87%AA%E7%84%B6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E8%87%AA%E7%84%B6/</guid>
+      <guid>http://localhost:1313/genre/%E8%87%AA%E7%84%B6/</guid>
       <description></description>
     </item>
     <item>
       <title>春</title>
-      <link>https://llxyo.github.io/genre/%E6%98%A5/</link>
+      <link>http://localhost:1313/genre/%E6%98%A5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E6%98%A5/</guid>
+      <guid>http://localhost:1313/genre/%E6%98%A5/</guid>
       <description></description>
     </item>
     <item>
       <title>夏</title>
-      <link>https://llxyo.github.io/genre/%E5%A4%8F/</link>
+      <link>http://localhost:1313/genre/%E5%A4%8F/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E5%A4%8F/</guid>
+      <guid>http://localhost:1313/genre/%E5%A4%8F/</guid>
       <description></description>
     </item>
     <item>
       <title>ピカレスクロマン</title>
-      <link>https://llxyo.github.io/genre/%E3%83%94%E3%82%AB%E3%83%AC%E3%82%B9%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%B3/</link>
+      <link>http://localhost:1313/genre/%E3%83%94%E3%82%AB%E3%83%AC%E3%82%B9%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%B3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E3%83%94%E3%82%AB%E3%83%AC%E3%82%B9%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%B3/</guid>
+      <guid>http://localhost:1313/genre/%E3%83%94%E3%82%AB%E3%83%AC%E3%82%B9%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%B3/</guid>
       <description></description>
     </item>
     <item>
       <title>中国アニメ</title>
-      <link>https://llxyo.github.io/genre/%E4%B8%AD%E5%9B%BD%E3%82%A2%E3%83%8B%E3%83%A1/</link>
+      <link>http://localhost:1313/genre/%E4%B8%AD%E5%9B%BD%E3%82%A2%E3%83%8B%E3%83%A1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E4%B8%AD%E5%9B%BD%E3%82%A2%E3%83%8B%E3%83%A1/</guid>
+      <guid>http://localhost:1313/genre/%E4%B8%AD%E5%9B%BD%E3%82%A2%E3%83%8B%E3%83%A1/</guid>
       <description></description>
     </item>
     <item>
       <title>出会いと別れ</title>
-      <link>https://llxyo.github.io/genre/%E5%87%BA%E4%BC%9A%E3%81%84%E3%81%A8%E5%88%A5%E3%82%8C/</link>
+      <link>http://localhost:1313/genre/%E5%87%BA%E4%BC%9A%E3%81%84%E3%81%A8%E5%88%A5%E3%82%8C/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E5%87%BA%E4%BC%9A%E3%81%84%E3%81%A8%E5%88%A5%E3%82%8C/</guid>
+      <guid>http://localhost:1313/genre/%E5%87%BA%E4%BC%9A%E3%81%84%E3%81%A8%E5%88%A5%E3%82%8C/</guid>
       <description></description>
     </item>
     <item>
       <title>ボーイミーツガール</title>
-      <link>https://llxyo.github.io/genre/%E3%83%9C%E3%83%BC%E3%82%A4%E3%83%9F%E3%83%BC%E3%83%84%E3%82%AC%E3%83%BC%E3%83%AB/</link>
+      <link>http://localhost:1313/genre/%E3%83%9C%E3%83%BC%E3%82%A4%E3%83%9F%E3%83%BC%E3%83%84%E3%82%AC%E3%83%BC%E3%83%AB/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E3%83%9C%E3%83%BC%E3%82%A4%E3%83%9F%E3%83%BC%E3%83%84%E3%82%AC%E3%83%BC%E3%83%AB/</guid>
+      <guid>http://localhost:1313/genre/%E3%83%9C%E3%83%BC%E3%82%A4%E3%83%9F%E3%83%BC%E3%83%84%E3%82%AC%E3%83%BC%E3%83%AB/</guid>
       <description></description>
     </item>
     <item>
       <title>災害</title>
-      <link>https://llxyo.github.io/genre/%E7%81%BD%E5%AE%B3/</link>
+      <link>http://localhost:1313/genre/%E7%81%BD%E5%AE%B3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E7%81%BD%E5%AE%B3/</guid>
+      <guid>http://localhost:1313/genre/%E7%81%BD%E5%AE%B3/</guid>
       <description></description>
     </item>
     <item>
       <title>音楽&#34;</title>
-      <link>https://llxyo.github.io/genre/%E9%9F%B3%E6%A5%BD/</link>
+      <link>http://localhost:1313/genre/%E9%9F%B3%E6%A5%BD/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E9%9F%B3%E6%A5%BD/</guid>
+      <guid>http://localhost:1313/genre/%E9%9F%B3%E6%A5%BD/</guid>
       <description></description>
     </item>
     <item>
       <title>コメディ</title>
-      <link>https://llxyo.github.io/genre/%E3%82%B3%E3%83%A1%E3%83%87%E3%82%A3/</link>
+      <link>http://localhost:1313/genre/%E3%82%B3%E3%83%A1%E3%83%87%E3%82%A3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E3%82%B3%E3%83%A1%E3%83%87%E3%82%A3/</guid>
+      <guid>http://localhost:1313/genre/%E3%82%B3%E3%83%A1%E3%83%87%E3%82%A3/</guid>
       <description></description>
     </item>
     <item>
       <title>下ネタ</title>
-      <link>https://llxyo.github.io/genre/%E4%B8%8B%E3%83%8D%E3%82%BF/</link>
+      <link>http://localhost:1313/genre/%E4%B8%8B%E3%83%8D%E3%82%BF/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E4%B8%8B%E3%83%8D%E3%82%BF/</guid>
+      <guid>http://localhost:1313/genre/%E4%B8%8B%E3%83%8D%E3%82%BF/</guid>
       <description></description>
     </item>
     <item>
       <title>怪獣</title>
-      <link>https://llxyo.github.io/genre/%E6%80%AA%E7%8D%A3/</link>
+      <link>http://localhost:1313/genre/%E6%80%AA%E7%8D%A3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E6%80%AA%E7%8D%A3/</guid>
+      <guid>http://localhost:1313/genre/%E6%80%AA%E7%8D%A3/</guid>
       <description></description>
     </item>
     <item>
       <title>戦記</title>
-      <link>https://llxyo.github.io/genre/%E6%88%A6%E8%A8%98/</link>
+      <link>http://localhost:1313/genre/%E6%88%A6%E8%A8%98/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E6%88%A6%E8%A8%98/</guid>
+      <guid>http://localhost:1313/genre/%E6%88%A6%E8%A8%98/</guid>
       <description></description>
     </item>
     <item>
       <title>アウトドア</title>
-      <link>https://llxyo.github.io/genre/%E3%82%A2%E3%82%A6%E3%83%88%E3%83%89%E3%82%A2/</link>
+      <link>http://localhost:1313/genre/%E3%82%A2%E3%82%A6%E3%83%88%E3%83%89%E3%82%A2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E3%82%A2%E3%82%A6%E3%83%88%E3%83%89%E3%82%A2/</guid>
+      <guid>http://localhost:1313/genre/%E3%82%A2%E3%82%A6%E3%83%88%E3%83%89%E3%82%A2/</guid>
       <description></description>
     </item>
     <item>
       <title>訓話</title>
-      <link>https://llxyo.github.io/genre/%E8%A8%93%E8%A9%B1/</link>
+      <link>http://localhost:1313/genre/%E8%A8%93%E8%A9%B1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E8%A8%93%E8%A9%B1/</guid>
+      <guid>http://localhost:1313/genre/%E8%A8%93%E8%A9%B1/</guid>
       <description></description>
     </item>
     <item>
       <title>卒業</title>
-      <link>https://llxyo.github.io/genre/%E5%8D%92%E6%A5%AD/</link>
+      <link>http://localhost:1313/genre/%E5%8D%92%E6%A5%AD/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E5%8D%92%E6%A5%AD/</guid>
+      <guid>http://localhost:1313/genre/%E5%8D%92%E6%A5%AD/</guid>
       <description></description>
     </item>
     <item>
       <title>障害</title>
-      <link>https://llxyo.github.io/genre/%E9%9A%9C%E5%AE%B3/</link>
+      <link>http://localhost:1313/genre/%E9%9A%9C%E5%AE%B3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E9%9A%9C%E5%AE%B3/</guid>
+      <guid>http://localhost:1313/genre/%E9%9A%9C%E5%AE%B3/</guid>
       <description></description>
     </item>
     <item>
       <title>インド映画</title>
-      <link>https://llxyo.github.io/genre/%E3%82%A4%E3%83%B3%E3%83%89%E6%98%A0%E7%94%BB/</link>
+      <link>http://localhost:1313/genre/%E3%82%A4%E3%83%B3%E3%83%89%E6%98%A0%E7%94%BB/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E3%82%A4%E3%83%B3%E3%83%89%E6%98%A0%E7%94%BB/</guid>
+      <guid>http://localhost:1313/genre/%E3%82%A4%E3%83%B3%E3%83%89%E6%98%A0%E7%94%BB/</guid>
       <description></description>
     </item>
     <item>
       <title>学園異能バトルファンタジー</title>
-      <link>https://llxyo.github.io/genre/%E5%AD%A6%E5%9C%92%E7%95%B0%E8%83%BD%E3%83%90%E3%83%88%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC/</link>
+      <link>http://localhost:1313/genre/%E5%AD%A6%E5%9C%92%E7%95%B0%E8%83%BD%E3%83%90%E3%83%88%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://llxyo.github.io/genre/%E5%AD%A6%E5%9C%92%E7%95%B0%E8%83%BD%E3%83%90%E3%83%88%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC/</guid>
+      <guid>http://localhost:1313/genre/%E5%AD%A6%E5%9C%92%E7%95%B0%E8%83%BD%E3%83%90%E3%83%88%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC/</guid>
       <description></description>
     </item>
   </channel>
