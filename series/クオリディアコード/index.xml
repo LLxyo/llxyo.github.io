@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>クオリディア・コード on LLxyo&#39;s Daydreams</title>
-    <link>http://localhost:1313/series/%E3%82%AF%E3%82%AA%E3%83%AA%E3%83%87%E3%82%A3%E3%82%A2%E3%82%B3%E3%83%BC%E3%83%89/</link>
+    <link>https://llxyo.github.io/series/%E3%82%AF%E3%82%AA%E3%83%AA%E3%83%87%E3%82%A3%E3%82%A2%E3%82%B3%E3%83%BC%E3%83%89/</link>
     <description>Recent content in クオリディア・コード on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 29 Apr 2020 01:12:45 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/series/%E3%82%AF%E3%82%AA%E3%83%AA%E3%83%87%E3%82%A3%E3%82%A2%E3%82%B3%E3%83%BC%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://llxyo.github.io/series/%E3%82%AF%E3%82%AA%E3%83%AA%E3%83%87%E3%82%A3%E3%82%A2%E3%82%B3%E3%83%BC%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「クオリディア・コード」─クオリディアと世界の意味─ 感想と考察</title>
-      <link>http://localhost:1313/post/qualideacode/</link>
+      <link>https://llxyo.github.io/post/qualideacode/</link>
       <pubDate>Wed, 29 Apr 2020 01:12:45 +0900</pubDate>
-      <guid>http://localhost:1313/post/qualideacode/</guid>
+      <guid>https://llxyo.github.io/post/qualideacode/</guid>
       <description>クオリディアコードとは、2016年夏クールにオンエアされたアニメであり放送から4年も経っていることに個人的には驚くのだが、一般的には作画崩壊で不名誉に有名かもしれない。しかしその他の点では素晴らしい作品である。まぁ、それについてはまた別の機会で&amp;hellip; とにもかくにも未視聴ならばとりあえずは公</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>聲の形 on LLxyo&#39;s Daydreams</title>
-    <link>http://localhost:1313/series/%E8%81%B2%E3%81%AE%E5%BD%A2/</link>
+    <link>https://llxyo.github.io/series/%E8%81%B2%E3%81%AE%E5%BD%A2/</link>
     <description>Recent content in 聲の形 on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Thu, 29 Jul 2021 22:29:24 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/series/%E8%81%B2%E3%81%AE%E5%BD%A2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://llxyo.github.io/series/%E8%81%B2%E3%81%AE%E5%BD%A2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「聲の形」から考える自他との向き合い方 感想と考察</title>
-      <link>http://localhost:1313/post/the_shape_of_voice/</link>
+      <link>https://llxyo.github.io/post/the_shape_of_voice/</link>
       <pubDate>Thu, 29 Jul 2021 22:29:24 +0900</pubDate>
-      <guid>http://localhost:1313/post/the_shape_of_voice/</guid>
+      <guid>https://llxyo.github.io/post/the_shape_of_voice/</guid>
       <description>今回の感想及び咀嚼の仕方は自分でも非聴覚障害者や加害者として都合の良い受け止め方をしているのかなぁと思うところもあったけれど、自分のそういうところに正直にならないで目を逸らし続けていても何も得られないし、それこそ潔白を偽る自己保身的なことだと思ったので、前回見た時よりも想いのままに書き記す。 去年見た</description>
     </item>
     <item>
       <title>「聲の形」─他者理解の意味─ 感想と考察</title>
-      <link>http://localhost:1313/post/%E8%81%B2%E3%81%AE%E5%BD%A2%E6%84%9F%E6%83%B3/</link>
+      <link>https://llxyo.github.io/post/%E8%81%B2%E3%81%AE%E5%BD%A2%E6%84%9F%E6%83%B3/</link>
       <pubDate>Fri, 31 Jul 2020 22:51:01 +0900</pubDate>
-      <guid>http://localhost:1313/post/%E8%81%B2%E3%81%AE%E5%BD%A2%E6%84%9F%E6%83%B3/</guid>
+      <guid>https://llxyo.github.io/post/%E8%81%B2%E3%81%AE%E5%BD%A2%E6%84%9F%E6%83%B3/</guid>
       <description>他者理解 小学生だった将也たちには最初から悪意があったわけではないと思う。コミュニケーションが円滑に取れない人間にどうしたらいいのか、そもそも聴覚障害が何なのか小学生にはよく分からないだろうし、戸惑いしかないのだろうと思う。 聴覚障害のある人が自分の身近にいたことがないから分からないけれど、たぶん外国人</description>
     </item>
   </channel>

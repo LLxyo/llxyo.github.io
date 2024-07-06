@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PSYCHO-PASS on LLxyo&#39;s Daydreams</title>
-    <link>http://localhost:1313/series/psycho-pass/</link>
+    <link>https://llxyo.github.io/series/psycho-pass/</link>
     <description>Recent content in PSYCHO-PASS on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Thu, 18 May 2023 23:02:35 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/series/psycho-pass/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://llxyo.github.io/series/psycho-pass/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「PSYCHO-PASS PROVIDENCE」─神を殺した常守朱、その涙の意味─ 感想と考察</title>
-      <link>http://localhost:1313/post/psychopass_providence/</link>
+      <link>https://llxyo.github.io/post/psychopass_providence/</link>
       <pubDate>Thu, 18 May 2023 23:02:35 +0900</pubDate>
-      <guid>http://localhost:1313/post/psychopass_providence/</guid>
+      <guid>https://llxyo.github.io/post/psychopass_providence/</guid>
       <description>シビュラシステムによって、法律は不要になるだろうか？それが今回の問いであり、議題だった。 神の視座から愚かな人間たちに絶対的な裁定を下すAI、それがシビュラシステム。究極の客観性を携えたその支配システムは、私たちに汚れた人間の主観を一切排した答えをもたらしてくれる。その真実に疑いの余地はない。しかし、</description>
     </item>
     <item>
       <title>「PSYCHO-PASS 3期」─たった一つの正義ではない、善悪の価値の意味─ 感想と考察</title>
-      <link>http://localhost:1313/post/psychopass3/</link>
+      <link>https://llxyo.github.io/post/psychopass3/</link>
       <pubDate>Wed, 17 May 2023 02:12:16 +0900</pubDate>
-      <guid>http://localhost:1313/post/psychopass3/</guid>
+      <guid>https://llxyo.github.io/post/psychopass3/</guid>
       <description>第4話 コロッセオの政争 認知不可、脳が楽をしたい悩みたくないという休みたがることを指すその言葉。 その脳の、人の思考の働きを利用して、外部から大衆の心理をコントロールしようとするのが小宮カリナの裏に潜む正体・AIのマカリナだった。そのAIが人間を誘導することで、人間に思考を放棄させることを促し、選挙を戦</description>
     </item>
     <item>
       <title>「PSYCHO-PASS 1期」─自分を生きる責任─ 感想と考察</title>
-      <link>http://localhost:1313/post/psycho-pass/</link>
+      <link>https://llxyo.github.io/post/psycho-pass/</link>
       <pubDate>Mon, 06 Jun 2022 13:51:51 +0900</pubDate>
-      <guid>http://localhost:1313/post/psycho-pass/</guid>
+      <guid>https://llxyo.github.io/post/psycho-pass/</guid>
       <description>平和で穏やかな日常や最適化された生活という普段の努力なしには手にできないものを当たり前の産物だと思い込んだ社会、それはシビュラシステムという神に与えられものであり、決して人類の社会ではない。 何が必要で、何が不要なのか。自分が何を成せばいいのか、誰が社会を害し得るのか。そんな煩わしいことを考えなくてい</description>
     </item>
   </channel>
