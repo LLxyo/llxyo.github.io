@@ -6,8 +6,36 @@
     <description>Recent content in Genre on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 30 Jun 2024 21:09:33 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2024 12:52:54 +0900</lastBuildDate>
     <atom:link href="https://llxyo.github.io/genre/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>四国地方</title>
+      <link>https://llxyo.github.io/genre/%E5%9B%9B%E5%9B%BD%E5%9C%B0%E6%96%B9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://llxyo.github.io/genre/%E5%9B%9B%E5%9B%BD%E5%9C%B0%E6%96%B9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>香川県</title>
+      <link>https://llxyo.github.io/genre/%E9%A6%99%E5%B7%9D%E7%9C%8C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://llxyo.github.io/genre/%E9%A6%99%E5%B7%9D%E7%9C%8C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>東京都</title>
+      <link>https://llxyo.github.io/genre/%E6%9D%B1%E4%BA%AC%E9%83%BD/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://llxyo.github.io/genre/%E6%9D%B1%E4%BA%AC%E9%83%BD/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>関東地方</title>
+      <link>https://llxyo.github.io/genre/%E9%96%A2%E6%9D%B1%E5%9C%B0%E6%96%B9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://llxyo.github.io/genre/%E9%96%A2%E6%9D%B1%E5%9C%B0%E6%96%B9/</guid>
+      <description></description>
+    </item>
     <item>
       <title>人間関係</title>
       <link>https://llxyo.github.io/genre/%E4%BA%BA%E9%96%93%E9%96%A2%E4%BF%82/</link>
@@ -107,6 +135,20 @@
       <description></description>
     </item>
     <item>
+      <title>三重県</title>
+      <link>https://llxyo.github.io/genre/%E4%B8%89%E9%87%8D%E7%9C%8C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://llxyo.github.io/genre/%E4%B8%89%E9%87%8D%E7%9C%8C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>近畿地方</title>
+      <link>https://llxyo.github.io/genre/%E8%BF%91%E7%95%BF%E5%9C%B0%E6%96%B9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://llxyo.github.io/genre/%E8%BF%91%E7%95%BF%E5%9C%B0%E6%96%B9/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>お仕事</title>
       <link>https://llxyo.github.io/genre/%E3%81%8A%E4%BB%95%E4%BA%8B/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -139,6 +181,20 @@
       <link>https://llxyo.github.io/genre/%E9%83%A8%E6%B4%BB%E8%AA%B2%E5%A4%96%E6%B4%BB%E5%8B%95/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://llxyo.github.io/genre/%E9%83%A8%E6%B4%BB%E8%AA%B2%E5%A4%96%E6%B4%BB%E5%8B%95/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>中部地方</title>
+      <link>https://llxyo.github.io/genre/%E4%B8%AD%E9%83%A8%E5%9C%B0%E6%96%B9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://llxyo.github.io/genre/%E4%B8%AD%E9%83%A8%E5%9C%B0%E6%96%B9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>静岡県</title>
+      <link>https://llxyo.github.io/genre/%E9%9D%99%E5%B2%A1%E7%9C%8C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://llxyo.github.io/genre/%E9%9D%99%E5%B2%A1%E7%9C%8C/</guid>
       <description></description>
     </item>
     <item>
@@ -226,6 +282,13 @@
       <description></description>
     </item>
     <item>
+      <title>京都府</title>
+      <link>https://llxyo.github.io/genre/%E4%BA%AC%E9%83%BD%E5%BA%9C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://llxyo.github.io/genre/%E4%BA%AC%E9%83%BD%E5%BA%9C/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>料理</title>
       <link>https://llxyo.github.io/genre/%E6%96%99%E7%90%86/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -240,10 +303,38 @@
       <description></description>
     </item>
     <item>
+      <title>岐阜県</title>
+      <link>https://llxyo.github.io/genre/%E5%B2%90%E9%98%9C%E7%9C%8C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://llxyo.github.io/genre/%E5%B2%90%E9%98%9C%E7%9C%8C/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>失恋</title>
       <link>https://llxyo.github.io/genre/%E5%A4%B1%E6%81%8B/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://llxyo.github.io/genre/%E5%A4%B1%E6%81%8B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>北陸地方</title>
+      <link>https://llxyo.github.io/genre/%E5%8C%97%E9%99%B8%E5%9C%B0%E6%96%B9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://llxyo.github.io/genre/%E5%8C%97%E9%99%B8%E5%9C%B0%E6%96%B9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>富山県</title>
+      <link>https://llxyo.github.io/genre/%E5%AF%8C%E5%B1%B1%E7%9C%8C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://llxyo.github.io/genre/%E5%AF%8C%E5%B1%B1%E7%9C%8C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>石川県</title>
+      <link>https://llxyo.github.io/genre/%E7%9F%B3%E5%B7%9D%E7%9C%8C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://llxyo.github.io/genre/%E7%9F%B3%E5%B7%9D%E7%9C%8C/</guid>
       <description></description>
     </item>
     <item>
@@ -293,6 +384,13 @@
       <link>https://llxyo.github.io/genre/%E3%83%A1%E3%82%BF%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://llxyo.github.io/genre/%E3%83%A1%E3%82%BF%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>長野県</title>
+      <link>https://llxyo.github.io/genre/%E9%95%B7%E9%87%8E%E7%9C%8C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://llxyo.github.io/genre/%E9%95%B7%E9%87%8E%E7%9C%8C/</guid>
       <description></description>
     </item>
     <item>
@@ -377,6 +475,27 @@
       <link>https://llxyo.github.io/genre/%E6%97%A5%E5%B8%B8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://llxyo.github.io/genre/%E6%97%A5%E5%B8%B8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>千葉県</title>
+      <link>https://llxyo.github.io/genre/%E5%8D%83%E8%91%89%E7%9C%8C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://llxyo.github.io/genre/%E5%8D%83%E8%91%89%E7%9C%8C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>埼玉県</title>
+      <link>https://llxyo.github.io/genre/%E5%9F%BC%E7%8E%89%E7%9C%8C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://llxyo.github.io/genre/%E5%9F%BC%E7%8E%89%E7%9C%8C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>群馬県</title>
+      <link>https://llxyo.github.io/genre/%E7%BE%A4%E9%A6%AC%E7%9C%8C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://llxyo.github.io/genre/%E7%BE%A4%E9%A6%AC%E7%9C%8C/</guid>
       <description></description>
     </item>
     <item>
