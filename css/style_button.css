@@ -68,7 +68,7 @@ html {
     right: 7%; /*位置固定*/
     text-align: center; /*アイコンの中央寄せ*/
     line-height: 5rem; /*アイコンの中央寄せ*/
-    background-color: #2198e3;
+    background-color: #000;
     color: #fff;
     /*ダークテーマにすると位置固定が効かなくなる*/
     /*position: fixed;が効いてない*/
