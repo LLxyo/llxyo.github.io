@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ささやくように恋を唄う on LLxyo&#39;s Daydreams</title>
-    <link>https://llxyo.github.io/series/%E3%81%95%E3%81%95%E3%82%84%E3%81%8F%E3%82%88%E3%81%86%E3%81%AB%E6%81%8B%E3%82%92%E5%94%84%E3%81%86/</link>
+    <link>http://localhost:1313/series/%E3%81%95%E3%81%95%E3%82%84%E3%81%8F%E3%82%88%E3%81%86%E3%81%AB%E6%81%8B%E3%82%92%E5%94%84%E3%81%86/</link>
     <description>Recent content in ささやくように恋を唄う on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Mon, 14 Sep 2020 20:05:53 +0900</lastBuildDate>
-    <atom:link href="https://llxyo.github.io/series/%E3%81%95%E3%81%95%E3%82%84%E3%81%8F%E3%82%88%E3%81%86%E3%81%AB%E6%81%8B%E3%82%92%E5%94%84%E3%81%86/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/series/%E3%81%95%E3%81%95%E3%82%84%E3%81%8F%E3%82%88%E3%81%86%E3%81%AB%E6%81%8B%E3%82%92%E5%94%84%E3%81%86/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「ささやくように恋を唄う 3巻」感想と考察</title>
-      <link>https://llxyo.github.io/post/sasakoi3/</link>
+      <link>http://localhost:1313/post/sasakoi3/</link>
       <pubDate>Mon, 14 Sep 2020 20:05:53 +0900</pubDate>
-      <guid>https://llxyo.github.io/post/sasakoi3/</guid>
+      <guid>http://localhost:1313/post/sasakoi3/</guid>
       <description>1巻から始まって、2巻を経て、遂に3巻でひまりと依のすれ違っていた一目惚れが叶ったことにとにかくほっとした。特にひまりからの恋愛感情のなかった一目惚れを向けられていた依の心境を思うと、ひまりが好きになろうとしてくれることは分かっていながらも気が気でなかっただろうと思うし、依の心が擦り切れるような日々</description>
     </item>
   </channel>

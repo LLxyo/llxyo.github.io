@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ペンギン・ハイウェイ on LLxyo&#39;s Daydreams</title>
-    <link>https://llxyo.github.io/series/%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A4/</link>
+    <link>http://localhost:1313/series/%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A4/</link>
     <description>Recent content in ペンギン・ハイウェイ on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Thu, 08 Sep 2022 16:37:04 +0900</lastBuildDate>
-    <atom:link href="https://llxyo.github.io/series/%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A4/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/series/%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A4/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「ペンギン・ハイウェイ」─少年が大人になる夏─ 感想と考察</title>
-      <link>https://llxyo.github.io/post/penguin_highway/</link>
+      <link>http://localhost:1313/post/penguin_highway/</link>
       <pubDate>Thu, 08 Sep 2022 16:37:04 +0900</pubDate>
-      <guid>https://llxyo.github.io/post/penguin_highway/</guid>
+      <guid>http://localhost:1313/post/penguin_highway/</guid>
       <description>お姉さんがいた。 そのお姉さんは少年にとっての憧れ。だけど、お姉さんは大人で、少年は子ども。 だけど、愛の力はそんな壁なんてものともしない。少年は精いっぱい背伸びする。賢くなってえらくなる。それが「大人」だから。 そんな風に少年が必死に健気にお姉さんを追いかけて、できる限りの背伸びをしてお姉さんに見合うよ</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>埼玉県 on LLxyo&#39;s Daydreams</title>
-    <link>https://llxyo.github.io/genre/%E5%9F%BC%E7%8E%89%E7%9C%8C/</link>
+    <link>http://localhost:1313/genre/%E5%9F%BC%E7%8E%89%E7%9C%8C/</link>
     <description>Recent content in 埼玉県 on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 06 May 2023 10:41:25 +0900</lastBuildDate>
-    <atom:link href="https://llxyo.github.io/genre/%E5%9F%BC%E7%8E%89%E7%9C%8C/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/genre/%E5%9F%BC%E7%8E%89%E7%9C%8C/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>聖地の聖地「らきすた」の鷲宮 巡礼記</title>
-      <link>https://llxyo.github.io/photolog/lucky_star_animetourism/</link>
+      <link>http://localhost:1313/photolog/lucky_star_animetourism/</link>
       <pubDate>Sat, 06 May 2023 10:41:25 +0900</pubDate>
-      <guid>https://llxyo.github.io/photolog/lucky_star_animetourism/</guid>
+      <guid>http://localhost:1313/photolog/lucky_star_animetourism/</guid>
       <description>今回は元祖・聖地巡礼、「らきすた」の埼玉県久喜市鷲宮にやって来ました。 探訪日は2023年5月2日です。 ちなみに、よりもいの聖地巡礼で館林を訪れた後の鷲宮の巡礼でした。久喜駅も鷲宮駅も館林駅も同じ東武鉄道沿線にあるので、一緒に回りやすかったです。 鷲宮駅 まずは鷲宮駅と、その前にある古びた商店。 いきなり雰</description>
     </item>
   </channel>
