@@ -254,6 +254,13 @@ li.post,h2.slidein2{
         margin-top: 1.5rem;
     }
 }
+/**/
+@media screen and (max-width: 66rem)/*PC表示 重なるので45remでなく66rem*/{
+    .readotherpost4{
+        margin-top: 1.5rem;
+    }
+}
+/**/
 .readotherpost2{
     color: #fff;
     width: 21rem;
@@ -278,18 +285,36 @@ li.post,h2.slidein2{
 .readotherpost3 div{
     width: 21rem;
 }
-.readotherpost2 div,.readotherpost3 div{
+/**/
+.readotherpost4{
+    color: #fff;
+    width: 21rem;
+}
+.readotherpost4 h3{
+    color:rgb(171, 239, 182);
+}
+.readotherpost4:hover div{
+    clip-path: polygon(10% 0%, 90% 0%, 100% 50%, 90% 100%, 10% 100%, 0% 50%);
+}
+@media screen and (min-width: 66rem)/*PC表示 重なるので45remでなく66rem*/{
+    .readotherpost4{
+        margin: 0 auto;
+        margin-top: 1.5rem;
+    }
+}
+/**/
+.readotherpost2 div,.readotherpost3 div,.readotherpost4 div{
     text-align: center;
     background-color: #000;
     border-radius: 15px;
     padding-top: 1rem;
     padding-bottom: 1rem;
 }
-.readotherpost2 h3, .readotherpost3 h3{
+.readotherpost2 h3, .readotherpost3 h3, .readotherpost4 h3{
     text-decoration:underline;
     text-decoration-color: #fff;
 }
-.readotherpost2 a p,.readotherpost3 a p{
+.readotherpost2 a p,.readotherpost3 a p,.readotherpost4 a p{
     font-family: 'Noto Serif JP', serif;
     margin-top:0;
     padding-top: 1rem;
