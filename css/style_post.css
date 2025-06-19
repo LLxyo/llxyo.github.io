@@ -108,8 +108,12 @@ h4,h5,h6{
 main p{/*PC表示で本文幅を狭くする*/
     max-width: 42rem;
 }
-.asp_ad{
+/*dアニバナー*/
+.asp_ad img{
     margin-top: 1rem;
+}
+.asp_ad{
+    border-bottom: 0px
 }
 /*目次*/
 .li_toc{
