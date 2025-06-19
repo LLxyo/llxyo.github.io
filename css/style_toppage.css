@@ -320,6 +320,10 @@ li.post,h2.slidein2{
     padding-top: 1rem;
 }
 /*dアニバナー*/
+.danime{
+    margin-top: 1rem;
+    text-align: center;
+} 
 .asp_ad{
     border-bottom: 0px;
 }

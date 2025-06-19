@@ -109,8 +109,9 @@ main p{/*PC表示で本文幅を狭くする*/
     max-width: 42rem;
 }
 /*dアニバナー*/
-.asp_ad img{
+.danime{
     margin-top: 1rem;
+    text-align: center;
 }
 .asp_ad{
     border-bottom: 0px
