@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ゆるキャン△ on LLxyo&#39;s Daydreams</title>
-    <link>http://localhost:1313/series/%E3%82%86%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%B3/</link>
+    <link>https://llxyo.github.io/series/%E3%82%86%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%B3/</link>
     <description>Recent content in ゆるキャン△ on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Thu, 02 Nov 2023 11:09:47 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/series/%E3%82%86%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://llxyo.github.io/series/%E3%82%86%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「ゆるキャン△・シンエヴァ・ガヴドロ」聖地巡礼 in 浜松</title>
-      <link>http://localhost:1313/photolog/hamamatsu_animetourism/</link>
+      <link>https://llxyo.github.io/photolog/hamamatsu_animetourism/</link>
       <pubDate>Thu, 02 Nov 2023 11:09:47 +0900</pubDate>
-      <guid>http://localhost:1313/photolog/hamamatsu_animetourism/</guid>
+      <guid>https://llxyo.github.io/photolog/hamamatsu_animetourism/</guid>
       <description>今回は、浜松で『ゆるキャン』『ガヴリールドロップアウト』『シン・エヴァンゲリオン』の聖地巡礼、というかコラボを巡ってきました。 探訪日は2023年9月14日です。 弁天島海浜公園 『ゆるキャン△』のデカいパネルが。 舞阪町観光協会には、ポスターやガチャガチャが設置されていました。 また、浜松が聖地になっている</description>
     </item>
   </channel>

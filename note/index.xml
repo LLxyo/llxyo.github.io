@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notes on LLxyo&#39;s Daydreams</title>
-    <link>http://localhost:1313/note/</link>
+    <link>https://llxyo.github.io/note/</link>
     <description>Recent content in Notes on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 16 Feb 2025 00:15:51 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/note/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://llxyo.github.io/note/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【新卒・エンタメ就活】アニメ・映画業界の内定をもらうには、ライセンス営業を知ろう！</title>
-      <link>http://localhost:1313/note/jobhunting_animemovie/</link>
+      <link>https://llxyo.github.io/note/jobhunting_animemovie/</link>
       <pubDate>Sun, 16 Feb 2025 00:15:51 +0900</pubDate>
-      <guid>http://localhost:1313/note/jobhunting_animemovie/</guid>
+      <guid>https://llxyo.github.io/note/jobhunting_animemovie/</guid>
       <description>この記事では、新卒でアニメ及び映画の製作会社に就職した立場から、新卒就活で業界を志望するにあたって知っておいた方が良いことを紹介していきます。特に新卒が配属されがちなライセンス営業について、深く解説していきます。なお、私がアニメビジネスへの興味が深く、業界的にもアニメビジネスに勢いがあるという点から</description>
     </item>
     <item>
       <title>東京都内・千葉・神奈川・静岡のおすすめ映画館・スクリーン・座席 IMAX,DOLBY CINEMAなど</title>
-      <link>http://localhost:1313/note/cinema_screen_list_kantou/</link>
+      <link>https://llxyo.github.io/note/cinema_screen_list_kantou/</link>
       <pubDate>Sat, 06 Jul 2024 15:16:12 +0900</pubDate>
-      <guid>http://localhost:1313/note/cinema_screen_list_kantou/</guid>
+      <guid>https://llxyo.github.io/note/cinema_screen_list_kantou/</guid>
       <description>※随時更新中 【東京】 丸の内ピカデリー DOLBY CINEMA H,Iくらいじゃないと高さがきつい スクリーンの下端が1.5mくらい上についていて、F,Gで下端と平行なくらい 前との頭の被りを考えるとF以降が良い、その前は最悪 新宿ピカデリー シアター1 適正I-18 シアター2 適正E＞D シアター8 適正E列 シアター8 適正E列 新宿バルト</description>
     </item>
     <item>
       <title>関西のおすすめ映画館・スクリーン・座席 IMAX,DOLBY CINEMAなど</title>
-      <link>http://localhost:1313/note/cinema_screen_list_kansai/</link>
+      <link>https://llxyo.github.io/note/cinema_screen_list_kansai/</link>
       <pubDate>Tue, 16 Jan 2024 14:35:55 +0900</pubDate>
-      <guid>http://localhost:1313/note/cinema_screen_list_kansai/</guid>
+      <guid>https://llxyo.github.io/note/cinema_screen_list_kansai/</guid>
       <description>筆者が2020年秋から2024年春まで大阪在住だった間に訪れた大阪・京都・兵庫の映画観情報を書き残すための記事。特に各映画館の各シアターのどこの座席が見やすいかということについて。 注意事項 座席配置がフラット・傾斜が緩やか/強いという備考が頻出するが、これは傾斜がフラット・緩やかであると前列に人がいた</description>
     </item>
   </channel>
