@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>サマータイムレンダ on LLxyo&#39;s Daydreams</title>
-    <link>https://llxyo.github.io/series/%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%AC%E3%83%B3%E3%83%80/</link>
+    <link>http://localhost:1313/series/%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%AC%E3%83%B3%E3%83%80/</link>
     <description>Recent content in サマータイムレンダ on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 21 Jul 2024 12:52:54 +0900</lastBuildDate>
-    <atom:link href="https://llxyo.github.io/series/%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%AC%E3%83%B3%E3%83%80/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/series/%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%AC%E3%83%B3%E3%83%80/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「サマータイムレンダ」聖地巡礼 男木島</title>
-      <link>https://llxyo.github.io/photolog/summertimerendering_animetourism/</link>
+      <link>http://localhost:1313/photolog/summertimerendering_animetourism/</link>
       <pubDate>Sun, 21 Jul 2024 12:52:54 +0900</pubDate>
-      <guid>https://llxyo.github.io/photolog/summertimerendering_animetourism/</guid>
+      <guid>http://localhost:1313/photolog/summertimerendering_animetourism/</guid>
       <description>今回は「サマータイムレンダ」の聖地・香川県の男木島を訪れた時のことを振り返っていきます。「サマレン」の聖地といえば、和歌山県なのですが、物語の舞台となる「日都ヶ島」の一部モチーフがこの男木島にもあるとのことでした。巡礼日は2024年2月18日です。 また、今回の「サマレン」聖地巡礼ですが、同じく男木島</description>
     </item>
   </channel>

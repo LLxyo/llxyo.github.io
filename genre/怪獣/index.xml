@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>怪獣 on LLxyo&#39;s Daydreams</title>
-    <link>https://llxyo.github.io/genre/%E6%80%AA%E7%8D%A3/</link>
+    <link>http://localhost:1313/genre/%E6%80%AA%E7%8D%A3/</link>
     <description>Recent content in 怪獣 on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Thu, 18 Nov 2021 17:34:48 +0900</lastBuildDate>
-    <atom:link href="https://llxyo.github.io/genre/%E6%80%AA%E7%8D%A3/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/genre/%E6%80%AA%E7%8D%A3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「シン・ゴジラ」─日本という日常の崩壊と真価─ 感想と考察</title>
-      <link>https://llxyo.github.io/post/shin_godzilla/</link>
+      <link>http://localhost:1313/post/shin_godzilla/</link>
       <pubDate>Thu, 18 Nov 2021 17:34:48 +0900</pubDate>
-      <guid>https://llxyo.github.io/post/shin_godzilla/</guid>
+      <guid>http://localhost:1313/post/shin_godzilla/</guid>
       <description>本物の現実の崩壊 その圧倒的な異物によって、日常の風景が世界があっと言う間に崩れて去っていく光景には恐怖なのか、悲しみなのかその理由すらもわからない涙が湧き上がってくる。 保守的な文書主義と保身的な政治によってがんじがらめなその国は、余りに私たちの生きる日本という名の国家とそっくりであった。ヒロイックな</description>
     </item>
     <item>
       <title>「平成ガメラ3部作」─人類にとってのガメラ─ 感想と考察</title>
-      <link>https://llxyo.github.io/post/heisei_gamera/</link>
+      <link>http://localhost:1313/post/heisei_gamera/</link>
       <pubDate>Sat, 24 Jul 2021 00:18:32 +0900</pubDate>
-      <guid>https://llxyo.github.io/post/heisei_gamera/</guid>
+      <guid>http://localhost:1313/post/heisei_gamera/</guid>
       <description>ガメラ 大怪獣空中決戦 人類の身勝手な自然利用や環境破壊という今の現実と、それが人類の手に負えないものとなり結果的に自滅を招く行く末としてかつて存在した古代文明にとってそうであったギャオスが描かれた。 ガメラ2 レギオン襲来 通信を麻痺させて通信機器を持つ人を襲うレギオンを通じて、発達した都市文明における情報</description>
     </item>
     <item>
       <title>「ガメラ3 邪神覚醒」─少女と怪物の禁忌のまぐわい─ 感想と考察</title>
-      <link>https://llxyo.github.io/post/gamera3/</link>
+      <link>http://localhost:1313/post/gamera3/</link>
       <pubDate>Fri, 23 Jul 2021 21:20:00 +0900</pubDate>
-      <guid>https://llxyo.github.io/post/gamera3/</guid>
+      <guid>http://localhost:1313/post/gamera3/</guid>
       <description>少女と怪物 ガメラを憎む少女とガメラの宿敵であるギャオスの変異体であるイリス。 南明日香村に眠るそのイリスを孵化させてしまった比良坂彩奈とイリスの間には特別な繋がりが芽生えていた。さらに、イリスは綾奈と融合しようと彼女を取り込もうとする。 綾奈はイリスから引き離されるが、彩奈の遺伝子をイリスが取り込み、2</description>
     </item>
   </channel>

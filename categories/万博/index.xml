@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>万博 on LLxyo&#39;s Daydreams</title>
-    <link>https://llxyo.github.io/categories/%E4%B8%87%E5%8D%9A/</link>
+    <link>http://localhost:1313/categories/%E4%B8%87%E5%8D%9A/</link>
     <description>Recent content in 万博 on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 15 Jun 2025 23:43:00 +0900</lastBuildDate>
-    <atom:link href="https://llxyo.github.io/categories/%E4%B8%87%E5%8D%9A/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/%E4%B8%87%E5%8D%9A/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>大阪・関西万博ルポ</title>
-      <link>https://llxyo.github.io/photolog/expo2025/</link>
+      <link>http://localhost:1313/photolog/expo2025/</link>
       <pubDate>Sun, 15 Jun 2025 23:43:00 +0900</pubDate>
-      <guid>https://llxyo.github.io/photolog/expo2025/</guid>
+      <guid>http://localhost:1313/photolog/expo2025/</guid>
       <description>6/8に大阪・関西万博に行ってきたので、そのルポです。 会場まで 夜行バスで行きました。 関東からUSJ、そこから徒歩でユニバーサルシティ駅へ、そしてJRゆめ咲線で隣の桜島駅へ。 桜島駅では臨時改札が設けられていて、改札外すぐに万博会場行きのシャトルバスターミナルが設置されていました。08:10頃に事前予約</description>
     </item>
   </channel>

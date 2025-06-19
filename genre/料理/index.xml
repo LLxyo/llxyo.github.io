@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>料理 on LLxyo&#39;s Daydreams</title>
-    <link>https://llxyo.github.io/genre/%E6%96%99%E7%90%86/</link>
+    <link>http://localhost:1313/genre/%E6%96%99%E7%90%86/</link>
     <description>Recent content in 料理 on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Fri, 10 Nov 2023 16:05:56 +0900</lastBuildDate>
-    <atom:link href="https://llxyo.github.io/genre/%E6%96%99%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/genre/%E6%96%99%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「駒田蒸留所へようこそ」─琉生さんからの2つのメッセージ─ 感想と考察</title>
-      <link>https://llxyo.github.io/post/komada/</link>
+      <link>http://localhost:1313/post/komada/</link>
       <pubDate>Fri, 10 Nov 2023 16:05:56 +0900</pubDate>
-      <guid>https://llxyo.github.io/post/komada/</guid>
+      <guid>http://localhost:1313/post/komada/</guid>
       <description>今を寝かせて、過去を未来へと届ける この蒸留所を描いた物語の中において、ウイスキー作りが示すメッセージというのは、「過去から未来へと、思いを繋いでいくこと」なんだと思う。 それは、冒頭でニュースバリューの光太郎に向けて、琉生が「少なくとも3年寝かさなければいけないんです。だから、今作っているのは未来のた</description>
     </item>
     <item>
       <title>「であいもん」─あなたがいるから、私は涙を流せる─ 感想と考察</title>
-      <link>https://llxyo.github.io/post/deaimon/</link>
+      <link>http://localhost:1313/post/deaimon/</link>
       <pubDate>Sat, 30 Jul 2022 18:36:56 +0900</pubDate>
-      <guid>https://llxyo.github.io/post/deaimon/</guid>
+      <guid>http://localhost:1313/post/deaimon/</guid>
       <description>自分の居場所に気づく物語 自分の居場所に「気付く」ことと「見つける」ことは似ているようで異なることだと思う。一果は幼い頃に父親に半ば捨てられた形で緑松に預けられた。緑松ではみんな暖かく迎え入れてくれたし、みんな娘や孫のように接してくれる。だけど、本当は緑松は縁もゆかりもない場所で、一果にとってはやっぱ</description>
     </item>
   </channel>

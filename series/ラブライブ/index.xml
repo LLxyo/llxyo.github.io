@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ラブライブ on LLxyo&#39;s Daydreams</title>
-    <link>https://llxyo.github.io/series/%E3%83%A9%E3%83%96%E3%83%A9%E3%82%A4%E3%83%96/</link>
+    <link>http://localhost:1313/series/%E3%83%A9%E3%83%96%E3%83%A9%E3%82%A4%E3%83%96/</link>
     <description>Recent content in ラブライブ on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 06 May 2023 10:41:52 +0900</lastBuildDate>
-    <atom:link href="https://llxyo.github.io/series/%E3%83%A9%E3%83%96%E3%83%A9%E3%82%A4%E3%83%96/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/series/%E3%83%A9%E3%83%96%E3%83%A9%E3%82%A4%E3%83%96/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>閉店前に「成田アニメデッキ」を見送ってきた話</title>
-      <link>https://llxyo.github.io/photolog/narita_animedeck/</link>
+      <link>http://localhost:1313/photolog/narita_animedeck/</link>
       <pubDate>Sat, 06 May 2023 10:41:52 +0900</pubDate>
-      <guid>https://llxyo.github.io/photolog/narita_animedeck/</guid>
+      <guid>http://localhost:1313/photolog/narita_animedeck/</guid>
       <description>今回は日本のアニメとアニメ聖地の国内外に向けた発信拠点である「成田アニメデッキ」に行ってきました。 主にKADOKAWAが運営・企画するこの施設ですが、東京オリンピックを見据えて2019年にオープンしたものの、コロナ禍で完全に計画が失敗。そして、2023年6月30日で閉店予定となってしまったため、今回</description>
     </item>
     <item>
       <title>「ラブライブ!虹ヶ咲2期」─ステージの上にあなたを連れて行くトキメキ─ 感想と考察</title>
-      <link>https://llxyo.github.io/post/lovelive_nizigasaki/</link>
+      <link>http://localhost:1313/post/lovelive_nizigasaki/</link>
       <pubDate>Sun, 31 Jul 2022 14:23:23 +0900</pubDate>
-      <guid>https://llxyo.github.io/post/lovelive_nizigasaki/</guid>
+      <guid>http://localhost:1313/post/lovelive_nizigasaki/</guid>
       <description>自分が主役になるなんて考えたこともなかった。そんなあなたがトキメキに魅せられて、輝くそれに手を伸ばしてもいいんだよと勇気と情熱をくれる。虹ヶ咲学園スクールアイドル同好会の物語の後半を表すには、まさにそんな言葉がぴったりだと思う。 そして、彼女たちの生き様に胸を打ち震わされて流した涙の向こうには七色の光</description>
     </item>
     <item>
       <title>「ラブライブ!」─μ´ｓの輝きと儚さ─ 感想　</title>
-      <link>https://llxyo.github.io/post/lovelive/</link>
+      <link>http://localhost:1313/post/lovelive/</link>
       <pubDate>Mon, 07 Jun 2021 17:53:56 +0900</pubDate>
-      <guid>https://llxyo.github.io/post/lovelive/</guid>
+      <guid>http://localhost:1313/post/lovelive/</guid>
       <description>今更ラブライブ!シリーズのアニメを全部見た。 もちろん今までラブライブ! を知らないなんてことはなかったけれど、なかなかまともにコンテンツに触れる機会がなかった。そして遂にシリーズ9周年の2020年の秋クールに放送されたアニガサキでようやくラブライブ!に初めてまともに触れてからは他のシリーズにも触れる機</description>
     </item>
     <item>
       <title>「ラブライブサンシャイン」あわしまマリンパークに行こうとしたら、うっかり聖地を巡礼していた話</title>
-      <link>https://llxyo.github.io/photolog/trip_in_uchiura_awashima/</link>
+      <link>http://localhost:1313/photolog/trip_in_uchiura_awashima/</link>
       <pubDate>Sun, 21 Mar 2021 14:27:22 +0900</pubDate>
-      <guid>https://llxyo.github.io/photolog/trip_in_uchiura_awashima/</guid>
+      <guid>http://localhost:1313/photolog/trip_in_uchiura_awashima/</guid>
       <description>淡島 あわしま連絡船 水族館 淡島うみねちゃんをすこれ ずら丸誕生日セクション カエル館 ここが、あの果南のハウスね... 淡島神社 めっちゃ登るし、めっちゃ急登 船着場 内浦 三の浦総合案内所 伊豆キャン編で聖地のゆるキャン△ 完全にラブライブに埋もれている... 東海バス 伊豆長岡駅</description>
     </item>
   </channel>
