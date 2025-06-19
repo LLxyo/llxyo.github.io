@@ -108,6 +108,9 @@ h4,h5,h6{
 main p{/*PC表示で本文幅を狭くする*/
     max-width: 42rem;
 }
+.asp_ad{
+    margin-top: 1rem;
+}
 /*目次*/
 .li_toc{
     margin-top: 0.5rem;
