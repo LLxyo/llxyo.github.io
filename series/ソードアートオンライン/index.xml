@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ソードアート・オンライン on LLxyo&#39;s Daydreams</title>
+    <title>ソードアートオンライン on LLxyo&#39;s Daydreams</title>
     <link>https://llxyo.github.io/series/%E3%82%BD%E3%83%BC%E3%83%89%E3%82%A2%E3%83%BC%E3%83%88%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3/</link>
-    <description>Recent content in ソードアート・オンライン on LLxyo&#39;s Daydreams</description>
+    <description>Recent content in ソードアートオンライン on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 27 Oct 2022 21:33:18 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 06 May 2023 10:41:52 +0900</lastBuildDate>
     <atom:link href="https://llxyo.github.io/series/%E3%82%BD%E3%83%BC%E3%83%89%E3%82%A2%E3%83%BC%E3%83%88%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>「SAO プログレッシブ 冥き夕闇のスケルツォ」─アスナとミト、別れと新たな道─ 感想と考察</title>
-      <link>https://llxyo.github.io/post/saop_scherzo/</link>
-      <pubDate>Thu, 27 Oct 2022 21:33:18 +0900</pubDate>
-      <guid>https://llxyo.github.io/post/saop_scherzo/</guid>
-      <description>燻る彼女への想い 第二章が始まって早々にアスナさんがレイピアをモンスター、そしてプレイヤーキラーに奪われる展開にSAOにトラブルは付きものだなぁと改めて思うばかりだったけれど、この「冥き夕闇のスケルツォ」を一度見た後にこの顛末を思い出すと、また違った印象を感じる。 このレイピアは元はミトから貰ったフルー</description>
-    </item>
-    <item>
-      <title>「SAO オーディナル・スケール」─彼女の歌声は永遠に刻まれる─ 感想と考察</title>
-      <link>https://llxyo.github.io/post/sao_os/</link>
-      <pubDate>Sat, 05 Feb 2022 01:14:00 +0900</pubDate>
-      <guid>https://llxyo.github.io/post/sao_os/</guid>
-      <description>SAO事件から4年を経た2026年、人々の間ではARに特化した新たな次世代ウェアラブル・マルチデバイス≪オーグマー≫とが人気を得ていた。 ≪ナーヴギア≫の後継デバイスの位置を継ぐ≪オーグマー≫とその専用ARMMO RPG≪オーディナル・スケール≫にはかつて多くの人の命を奪ったデスゲーム、SAO≪ソードア</description>
+      <title>閉店前に「成田アニメデッキ」を見送ってきた話</title>
+      <link>https://llxyo.github.io/photolog/narita_animedeck/</link>
+      <pubDate>Sat, 06 May 2023 10:41:52 +0900</pubDate>
+      <guid>https://llxyo.github.io/photolog/narita_animedeck/</guid>
+      <description>今回は日本のアニメとアニメ聖地の国内外に向けた発信拠点である「成田アニメデッキ」に行ってきました。 主にKADOKAWAが運営・企画するこの施設ですが、東京オリンピックを見据えて2019年にオープンしたものの、コロナ禍で完全に計画が失敗。そして、2023年6月30日で閉店予定となってしまったため、今回</description>
     </item>
   </channel>
 </rss>
