@@ -259,6 +259,15 @@ a.pagination__link{
     color: #3f7bd4;
 }
 
+/*dアニバナー*/
+.docomo_affiriate{
+    margin-top: 1rem;
+    text-align: center;
+}
+.asp_ad{
+    border-bottom: 0px
+}
+
 /*DMMTVバナー*/
 @media screen and (max-width: 910px){
     .dmmtv_large{
