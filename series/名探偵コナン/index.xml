@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>名探偵コナン on LLxyo&#39;s Daydreams</title>
-    <link>https://llxyo.github.io/series/%E5%90%8D%E6%8E%A2%E5%81%B5%E3%82%B3%E3%83%8A%E3%83%B3/</link>
+    <link>http://localhost:1313/series/%E5%90%8D%E6%8E%A2%E5%81%B5%E3%82%B3%E3%83%8A%E3%83%B3/</link>
     <description>Recent content in 名探偵コナン on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 06 May 2023 10:41:52 +0900</lastBuildDate>
-    <atom:link href="https://llxyo.github.io/series/%E5%90%8D%E6%8E%A2%E5%81%B5%E3%82%B3%E3%83%8A%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/series/%E5%90%8D%E6%8E%A2%E5%81%B5%E3%82%B3%E3%83%8A%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>閉店前に「成田アニメデッキ」を見送ってきた話</title>
-      <link>https://llxyo.github.io/photolog/narita_animedeck/</link>
+      <link>http://localhost:1313/photolog/narita_animedeck/</link>
       <pubDate>Sat, 06 May 2023 10:41:52 +0900</pubDate>
-      <guid>https://llxyo.github.io/photolog/narita_animedeck/</guid>
+      <guid>http://localhost:1313/photolog/narita_animedeck/</guid>
       <description>今回は日本のアニメとアニメ聖地の国内外に向けた発信拠点である「成田アニメデッキ」に行ってきました。 主にKADOKAWAが運営・企画するこの施設ですが、東京オリンピックを見据えて2019年にオープンしたものの、コロナ禍で完全に計画が失敗。そして、2023年6月30日で閉店予定となってしまったため、今回</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>時光代理人 on LLxyo&#39;s Daydreams</title>
-    <link>https://llxyo.github.io/series/%E6%99%82%E5%85%89%E4%BB%A3%E7%90%86%E4%BA%BA/</link>
+    <link>http://localhost:1313/series/%E6%99%82%E5%85%89%E4%BB%A3%E7%90%86%E4%BA%BA/</link>
     <description>Recent content in 時光代理人 on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 02 Apr 2022 16:23:34 +0900</lastBuildDate>
-    <atom:link href="https://llxyo.github.io/series/%E6%99%82%E5%85%89%E4%BB%A3%E7%90%86%E4%BA%BA/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/series/%E6%99%82%E5%85%89%E4%BB%A3%E7%90%86%E4%BA%BA/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「時光代理人-LINK CLICK-」─中国アニメの本気と衝撃─ 感想と考察</title>
-      <link>https://llxyo.github.io/post/linkclick/</link>
+      <link>http://localhost:1313/post/linkclick/</link>
       <pubDate>Sat, 02 Apr 2022 16:23:34 +0900</pubDate>
-      <guid>https://llxyo.github.io/post/linkclick/</guid>
+      <guid>http://localhost:1313/post/linkclick/</guid>
       <description>LINK CLICK 繁華街の一角に佇む「時光写真館」。 そのさびれたドアの奥には、特殊な能力を持った２人の男がいた——。 写真館を経営するのはトキ(程小時)とヒカル(陸光)。 トキの幼馴染・リン(喬苓)を通じて顧客から舞い込む依頼を遂行すべく、「撮影者の意識にリンクし、写真の世界に入ることができる能力」を持つトキと、「そ</description>
     </item>
   </channel>

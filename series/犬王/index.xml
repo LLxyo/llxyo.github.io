@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>犬王 on LLxyo&#39;s Daydreams</title>
-    <link>https://llxyo.github.io/series/%E7%8A%AC%E7%8E%8B/</link>
+    <link>http://localhost:1313/series/%E7%8A%AC%E7%8E%8B/</link>
     <description>Recent content in 犬王 on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 03 Aug 2022 19:00:31 +0900</lastBuildDate>
-    <atom:link href="https://llxyo.github.io/series/%E7%8A%AC%E7%8E%8B/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/series/%E7%8A%AC%E7%8E%8B/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「犬王」─魂の叫びは、友有の存在証明─ 感想と考察</title>
-      <link>https://llxyo.github.io/post/inu_oh/</link>
+      <link>http://localhost:1313/post/inu_oh/</link>
       <pubDate>Wed, 03 Aug 2022 19:00:31 +0900</pubDate>
-      <guid>https://llxyo.github.io/post/inu_oh/</guid>
+      <guid>http://localhost:1313/post/inu_oh/</guid>
       <description>今は昔、奪われて失われた者たちの物語 犬王と友有は無念のうちに終えた平家の物語を歌うことで、彼らの存在を再び世に示し成仏させていった。 そして、足利義満によって亡き者にされた友有と自らを封じざるを得なかった犬王。この歴史の上からその存在をかき消され、忘れ去られてしまった2人が確かに存在し一世を風靡したこ</description>
     </item>
   </channel>

@@ -1,13 +1,13 @@
 /* Fonts *
 @font-face {
     font-family: 'Noto Serif JP', serif;
-    src: url('https://llxyo.github.io/css/fonts/Noto_Serif_JP/NotoSerifJP-Black.woff2') format('woff2'),
-    url('https://llxyo.github.io/css/fonts/Noto_Serif_JP/NotoSerifJP-Bold.woff2') format('woff2'),
-    url('https://llxyo.github.io/css/fonts/Noto_Serif_JP/NotoSerifJP-ExtraLight.woff2') format('woff2'),
-    url('https://llxyo.github.io/css/fonts/Noto_Serif_JP/NotoSerifJP-Light.woff2') format('woff2'),
-    url('https://llxyo.github.io/css/fonts/Noto_Serif_JP/NotoSerifJP-Medium.woff2') format('woff2'),
-    url('https://llxyo.github.io/css/fonts/Noto_Serif_JP/NotoSerifJP-Regular.woff2') format('woff2'),
-    url('https://llxyo.github.io/css/fonts/Noto_Serif_JP/NotoSerifJP-SemiBold.woff2') format('woff2');
+    src: url('http://localhost:1313/css/fonts/Noto_Serif_JP/NotoSerifJP-Black.woff2') format('woff2'),
+    url('http://localhost:1313/css/fonts/Noto_Serif_JP/NotoSerifJP-Bold.woff2') format('woff2'),
+    url('http://localhost:1313/css/fonts/Noto_Serif_JP/NotoSerifJP-ExtraLight.woff2') format('woff2'),
+    url('http://localhost:1313/css/fonts/Noto_Serif_JP/NotoSerifJP-Light.woff2') format('woff2'),
+    url('http://localhost:1313/css/fonts/Noto_Serif_JP/NotoSerifJP-Medium.woff2') format('woff2'),
+    url('http://localhost:1313/css/fonts/Noto_Serif_JP/NotoSerifJP-Regular.woff2') format('woff2'),
+    url('http://localhost:1313/css/fonts/Noto_Serif_JP/NotoSerifJP-SemiBold.woff2') format('woff2');
     font-display: swap;
     font-weight: 500;
     font-style: normal;
@@ -350,6 +350,32 @@ caption {
 .patterns {
   flex: 1 1 auto;
 }
+@media screen and (max-width: 45rem){
+    #patterns-nav{
+        position: fixed;
+        padding: 0.5rem 1rem 0.5rem 1rem;
+        top: 0;
+        left: 0;  
+        z-index: 1;
+        width: 100%;
+        background-color: #111;
+    }
+    .pattern{
+        background-color: #fefefe;
+    }
+    .logo_m_div{
+        position: fixed !important;
+        padding: 0.5rem 1rem 0 1rem;
+        top: 0;
+        right: 0;  
+        z-index: 2;
+    }
+    .intro_m{
+       z-index: 0;
+       padding-top: 2.5rem;
+       margin-bottom: -4rem  !important;
+    }
+}
 /*ブログタイトル*/
 .logo {
     border: 0;
@@ -387,7 +413,7 @@ caption {
         justify-content: center;
         align-items: center;
         text-align: center;
-        z-index: 0;
+        /*z-index: 0;*/
     }
 }
 /*コンセプトテキスト*/
@@ -546,7 +572,6 @@ li.pattern a{
     margin-right: 0;
     width: 15%;
 }
-
 /******スライドメニュー*******/
 @media screen and (min-width:45rem) {
     .nav_mobile{
@@ -703,7 +728,7 @@ li.pattern a{
 @media screen and (max-width: 45rem){/*スマホviaでカラム幅を広げるが、関連記事だけは除く*/
     .main-and-footer > div > #main {
         margin: 0 auto;
-        padding-top: 3rem;
+        padding-top: 5rem;
         width: 90%;
     }
 }
@@ -822,7 +847,7 @@ li{/*リストの点を削除*/
 }
 .note.warning {
     border-left: 0;
-    background-image: url('https://llxyo.github.io/css/images/stripe.svg');
+    background-image: url('http://localhost:1313/css/images/stripe.svg');
     background-size: 0.5rem auto;
     background-repeat: repeat-y;
 }
@@ -841,7 +866,7 @@ li{/*リストの点を削除*/
     width: 1rem;
     height: 1rem;
     margin-right: 0.25rem;
-    background-image: url('https://llxyo.github.io/css/images/icon-tick.svg');
+    background-image: url('http://localhost:1313/css/images/icon-tick.svg');
     background-size: 100% auto;
     position: absolute;
     left: -1.25rem;
@@ -1250,6 +1275,7 @@ h2 svg {
     }
     #patterns-list {
       margin-top: 0.5rem;
+      margin-bottom: 0.5rem;
       border: 1px solid;
     }
     .patterns h3 {

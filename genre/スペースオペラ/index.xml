@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>スペースオペラ on LLxyo&#39;s Daydreams</title>
-    <link>https://llxyo.github.io/genre/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%AA%E3%83%9A%E3%83%A9/</link>
+    <link>http://localhost:1313/genre/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%AA%E3%83%9A%E3%83%A9/</link>
     <description>Recent content in スペースオペラ on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 02 Jul 2023 23:18:10 +0900</lastBuildDate>
-    <atom:link href="https://llxyo.github.io/genre/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%AA%E3%83%9A%E3%83%A9/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/genre/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%AA%E3%83%9A%E3%83%A9/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「ガンダム 水星の魔女」─同じ宙の下、共に祝福される道─ 感想と考察</title>
-      <link>https://llxyo.github.io/post/g-witch/</link>
+      <link>http://localhost:1313/post/g-witch/</link>
       <pubDate>Sun, 02 Jul 2023 23:18:10 +0900</pubDate>
-      <guid>https://llxyo.github.io/post/g-witch/</guid>
+      <guid>http://localhost:1313/post/g-witch/</guid>
       <description>「水星の魔女」が示した現代の革命 この水星の魔女は「理想だけではなく現実を受け止めながら、当事者として世界に関わっていけるように&amp;hellip;」というニカやスレッタを中心とした軸と、「共に手を取り合うことでこそ、祝福や平和を得られる」という登場人物全員を巻き込んでいた軸があったように思う。その軸は1</description>
     </item>
   </channel>
