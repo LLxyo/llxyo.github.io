@@ -351,12 +351,15 @@ caption {
   flex: 1 1 auto;
 }
 @media screen and (max-width: 45rem){
+    #menu-button{
+        z-index: 9999 !important;
+    }
     #patterns-nav{
         position: fixed;
         padding: 0.5rem 1rem 0.5rem 1rem;
         top: 0;
         left: 0;  
-        z-index: 9999;
+        z-index: 20;
         width: 100%;
         background-color: #111;
     }
@@ -368,7 +371,7 @@ caption {
         padding: 0.5rem 1rem 0 0;
         top: 0;
         right: 0;  
-        z-index: 10000;
+        z-index: 21;
     }
     .intro_m{
        z-index: 0;
@@ -582,9 +585,9 @@ li.pattern a{
 @media screen and (max-width:45rem) {/*1*/
     #menu-button{
         margin-top: 0 !important;
-        width: 25%;
+        width: 15%;
         text-align: center;
-        z-index: 10;
+        z-index: 99999;
     }
     #menu-button:focus{
         outline: none;
