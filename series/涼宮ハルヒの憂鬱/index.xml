@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>涼宮ハルヒの憂鬱 on LLxyo&#39;s Daydreams</title>
-    <link>http://localhost:1313/series/%E6%B6%BC%E5%AE%AE%E3%83%8F%E3%83%AB%E3%83%92%E3%81%AE%E6%86%82%E9%AC%B1/</link>
+    <link>https://llxyo.github.io/series/%E6%B6%BC%E5%AE%AE%E3%83%8F%E3%83%AB%E3%83%92%E3%81%AE%E6%86%82%E9%AC%B1/</link>
     <description>Recent content in 涼宮ハルヒの憂鬱 on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 03 May 2023 13:53:53 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/series/%E6%B6%BC%E5%AE%AE%E3%83%8F%E3%83%AB%E3%83%92%E3%81%AE%E6%86%82%E9%AC%B1/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://llxyo.github.io/series/%E6%B6%BC%E5%AE%AE%E3%83%8F%E3%83%AB%E3%83%92%E3%81%AE%E6%86%82%E9%AC%B1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「涼宮ハルヒの消失」─長門とキョンが示した愉快な日常セカイ─ 感想と考察</title>
-      <link>http://localhost:1313/post/haruhi_shoshitsu/</link>
+      <link>https://llxyo.github.io/post/haruhi_shoshitsu/</link>
       <pubDate>Wed, 03 May 2023 13:53:53 +0900</pubDate>
-      <guid>http://localhost:1313/post/haruhi_shoshitsu/</guid>
+      <guid>https://llxyo.github.io/post/haruhi_shoshitsu/</guid>
       <description>長門とキョンが教えてくれたのは、何の変哲もないこの日常こそが、一瞬一瞬を噛みしめなければいけない非日常なんだということだったように思う。 非日常な日常は日常だけど非日常 クリスマスを目前としたキョンの日常は、今日も非日常だった。ハルヒがクリスマスパーティーをSOS団部室で行う！と宣言して、団員たちはそれ</description>
     </item>
   </channel>

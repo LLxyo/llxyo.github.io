@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>マギアレコード on LLxyo&#39;s Daydreams</title>
-    <link>http://localhost:1313/series/%E3%83%9E%E3%82%AE%E3%82%A2%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89/</link>
+    <link>https://llxyo.github.io/series/%E3%83%9E%E3%82%AE%E3%82%A2%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89/</link>
     <description>Recent content in マギアレコード on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Tue, 26 Apr 2022 23:38:31 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/series/%E3%83%9E%E3%82%AE%E3%82%A2%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://llxyo.github.io/series/%E3%83%9E%E3%82%AE%E3%82%A2%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「マギアレコード 3期 Final Season」─魔法少女は正義になれない─ 感想と考察</title>
-      <link>http://localhost:1313/post/magiarecord/</link>
+      <link>https://llxyo.github.io/post/magiarecord/</link>
       <pubDate>Tue, 26 Apr 2022 23:38:31 +0900</pubDate>
-      <guid>http://localhost:1313/post/magiarecord/</guid>
+      <guid>https://llxyo.github.io/post/magiarecord/</guid>
       <description>弱者は救えない、救われない 最終章「浅き夢の暁」・第1話で明かされた灯花とねむの過去、そして第2話で刻みつけられる魔法少女という存在の儚さ。 まどかみたいな奇跡の存在にはなれない灯花やねむには、自己犠牲だけでは全てを救うことなんてできやしなかった。いろはを救おうとした灯花とねむは、いろはを救えないどころ</description>
     </item>
   </channel>

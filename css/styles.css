@@ -1,13 +1,13 @@
 /* Fonts *
 @font-face {
     font-family: 'Noto Serif JP', serif;
-    src: url('http://localhost:1313/css/fonts/Noto_Serif_JP/NotoSerifJP-Black.woff2') format('woff2'),
-    url('http://localhost:1313/css/fonts/Noto_Serif_JP/NotoSerifJP-Bold.woff2') format('woff2'),
-    url('http://localhost:1313/css/fonts/Noto_Serif_JP/NotoSerifJP-ExtraLight.woff2') format('woff2'),
-    url('http://localhost:1313/css/fonts/Noto_Serif_JP/NotoSerifJP-Light.woff2') format('woff2'),
-    url('http://localhost:1313/css/fonts/Noto_Serif_JP/NotoSerifJP-Medium.woff2') format('woff2'),
-    url('http://localhost:1313/css/fonts/Noto_Serif_JP/NotoSerifJP-Regular.woff2') format('woff2'),
-    url('http://localhost:1313/css/fonts/Noto_Serif_JP/NotoSerifJP-SemiBold.woff2') format('woff2');
+    src: url('https://llxyo.github.io/css/fonts/Noto_Serif_JP/NotoSerifJP-Black.woff2') format('woff2'),
+    url('https://llxyo.github.io/css/fonts/Noto_Serif_JP/NotoSerifJP-Bold.woff2') format('woff2'),
+    url('https://llxyo.github.io/css/fonts/Noto_Serif_JP/NotoSerifJP-ExtraLight.woff2') format('woff2'),
+    url('https://llxyo.github.io/css/fonts/Noto_Serif_JP/NotoSerifJP-Light.woff2') format('woff2'),
+    url('https://llxyo.github.io/css/fonts/Noto_Serif_JP/NotoSerifJP-Medium.woff2') format('woff2'),
+    url('https://llxyo.github.io/css/fonts/Noto_Serif_JP/NotoSerifJP-Regular.woff2') format('woff2'),
+    url('https://llxyo.github.io/css/fonts/Noto_Serif_JP/NotoSerifJP-SemiBold.woff2') format('woff2');
     font-display: swap;
     font-weight: 500;
     font-style: normal;
@@ -847,7 +847,7 @@ li{/*リストの点を削除*/
 }
 .note.warning {
     border-left: 0;
-    background-image: url('http://localhost:1313/css/images/stripe.svg');
+    background-image: url('https://llxyo.github.io/css/images/stripe.svg');
     background-size: 0.5rem auto;
     background-repeat: repeat-y;
 }
@@ -866,7 +866,7 @@ li{/*リストの点を削除*/
     width: 1rem;
     height: 1rem;
     margin-right: 0.25rem;
-    background-image: url('http://localhost:1313/css/images/icon-tick.svg');
+    background-image: url('https://llxyo.github.io/css/images/icon-tick.svg');
     background-size: 100% auto;
     position: absolute;
     left: -1.25rem;

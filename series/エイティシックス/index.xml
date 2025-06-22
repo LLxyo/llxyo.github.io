@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>エイティシックス on LLxyo&#39;s Daydreams</title>
-    <link>http://localhost:1313/series/%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%82%B7%E3%83%83%E3%82%AF%E3%82%B9/</link>
+    <link>https://llxyo.github.io/series/%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%82%B7%E3%83%83%E3%82%AF%E3%82%B9/</link>
     <description>Recent content in エイティシックス on LLxyo&#39;s Daydreams</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja</language>
     <lastBuildDate>Tue, 26 Apr 2022 22:58:20 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/series/%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%82%B7%E3%83%83%E3%82%AF%E3%82%B9/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://llxyo.github.io/series/%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%82%B7%E3%83%83%E3%82%AF%E3%82%B9/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「86-エイティシックス-」─孤独の自己犠牲と自己嫌悪─ 感想と考察</title>
-      <link>http://localhost:1313/post/eightysix/</link>
+      <link>https://llxyo.github.io/post/eightysix/</link>
       <pubDate>Tue, 26 Apr 2022 22:58:20 +0900</pubDate>
-      <guid>http://localhost:1313/post/eightysix/</guid>
+      <guid>https://llxyo.github.io/post/eightysix/</guid>
       <description>虐げられし者の倫理 満ち足りた者からの慈悲はエイティシックスの倫理観や信念には受け入れられないというジレンマに苛まされ続ける物語だった。 誰かの犠牲の上に立ちながら銃後でのうのうと生きて、最前線での無数の死に無自覚でいることを許せないエイティシックスたちの正義もわかる。わかるけれど、その信念に完全に共感</description>
     </item>
   </channel>
