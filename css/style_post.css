@@ -367,9 +367,10 @@ h2 + input + label + div, h3 + #popup + .img_post, h4 +.img_post{
 }
 
 /*Google Mapの埋め込み*/
-.google_map{
-    max-width:420px!important;
-    height: 300px!important;
+.googlemap{
+    width: 100% !important;
+    max-width: 600px !important;
+    height: 300px !important;
 }
 /*下部のタグ一覧*/
 .informations_under{
